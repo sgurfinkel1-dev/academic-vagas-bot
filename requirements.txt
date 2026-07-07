@@ -1,0 +1,7 @@
+httpx
+beautifulsoup4
+lxml
+pyyaml
+pandas
+streamlit
+pdfplumber

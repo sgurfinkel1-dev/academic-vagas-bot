@@ -1,0 +1,80 @@
+usuario:
+  areas:
+    - Direito
+    - Inteligência Artificial
+  tipos_vaga:
+    - professor
+    - pesquisador
+    - pós-doutorado
+  instituicoes:
+    - publica_federal
+    - publica_estadual
+    - publica_municipal
+    - privada
+  estados:
+    - SP
+    - RJ
+    - MG
+  modalidade: indiferente
+  titulacao: indiferente
+  incluir_vencidas: false
+  alerta:
+    canal: telegram        # telegram | discord | email | nenhum
+    frequencia: diaria
+
+busca:
+  dias_retroativos: 30
+  max_resultados_por_fonte: 100
+  confirmar_em_fonte_oficial: true
+  baixar_pdfs: false
+
+fontes:
+  dou: true
+  querido_diario: true
+  fapesp: true
+  universidades_publicas: true
+  universidades_privadas: false   # ponytail: exige scraping por instituição; ligue e preencha URLs
+  busca_aberta: false  # ponytail: Bing/DDG servem captcha a scrapers; ligue só se plugar uma API de busca (ex.: SerpAPI free tier)
+
+termos_base:
+  - "professor substituto"
+  - "professor efetivo"
+  - "concurso docente"
+  - "processo seletivo docente"
+  - "professor visitante"
+  - "professor colaborador"
+  - "pesquisador bolsista"
+  - "bolsa de pós-doutorado"
+  - "pós-doutorado"
+  - "postdoctoral fellowship"
+  - "edital professor"
+  - "processo seletivo professor"
+
+# páginas oficiais de concursos varridas pelo módulo universidades_publicas
+paginas_concursos:
+  - nome: UFRJ
+    url: https://concursos.pr4.ufrj.br/
+  - nome: UFMG
+    url: https://www.ufmg.br/concursos/
+  - nome: USP
+    url: https://uspdigital.usp.br/gr/admissao
+  - nome: UNICAMP
+    url: https://www.dgrh.unicamp.br/concursos
+  - nome: UNESP
+    url: https://unesp.br/portal#!/apps/concursos-publicos/
+  - nome: UERJ
+    url: https://www.uerj.br/institucional/concursos/
+  - nome: UFRGS
+    url: https://progesp.ufrgs.br/concursos
+
+alertas:
+  telegram:
+    bot_token: ""       # env TELEGRAM_BOT_TOKEN tem precedência
+    chat_id: ""
+  discord:
+    webhook_url: ""     # env DISCORD_WEBHOOK_URL
+  email:
+    smtp_host: smtp.gmail.com
+    smtp_port: 587
+    usuario: ""         # env SMTP_USER / SMTP_PASS
+    destinatario: ""
