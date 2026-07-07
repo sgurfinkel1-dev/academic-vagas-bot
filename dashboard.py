@@ -46,7 +46,9 @@ with st.sidebar:
     f_status = st.selectbox("Status", ["Todos", "aberta", "sem prazo identificado", "vencida"])
     f_titulacao = st.selectbox("Titulação exigida", ["Todas", "graduação", "mestrado",
                                                      "doutorado", "pós-doutorado", "livre-docência", "não informado"])
-    f_texto = st.text_input("Buscar por área/palavra (ex.: Direito, IA)")
+    with st.form("busca_texto", border=False):
+        f_texto = st.text_input("Buscar por área/palavra (ex.: Direito, IA)")
+        st.form_submit_button("🔍 Buscar", use_container_width=True)
 
 if not DB.exists():
     st.stop()
