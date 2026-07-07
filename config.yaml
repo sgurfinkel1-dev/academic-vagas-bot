@@ -43,12 +43,22 @@ termos_base:
   - "processo seletivo docente"
   - "professor visitante"
   - "professor colaborador"
+  - "docente"
+  - "pesquisador"
   - "pesquisador bolsista"
   - "bolsa de pós-doutorado"
   - "pós-doutorado"
   - "postdoctoral fellowship"
+  - "postdoc"
+  - "research fellow"
   - "edital professor"
+  - "edital docente"
   - "processo seletivo professor"
+  - "vaga professor universitário"
+  - "trabalhe conosco professor"
+  - "carreira docente"
+  - "faculty position"
+  - "research position"
 
 # páginas oficiais de concursos varridas pelo módulo universidades_publicas
 paginas_concursos:

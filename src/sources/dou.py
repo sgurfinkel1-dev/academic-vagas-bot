@@ -37,7 +37,7 @@ def buscar(termos: list[str], dias: int = 30, max_por_fonte: int = 100) -> list[
         client.get("https://www.in.gov.br/consulta/")  # cookies de sessão
     except Exception as e:
         log.warning("DOU: falha ao abrir sessão: %s", e)
-    for termo in termos:
+    for i, termo in enumerate(termos):
         params = {
             "q": f'"{termo}"', "s": "do3", "exactDate": "personalizado",
             "publishFrom": desde, "publishTo": ate, "sortType": "0", "delta": "20",
@@ -46,6 +46,9 @@ def buscar(termos: list[str], dias: int = 30, max_por_fonte: int = 100) -> list[
         itens = (dados or {}).get("jsonArray", [])
         if dados is None:
             log.warning("DOU indisponível para termo %r", termo)
+            if i == 0:  # fonte fora do ar — não insistir nos outros termos
+                log.warning("DOU aparenta estar fora do ar; pulando os demais termos")
+                break
         for item in itens[:max_por_fonte]:
             titulo = item.get("title", "")
             texto = f"{titulo} {item.get('content', '')} {item.get('hierarchyStr', '')}"

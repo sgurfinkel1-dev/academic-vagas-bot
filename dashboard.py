@@ -1,43 +1,69 @@
 """Dashboard com filtros. Rodar: streamlit run dashboard.py"""
 import sqlite3
+import subprocess
+import sys
 from pathlib import Path
 
 import pandas as pd
 import streamlit as st
 
-DB = Path(__file__).parent / "data" / "processed" / "vagas.db"
+RAIZ = Path(__file__).parent
+DB = RAIZ / "data" / "processed" / "vagas.db"
+
+CLASSES = ["pública federal", "pública estadual", "pública municipal",
+           "instituto público", "privada", "agência/fundação", "verificar manualmente"]
+UFS = ["AC", "AL", "AP", "AM", "BA", "CE", "DF", "ES", "GO", "MA", "MT", "MS", "MG",
+       "PA", "PB", "PR", "PE", "PI", "RJ", "RN", "RS", "RO", "RR", "SC", "SP", "SE", "TO"]
+# rótulo do filtro -> regex aplicada em natureza + título
+TIPOS_VAGA = {
+    "Professor efetivo (universidade pública)": r"efetivo|concurso",
+    "Professor substituto": r"substituto|temporário|simplificado",
+    "Professor visitante": r"visitante",
+    "Professor colaborador": r"colaborador",
+    "Pesquisador": r"pesquisador|research",
+    "Pós-doutorado": r"pós.doutor|postdoc",
+    "Bolsa": r"bolsa|bolsista|fellowship",
+}
 
 st.set_page_config(page_title="Vagas Acadêmicas", layout="wide")
 st.title("🎓 Vagas de Professor e Pesquisador — Brasil")
 
 if not DB.exists():
-    st.warning("Banco vazio. Rode primeiro: `python -m src.main`")
+    st.warning("Banco vazio. Clique em 'Buscar novas vagas' na barra lateral ou rode `python -m src.main`.")
+
+with st.sidebar:
+    if st.button("🔄 Buscar novas vagas agora", use_container_width=True):
+        with st.spinner("Consultando DOU, diários, FAPESP e universidades... (alguns minutos)"):
+            r = subprocess.run([sys.executable, "-m", "src.main"], cwd=RAIZ,
+                               capture_output=True, text=True)
+        st.success("Busca concluída!" if r.returncode == 0 else f"Erro na busca: {r.stderr[-300:]}")
+        st.rerun()
+
+    st.header("Filtros")
+    f_classe = st.selectbox("Tipo de instituição", ["Todas"] + CLASSES)
+    f_tipos = st.multiselect("Tipo de vaga (vazio = todos)", list(TIPOS_VAGA))
+    f_estado = st.selectbox("Estado", ["Todos"] + UFS)
+    f_status = st.selectbox("Status", ["Todos", "aberta", "sem prazo identificado", "vencida"])
+    f_titulacao = st.selectbox("Titulação exigida", ["Todas", "graduação", "mestrado",
+                                                     "doutorado", "pós-doutorado", "livre-docência", "não informado"])
+    f_texto = st.text_input("Buscar por área/palavra (ex.: Direito, IA)")
+
+if not DB.exists():
     st.stop()
 
 df = pd.read_sql("SELECT * FROM vagas", sqlite3.connect(DB))
 
-with st.sidebar:
-    st.header("Filtros")
-    f_classe = st.multiselect("Tipo de instituição", sorted(df.classificacao_instituicao.unique()))
-    f_natureza = st.multiselect("Tipo de vaga", sorted(df.natureza.unique()))
-    f_estado = st.multiselect("Estado", sorted(x for x in df.estado.unique() if x))
-    f_status = st.multiselect("Status", sorted(df.status.unique()), default=["aberta"] if "aberta" in set(df.status) else [])
-    f_titulacao = st.multiselect("Titulação exigida", sorted(df.titulacao_exigida.unique()))
-    f_conf = st.multiselect("Confiança", sorted(df.confianca.unique()))
-    f_texto = st.text_input("Buscar no título/área (ex.: Direito, IA)")
-
-if f_classe:
-    df = df[df.classificacao_instituicao.isin(f_classe)]
-if f_natureza:
-    df = df[df.natureza.isin(f_natureza)]
-if f_estado:
-    df = df[df.estado.isin(f_estado)]
-if f_status:
-    df = df[df.status.isin(f_status)]
-if f_titulacao:
-    df = df[df.titulacao_exigida.isin(f_titulacao)]
-if f_conf:
-    df = df[df.confianca.isin(f_conf)]
+if f_classe != "Todas":
+    df = df[df.classificacao_instituicao == f_classe]
+if f_tipos:
+    padrao = "|".join(TIPOS_VAGA[t] for t in f_tipos)
+    df = df[(df.natureza + " " + df.titulo).str.contains(padrao, case=False, na=False)]
+if f_estado != "Todos":
+    df = df[df.estado == f_estado]
+if f_status != "Todos":
+    df = df[df.status == f_status]
+if f_titulacao != "Todas":
+    df = df[df.titulacao_exigida == f_titulacao]
 if f_texto:
     mask = df.titulo.str.contains(f_texto, case=False, na=False) | df.area.str.contains(f_texto, case=False, na=False)
     df = df[mask]
@@ -49,13 +75,26 @@ c3.metric("Públicas", int(df.classificacao_instituicao.str.startswith("pública
 c4.metric("Bolsas/agências", int((df.classificacao_instituicao == "agência/fundação").sum()))
 
 st.dataframe(
-    df[["titulo", "instituicao", "classificacao_instituicao", "natureza", "area",
-        "estado", "titulacao_exigida", "prazo_inscricao", "status", "confianca", "link_oficial"]],
-    use_container_width=True, hide_index=True,
-    column_config={"link_oficial": st.column_config.LinkColumn("Link")},
+    df[["titulo", "instituicao", "classificacao_instituicao", "natureza",
+        "estado", "titulacao_exigida", "prazo_inscricao", "status", "link_oficial"]],
+    width="stretch", hide_index=True,
+    column_config={
+        "titulo": "Vaga", "instituicao": "Instituição",
+        "classificacao_instituicao": "Tipo de instituição", "natureza": "Tipo de vaga",
+        "estado": "UF", "titulacao_exigida": "Titulação",
+        "prazo_inscricao": "Prazo", "status": "Status",
+        "link_oficial": st.column_config.LinkColumn("Fonte", display_text="🔗 Abrir fonte"),
+    },
 )
 
-with st.expander("Detalhe / trecho de comprovação"):
-    for _, r in df.head(50).iterrows():
-        st.markdown(f"**{r.titulo}** — {r.instituicao} · fonte: {r.fonte}")
-        st.caption(r.trecho_comprovacao or "sem trecho")
+st.subheader("Detalhes das vagas filtradas")
+for _, r in df.head(50).iterrows():
+    with st.container(border=True):
+        st.markdown(f"**{r.titulo}**")
+        st.caption(f"{r.instituicao} · {r.classificacao_instituicao} · {r.natureza}"
+                   f" · prazo: {r.prazo_inscricao or 'ver edital'} · fonte: {r.fonte}")
+        if r.trecho_comprovacao:
+            st.caption(f"“{r.trecho_comprovacao}”")
+        st.link_button("🔗 Acessar a fonte", r.link_oficial or "about:blank")
+if len(df) > 50:
+    st.caption(f"Mostrando detalhes das 50 primeiras de {len(df)} vagas — use os filtros para refinar.")

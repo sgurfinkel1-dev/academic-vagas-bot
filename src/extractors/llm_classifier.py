@@ -14,11 +14,14 @@ REGRAS_INSTITUICAO = [
 ]
 
 REGRAS_NATUREZA = [
-    ("concurso público", r"concurso público|concurso docente|professor efetivo|magistério superior.*efetivo"),
-    ("processo seletivo temporário", r"professor substituto|professor temporário|processo seletivo simplificado|professor visitante|professor colaborador"),
+    ("professor visitante", r"professor visitante"),
+    ("professor colaborador", r"professor colaborador"),
+    ("professor substituto", r"professor substituto|professor temporário|processo seletivo simplificado"),
+    ("professor efetivo (concurso público)", r"concurso público|concurso docente|professor efetivo|magistério superior|carreira docente"),
     ("pós-doutorado", r"pós.doutor|postdoc|post.doctoral"),
     ("bolsa", r"\bbolsa\b|bolsista|fellowship"),
-    ("pesquisador", r"pesquisador"),
+    ("pesquisador", r"pesquisador|research (fellow|position)"),
+    ("docente (outros)", r"docente|professor|faculty"),
 ]
 
 REGRAS_TITULACAO = [

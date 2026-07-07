@@ -5,6 +5,9 @@
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Concursos em andamento | UFRJ |  |  | sem prazo identificado | [link](https://concursos.pr4.ufrj.br/index.php) |
+| Concursos Concluídos | UFRJ |  |  | sem prazo identificado | [link](https://concursos.pr4.ufrj.br/index.php/concursos-concluidos) |
+| Processo Seletivo Interno para auxiliar nos trabalhos relativos à Eleição 2026 | UFRJ |  |  | sem prazo identificado | [link](https://concursos.pr4.ufrj.br/index.php/processo-seletivo-interno-auxilio-eleicao-2026) |
 | Pesquisadores e Produção Científica | UFMG |  |  | sem prazo identificado | [link](https://www.ufmg.br/concursos/#) |
 | Pesquisadores e Produção Científica | UFMG |  |  | sem prazo identificado | [link](https://www.ufmg.br//pesquisa-e-inovacao/pesquisadores-e-producao-cientifica/) |
 | Professor Assistente | UFMG |  |  | sem prazo identificado | [link](https://www2.ufmg.br/concursos/Concursos/Professor-Assistente) |
@@ -31,9 +34,6 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 | Revisão de Aposentadoria – Docente – Conversão de Tempo Especial | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=842) |
-| Concursos em andamento | UFRJ |  |  | sem prazo identificado | [link](https://concursos.pr4.ufrj.br/index.php) |
-| Concursos Concluídos | UFRJ |  |  | sem prazo identificado | [link](https://concursos.pr4.ufrj.br/index.php/concursos-concluidos) |
-| Processo Seletivo Interno para auxiliar nos trabalhos relativos à Eleição 2026 | UFRJ |  |  | sem prazo identificado | [link](https://concursos.pr4.ufrj.br/index.php/processo-seletivo-interno-auxilio-eleicao-2026) |
 
 ## Públicas estaduais (2)
 

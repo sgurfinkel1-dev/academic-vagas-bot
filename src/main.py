@@ -68,7 +68,7 @@ def main():
     todas_vagas, falhas = [], []
     execucoes = [
         ("dou", lambda: dou.buscar(cfg.get("termos_base", []), dias, max_f)),
-        ("querido_diario", lambda: querido_diario.buscar(cfg.get("termos_base", [])[:4], dias, max_f)),
+        ("querido_diario", lambda: querido_diario.buscar(cfg.get("termos_base", []), dias, max_f)),
         ("fapesp", lambda: fapesp.buscar(user.get("areas", []), max_f)),
         ("universidades_publicas", lambda: universidades_publicas.buscar(cfg.get("paginas_concursos", []), max_f)),
         ("universidades_privadas", lambda: universidades_privadas.buscar(cfg.get("paginas_privadas", []), max_f)),
