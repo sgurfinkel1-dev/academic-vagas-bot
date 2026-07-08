@@ -7,10 +7,10 @@ from ..extractors import llm_classifier as clf
 from ..database.models import Vaga
 
 log = logging.getLogger("bot")
-URL = "https://queridodiario.ok.org.br/api/gazettes"
+URL = "https://api.queridodiario.ok.org.br/gazettes"  # subdomínio api. — /api/gazettes devolve o SPA
 
 
-def buscar(termos: list[str], dias: int = 30, max_por_fonte: int = 100) -> list[Vaga]:
+def buscar(termos: list[str], dias: int = 30, max_por_fonte: int = 100, estados: list[str] | None = None) -> list[Vaga]:
     vagas = []
     desde = (date.today() - timedelta(days=dias)).isoformat()
     for termo in termos:
@@ -18,6 +18,9 @@ def buscar(termos: list[str], dias: int = 30, max_por_fonte: int = 100) -> list[
             "querystring": f'"{termo}"', "published_since": desde,
             "size": min(max_por_fonte, 100), "sort_by": "descending_date",
         })
+        if estados:  # filtra por UF quando o usuário restringe (ex.: SP, MG)
+            dados = {"gazettes": [g for g in (dados or {}).get("gazettes", [])
+                                  if g.get("state_code") in estados]}
         for g in (dados or {}).get("gazettes", []):
             trechos = " ".join(g.get("excerpts", []))[:1000]
             texto = f"{termo} {trechos} {g.get('territory_name', '')}"

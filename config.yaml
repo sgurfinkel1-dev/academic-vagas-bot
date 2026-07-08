@@ -76,6 +76,14 @@ paginas_concursos:
     url: https://www.uerj.br/institucional/concursos/
   - nome: UFRGS
     url: https://progesp.ufrgs.br/concursos
+  - nome: UEMG
+    url: https://www.uemg.br/concursos
+  - nome: UFOP
+    url: https://www.ufop.br/concursos-publicos
+  - nome: UFV
+    url: https://www.ufv.br/concursos/
+  - nome: IFSP
+    url: https://www.ifsp.edu.br/component/content/article?id=13-concursos
 
 alertas:
   telegram:
