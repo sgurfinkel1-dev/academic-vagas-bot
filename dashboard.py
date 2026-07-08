@@ -44,6 +44,8 @@ with st.sidebar:
     f_tipos = st.multiselect("Tipo de vaga (vazio = todos)", list(TIPOS_VAGA))
     f_estado = st.selectbox("Estado", ["Todos"] + UFS)
     f_status = st.selectbox("Status", ["Todos", "aberta", "sem prazo identificado", "vencida"])
+    f_periodo = st.selectbox("Publicadas nos últimos",
+                             ["Qualquer data", "7 dias", "15 dias", "30 dias", "90 dias"])
     f_titulacao = st.selectbox("Titulação exigida", ["Todas", "graduação", "mestrado",
                                                      "doutorado", "pós-doutorado", "livre-docência", "não informado"])
     with st.form("busca_texto", border=False):
@@ -72,6 +74,12 @@ if f_estado != "Todos":
     df = df[df.estado == f_estado]
 if f_status != "Todos":
     df = df[df.status == f_status]
+if f_periodo != "Qualquer data":
+    dias = {"7 dias": 7, "15 dias": 15, "30 dias": 30, "90 dias": 90}[f_periodo]
+    corte = pd.Timestamp.now().normalize() - pd.Timedelta(days=dias)
+    pub = pd.to_datetime(df.data_publicacao, format="%d/%m/%Y", errors="coerce")
+    # mantém sem-data (listagens ao vivo de páginas/FAPESP, inerentemente atuais)
+    df = df[pub.isna() | (pub >= corte)]
 if f_titulacao != "Todas":
     df = df[df.titulacao_exigida == f_titulacao]
 if f_texto:
