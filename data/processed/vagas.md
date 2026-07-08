@@ -1,10 +1,14 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (268)
+## Públicas federais (272)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EDITAL Nº 90, DE 2 DE JULHO DE 2026 | Universidade Federal dos Vales do Jequitinhonha e Mucuri | Farmácia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-90-de-2-de-julho-de-2026-716477495) |
+| EDITAL Nº 1565, DE 1º DE JULHO DE 2026 | Pró-Reitoria de Recursos Humanos | Farmácia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1565-de-1-de-julho-de-2026-716307335) |
+| EDITAL Nº 1565, DE 1º DE JULHO DE 2026 | Pró-Reitoria de Recursos Humanos | Farmácia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1565-de-1-de-julho-de-2026-716237014) |
+| EDITAL Nº 12, DE 30 DE JUNHO DE 2026 | Fundação Universidade Federal do Rio Grande | Farmácia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12-de-30-de-junho-de-2026-716026854) |
 | EXTRATO DE CONTRATO | Pró-Reitoria de Recursos Humanos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-contrato-717752365) |
 | EXTRATO DE TERMO ADITIVO | Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-termo-aditivo-717742412) |
 | EDITAL | IFB Campus Planaltina |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-717733884) |
@@ -290,10 +294,11 @@
 | AVISO DE LICITAÇÃO | Prefeitura Municipal de Igarapava |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-licitacao-717606222) |
 | AVISO DE ADESÃO A REGISTRO DE PREÇOS - CARONA Nº 6/2026 FMS | FUNDO MUNICIPAL DE SAÚDE DE RONDON DO PARÁ |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-adesao-a-registro-de-precos-carona-n-6/2026-fms-717605399) |
 
-## Institutos públicos (29)
+## Institutos públicos (30)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EDITAL Nº 12, DE 30 DE JUNHO DE 2026 | Pró-Reitoria de Gestão de Pessoas | Farmácia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12-de-30-de-junho-de-2026-716041879) |
 | EDITAL DE RECLASSIFICAÇÃO Nº 124, DE 7 de julho de 2026 | Decanato de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-reclassificacao-n-124-de-7-de-julho-de-2026-717588797) |
 | EDITAL PROPPG nº 12/2026 | Universidade Tecnológica Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-proppg-n-12/2026-716466527) |
 | EDITAL PROPPG Nº 12, DE 11 DE MAIO DE 2026 | Pró-Reitoria de Pesquisa e Pós-Graduação |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-proppg-n-12-de-11-de-maio-de-2026-716285179) |

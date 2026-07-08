@@ -3,6 +3,7 @@ Os resultados vêm embutidos num <script> com jsonArray (mesma fonte que o Ro-DO
 """
 import json
 import logging
+import re
 from datetime import date, timedelta
 from urllib.parse import quote
 
@@ -59,7 +60,23 @@ def buscar(termos: list[str], dias: int = 30, max_por_fonte: int = 100) -> list[
                 status=clf.status_por_prazo(prazo),
                 link_oficial="https://www.in.gov.br/web/dou/-/" + (item.get("urlTitle") or ""),
                 fonte=f"DOU (busca: {termo})",
-                trecho_comprovacao=(item.get("content", "") or titulo)[:300],
+                trecho_comprovacao=(item.get("content", "") or titulo)[:600],
                 confianca="alto",
             ))
     return vagas
+
+
+ANCORA_VAGA = re.compile(
+    r"professor|docente|pesquisador|pós.doutor|magistério superior|concurso público|"
+    r"processo seletivo simplificado|bolsa de|monitor|substituto|visitante", re.I)
+
+
+def buscar_palavra(palavra: str, dias: int = 30, max_por_fonte: int = 75) -> list[Vaga]:
+    """Busca ao vivo no DOU pela área (frase única) e filtra por termos de vaga
+    localmente — o 'E' entre duas aspas quebra no motor do DOU, então filtramos aqui."""
+    vagas = buscar([palavra], dias, max_por_fonte)
+    academicas = [v for v in vagas if ANCORA_VAGA.search(f"{v.titulo} {v.trecho_comprovacao}")]
+    for v in academicas:
+        v.area = palavra
+        v.fonte = f"DOU (área: {palavra})"
+    return academicas

@@ -54,11 +54,28 @@ def montar_alerta(novas: list[Vaga], user: dict) -> str:
     return "\n".join(linhas)
 
 
+def _buscar_palavra(palavra: str, cfg: dict) -> int:
+    """Busca ao vivo no DOU por uma palavra/área e salva no banco."""
+    dias = max(cfg["busca"].get("dias_retroativos", 30), 90)  # janela ampla p/ área específica
+    vagas = dou.buscar_palavra(palavra, dias)
+    con = storage.conectar()
+    novas = storage.salvar(con, vagas)
+    export_csv.exportar(storage.todas(con))
+    export_json.exportar(storage.todas(con))
+    export_markdown.exportar(storage.todas(con))
+    print(f"Busca '{palavra}': {len(vagas)} encontradas, {len(novas)} novas.")
+    return 0
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--config", default=str(Path(__file__).resolve().parents[1] / "config.yaml"))
+    ap.add_argument("--palavra", help="busca ao vivo no DOU por esta palavra/área (ex.: Direito)")
     args = ap.parse_args()
     cfg = yaml.safe_load(Path(args.config).read_text(encoding="utf-8"))
+
+    if args.palavra:
+        return _buscar_palavra(args.palavra, cfg)
 
     user, busca, fontes = cfg["usuario"], cfg["busca"], cfg["fontes"]
     termos = cfg.get("termos_base", []) + [a for a in user.get("areas", [])]

@@ -48,7 +48,15 @@ with st.sidebar:
                                                      "doutorado", "pós-doutorado", "livre-docência", "não informado"])
     with st.form("busca_texto", border=False):
         f_texto = st.text_input("Buscar por área/palavra (ex.: Direito, IA)")
-        st.form_submit_button("🔍 Buscar", use_container_width=True)
+        st.form_submit_button("🔍 Filtrar resultados já baixados", use_container_width=True)
+        buscar_ao_vivo = st.form_submit_button("🌐 Buscar essa área no DOU agora",
+                                               use_container_width=True)
+    if buscar_ao_vivo and f_texto.strip():
+        with st.spinner(f"Buscando '{f_texto}' no Diário Oficial... (~2 min)"):
+            r = subprocess.run([sys.executable, "-m", "src.main", "--palavra", f_texto.strip()],
+                               cwd=RAIZ, capture_output=True, text=True)
+        st.success(r.stdout.strip() or "Concluído." if r.returncode == 0 else f"Erro: {r.stderr[-300:]}")
+        st.rerun()
 
 if not DB.exists():
     st.stop()
@@ -67,8 +75,9 @@ if f_status != "Todos":
 if f_titulacao != "Todas":
     df = df[df.titulacao_exigida == f_titulacao]
 if f_texto:
-    mask = df.titulo.str.contains(f_texto, case=False, na=False) | df.area.str.contains(f_texto, case=False, na=False)
-    df = df[mask]
+    cols = ["titulo", "area", "instituicao", "natureza", "trecho_comprovacao", "fonte"]
+    alvo = df[cols].fillna("").agg(" ".join, axis=1)
+    df = df[alvo.str.contains(f_texto, case=False, na=False)]
 
 c1, c2, c3, c4 = st.columns(4)
 c1.metric("Vagas", len(df))
