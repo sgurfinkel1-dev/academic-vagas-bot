@@ -88,9 +88,11 @@ def _sem_acento(s: str) -> str:
 
 
 if f_texto:
+    import re
     cols = ["titulo", "area", "instituicao", "natureza", "trecho_comprovacao", "fonte"]
     alvo = df[cols].fillna("").agg(" ".join, axis=1).map(_sem_acento)
-    df = df[alvo.str.contains(_sem_acento(f_texto), na=False, regex=False)]
+    padrao = r"\b" + re.escape(_sem_acento(f_texto.strip())) + r"\b"  # palavra inteira
+    df = df[alvo.str.contains(padrao, na=False, regex=True)]
 
 c1, c2, c3, c4 = st.columns(4)
 c1.metric("Vagas", len(df))
