@@ -2,6 +2,7 @@
 import sqlite3
 import subprocess
 import sys
+import unicodedata
 from pathlib import Path
 
 import pandas as pd
@@ -82,10 +83,14 @@ if f_periodo != "Qualquer data":
     df = df[pub.isna() | (pub >= corte)]
 if f_titulacao != "Todas":
     df = df[df.titulacao_exigida == f_titulacao]
+def _sem_acento(s: str) -> str:
+    return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
+
+
 if f_texto:
     cols = ["titulo", "area", "instituicao", "natureza", "trecho_comprovacao", "fonte"]
-    alvo = df[cols].fillna("").agg(" ".join, axis=1)
-    df = df[alvo.str.contains(f_texto, case=False, na=False)]
+    alvo = df[cols].fillna("").agg(" ".join, axis=1).map(_sem_acento)
+    df = df[alvo.str.contains(_sem_acento(f_texto), na=False, regex=False)]
 
 c1, c2, c3, c4 = st.columns(4)
 c1.metric("Vagas", len(df))
