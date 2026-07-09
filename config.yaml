@@ -40,6 +40,9 @@ termos_base:
   - "professor substituto"
   - "professor efetivo"
   - "concurso docente"
+  - "concurso público de provas e títulos"   # como editais federais de docente se intitulam
+  - "provas e títulos"
+  - "seleção pública simplificada"
   - "processo seletivo docente"
   - "professor visitante"
   - "professor colaborador"

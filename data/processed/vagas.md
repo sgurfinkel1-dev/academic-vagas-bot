@@ -1,10 +1,134 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (272)
+## Públicas federais (396)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| AVISO DE RETIFICAÇÃO | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-retificacao-716996576) |
+| EDITAL CCHLA Nº 4/2026 | Universidade Federal da Paraíba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-cchla-n-4/2026-716552153) |
+| EDITAL Nº 822, DE 2 DE JULHO DE 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-822-de-2-de-julho-de-2026-716544223) |
+| EDITAL CCA Nº 12/2026 | Universidade Federal da Paraíba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-cca-n-12/2026-716540367) |
+| EDITAL Nº 50, DE 2 DE JULHO DE 2026 | Universidade Federal Rural do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-50-de-2-de-julho-de-2026-716517505) |
+| EDITAL Nº 61, DE 2 DE JULHO DE 2026 | Pró-Reitoria de Desenvolvimento e Gestão de Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-61-de-2-de-julho-de-2026-716508081) |
+| EDITAL CE Nº 10/2026 | Universidade Federal da Paraíba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-ce-n-10/2026-716489254) |
+| EDITAL Nº 58, DE 2 de julho de 2026 | Divisão de Concursos Públicos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-58-de-2-de-julho-de-2026-716475781) |
+| EDITAL Nº 48, DE 2 DE JULHO DE 2026 | Universidade Federal Rural do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-48-de-2-de-julho-de-2026-716430536) |
+| EDITAL Nº 30, DE 2 DE JULHO DE 2026 | Colégio Pedro II |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-30-de-2-de-julho-de-2026-716399100) |
+| EDITAL CCTA Nº 1/2026 | Universidade Federal da Paraíba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-ccta-n-1/2026-716295048) |
+| EDITAL Nº 29, DE 1º DE JULHO DE 2026 | Colégio Pedro II |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-29-de-1-de-julho-de-2026-716276480) |
+| EDITAL CCJ Nº 4/2026 | Universidade Federal da Paraíba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-ccj-n-4/2026-716254509) |
+| EDITAL Nº 8, DE 29 DE JUNHO DE 2026 | Universidade Federal de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-8-de-29-de-junho-de-2026-716251845) |
+| EDITAL Nº 811, DE 30 DE JUNHO DE 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-811-de-30-de-junho-de-2026-716236745) |
+| EDITAL Nº 29, DE 1º de julho de 2026 | Divisão de Concursos Públicos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-29-de-1-de-julho-de-2026-716234319) |
+| EDITAL DE HOMOLOGAÇÃO Nº 94/2026, DE 1º DE JULHO DE 2026 | Universidade Federal de Alfenas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-homologacao-n-94/2026-de-1-de-julho-de-2026-716193807) |
+| EDITAL Nº 56, DE 1º de julho de 2026 | Divisão de Concursos Públicos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-56-de-1-de-julho-de-2026-716190287) |
+| EDITAL CCA Nº 14/2026 | Universidade Federal da Paraíba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-cca-n-14/2026-716151505) |
+| Edital nº 57, de 1º de julho de 2026 | Divisão de Concursos Públicos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-57-de-1-de-julho-de-2026-716140175) |
+| EDITAIS DE 30 DE JUNHO DE 2026 | Universidade Federal do Espírito Santo |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/editais-de-30-de-junho-de-2026-716004026) |
+| EDITAL CCAE Nº 3/2026 | Universidade Federal da Paraíba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-ccae-n-3/2026-715962378) |
+| EDITAL CCS Nº 2/2026 | Universidade Federal da Paraíba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-ccs-n-2/2026-715946678) |
+| EDITAL CCAE Nº 2/2026 | Universidade Federal da Paraíba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-ccae-n-2/2026-715903967) |
+| EDITAL N° 802, DE 26 DE JUNHO DE 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-802-de-26-de-junho-de-2026-715558976) |
+| EDITAIS DE 29 DE JUNHO DE 2026 | Universidade Federal do Espírito Santo |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/editais-de-29-de-junho-de-2026-715503872) |
+| EDITAL Nº 801, DE 26 DE JUNHO DE 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-801-de-26-de-junho-de-2026-715503691) |
+| EDITAL N° 162, DE 26 DE JUNHO DE 2026 | Universidade Federal do Estado do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-162-de-26-de-junho-de-2026-715496405) |
+| EDITAL Nº 54 DE 26 de Junho de 2026 | Divisão de Concursos Públicos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-54-de-26-de-junho-de-2026-716823041) |
+| EDITAIS DE 26 DE JUNHO DE 2026 | Universidade Federal do Espírito Santo |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/editais-de-26-de-junho-de-2026-716818932) |
+| EDITAIS DE 26 DE JUNHO DE 2026 | Universidade Federal do Espírito Santo |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/editais-de-26-de-junho-de-2026-716813560) |
+| EDITAL Nº 51 DE 26 de Junho de 2026 | Divisão de Concursos Públicos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-51-de-26-de-junho-de-2026-715418832) |
+| EDITAIS DE HOMOLOGAÇÃO DE 25 DE JUNHO DE 2026 | Universidade Federal de Goiás |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/editais-de-homologacao-de-25-de-junho-de-2026-715385578) |
+| EDITAL Nº 52 DE 26 de Junho de 2026 | Divisão de Concursos Públicos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-52-de-26-de-junho-de-2026-715367359) |
+| EDITAL Nº 53 DE 26 de junho de 2026 | Divisão de Concursos Públicos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-53-de-26-de-junho-de-2026-715317714) |
+| EDITAL Nº 55 DE 26 de Junho de 2026 | Divisão de Concursos Públicos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-55-de-26-de-junho-de-2026-715311225) |
+| EDITAIS DE 26 DE JUNHO DE 2026 | Universidade Federal do Espírito Santo |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/editais-de-26-de-junho-de-2026-715293290) |
+| EDITAIS DE 26 DE JUNHO DE 2026 | Universidade Federal do Espírito Santo |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/editais-de-26-de-junho-de-2026-715274099) |
+| EDITAIS DE 25 DE JUNHO DE 2026 | Universidade Federal do Espírito Santo |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/editais-de-25-de-junho-de-2026-715030473) |
+| EDITAIS DE 25 DE JUNHO DE 2026 | Universidade Federal do Espírito Santo |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/editais-de-25-de-junho-de-2026-715006845) |
+| EDITAIS DE 25 DE JUNHO DE 2026 | Universidade Federal do Espírito Santo |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/editais-de-25-de-junho-de-2026-715006822) |
+| aviso de RETIFICAÇÃO | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-retificacao-715006506) |
+| AVISO DE RETIFICAÇÃO | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-retificacao-714973632) |
+| EDITAL Nº 792, DE 24 DE JUNHO DE 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-792-de-24-de-junho-de-2026-714973553) |
+| EDITAIS DE 25 DE JUNHO DE 2026 | Universidade Federal do Espírito Santo |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/editais-de-25-de-junho-de-2026-714948863) |
+| EDITAIS DE 25 DE JUNHO DE 2026 | Universidade Federal do Espírito Santo |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/editais-de-25-de-junho-de-2026-714939457) |
+| EDITAIS DE HOMOLOGAÇÃO Nº 82, Nº 83 E Nº 84, DE 17 DE JUNHO DE 2026 | Universidade Federal de Goiás |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/editais-de-homologacao-n-82-n-83-e-n-84-de-17-de-junho-de-2026-714901768) |
+| AVISO DE RETIFICAÇÃO | Universidade Federal de Catalão |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-retificacao-714894161) |
+| EDITAIS DE 25 DE JUNHO DE 2026 | Universidade Federal do Espírito Santo |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/editais-de-25-de-junho-de-2026-714828263) |
+| EDITAL Nº 72/2026 PROGEP-DSP | Universidade Federal da Paraíba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-72/2026-progep-dsp-714616144) |
+| EDITAIS DE 23 DE JUNHO DE 2026 | Universidade Federal do Espírito Santo |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/editais-de-23-de-junho-de-2026-714371054) |
+| EDITAL Nº 767, DE 19 DE JUNHO DE 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-767-de-19-de-junho-de-2026-713962053) |
+| Edital Nº 77, de 18 de junho de 2026 | Universidade Federal de Goiás |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-77-de-18-de-junho-de-2026-713937032) |
+| EDITAL DE HOMOLOGAÇÃO DE 18 DE JUNHO DE 2026 | Universidade Federal de Goiás |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-homologacao-de-18-de-junho-de-2026-713908352) |
+| edital | Universidade Federal Rural do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-713697758) |
+| edital de 19 de junho de 2026 | Universidade Federal de Jataí |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-19-de-junho-de-2026-713695842) |
+| EDITAL Nº 26, DE 19 DE JUNHO DE 2026 | Colégio Pedro II |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-26-de-19-de-junho-de-2026-713691544) |
+| EDITAIS DE 19 DE JUNHO DE 2026 | Universidade Federal do Espírito Santo |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/editais-de-19-de-junho-de-2026-713686840) |
+| EDITAIS DE 19 DE JUNHO DE 2026 | Universidade Federal do Espírito Santo |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/editais-de-19-de-junho-de-2026-713681721) |
+| EDITAL PROGEP/UFMS Nº 84 DE 18 DE JUNHO DE 2026 | Fundação Universidade Federal de Mato Grosso do Sul |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-progep/ufms-n-84-de-18-de-junho-de-2026-713581322) |
+| EDITAIS DE HOMOLOGAÇÃO DE 17 DE JUNHO DE 2026 | Universidade Federal de Goiás |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/editais-de-homologacao-de-17-de-junho-de-2026-713553890) |
+| EDITAL Nº 713, DE 10 DE JUNHO DE 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-713-de-10-de-junho-de-2026-713165907) |
+| EDITAIS DE 16 DE JUNHO DE 2026 | Universidade Federal de Catalão |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/editais-de-16-de-junho-de-2026-712787708) |
+| EDITAL Nº 12, DE 13 DE JUNHO DE 2026 | Universidade Federal Rural de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12-de-13-de-junho-de-2026-712778017) |
+| EDITAIS DE HOMOLOGAÇÃO DE 12 DE JUNHO DE 2026 | Universidade Federal de Goiás |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/editais-de-homologacao-de-12-de-junho-de-2026-712602140) |
+| AVISO DE RETIFICAÇÃO | Coordenação de Recursos Humanos e Assistência ao Servidor |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-retificacao-717629254) |
+| EDITAL Nº 13/2026 | Coordenação de Recursos Humanos e Assistência ao Servidor |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-13/2026-717589259) |
+| EDITAL Nº 29/2026 | Campus Jaru |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-29/2026-716590483) |
+| EDITAL Nº 207, de 2 de julho de 2026 | Fundação Universidade Federal do Pampa |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-207-de-2-de-julho-de-2026-716582459) |
+| EDITAL Nº 73/2026/IFAL, DE 15 DE JUNHO 2026 | Instituto Federal de Educação, Ciência e Tecnologia de Alagoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-73/2026/ifal-de-15-de-junho-2026-716566128) |
+| EDITAL Nº 75/2026/IFAL, DE 15 DE JUNHO 2026 | Instituto Federal de Educação, Ciência e Tecnologia de Alagoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-75/2026/ifal-de-15-de-junho-2026-716553312) |
+| EDITAL Nº 10, DE 4 DE JULHO DE 2024 | Campus Viamão |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-10-de-4-de-julho-de-2024-716544540) |
+| EDITAL Nº 72/2026/IFAL, DE 15 DE JUNHO 2026 | Instituto Federal de Educação, Ciência e Tecnologia de Alagoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-72/2026/ifal-de-15-de-junho-2026-716529902) |
+| EDITAL Nº 6, DE 10 DE ABRIL DE 2024 | Campus Viamão |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-6-de-10-de-abril-de-2024-716494666) |
+| EDITAL Nº 143/2026 - PROGEP-DSP | Universidade Federal da Paraíba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-143/2026-progep-dsp-716494333) |
+| EDITAL Nº 74/2026/IFAL, DE 15 DE JUNHO 2026 | Instituto Federal de Educação, Ciência e Tecnologia de Alagoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-74/2026/ifal-de-15-de-junho-2026-716492221) |
+| EDITAL Nº 25, DE 1º DE JULHO DE 2025 | Campus Porto Nacional |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-25-de-1-de-julho-de-2025-716476063) |
+| EDITAL Nº 71/2026/IFAL, DE 15 DE JUNHO 2026 | Instituto Federal de Educação, Ciência e Tecnologia de Alagoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-71/2026/ifal-de-15-de-junho-2026-716454337) |
+| EDITAL Nº 145/2026 - PROGEP-DSP | Universidade Federal da Paraíba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-145/2026-progep-dsp-716420174) |
+| EDITAL Nº 68/2026/IFAL, DE 15 DE JUNHO 2026 | Instituto Federal de Educação, Ciência e Tecnologia de Alagoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-68/2026/ifal-de-15-de-junho-2026-716388173) |
+| EDITAL DE 1º DE JULHO DE 2026 HOMOLOGAÇÃO DO RESULTADO FINAL DO PROCESSO SELETIV | Instituto Federal de Educação, Ciência e Tecnologia Baiano |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-1-de-julho-de-2026-homologacao-do-resultado-final-do-processo-seletivo-simplificado-para-a-contratacao-de-professor-substituto-716237756) |
+| EDITAL DE HOMOLOGAÇÃO Nº 17 DE 1º DE JULHO DE 2026 | Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-homologacao-n-17-de-1-de-julho-de-2026-716216860) |
+| EDITAL DE 1º DE JULHO DE 2026 HOMOLOGAÇÃO DO RESULTADO FINAL DO PROCESSO SELETIV | Instituto Federal de Educação, Ciência e Tecnologia Baiano |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-1-de-julho-de-2026-homologacao-do-resultado-final-do-processo-seletivo-simplificado-para-a-contratacao-de-professor-substituto-716197190) |
+| EDITAL DE HOMOLOGAÇÃO Nº 99 DE 30 DE JUNHO DE 2026 | Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-homologacao-n-99-de-30-de-junho-de-2026-716193907) |
+| EDITAL Nº 141/2026 - PROGEP-DSP | Universidade Federal da Paraíba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-141/2026-progep-dsp-716176250) |
+| edital de 1º de julho de 2026 | Campus Ouro Preto |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-1-de-julho-de-2026-716172032) |
+| EDITAL DE HOMOLOGAÇÃO Nº 96 DE 29 DE JUNHO DE 2026 | Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-homologacao-n-96-de-29-de-junho-de-2026-716171335) |
+| EDITAL DE HOMOLOGAÇÃO Nº 98 DE 30 DE JUNHO DE 2026 | Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-homologacao-n-98-de-30-de-junho-de-2026-716155582) |
+| EDITAL DE 1º DE JULHO DE 2026 | Instituto Federal de Educação, Ciência e Tecnologia Baiano |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-1-de-julho-de-2026-716146205) |
+| EDITAL Nº 140/2026 - PROGEP-DSP | Universidade Federal da Paraíba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-140/2026-progep-dsp-716140254) |
+| EDITAL Nº 205/2026 RESULTADO DE PROCESSO SELETIVO SIMPLIFICADO PARA PROFESSOR SU | Fundação Universidade Federal do Pampa |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-205/2026-resultado-de-processo-seletivo-simplificado-para-professor-substituto-716127120) |
+| EDITAL Nº 116/2026 - PROGEP-DSP | Universidade Federal da Paraíba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-116/2026-progep-dsp-716026831) |
+| EDITAL Nº 133/2026 - PROGEP-DSP | Universidade Federal da Paraíba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-133/2026-progep-dsp-716021686) |
+| EDITAL Nº 199/2026 | Fundação Universidade Federal do Pampa |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-199/2026-715937099) |
+| EDITAL DE HOMOLOGAÇÃO Nº 16, DE 30 DE JUNHO DE 2026 | Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-homologacao-n-16-de-30-de-junho-de-2026-715924446) |
+| EDITAL Nº 48, DE 29 DE JUNHO DE 2026 | Campus Palmas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-48-de-29-de-junho-de-2026-715559440) |
+| Edital | Gabinete |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-715509142) |
+| EDITAL PROGEP/REITORIA/UFR N° 13, DE 26 DE junho de 2026 | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-progep/reitoria/ufr-n-13-de-26-de-junho-de-2026-716822158) |
+| EDITAL DE 1° DE JULHO DE 2026 | Fundação Universidade Federal do Tocantins |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-1-de-julho-de-2026-716564825) |
+| EDITAL | Fundação Universidade Federal do Tocantins |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-716551602) |
+| EDITAL Nº 13, DE 16 DE JUNHO DE 2026 | Universidade Federal Rural de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-13-de-16-de-junho-de-2026-712797102) |
+| EDITAL Nº 7, DE 11 DE JUNHO DE 2026 | Universidade Federal de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-7-de-11-de-junho-de-2026-712333514) |
+| EDITAL Nº 11, DE 11 DE JUNHO DE 2026 | Universidade Federal Rural de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11-de-11-de-junho-de-2026-711996638) |
+| EDITAL Nº 39, DE 27 DE MAIO DE 2026 | Universidade Federal Rural do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-39-de-27-de-maio-de-2026-708860146) |
+| EDITAL Nº 30/2026 - COPESE/UFT, DE 25 DE maio DE 2026 | Fundação Universidade Federal do Tocantins |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-30/2026-copese/uft-de-25-de-maio-de-2026-708715507) |
+| EDITAL Nº 35, DE 15 DE MAIO DE 2026 | Universidade Federal Rural do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-35-de-15-de-maio-de-2026-706117924) |
+| EDITAL UFNT Nº 24 - DE 14 DE MAIO DE 2026 SELEÇÃO SIMPLIFICADA PARA PROFESSOR SU | Universidade Federal do Norte do Tocantins |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-ufnt-n-24-de-14-de-maio-de-2026-selecao-simplificada-para-professor-substituto-2026.2-705868164) |
+| EDITAL Nº 32, DE 8 DE MAIO DE 2026 | Universidade Federal Rural do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-32-de-8-de-maio-de-2026-704637012) |
+| EDITAL UFNT Nº 21, DE 30 DE ABRIL DE 2026 | Universidade Federal do Norte do Tocantins |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-ufnt-n-21-de-30-de-abril-de-2026-703067020) |
+| EDITAL Nº 8, DE 16 DE ABRIL DE 2026 | Fundação Universidade Federal do Vale do São Francisco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-8-de-16-de-abril-de-2026-700442864) |
+| EDITAL Nº 7, DE 14 DE ABRIL DE 2026 | Fundação Universidade Federal do Vale do São Francisco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-7-de-14-de-abril-de-2026-699799960) |
+| EDITAL Nº 24 DE 10 DE ABRIL DE 2026 | Universidade Federal Rural do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-24-de-10-de-abril-de-2026-699167070) |
+| EDITAL Nº 1, DE 10 DE ABRIL DE 2026 | Universidade Federal do Agreste de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1-de-10-de-abril-de-2026-698876078) |
+| EDITAL Nº 20 - COPESE/UFT, DE 6 DE ABRIL DE 2026 | Fundação Universidade Federal do Tocantins |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-20-copese/uft-de-6-de-abril-de-2026-698856092) |
+| docente — DO de Campos dos Goytacazes | Campos dos Goytacazes |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3301009/2026-07-01/b17aa47a8906e2618bbba3da637f513f9e7fbc8c.pdf) |
+| pós-doutorado — DO de Uberaba | Uberaba |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3170107/2026-06-23/122617090afd3e46e46dc2052a6ea336f6f3356a.pdf) |
+| pós-doutorado — DO de Uberaba | Uberaba |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3170107/2026-06-19/8e77c84f27e7d317cca5fc122d0a31728835afaa.pdf) |
+| pós-doutorado — DO de Uberaba | Uberaba |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3170107/2026-06-18/648289f0a8870169ebabf50309c84ce197f9d1eb.pdf) |
+| Professor Substituto | UFOP |  |  | sem prazo identificado | [link](https://www.ufop.br/editais/professor-substituto) |
+| Professor Titular Livre | UFOP |  |  | sem prazo identificado | [link](https://www.ufop.br/editais/professor-titular-livre) |
+| Concursos Anteriores | UFOP |  |  | sem prazo identificado | [link](http://antigo.concurso.ufop.br/) |
+| Aproveitamento de Concursos | UFOP |  |  | sem prazo identificado | [link](https://progep.ufop.br/aproveitamento-de-concurso) |
+| Docentes Substitutos | IFSP |  |  | sem prazo identificado | [link](https://www.ifsp.edu.br/processos-seletivos?layout=edit&id=185) |
+| Professor Substituto | IFSP |  |  | sem prazo identificado | [link](https://www.ifsp.edu.br/index.php/busca?ordering=newest&searchphrase=all&limit=20&areas[0]=contenttags&searchword=Professor%20Substituto) |
 | EDITAL Nº 90, DE 2 DE JULHO DE 2026 | Universidade Federal dos Vales do Jequitinhonha e Mucuri | Farmácia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-90-de-2-de-julho-de-2026-716477495) |
 | EDITAL Nº 1565, DE 1º DE JULHO DE 2026 | Pró-Reitoria de Recursos Humanos | Farmácia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1565-de-1-de-julho-de-2026-716307335) |
 | EDITAL Nº 1565, DE 1º DE JULHO DE 2026 | Pró-Reitoria de Recursos Humanos | Farmácia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1565-de-1-de-julho-de-2026-716237014) |
@@ -278,26 +402,130 @@
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 | Revisão de Aposentadoria – Docente – Conversão de Tempo Especial | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=842) |
 
-## Públicas estaduais (2)
+## Públicas estaduais (12)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| professor substituto — DO de Dracena | Dracena |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3514403/2026-06-25/06b7ac433052020bb59b8afe4da874c2d692a6d4.pdf) |
+| professor colaborador — DO de Aguaí | Aguaí |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500303/2026-06-22/fe91ca48457a183b6c7dbe30b282c451a9cc2c85.pdf) |
+| docente — DO de Votuporanga | Votuporanga |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3557105/2026-06-26/97dc2eb20066e6efb5049f461bebd3b6ba29d7c6.pdf) |
+| docente — DO de Jundiaí | Jundiaí |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3525904/2026-06-26/9ec13cc82cbf65da497939f9e30e709d8f7d5fe9.pdf) |
+| pós-doutorado — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-06-17/bc6c252e1eb466e1424c6207a50a88d88d06805f.pdf) |
+| pós-doutorado — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-06-15/2f4e7e1df85859ff020de9f363ed73940ec9b58b.pdf) |
+| pós-doutorado — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-06-12/1d60169b39e49f0b4cb08e3c85d549c093466ca3.pdf) |
+| pós-doutorado — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-06-11/566bf59d7bdebc439b6bbb8fe8a29703e165b368.pdf) |
+| pós-doutorado — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-06-10/bc9ad6fd15feb0887771457fbc2ed03f494f1997.pdf) |
+| pós-doutorado — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-06-09/b033b608510dd845e504e8d1445291f039defc8d.pdf) |
 | Gerenciamento de Pesquisadores | UNICAMP |  |  | sem prazo identificado | [link](https://www.dgrh.unicamp.br/link-sistema-de-gerenciamento-de-pesquisadores) |
 | https://www.uerj.br/wp-content/uploads/2017/10/concursos.png | UERJ |  |  | sem prazo identificado | [link](https://www.uerj.br/wp-content/uploads/2017/10/concursos.png) |
 
-## Públicas municipais (4)
+## Públicas municipais (74)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EDITAL DE <span class='highlight' style='background:#FFA;'>SELEÇÃO</span> <span  | PREFEITURA MUNICIPAL DE GLÓRIA DO GOITÁ |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-selecao-publica-simplificada-para-contratacao-de-medicos-pessoa-fisica-709767617) |
+| Aviso de dispensa de licitação | Prefeitura Municipal da Estância Turística de Batatais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-dispensa-de-licitacao-709014104) |
+| professor substituto — DO de São Bernardo do Campo | São Bernardo do Campo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3548708/2026-07-03/b2dcadc26b478524652baef9573e04e1b3c6e2e3.pdf) |
+| professor substituto — DO de Taubaté | Taubaté |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3554102/2026-07-02/6ed75ef5e4ddc4182bb0a4316a34bc700487a06e.pdf) |
+| professor substituto — DO de São Bernardo do Campo | São Bernardo do Campo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3548708/2026-06-26/5d350904e6d88187dab48be7be6c55f26f1fea67.pdf) |
+| professor substituto — DO de Ourinhos | Ourinhos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3534708/2026-06-23/8b32a3415605982642e54891343b732abb737004.pdf) |
+| professor substituto — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-15/b2d331aff03e45d0166161f401cd09f31b02e116.pdf) |
+| professor substituto — DO de Macatuba | Macatuba |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3528007/2026-06-12/243830e6794a4c68681dc5ee7a92275acb0071d1.pdf) |
+| professor substituto — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-06-08/2f58922e4fcac1409bd2a26930aff77c45945b09.pdf) |
+| professor substituto — DO de São José dos Campos | São José dos Campos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3549904/2026-06-08/dc91c4ab50dacffbddbaf64a9a270618434bd899.pdf) |
+| professor efetivo — DO de General Salgado | General Salgado |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3516903/2026-06-19/a6ab8a4a9c90b8dd963d0eac335385b2ff7e4ddd.pdf) |
+| professor efetivo — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-06-16/5f1bdbfca2fa75765dda7851c6c619e3436c5c42.pdf) |
+| professor colaborador — DO de Taubaté | Taubaté |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3554102/2026-06-30/0ac206e636d2302d84dd81b8ae85f5f41a1f1dac.pdf) |
+| professor colaborador — DO de Taubaté | Taubaté |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3554102/2026-06-11/4f83ea8909bf4b3e307e3336046435596473e1e2.pdf) |
+| professor colaborador — DO de Taubaté | Taubaté |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3554102/2026-06-10/5a6bdecc0201092b9156048d6d4ad37cf7fe62ea.pdf) |
+| docente — DO de Araçatuba | Araçatuba |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3502804/2026-07-07/60d34f0def31f4e01d9b139a330efa97f57377b9.pdf) |
+| docente — DO de Saquarema | Saquarema |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3305505/2026-07-07/cf3c7e1488afccdcd93a8bf87f84e601556856d4.pdf) |
+| docente — DO de Quissamã | Quissamã |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3304151/2026-07-07/3390ad82f202da4cd64ca5e95ae8d44eabf799de.pdf) |
+| docente — DO de Angra dos Reis | Angra dos Reis |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3300100/2026-07-06/e20d567e6e0ad4ee79ce9836e7bcd691c80af1a7.pdf) |
+| docente — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-07-06/4fa55e1fc0dfeb365c0dd6643d4bf872fe8c6e41.pdf) |
+| docente — DO de Catanduva | Catanduva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3511102/2026-07-03/3a6547beb91c08fd89b1d044320cf44c3662c0bf.pdf) |
+| docente — DO de Saquarema | Saquarema |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3305505/2026-07-03/47a6ed676eba0a77061b336f05f9d13df89632b8.pdf) |
+| docente — DO de Taubaté | Taubaté |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3554102/2026-07-03/6364c65d1e9fa10805f78680fcf48d057e5da9b5.pdf) |
+| docente — DO de Valinhos | Valinhos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556206/2026-07-03/409004db2c864e3be5d8f3fe768754042e84df0a.pdf) |
+| docente — DO de Presidente Epitácio | Presidente Epitácio |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3541307/2026-07-03/5ef597ca323f108732aa40ef97c114d846ee591f.pdf) |
+| docente — DO de Santos | Santos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3548500/2026-07-03/f890f0c6037265dc3e7d0cb50bfba4446f206359.pdf) |
+| docente — DO de Armação dos Búzios | Armação dos Búzios |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3300233/2026-07-03/efd2fb222dcd6a74010b96ef75551a96d31e6472.pdf) |
+| docente — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-07-03/26424a300ada45451827baabedd6bcfaac6c4a96.pdf) |
+| docente — DO de Catanduva | Catanduva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3511102/2026-07-02/c15fcb1ed2903a7686acb447b07788b3f974b6a8.pdf) |
+| docente — DO de Angra dos Reis | Angra dos Reis |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3300100/2026-07-02/6ff2d4f4f5011796efd29bb9031aa28956965349.pdf) |
+| docente — DO de Rio de Janeiro | Rio de Janeiro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3304557/2026-07-02/aba5d91ac2cee449763e22ccd355df9b392a7587.pdf) |
+| docente — DO de Ourinhos | Ourinhos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3534708/2026-07-01/e895793db264a64e3c90bd93d660f28cae0524db.pdf) |
+| docente — DO de Jundiaí | Jundiaí |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3525904/2026-07-01/e0350c8e95b068b8fb6c93090de1a3ea26a41701.pdf) |
+| docente — DO de São José do Vale do Rio Preto | São José do Vale do Rio Preto |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3305158/2026-07-01/51dcea2d75580299188e16924103f34fa9e5d5ce.pdf) |
+| docente — DO de Angra dos Reis | Angra dos Reis |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3300100/2026-07-01/d8fd4e2d569990becd23c4fcc6f4072da8bd7beb.pdf) |
+| docente — DO de Rio de Janeiro | Rio de Janeiro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3304557/2026-07-01/083d089ac48f7081b2ac2a015792090586467baa.pdf) |
+| docente — DO de Votuporanga | Votuporanga |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3557105/2026-06-30/b9a08387d4e4fc7fecb5b7fec0444b721604a010.pdf) |
+| docente — DO de Angra dos Reis | Angra dos Reis |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3300100/2026-06-30/69209613c726786e64a0b71d550e41b40998376f.pdf) |
+| docente — DO de Rio de Janeiro | Rio de Janeiro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3304557/2026-06-30/0f3911fc23b347a72000e5adfc93027ccead8b6e.pdf) |
+| docente — DO de Cunha | Cunha |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3513603/2026-06-30/4f09211b88b72761653127eebd15e2b2c02b0a53.pdf) |
+| docente — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-06-29/df96df6737fc9c76093265b30a188cfce2ce76c0.pdf) |
+| docente — DO de Armação dos Búzios | Armação dos Búzios |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3300233/2026-06-29/2c1c41888ac535704d7540cc29bee042698ac0da.pdf) |
+| docente — DO de Itapirapuã Paulista | Itapirapuã Paulista |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522653/2026-06-26/34d6194716494d35c00f97b5fb10db3bcf8e39ef.pdf) |
+| docente — DO de Angra dos Reis | Angra dos Reis |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3300100/2026-06-26/073351defe1e42cac1908bd52d3762bf10263315.pdf) |
+| docente — DO de Quissamã | Quissamã |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3304151/2026-06-26/05bd5b1b853cfc62678d71df5c722e5a83b02bf3.pdf) |
+| docente — DO de São José dos Campos | São José dos Campos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3549904/2026-06-26/b8db8d91ea2d9ae549c49d2744f0d4b065ea8f64.pdf) |
+| docente — DO de Votorantim | Votorantim |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3557006/2026-06-26/3ad5936f13a036f7df1871b66c5f460eca5cf0a7.pdf) |
+| docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
+| docente — DO de Várzea da Palma | Várzea da Palma |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3170800/2026-06-25/069532735a2c1251417155a2df760076182bbbfb.pdf) |
+| docente — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-06-25/06530a93e471960f60e12d3cf3111e92125ecdb6.pdf) |
+| docente — DO de São Roque | São Roque |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3550605/2026-06-25/53545221aa129f9baf415dd9188cfbdeb3642646.pdf) |
+| docente — DO de Cunha | Cunha |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3513603/2026-06-25/21d1baa2bda5b433c502d9e79dd403b0fbcb56e7.pdf) |
+| docente — DO de Angra dos Reis | Angra dos Reis |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3300100/2026-06-25/0c253d78451e55146c9e79af1216c961a31ae225.pdf) |
+| pesquisador — DO de Santos | Santos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3548500/2026-07-08/0e1d62b828483320d8af9d3d6599d68530a80f49.pdf) |
+| pesquisador — DO de Irapuru | Irapuru |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3521606/2026-07-07/7573d2e3ed5bc8531456289249da8627e3f795fd.pdf) |
+| pesquisador — DO de Santos | Santos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3548500/2026-07-07/3a4c484a45511759e8a72549dd258724026a97da.pdf) |
+| pesquisador — DO de Santos | Santos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3548500/2026-07-06/f904c88421beeb51e128d6e2b0648548880a7f5e.pdf) |
+| pesquisador — DO de Santos | Santos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3548500/2026-07-02/b85824c64c9845f656cf89eb2fbfa972c4e62782.pdf) |
+| pesquisador — DO de Mira Estrela | Mira Estrela |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3530003/2026-07-01/29934c283a1a6aeb6512ef0750fd7e729e4dd797.pdf) |
+| pesquisador — DO de Santos | Santos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3548500/2026-07-01/a47a68fbd2e243bc5b1e8d5d5fa8c6086e4a9f14.pdf) |
+| pesquisador — DO de Areal | Areal |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3300225/2026-06-24/522b6487c2657fdd13193b50235e7245f9adeabf.pdf) |
+| pesquisador — DO de Rio de Janeiro | Rio de Janeiro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3304557/2026-06-23/3f577ab6e81aba2a23d73e5a9414c852592e7b9a.pdf) |
+| pesquisador — DO de Junqueirópolis | Junqueirópolis |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3526001/2026-06-18/c3d000cd1b27ce991f08d6f143728e8959547f17.pdf) |
+| pesquisador — DO de Parisi | Parisi |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3536257/2026-06-17/a8627b978363390ef90ce835b55e06859a7daeb0.pdf) |
+| pesquisador — DO de Parisi | Parisi |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3536257/2026-06-17/e80781f0732c14c49367c87c37dec7e720cded87.pdf) |
+| pesquisador — DO de Campo Belo | Campo Belo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3111200/2026-06-17/07c303d12e998806f1339c0a9d5a9524cd291730.pdf) |
+| pesquisador — DO de Pontes Gestal | Pontes Gestal |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3540309/2026-06-16/ebdf0815a188810c6261c31ac8b190d927ad36e6.pdf) |
+| pesquisador — DO de São Bernardo do Campo | São Bernardo do Campo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3548708/2026-06-12/648222e1eefef7c7fd5e11442e1dfaa4e9e6e8de.pdf) |
+| pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
+| carreira docente — DO de Presidente Epitácio | Presidente Epitácio |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3541307/2026-06-12/609c3e5711ecbcaabf199e96cf2180158cc9b09c.pdf) |
 | AVISO DE DE LICITAÇÃO | Prefeitura Municipal de Santa Cruz do Capibaribe |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-de-licitacao-717557054) |
 | EXTRATO DE TERMO ADITIVO | Prefeitura Municipal de Porto Grande |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-termo-aditivo-717720365) |
 | AVISO DE LICITAÇÃO | Prefeitura Municipal de Igarapava |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-licitacao-717606222) |
 | AVISO DE ADESÃO A REGISTRO DE PREÇOS - CARONA Nº 6/2026 FMS | FUNDO MUNICIPAL DE SAÚDE DE RONDON DO PARÁ |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-adesao-a-registro-de-precos-carona-n-6/2026-fms-717605399) |
 
-## Institutos públicos (30)
+## Institutos públicos (54)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EDITAL GABGEP Nº 70, de 29 de junho de 2026 | Universidade Tecnológica Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-gabgep-n-70-de-29-de-junho-de-2026-715930804) |
+| EDITAL GABGEP Nº 69, de 29 de junho de 2026 | Universidade Tecnológica Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-gabgep-n-69-de-29-de-junho-de-2026-715883648) |
+| EDITAL GABGEP Nº 68, de 26 de junho de 2026 | Universidade Tecnológica Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-gabgep-n-68-de-26-de-junho-de-2026-716822500) |
+| EDITAL GABGEP Nº 63, DE 24 DE JUNHO DE 2026 | Universidade Tecnológica Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-gabgep-n-63-de-24-de-junho-de-2026-715336897) |
+| EDITAL GABGEP Nº 67, de 26 de junho de 2026 | Universidade Tecnológica Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-gabgep-n-67-de-26-de-junho-de-2026-715317686) |
+| EDITAL GABGEP Nº 65, de 26 de junho de 2026 | Universidade Tecnológica Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-gabgep-n-65-de-26-de-junho-de-2026-715279488) |
+| EDITAL GABGEP Nº 66, de 26 de junho de 2026 | Universidade Tecnológica Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-gabgep-n-66-de-26-de-junho-de-2026-715260332) |
+| EDITAL GABGEP Nº 62, de 19 de junho de 2026 | Universidade Tecnológica Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-gabgep-n-62-de-19-de-junho-de-2026-714370744) |
+| retificação | Decanato de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/retificacao-717303486) |
+| EDITAL de resultado final Nº 171, DE 26 de junho de 2026 | Decanato de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-resultado-final-n-171-de-26-de-junho-de-2026-716565370) |
+| EDITAL Nº 5/2025 | Hospital de Clínicas de Porto Alegre |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-5/2025-716030209) |
+| Edital Nº 5, DE 22 DE abril DE 2026 - DPU-CTB/GDPC CTB | Defensoria Pública da União em Curitiba-PR |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-5-de-22-de-abril-de-2026-dpu-ctb/gdpc-ctb-700883531) |
+| professor substituto — DO de Ourinhos | Ourinhos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3534708/2026-07-07/d2297ef580961f19394f964900bf764dc4d078d6.pdf) |
+| professor substituto — DO de Ourinhos | Ourinhos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3534708/2026-06-12/d8e24301e5f9f23be91fcaab0370146d4156f55a.pdf) |
+| professor substituto — DO de Ourinhos | Ourinhos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3534708/2026-06-09/da4613c69a9e941355ed28f1189393faa91a0c02.pdf) |
+| docente — DO de Sertãozinho | Sertãozinho |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3551702/2026-07-06/126435b6d25e842cca142d9c2bbee911ca271bb4.pdf) |
+| docente — DO de Marília | Marília |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3529005/2026-07-03/8320c0e0046f3ad2f76d2bc464066e803d9a3fc0.pdf) |
+| docente — DO de Votorantim | Votorantim |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3557006/2026-07-03/376005eefc853ba8a6e5b2380843a7a36e948652.pdf) |
+| docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-07-02/2a99f6ca10dd5f28f1d2afe3fed93b101856ed11.pdf) |
+| docente — DO de Andradina | Andradina |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3502101/2026-07-01/a8f85e50dde25fb2930943cb2ffb0ae5e9266f53.pdf) |
+| docente — DO de Armação dos Búzios | Armação dos Búzios |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3300233/2026-06-26/f3d91b05b667a9cdbbdbdbd8a38a52846a72996d.pdf) |
+| docente — DO de Sertãozinho | Sertãozinho |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3551702/2026-06-26/02978af9eeb3db185b083664f9d160eba6c4fc93.pdf) |
+| pesquisador — DO de São Bernardo do Campo | São Bernardo do Campo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3548708/2026-06-19/bfcaf3ee00e120945563b97ab550e156e6916f19.pdf) |
+| pós-doutorado — DO de Contagem | Contagem |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3118601/2026-06-30/267a6f212d7c653cc5d2b457343bb1089130a5cb.pdf) |
 | EDITAL Nº 12, DE 30 DE JUNHO DE 2026 | Pró-Reitoria de Gestão de Pessoas | Farmácia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12-de-30-de-junho-de-2026-716041879) |
 | EDITAL DE RECLASSIFICAÇÃO Nº 124, DE 7 de julho de 2026 | Decanato de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-reclassificacao-n-124-de-7-de-julho-de-2026-717588797) |
 | EDITAL PROPPG nº 12/2026 | Universidade Tecnológica Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-proppg-n-12/2026-716466527) |
@@ -329,16 +557,23 @@
 | EDITAL Nº 12/2026 | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | EDITAL Nº 11/2026 | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (1)
+## Privadas (5)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/91acedd54dd420dcd83d726377c8a5d9416c52ba.pdf) |
+| docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/6c30940840c16d07c883e14ed65709547e2d132a.pdf) |
+| docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
+| docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 | AVISO DE CHAMAMENTO PÚBLICO | Serviço Nacional de Aprendizagem Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-chamamento-publico-717706394) |
 
-## Bolsas / pós-doc / agências (61)
+## Bolsas / pós-doc / agências (64)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| pós-doutorado — DO de Rio de Janeiro | Rio de Janeiro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3304557/2026-06-18/df5094ccac698583348c6df3a0a336b32c1770fb.pdf) |
+| pós-doutorado — DO de Rio de Janeiro | Rio de Janeiro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3304557/2026-06-15/493d31ebe338feb95971be6d398fbfab34b94237.pdf) |
+| pós-doutorado — DO de Rio de Janeiro | Rio de Janeiro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3304557/2026-06-08/22db3a9e0bda7c37057967dc92fe27f7102fcb78.pdf) |
 | EXTRATO DE ACORDO DE COOPERAÇÃO | Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-acordo-de-cooperacao-717752542) |
 | EXTRATO de ACORDO DE COOPERAÇÃO TÉCNICA | Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-acordo-de-cooperacao-tecnica-717673752) |
 | EXTRATO DE CONCESSÃO DE AUXÍLIO FINANCEIRO À <span class='highlight' style='back | Diretoria de Programas e Bolsas no País |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-de-auxilio-financeiro-a-pesquisadores-717614776) |
@@ -401,10 +636,14 @@
 | Bolsa de PD em Saúde Coletiva Instituição: Faculdade de Enfermagem, Universidade | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../projeto-ubuntu:-os-4-rs-da-educacao-antirracista-para-equidade-em-saude/9598/) |
 | Bolsa de PD em Química, Instrumentação Analítica e Engenharia Mecânica/Eletrônic | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../novas-ferramentas-analiticas-para-o-estudo-da-doenca-de-parkinson:-automacao-do-preparo-de-amostras-biologicas-dispositivos-3d-printed@mip-e-cromatografia-liquida-capilar-portatil/9600/) |
 
-## Verificar manualmente (23)
+## Verificar manualmente (27)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| RESULTADO DE JULGAMENTO <span class='highlight' style='background:#FFA;'>SELEÇÃO | Conselho de Arquitetura e Urbanismo de Alagoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-selecao-publica-simplificada-sps-sei-n-00148.000069-2026-14-711899719) |
+| Processo Seletivo Simplificado | UEMG |  |  | sem prazo identificado | [link](https://www.uemg.br/gestao/recrutamento-e-selecao/pss) |
+| Professor de Educação Superior (PES) | UEMG |  |  | sem prazo identificado | [link](https://www.uemg.br/pes) |
+| Concurso Público para Técnico Universitário e Analista Universitário | UEMG |  |  | sem prazo identificado | [link](https://www.uemg.br/t-e-a) |
 | EXTRATO DE MEMORANDO DE ENTENDIMENTO | Conselho Nacional de Justiça |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-memorando-de-entendimento-716265150) |
 | EXTRATO De ACORDO | Instituto Tecnológico de Aeronáutica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-acordo-717335303) |
 | EXTRATO DE DOAÇÃO | Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-doacao-717752854) |
