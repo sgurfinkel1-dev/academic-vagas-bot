@@ -1,10 +1,38 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (396)
+## Públicas federais (424)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EDITAL Nº 25, DE 2 DE JULHO DE 2026 | Universidade Federal Rural do Semi-Árido | lógica |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-25-de-2-de-julho-de-2026-716451534) |
+| EDITAL Nº 24, DE 10 DE JUNHO DE 2026 | Secretaria de Órgãos Colegiados | lógica |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-24-de-10-de-junho-de-2026-711651851) |
+| EDITAL Nº 40/2026 | Universidade Federal do Ceará | lógica |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-40/2026-710448109) |
+| EDITAL Nº 347, DE 2 DE JUNHO DE 2026 | Pró-Reitoria de Gestão com Pessoas | lógica |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-347-de-2-de-junho-de-2026-710374849) |
+| EDITAL Nº 10, de 29 de maio de 2026 | Pró-Reitoria de Gestão de Pessoas | lógica |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-10-de-29-de-maio-de-2026-709824297) |
+| EDITAL Nº 1584, DE 2 DE JULHO DE 2026 | Universidade Federal de Minas Gerais | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1584-de-2-de-julho-de-2026-717377263) |
+| EDITAL DE 2 de julho de 2026 | Pró-Reitoria de Gestão e Desenvolvimento de Pessoas | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-2-de-julho-de-2026-716582378) |
+| EDITAL PROGEP Nº 61/2026 | Universidade Federal de Uberlândia | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-progep-n-61/2026-716417677) |
+| EDITAL Nº 77/2026/IFAL, de 1º de julho de 2026 | Instituto Federal de Educação, Ciência e Tecnologia de Alagoas | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-77/2026/ifal-de-1-de-julho-de-2026-716326664) |
+| EDITAL Nº 1573, DE 1º DE JULHO DE 2026 | Pró-Reitoria de Recursos Humanos | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1573-de-1-de-julho-de-2026-716285626) |
+| EDITAL Nº 15 DE 1º DE JULHO DE 2026 | Pró-Reitoria de Gestão de Pessoas | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-15-de-1-de-julho-de-2026-716174530) |
+| EDITAL DE 1º de julho de 2026 | Pró-Reitoria de Gestão e Desenvolvimento de Pessoas | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-1-de-julho-de-2026-716127143) |
+| EDITAL PROGEP Nº 55/2026 | Pró-Reitoria de Gestão de Pessoas | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-progep-n-55/2026-716121295) |
+| EDITAL Nº 1537, DE 26 DE JUNHO DE 2026 | Universidade Federal de Minas Gerais | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1537-de-26-de-junho-de-2026-715510438) |
+| EDITAL Nº 76/2026/IFAL, de 22 de junho de 2026 | Instituto Federal de Educação, Ciência e Tecnologia de Alagoas | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-76/2026/ifal-de-22-de-junho-de-2026-716846124) |
+| Edital IFBA nº 33, de 26 de maio de 2026 | Campus Eunápolis | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-ifba-n-33-de-26-de-maio-de-2026-715261504) |
+| EDITAL Nº 1.513, DE 23 DE JUNHO DE 2026 | Pró-Reitoria de Recursos Humanos | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1.513-de-23-de-junho-de-2026-715030396) |
+| EDITAL CPP Nº 22, DE 24 DE JUNHO DE 2026 | Pró-Reitoria de Gestão com Pessoas | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-cpp-n-22-de-24-de-junho-de-2026-714972919) |
+| EDITAL Nº 27, DE 25 DE JUNHO DE 2026 | Colégio Pedro II | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-27-de-25-de-junho-de-2026-714922327) |
+| EDITAL Nº 1.512, DE 23 DE JUNHO DE 2026 | Pró-Reitoria de Recursos Humanos | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1.512-de-23-de-junho-de-2026-714811463) |
+| EDITAL Nº 2.5/2026 | Campus Dourados | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-2.5/2026-714064208) |
+| EDITAL PROGEP Nº 27, DE 22 DE JUNHO DE 2026 | Pró-Reitoria de Gestão de Pessoas e do Trabalho | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-progep-n-27-de-22-de-junho-de-2026-714060683) |
+| EDITAL Nº 1498, DE 22 DE JUNHO DE 2026 | Pró-Reitoria de Recursos Humanos | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1498-de-22-de-junho-de-2026-714043306) |
+| EDITAL Nº 1499, DE 22 DE JUNHO DE 2026 | Pró-Reitoria de Recursos Humanos | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1499-de-22-de-junho-de-2026-713942330) |
+| EDITAL Nº 22, DE 19 DE JUNHO DE 2026 | Coordenação de Recursos Humanos e Assistência ao Servidor | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-22-de-19-de-junho-de-2026-713678780) |
+| EDITAL Nº 90, DE 16 DE SETEMBRO DE 2025 | Pró-Reitoria de Desenvolvimento, Inclusão, Diversidade e Assistência à Pessoa | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-90-de-16-de-setembro-de-2025-713113882) |
+| EDITAL PROGEPE Nº 89, DE 12 DE JUNHO DE 2026 | Pró-Reitoria de Gestão de Pessoas | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-progepe-n-89-de-12-de-junho-de-2026-712860994) |
+| EDITAL DE CONVOCAÇÃO Nº 924, DE 7 DE JULHO DE 2026 | Diretoria de Administração de Pessoal | economia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-convocacao-n-924-de-7-de-julho-de-2026-717620271) |
 | AVISO DE RETIFICAÇÃO | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-retificacao-716996576) |
 | EDITAL CCHLA Nº 4/2026 | Universidade Federal da Paraíba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-cchla-n-4/2026-716552153) |
 | EDITAL Nº 822, DE 2 DE JULHO DE 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-822-de-2-de-julho-de-2026-716544223) |
@@ -402,10 +430,11 @@
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 | Revisão de Aposentadoria – Docente – Conversão de Tempo Especial | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=842) |
 
-## Públicas estaduais (12)
+## Públicas estaduais (13)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| resultado de Julgamento | Conselho Regional de Química da 4ª Região | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-714386056) |
 | professor substituto — DO de Dracena | Dracena |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3514403/2026-06-25/06b7ac433052020bb59b8afe4da874c2d692a6d4.pdf) |
 | professor colaborador — DO de Aguaí | Aguaí |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500303/2026-06-22/fe91ca48457a183b6c7dbe30b282c451a9cc2c85.pdf) |
 | docente — DO de Votuporanga | Votuporanga |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3557105/2026-06-26/97dc2eb20066e6efb5049f461bebd3b6ba29d7c6.pdf) |
@@ -419,10 +448,48 @@
 | Gerenciamento de Pesquisadores | UNICAMP |  |  | sem prazo identificado | [link](https://www.dgrh.unicamp.br/link-sistema-de-gerenciamento-de-pesquisadores) |
 | https://www.uerj.br/wp-content/uploads/2017/10/concursos.png | UERJ |  |  | sem prazo identificado | [link](https://www.uerj.br/wp-content/uploads/2017/10/concursos.png) |
 
-## Públicas municipais (74)
+## Públicas municipais (112)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| farmácia — DO de Macaé | Macaé | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3302403/2026-07-09/76aa96081fe5498d83fa19a7333ccffe1b483fb5.pdf) |
+| farmácia — DO de São Bernardo do Campo | São Bernardo do Campo | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3548708/2026-07-08/a18914dc3dc1c74deaae3282ea9b5da4c564f8c2.pdf) |
+| farmácia — DO de Osasco | Osasco | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3534401/2026-07-08/b7094bb55aee7ed6b273882284fe2131c351a299.pdf) |
+| farmácia — DO de Itapeva | Itapeva | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-07-08/c0dd1f1507345dd56a4196c6ab64303bc28b99a4.pdf) |
+| farmácia — DO de Itapeva | Itapeva | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-07-08/a098615cc45203c526a58eb475f849b3da79f1df.pdf) |
+| farmácia — DO de Coronel Macedo | Coronel Macedo | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3512605/2026-07-08/cfc3861c7e5a2f000dc424a19cdfa00ac7afea06.pdf) |
+| farmácia — DO de Taubaté | Taubaté | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3554102/2026-07-08/1778e4f8f427999d644f09753b15bd7a817e8ca7.pdf) |
+| farmácia — DO de Piranguinho | Piranguinho | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3151008/2026-07-08/4cc518f254656dce4371bf0d426b2e50b8544ae5.pdf) |
+| farmácia — DO de Nova Serrana | Nova Serrana | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3145208/2026-07-08/5f5b1e8c3caa32e458f199337069a31add217151.pdf) |
+| farmácia — DO de Macaé | Macaé | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3302403/2026-07-08/18fd9e9c099056dad53bfd500b57aa7dfb351c9c.pdf) |
+| farmácia — DO de Iracemápolis | Iracemápolis | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3521408/2026-07-08/8a63d68c9df83e53e97534c9e7c5032a1f3d033c.pdf) |
+| farmácia — DO de Itaporanga | Itaporanga | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522802/2026-07-08/e1ba71c41b45a7aa8fd439aca8e966c5718ce069.pdf) |
+| farmácia — DO de São José dos Campos | São José dos Campos | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3549904/2026-07-08/8ba27a380840556e9b1385119625770e56454a08.pdf) |
+| farmácia — DO de Tremembé | Tremembé | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3554805/2026-07-08/4f84580a355693fd5304a08080f84259db0823c5.pdf) |
+| farmácia — DO de Jaboticabal | Jaboticabal | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3524303/2026-07-07/4bfc2c2d04239819a0c0d20f899ab0a3d30df9c4.pdf) |
+| farmácia — DO de Itapeva | Itapeva | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-07-07/505de11dee230d55d741a7501e21c31f40830eb2.pdf) |
+| farmácia — DO de Bragança Paulista | Bragança Paulista | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3507605/2026-07-07/db5677360d48da51f7a482a9296c62ab11156954.pdf) |
+| farmácia — DO de Marília | Marília | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3529005/2026-07-07/0ac38113721909b41264be45a0e0dd6dd380a118.pdf) |
+| farmácia — DO de Valinhos | Valinhos | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556206/2026-07-07/d1b6f4e65f55a1f5be27f3e8b064e97f52ca9184.pdf) |
+| farmácia — DO de Rio Claro | Rio Claro | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3543907/2026-07-06/c3970e67149f319f8154564f688047793a92e564.pdf) |
+| farmácia — DO de Dracena | Dracena | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3514403/2026-07-06/f1dffa68bc154f92e276b0f5ecbab5fa84fe97a6.pdf) |
+| farmácia — DO de Macatuba | Macatuba | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3528007/2026-07-03/a268f1c804722408667395c16b995a1855c91995.pdf) |
+| farmácia — DO de Itapevi | Itapevi | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522505/2026-07-03/378b1eee798f278021b3a0782919fdac6968dd2f.pdf) |
+| farmácia — DO de Andradina | Andradina | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3502101/2026-07-03/a5e475cbe8aa527e6278e6dfb70b6b16ac52409c.pdf) |
+| farmácia — DO de Angra dos Reis | Angra dos Reis | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3300100/2026-07-03/69c60ea98f6c5034e8639102f8777fc77ee52afe.pdf) |
+| farmácia — DO de Rio Claro | Rio Claro | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3543907/2026-07-03/0fcee67f7ec20c31b159750742f68c04615defaf.pdf) |
+| farmácia — DO de Pontes Gestal | Pontes Gestal | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3540309/2026-07-03/19a47b74bbecb7c267919513ace4f40f9d0c2f39.pdf) |
+| farmácia — DO de Campo Belo | Campo Belo | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3111200/2026-07-03/132695372ea54ab403f5880bc4a94cd36aec47ae.pdf) |
+| farmácia — DO de Uberaba | Uberaba | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3170107/2026-07-03/173825f31ebdc852ab56b5356313b4d258dbb07f.pdf) |
+| farmácia — DO de Itajubá | Itajubá | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3132404/2026-07-02/c2d3970eb06cc70a4ca001072738b27c41643167.pdf) |
+| farmácia — DO de Campo Belo | Campo Belo | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3111200/2026-07-02/bf8d6b854d6a378c940ea0ecbab895577dc5a631.pdf) |
+| farmácia — DO de Uberaba | Uberaba | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3170107/2026-07-02/fc8e772793b63657f6769e0eb941a46d9ff35096.pdf) |
+| farmácia — DO de Campinas | Campinas | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-07-02/b7bcfd28e25100733079490b8d8d02b1d0378aec.pdf) |
+| farmácia — DO de Junqueirópolis | Junqueirópolis | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3526001/2026-07-02/2d623351745b21f500193a2f36afefea344f7617.pdf) |
+| farmácia — DO de Birigui | Birigui | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3506508/2026-07-02/f661f1d69fb5e7f4b0007588e06f6045570542bc.pdf) |
+| farmácia — DO de Porangaba | Porangaba | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3540507/2026-07-02/bbf5ac6570b0430644a0a33ff84084942f62a631.pdf) |
+| farmácia — DO de Campinas | Campinas | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-07-01/a0fd595e4b7fa65e14efb6c33d6cf04eb92e7fc0.pdf) |
+| EXTRATO DE ADESÃO DE REGISTRO DE PREÇOS | Prefeitura Municipal de Manhumirim | lógica |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-adesao-de-registro-de-precos-710104863) |
 | EDITAL DE <span class='highlight' style='background:#FFA;'>SELEÇÃO</span> <span  | PREFEITURA MUNICIPAL DE GLÓRIA DO GOITÁ |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-selecao-publica-simplificada-para-contratacao-de-medicos-pessoa-fisica-709767617) |
 | Aviso de dispensa de licitação | Prefeitura Municipal da Estância Turística de Batatais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-dispensa-de-licitacao-709014104) |
 | professor substituto — DO de São Bernardo do Campo | São Bernardo do Campo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3548708/2026-07-03/b2dcadc26b478524652baef9573e04e1b3c6e2e3.pdf) |
@@ -498,10 +565,17 @@
 | AVISO DE LICITAÇÃO | Prefeitura Municipal de Igarapava |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-licitacao-717606222) |
 | AVISO DE ADESÃO A REGISTRO DE PREÇOS - CARONA Nº 6/2026 FMS | FUNDO MUNICIPAL DE SAÚDE DE RONDON DO PARÁ |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-adesao-a-registro-de-precos-carona-n-6/2026-fms-717605399) |
 
-## Institutos públicos (54)
+## Institutos públicos (61)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| farmácia — DO de Campinas | Campinas | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-07-08/ef8078c4bf898d5e0f6d1881424207bc5fe05a51.pdf) |
+| farmácia — DO de Itaúna | Itaúna | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3133808/2026-07-06/c9be2ce3045f05c5b68b2aa86a4450a9bfb8d373.pdf) |
+| farmácia — DO de Osasco | Osasco | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3534401/2026-07-06/b72aace362e551510827e6fb7efe8fa5bef5596a.pdf) |
+| farmácia — DO de Dracena | Dracena | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3514403/2026-07-02/74fdcf57f9d8d39523a614182ee31bca82a89b92.pdf) |
+| farmácia — DO de Mogi Guaçu | Mogi Guaçu | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3530706/2026-07-02/36345cf79cd61c1d9df2b9170a8cacb6dfddb496.pdf) |
+| EDITAL MPS Nº 17, DE 23 DE JUNHO DE 2026 | Gabinete do Ministro | lógica |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-mps-n-17-de-23-de-junho-de-2026-714308665) |
+| EDITAL MPS Nº 18, DE 23 DE JUNHO DE 2026 | Gabinete do Ministro | lógica |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-mps-n-18-de-23-de-junho-de-2026-714268954) |
 | EDITAL GABGEP Nº 70, de 29 de junho de 2026 | Universidade Tecnológica Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-gabgep-n-70-de-29-de-junho-de-2026-715930804) |
 | EDITAL GABGEP Nº 69, de 29 de junho de 2026 | Universidade Tecnológica Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-gabgep-n-69-de-29-de-junho-de-2026-715883648) |
 | EDITAL GABGEP Nº 68, de 26 de junho de 2026 | Universidade Tecnológica Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-gabgep-n-68-de-26-de-junho-de-2026-716822500) |
@@ -557,10 +631,110 @@
 | EDITAL Nº 12/2026 | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | EDITAL Nº 11/2026 | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (5)
+## Privadas (105)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| PROFESSOR(A) DE FILOSOFIA - ENSINO SUPERIOR | Confidencial |  | 17/07/2026 | aberta | [link](https://oportunidadesigilosa.gupy.io/job/eyJqb2JJZCI6MTE2MTA3NzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Edital nº 04/2026 Professor(a) Ensino Superior - Psicologia  | Grupo BOM JESUS IELUSC |  | 10/08/2026 | aberta | [link](https://bomjesusielusc.gupy.io/job/eyJqb2JJZCI6MTE0NzQ4MjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor(a) Ensino Superior - Pedagogia | FMU |  | 14/07/2026 | aberta | [link](https://fmu.gupy.io/job/eyJqb2JJZCI6MTEyOTQwMjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor(a) Universitário - Ciências de Dados  | FMU |  | 03/08/2026 | aberta | [link](https://fmu.gupy.io/job/eyJqb2JJZCI6MTE2MDQ4ODUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor(a) Universitário - Chapada dos Guimarães/MT | FMU |  | 22/08/2026 | aberta | [link](https://fmu.gupy.io/job/eyJqb2JJZCI6MTE1MzU3OTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor(a) Universitário(a) de Arquitetura e Urbanismo / Planejamento e Projet | Vagas Confidenciais |  | 22/08/2026 | aberta | [link](https://vagas-conf.gupy.io/job/eyJqb2JJZCI6MTE1MzU2MzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor(a) Universitário(a) de Engenharia da Computação – Reconhecimento de Pa | Seleção de Professores (Presencial) - Centro Universitário Facens |  | 17/07/2026 | aberta | [link](https://professoresfacens.gupy.io/job/eyJqb2JJZCI6MTE0NjI1NjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor(a) Universitário(a) de Análise e Desenvolvimento de Sistemas / Edital  | Seleção de Professores (Presencial) - Centro Universitário Facens |  | 17/07/2026 | aberta | [link](https://professoresfacens.gupy.io/job/eyJqb2JJZCI6MTE0NTc4NDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor(a) Universitário(a) de Engenharia Mecânica e Engenharia de Produção /  | Seleção de Professores (Presencial) - Centro Universitário Facens |  | 13/07/2026 | aberta | [link](https://professoresfacens.gupy.io/job/eyJqb2JJZCI6MTE0NTY2MzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor(a) Universitário(a) de Psicologia – Psicologia Escolar e Educacional / | Seleção de Professores (Presencial) - Centro Universitário Facens |  | 31/07/2026 | aberta | [link](https://professoresfacens.gupy.io/job/eyJqb2JJZCI6MTE0NDAyNzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor(a) Universitário(a) de Psicologia – Análise Experimental do Comportame | Seleção de Professores (Presencial) - Centro Universitário Facens |  | 31/07/2026 | aberta | [link](https://professoresfacens.gupy.io/job/eyJqb2JJZCI6MTE0MzkyMTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor(a) Universitário(a) de Enfermagem – Semiologia, Semiotécnica, Qualidad | Seleção de Professores (Presencial) - Centro Universitário Facens |  | 31/07/2026 | aberta | [link](https://professoresfacens.gupy.io/job/eyJqb2JJZCI6MTE0Mzg0MzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor(a) Universitário(a) de Biomedicina – Medicina Nuclear e Diagnóstico po | Seleção de Professores (Presencial) - Centro Universitário Facens |  | 21/07/2026 | aberta | [link](https://professoresfacens.gupy.io/job/eyJqb2JJZCI6MTE0MjU1MDksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor Universitário - Curso Biomedicina | Grupo SEB |  | 01/08/2026 | aberta | [link](https://gruposeb.gupy.io/job/eyJqb2JJZCI6MTE0MTQ0ODUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Coordenador(a) de Gente & Gestão Docente | Confidencial |  | 08/09/2026 | aberta | [link](https://vagas_confi_denciais.gupy.io/job/eyJqb2JJZCI6MTE2MTc5NzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente Medicina Veterinária - CADASTRO RESERVA / Afya Centro Universitário de T | Afya  |  | 05/09/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTE1OTU5NzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente Medicina Veterinária - CADASTRO RESERVA  / Afya Centro Universitário de  | Afya  |  | 05/09/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTE1OTU5NzUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente Arquitetura e Urbanismo / CADASTRO RESERVA - Afya Centro Universitário d | Afya  |  | 04/09/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTE1ODk2NjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente em Cibersegurança / Arquitetura de Banco de Dados | PUCPR | Docentes |  | 16/07/2026 | aberta | [link](https://docentespucpr.gupy.io/job/eyJqb2JJZCI6MTE2MDk5MzMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente em Medicina / Dermatologia Pediátrica | PUCPR | Docentes |  | 15/07/2026 | aberta | [link](https://docentespucpr.gupy.io/job/eyJqb2JJZCI6MTE2MDU3MTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente em Direito / Direito Constitucional e Administrativo - Campus Londrina | PUCPR | Docentes |  | 16/07/2026 | aberta | [link](https://docentespucpr.gupy.io/job/eyJqb2JJZCI6MTE2MDI2MzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente - Curso de Enfermagem - Nova Iguaçu | UNIG Carreiras |  | 06/09/2026 | aberta | [link](https://vemserunig.gupy.io/job/eyJqb2JJZCI6MTE2MDI4NzMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Banco de Talentos 2027 - Docentes / Rede Batista de Educação - Unidade Manaus -  | Rede Batista de Educação |  | 28/02/2027 | aberta | [link](https://redebatistadeeducacao.gupy.io/job/eyJqb2JJZCI6MTE1OTcyOTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Assistente Administrativo II - Apoio docente  | Santa Casa BH |  | 07/08/2026 | aberta | [link](https://santacasabh.gupy.io/job/eyJqb2JJZCI6MTE1NjMyMzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente - Jornalismo Especializado em Política e Economia | Fundação Cásper Líbero |  | 12/07/2026 | aberta | [link](https://fcl.gupy.io/job/eyJqb2JJZCI6MTE1OTI0NzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Estagiário de Inteligência de Operações Docentes | Grupo Salta Educação |  | 01/09/2026 | aberta | [link](https://gruposaltaedu.gupy.io/job/eyJqb2JJZCI6MTE1ODU1MzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente de Nível Superior II - Mestre (Mecânica) - CADASTRO RESERVA | SENAI - GO |  | 17/07/2026 | aberta | [link](https://senaigo.gupy.io/job/eyJqb2JJZCI6MTE1NTkxMjIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| DOCENTE MEDICINA - PROFESSOR - LIFE UNIC / JOINVILLE SC | Vem ser Life Unic |  | 31/08/2026 | aberta | [link](https://vemserlifeunic.gupy.io/job/eyJqb2JJZCI6MTE1NzkwNTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| DOCENTE DE MEDICINA (MEDICO DO TRABALHO) - PROFESSOR - LIFE UNIC / JOINVILLE SC | Vem ser Life Unic |  | 31/08/2026 | aberta | [link](https://vemserlifeunic.gupy.io/job/eyJqb2JJZCI6MTE1NzkwMDksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| DOCENTE DE MEDICINA - PROFESSOR - LIFE UNIC / JOINVILLE SC | Vem ser Life Unic |  | 31/08/2026 | aberta | [link](https://vemserlifeunic.gupy.io/job/eyJqb2JJZCI6MTE1Nzg5NDUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| DOCENTE ODONTOLOGIA - PROFESSOR - LIFE UNIC / JOINVILLE SC | Vem ser Life Unic |  | 31/08/2026 | aberta | [link](https://vemserlifeunic.gupy.io/job/eyJqb2JJZCI6MTE1NzYyNjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| DOCENTE MEDICINA VETERINÁRIA - PROFESSOR - LIFE UNIC / JOINVILLE SC | Vem ser Life Unic |  | 31/08/2026 | aberta | [link](https://vemserlifeunic.gupy.io/job/eyJqb2JJZCI6MTE1NzYxNDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| DOCENTE PSICOLOGIA - PROFESSOR - LIFE UNIC / JOINVILLE SC | Vem ser Life Unic |  | 31/08/2026 | aberta | [link](https://vemserlifeunic.gupy.io/job/eyJqb2JJZCI6MTE1NzU5NjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+|  Vaga - Docente Medicina / Claretiano - Centro Universitário de Rio Claro - (Edi | Claretiano – Rede de Educação |  | 12/07/2026 | aberta | [link](https://claretiano.gupy.io/job/eyJqb2JJZCI6MTE1NjI2ODgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+|  Vaga - Docente e Cadastro de Reserva / Claretiano - Centro Universitário de Rio | Claretiano – Rede de Educação |  | 12/07/2026 | aberta | [link](https://claretiano.gupy.io/job/eyJqb2JJZCI6MTE1NTg4MDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente de Engenharia Agronômica - Floricultura e Paisagismo  | Unifeob |  | 20/07/2026 | aberta | [link](https://unifeob.gupy.io/job/eyJqb2JJZCI6MTE1NTczODcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Programa de Formação Docente modalidade Estágio e Trainee | SENAI - GO |  | 13/07/2026 | aberta | [link](https://senaigo.gupy.io/job/eyJqb2JJZCI6MTE1NDY3MzUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente Medicina (EDITAL 2/2026) / AFYA IPATINGA | Afya  |  | 14/12/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTE1MjQ2OTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| DOCENTE MEDICINA CLINICA MEDICA / Afya Centro Universitário de São João Del Rei | Carreira Médica na Afya |  | 21/08/2026 | aberta | [link](https://afyamedicina.gupy.io/job/eyJqb2JJZCI6MTE1MjkwNjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| DOCENTE MEDICINA  / Afya Centro Universitário de São João Del Rei | Carreira Médica na Afya |  | 21/08/2026 | aberta | [link](https://afyamedicina.gupy.io/job/eyJqb2JJZCI6MTE1MjkwNjIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente de Nível Superior - Especialista  (Inteligência Artificial) | SENAI - GO |  | 12/07/2026 | aberta | [link](https://senaigo.gupy.io/job/eyJqb2JJZCI6MTE0MTk1OTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente de Odontologia Saúde Coletiva e Saúde Bucal Coletiva / Afya Centro Unive | Afya  |  | 07/08/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTE0NDkxMDksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente de Odontologia Dentística e Materiais Dentários / Afya Centro Universitá | Afya  |  | 07/08/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTE0NDkxMDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente de Odontologia Anestesiologia e Terapêutica Medicamentosa / Afya Centro  | Afya  |  | 07/08/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTE0NDkxMTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente Direito / CADASTRO RESERVA - Afya Centro Universitário de Teresina | Afya  |  | 07/08/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTE0NTA4MTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Banco de Talentos / Docente de Tecnologia - Curitiba/PR | Gran |  | 14/08/2026 | aberta | [link](https://vemsergran.gupy.io/job/eyJqb2JJZCI6MTE0OTQzNDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| 21 - DOCENTE EDUCAÇÃO INFANTIL - BANCO DE TALENTOS | Colégio Católica Machado de Assis  |  |  | sem prazo identificado | [link](https://colegiocatolicamachadodeassis.gupy.io/job/eyJqb2JJZCI6MTE0NzA0ODksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente de Tecnologia - Teste de Software | Unifeob |  | 09/08/2026 | aberta | [link](https://unifeob.gupy.io/job/eyJqb2JJZCI6MTE0NjYwMjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente de Nível Superior II -  Mestre (Desenvolvimento de software - Web) | SENAI - GO |  | 12/07/2026 | aberta | [link](https://senaigo.gupy.io/job/eyJqb2JJZCI6MTE0MTc5MzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente de Nível Superior - Especialista  (Elétrica/Automação) - CADASTRO RESERV | SENAI - GO |  | 02/08/2026 | aberta | [link](https://senaigo.gupy.io/job/eyJqb2JJZCI6MTEzNjcwOTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente de Nível Superior II - Mestre (Automação/Elétrica) - CADASTRO RESERVA | SENAI - GO |  | 02/08/2026 | aberta | [link](https://senaigo.gupy.io/job/eyJqb2JJZCI6MTEzNjYxMjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Banco de Talentos 2027 - Docentes / Rede Batista de Educação - Unidade Vila Velh | Rede Batista de Educação |  | 31/01/2027 | aberta | [link](https://redebatistadeeducacao.gupy.io/job/eyJqb2JJZCI6MTE0MDkyNzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Banco de Talentos 2027 - Docentes / Rede Batista de Educação - Unidade Porto Ale | Rede Batista de Educação |  | 31/01/2027 | aberta | [link](https://redebatistadeeducacao.gupy.io/job/eyJqb2JJZCI6MTE0MDkwODYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Banco de Talentos 2027 - Docentes / Rede Batista de Educação - Unidade Volta Red | Rede Batista de Educação |  | 31/01/2027 | aberta | [link](https://redebatistadeeducacao.gupy.io/job/eyJqb2JJZCI6MTE0MDg5ODYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Banco de Talentos 2027 - Docentes / Rede Batista de Educação - Unidades João Pes | Rede Batista de Educação |  | 31/01/2027 | aberta | [link](https://redebatistadeeducacao.gupy.io/job/eyJqb2JJZCI6MTE0MDg4MDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Banco de Talentos 2027 - Docentes / Rede Batista de Educação - Unidade Vila Mari | Rede Batista de Educação |  | 31/01/2027 | aberta | [link](https://redebatistadeeducacao.gupy.io/job/eyJqb2JJZCI6MTE0MDg2NDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Banco de Talentos 2027 - Docentes / Rede Batista de Educação - Unidade Governado | Rede Batista de Educação |  | 31/01/2027 | aberta | [link](https://redebatistadeeducacao.gupy.io/job/eyJqb2JJZCI6MTE0MDg1NzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Banco de Talentos 2027 - Docentes / Rede Batista de Educação - Unidade Lagoa San | Rede Batista de Educação |  | 31/01/2027 | aberta | [link](https://redebatistadeeducacao.gupy.io/job/eyJqb2JJZCI6MTE0MDg0OTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Banco de Talentos 2027 - Docentes / Rede Batista de Educação - Unidade Poços de  | Rede Batista de Educação |  | 31/01/2027 | aberta | [link](https://redebatistadeeducacao.gupy.io/job/eyJqb2JJZCI6MTE0MDgzODcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Banco de Talentos 2027 - Docentes / Rede Batista de Educação - Unidade Alphavill | Rede Batista de Educação |  | 31/01/2027 | aberta | [link](https://redebatistadeeducacao.gupy.io/job/eyJqb2JJZCI6MTE0MDgzMDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Banco de Talentos 2027 - Docentes / Rede Batista de Educação - Unidade Sete Lago | Rede Batista de Educação |  | 31/01/2027 | aberta | [link](https://redebatistadeeducacao.gupy.io/job/eyJqb2JJZCI6MTE0MDgyNDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Banco de Talentos 2027 - Docentes / Rede Batista de Educação - Unidades Uberlând | Rede Batista de Educação |  | 31/01/2027 | aberta | [link](https://redebatistadeeducacao.gupy.io/job/eyJqb2JJZCI6MTE0MDgwNzEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Banco de Talentos 2027 - Docentes / Rede Batista de Educação / Unidades Belo Hor | Rede Batista de Educação |  | 31/01/2027 | aberta | [link](https://redebatistadeeducacao.gupy.io/job/eyJqb2JJZCI6MTE0MDc4ODUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Banco de Talentos 2027 - Docentes / Rede Batista de Educação - Unidade Betim / M | Rede Batista de Educação |  | 31/01/2027 | aberta | [link](https://redebatistadeeducacao.gupy.io/job/eyJqb2JJZCI6MTE0MDc1ODAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Banco de Talentos 2027 - Docentes / Rede Batista de Educação - Unidade Ouro Bran | Rede Batista de Educação |  | 31/01/2027 | aberta | [link](https://redebatistadeeducacao.gupy.io/job/eyJqb2JJZCI6MTE0MDcyOTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente de Ensino Superior (EDITAL 2/2026) / Afya São João Del Rei | Afya  |  | 31/12/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTEyOTgxMDUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Ensino e Pesquisa - Docente em Telecomunicações | Inatel  |  | 31/08/2026 | aberta | [link](https://inatel.gupy.io/job/eyJqb2JJZCI6MTExMDI1MzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Banco de Talentos / Docente de Psicologia - Curitiba/PR | Gran |  | 31/07/2026 | aberta | [link](https://vemsergran.gupy.io/job/eyJqb2JJZCI6MTExNDc3MDksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Banco de Talentos Docente 2026 – Enfermagem / PRESENCIAL – NÍVEL BRASIL | Cogna Educação |  | 31/01/2027 | aberta | [link](https://cogna.gupy.io/job/eyJqb2JJZCI6MTA4MzM3OTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor de Formação de Docentes / São José dos Pinhais | APG GOV |  | 30/11/2026 | aberta | [link](https://apg-gov.gupy.io/job/eyJqb2JJZCI6MTA2NTcwNDksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor de Formação de Docentes / Laranjeiras do Sul | APG GOV |  | 30/11/2026 | aberta | [link](https://apg-gov.gupy.io/job/eyJqb2JJZCI6MTA1NTk2MTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Processo de Seleção - Novos Docentes 2026! - Curso Presencial e Semi Presencial  | Talentos UNIABEU |  | 01/09/2026 | aberta | [link](https://talentosuniabeu.gupy.io/job/eyJqb2JJZCI6MTAyNzM0OTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Processo de Seleção - Novos Docentes 2026! - Curso Presencial e Semi Presencial  | UNIG Carreiras |  | 01/09/2026 | aberta | [link](https://vemserunig.gupy.io/job/eyJqb2JJZCI6MTAyNzM0NTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Processo de Seleção - Novos Docentes 2026! - Curso Presencial e Semi Presencial  | UNIG Carreiras |  | 01/09/2026 | aberta | [link](https://vemserunig.gupy.io/job/eyJqb2JJZCI6MTAyNzMzMzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Processo de Seleção - Novos Docentes 2026! - Medicina / Belford Roxo | Talentos UNIABEU |  | 01/09/2026 | aberta | [link](https://talentosuniabeu.gupy.io/job/eyJqb2JJZCI6MTAyNzMyNzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Processo de Seleção - Novos Docentes 2026! - Medicina / Itaperuna | UNIG Carreiras |  | 01/09/2026 | aberta | [link](https://vemserunig.gupy.io/job/eyJqb2JJZCI6MTAyNzMyNDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Processo de Seleção - Novos Docentes 2026! - Medicina / Nova Iguaçu | UNIG Carreiras |  | 01/09/2026 | aberta | [link](https://vemserunig.gupy.io/job/eyJqb2JJZCI6MTAyNzMwMTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| BANCO DE TALENTOS - DOCENTES CURSO TÉCNICO - GASTRONOMIA - ESTÁCIO ALCANTARA | Estácio |  |  | sem prazo identificado | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6OTQ5MjA5NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal) |
+| Banco de Talentos Docentes - Faculdade BP | BP - A Beneficência Portuguesa de São Paulo |  | 31/07/2026 | aberta | [link](https://vemserbp.gupy.io/job/eyJqb2JJZCI6OTQ0MjMxMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal) |
+|  Docente - Banco de Talentos | FHO | Fundação Hermínio Ometto |  |  | sem prazo identificado | [link](https://fho.gupy.io/job/eyJqb2JJZCI6ODMyOTEwMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal) |
+| Banco de Talentos - DOCENTE | Centro Universitário Católica do Leste de Minas Gerais |  | 31/12/2036 | aberta | [link](https://unileste.gupy.io/job/eyJqb2JJZCI6NzcxOTE5NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal) |
+| Banco de Talentos - Docente de Ensino Superior | Afya  |  |  | sem prazo identificado | [link](https://afya.gupy.io/job/eyJqb2JJZCI6NzMzNjA4Niwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal) |
+| Vereda Educação / Banco de Talentos Docente  | Vereda Educação  |  |  | sem prazo identificado | [link](https://vereda.gupy.io/job/eyJqb2JJZCI6NzA3OTMzNywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal) |
+| Docente de apoio Matemática | Marista Brasil |  |  | sem prazo identificado | [link](https://maristabrasil.gupy.io/job/eyJqb2JJZCI6NTUxMDQ2OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal) |
+| Docente de Matemática | Marista Brasil |  |  | sem prazo identificado | [link](https://maristabrasil.gupy.io/job/eyJqb2JJZCI6NTQ2NDI1MCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal) |
+| Banco de Talentos - Docente | Colégio Uirapuru |  |  | sem prazo identificado | [link](https://colegiouirapuru.gupy.io/job/eyJqb2JJZCI6MTI4NDUwNCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - TECNOLOGIA DA INFORMAÇÃO - ESTÁCIO PARANGABA | Estácio |  | 31/08/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE2MDk3NzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - DIREITO PREVIDENCIÁRIO E PROCESSO DO TRABALHO - ESTÁCIO J | Estácio |  | 31/08/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE1ODYzNDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I A - ENGENHARIA - ESTÁCIO FORTALEZA/CENTRO | Estácio |  | 01/09/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE1ODIxNTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I A - RADIOLOGIA - ESTÁCIO FORTALEZA/CENTRO | Estácio |  | 01/09/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE1ODIxNDksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - DIREITO - ESTÁCIO ARACAJU  | Estácio |  | 01/09/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE1ODIxNDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR(A) REGENTE ANOS FINAIS - LÍNGUA INGLESA | Grupo Positivo |  | 01/09/2026 | aberta | [link](https://positivo.gupy.io/job/eyJqb2JJZCI6MTE1ODQzNDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor(a) de Ciências EFAF - Colégio Arnaldo Funcionários (Belo Horizonte/MG) | Rede Verbita de Educação |  | 03/08/2026 | aberta | [link](https://redeverbita.gupy.io/job/eyJqb2JJZCI6MTE2MTc4MTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor Mestre - Odontologia Pediátrica | Universidade Católica de Brasília  |  | 14/08/2026 | aberta | [link](https://ucb.gupy.io/job/eyJqb2JJZCI6MTE0MDg1NjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor Mestre - Odontologia  (Estomatologia/ Patologia Oral/ Cirurgia) | Universidade Católica de Brasília  |  | 14/08/2026 | aberta | [link](https://ucb.gupy.io/job/eyJqb2JJZCI6MTE0MDgwNjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor Especialista - Odontologia (Reabilitação Oral)  | Universidade Católica de Brasília  |  | 14/08/2026 | aberta | [link](https://ucb.gupy.io/job/eyJqb2JJZCI6MTE0MDY0MTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR MÉDICO AUXILIAR I -  HUMANIDADES MÉDICAS E PROFISSIONALISMO VII - IDOM | IDOMED |  | 31/07/2026 | aberta | [link](https://idomed.gupy.io/job/eyJqb2JJZCI6MTE2MDk3OTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR MÉDICO AUXILIAR I - INTEGRAÇÃO ENSINO, SERVIÇO E COMUNIDADE VII - IDOM | IDOMED |  | 31/07/2026 | aberta | [link](https://idomed.gupy.io/job/eyJqb2JJZCI6MTE2MDI4NjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - PRÁTICA DE EXTENSÃO UNIVERSITÁRIA VII - IDOMED SÃO LUÍS | IDOMED |  | 31/07/2026 | aberta | [link](https://idomed.gupy.io/job/eyJqb2JJZCI6MTE2MDI4NTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - BIOMEDICINA - WYDEN IMPERATRIZ | Wyden |  | 30/08/2026 | aberta | [link](https://wyden.gupy.io/job/eyJqb2JJZCI6MTE2MDk3OTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/91acedd54dd420dcd83d726377c8a5d9416c52ba.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/6c30940840c16d07c883e14ed65709547e2d132a.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |

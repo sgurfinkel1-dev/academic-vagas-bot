@@ -35,6 +35,7 @@ fontes:
   universidades_publicas: true
   universidades_privadas: false   # ponytail: exige scraping por instituição; ligue e preencha URLs
   busca_aberta: false  # ponytail: Bing/DDG servem captcha a scrapers; ligue só se plugar uma API de busca (ex.: SerpAPI free tier)
+  gupy: true           # privadas (Anhanguera, Estácio, FMU etc.) via API pública do Gupy
 
 termos_base:
   - "professor substituto"

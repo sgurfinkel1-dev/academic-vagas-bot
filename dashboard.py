@@ -32,14 +32,15 @@ st.title("🎓 Vagas de Professor e Pesquisador — Brasil")
 if not DB.exists():
     st.warning("Banco vazio. Clique em 'Buscar novas vagas' na barra lateral ou rode `python -m src.main`.")
 
-with st.sidebar:
-    if st.button("🔄 Buscar novas vagas agora", use_container_width=True):
-        with st.spinner("Consultando DOU, diários, FAPESP e universidades... (alguns minutos)"):
-            r = subprocess.run([sys.executable, "-m", "src.main"], cwd=RAIZ,
-                               capture_output=True, text=True)
-        st.success("Busca concluída!" if r.returncode == 0 else f"Erro na busca: {r.stderr[-300:]}")
-        st.rerun()
+def _busca_viva(palavra: str, modo: str, aviso: str):
+    with st.spinner(aviso):
+        r = subprocess.run([sys.executable, "-m", "src.main", "--palavra", palavra, "--modo", modo],
+                           cwd=RAIZ, capture_output=True, text=True)
+    st.success(r.stdout.strip()[-200:] if r.returncode == 0 else f"Erro: {r.stderr[-300:]}")
+    st.rerun()
 
+
+with st.sidebar:
     st.header("Filtros")
     f_classe = st.selectbox("Tipo de instituição", ["Todas"] + CLASSES)
     f_tipos = st.multiselect("Tipo de vaga (vazio = todos)", list(TIPOS_VAGA))
@@ -51,15 +52,14 @@ with st.sidebar:
                                                      "doutorado", "pós-doutorado", "livre-docência", "não informado"])
     with st.form("busca_texto", border=False):
         f_texto = st.text_input("Buscar por área/palavra (ex.: Direito, IA)")
-        st.form_submit_button("🔍 Filtrar resultados já baixados", use_container_width=True)
-        buscar_ao_vivo = st.form_submit_button("🌐 Buscar essa área no DOU agora",
-                                               use_container_width=True)
-    if buscar_ao_vivo and f_texto.strip():
-        with st.spinner(f"Buscando '{f_texto}' no Diário Oficial... (~2 min)"):
-            r = subprocess.run([sys.executable, "-m", "src.main", "--palavra", f_texto.strip()],
-                               cwd=RAIZ, capture_output=True, text=True)
-        st.success(r.stdout.strip() or "Concluído." if r.returncode == 0 else f"Erro: {r.stderr[-300:]}")
-        st.rerun()
+        b_geral = st.form_submit_button("🔍 Busca geral", use_container_width=True)
+        b_diarios = st.form_submit_button("📜 Buscar só nos diários oficiais", use_container_width=True)
+    if b_geral and f_texto.strip():
+        _busca_viva(f_texto.strip(), "geral",
+                    f"Buscando '{f_texto}' em privadas (Gupy) e diários municipais... (~30 s)")
+    if b_diarios and f_texto.strip():
+        _busca_viva(f_texto.strip(), "diarios",
+                    f"Buscando '{f_texto}' no DOU e diários municipais... (~2 min)")
 
 if not DB.exists():
     st.stop()

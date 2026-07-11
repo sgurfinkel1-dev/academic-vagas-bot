@@ -12,7 +12,7 @@ import yaml
 
 from .database import storage
 from .database.models import Vaga
-from .sources import dou, querido_diario, fapesp, universidades_publicas, universidades_privadas, busca_aberta
+from .sources import dou, querido_diario, fapesp, universidades_publicas, universidades_privadas, busca_aberta, gupy
 from .alerts import telegram_alert, discord_alert, email_alert
 from .output import export_csv, export_json, export_markdown
 
@@ -54,10 +54,20 @@ def montar_alerta(novas: list[Vaga], user: dict) -> str:
     return "\n".join(linhas)
 
 
-def _buscar_palavra(palavra: str, cfg: dict) -> int:
-    """Busca ao vivo no DOU por uma palavra/área e salva no banco."""
+def _buscar_palavra(palavra: str, cfg: dict, modo: str = "geral") -> int:
+    """Busca ao vivo por uma palavra/área e salva no banco.
+    modo 'geral': privadas (Gupy) + diários municipais (rápido).
+    modo 'diarios': DOU (navegador, lento) + diários municipais."""
     dias = max(cfg["busca"].get("dias_retroativos", 30), 90)  # janela ampla p/ área específica
-    vagas = dou.buscar_palavra(palavra, dias)
+    vagas = []
+    if modo == "diarios":
+        vagas += dou.buscar_palavra(palavra, dias)
+    else:
+        vagas += gupy.buscar([palavra])
+    qd = querido_diario.buscar([palavra], dias, 100, estados=cfg["usuario"].get("estados") or None)
+    for v in qd:
+        v.area = palavra
+    vagas += qd
     con = storage.conectar()
     novas = storage.salvar(con, vagas)
     export_csv.exportar(storage.todas(con))
@@ -70,12 +80,13 @@ def _buscar_palavra(palavra: str, cfg: dict) -> int:
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--config", default=str(Path(__file__).resolve().parents[1] / "config.yaml"))
-    ap.add_argument("--palavra", help="busca ao vivo no DOU por esta palavra/área (ex.: Direito)")
+    ap.add_argument("--palavra", help="busca ao vivo por esta palavra/área (ex.: Direito)")
+    ap.add_argument("--modo", default="geral", choices=["geral", "diarios"])
     args = ap.parse_args()
     cfg = yaml.safe_load(Path(args.config).read_text(encoding="utf-8"))
 
     if args.palavra:
-        return _buscar_palavra(args.palavra, cfg)
+        return _buscar_palavra(args.palavra, cfg, args.modo)
 
     user, busca, fontes = cfg["usuario"], cfg["busca"], cfg["fontes"]
     termos = cfg.get("termos_base", []) + [a for a in user.get("areas", [])]
@@ -91,6 +102,7 @@ def main():
         ("universidades_publicas", lambda: universidades_publicas.buscar(cfg.get("paginas_concursos", []), max_f)),
         ("universidades_privadas", lambda: universidades_privadas.buscar(cfg.get("paginas_privadas", []), max_f)),
         ("busca_aberta", lambda: busca_aberta.buscar(cfg.get("termos_base", []), user.get("areas", []), 50)),
+        ("gupy", lambda: gupy.buscar(user.get("areas", []), max_f)),
     ]
     for nome, fn in execucoes:
         if not fontes.get(nome, False):
