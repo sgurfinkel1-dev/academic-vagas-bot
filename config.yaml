@@ -33,7 +33,7 @@ fontes:
   querido_diario: true
   fapesp: true
   universidades_publicas: true
-  universidades_privadas: false   # ponytail: exige scraping por instituição; ligue e preencha URLs
+  universidades_privadas: true
   busca_aberta: false  # ponytail: Bing/DDG servem captcha a scrapers; ligue só se plugar uma API de busca (ex.: SerpAPI free tier)
   gupy: true           # privadas (Anhanguera, Estácio, FMU etc.) via API pública do Gupy
 
@@ -88,6 +88,16 @@ paginas_concursos:
     url: https://www.ufv.br/concursos/
   - nome: IFSP
     url: https://www.ifsp.edu.br/component/content/article?id=13-concursos
+
+# páginas de vagas/editais de instituições privadas (varridas por universidades_privadas)
+paginas_privadas:
+  - nome: PUC-SP
+    url: https://pucsp.gupy.io/
+  - nome: Mackenzie
+    url: https://www.mackenzie.br/trabalhe-conosco
+  - nome: FGV EAESP
+    url: https://eaesp.fgv.br/
+  # FGV Direito SP: TLS incompatível com httpx; FGV central publica via LinkedIn
 
 alertas:
   telegram:

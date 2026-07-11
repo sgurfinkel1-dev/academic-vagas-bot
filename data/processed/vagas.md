@@ -565,10 +565,15 @@
 | AVISO DE LICITAÇÃO | Prefeitura Municipal de Igarapava |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-licitacao-717606222) |
 | AVISO DE ADESÃO A REGISTRO DE PREÇOS - CARONA Nº 6/2026 FMS | FUNDO MUNICIPAL DE SAÚDE DE RONDON DO PARÁ |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-adesao-a-registro-de-precos-carona-n-6/2026-fms-717605399) |
 
-## Institutos públicos (61)
+## Institutos públicos (66)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Edital de Seleção de Professores(as) - ÀREA DE DIREITO CIVIL- Vagas Afirmativas  | PUC-SP |  |  | sem prazo identificado | [link](https://pucsp.gupy.io/jobs/11547778?jobBoardSource=gupy_public_page) |
+| Edital de Seleção de Professores(as) - ÁREA DE DIREITOS DIFUSOS - Vagas Afirmati | PUC-SP |  |  | sem prazo identificado | [link](https://pucsp.gupy.io/jobs/11548085?jobBoardSource=gupy_public_page) |
+| Edital de Seleção de Professores(as) - MÉTODOS E TÉCNICAS EM PSICOLOGIA - Vagas  | PUC-SP |  |  | sem prazo identificado | [link](https://pucsp.gupy.io/jobs/11548427?jobBoardSource=gupy_public_page) |
+| Edital de Seleção de Professores(as) - PROGRAMA DE CIÊNCIAS CONTÁBEIS - Vagas Af | PUC-SP |  |  | sem prazo identificado | [link](https://pucsp.gupy.io/jobs/11548784?jobBoardSource=gupy_public_page) |
+| Edital de Seleção de Professores(as) - PSICOLOGIA DO DESENVOLVIMENTO HUMANO - Va | PUC-SP |  |  | sem prazo identificado | [link](https://pucsp.gupy.io/jobs/11548222?jobBoardSource=gupy_public_page) |
 | farmácia — DO de Campinas | Campinas | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-07-08/ef8078c4bf898d5e0f6d1881424207bc5fe05a51.pdf) |
 | farmácia — DO de Itaúna | Itaúna | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3133808/2026-07-06/c9be2ce3045f05c5b68b2aa86a4450a9bfb8d373.pdf) |
 | farmácia — DO de Osasco | Osasco | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3534401/2026-07-06/b72aace362e551510827e6fb7efe8fa5bef5596a.pdf) |
@@ -631,10 +636,14 @@
 | EDITAL Nº 12/2026 | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | EDITAL Nº 11/2026 | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (105)
+## Privadas (109)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Relação de Cursos e Professores | Mackenzie |  |  | sem prazo identificado | [link](https://www.mackenzie.br/aluno-e-antigo-aluno/universidade/area-administrativa-de-estagio/informacoes-para-empresas-e-agentes-de-integracao/relacao-de-cursos-e-professores) |
+| Professores Visitantes | Mackenzie |  |  | sem prazo identificado | [link](https://www.mackenzie.br/internacional/professores-visitantes) |
+| Pós em Formação Docente em Práticas Educativas Inclusivas | Mackenzie |  |  | sem prazo identificado | [link](https://www.mackenzie.br/pos-graduacao/pos-e-mba/sao-paulo-higienopolis/educacao/pos-em-formacao-docente-em-praticas-educativas-inclusivas) |
+| Pós em Prática Docente na Educação Básica | Mackenzie |  |  | sem prazo identificado | [link](https://www.mackenzie.br/pos-graduacao/pos-e-mba/sao-paulo-higienopolis/educacao/pos-em-pratica-docente-na-educacao-basica) |
 | PROFESSOR(A) DE FILOSOFIA - ENSINO SUPERIOR | Confidencial |  | 17/07/2026 | aberta | [link](https://oportunidadesigilosa.gupy.io/job/eyJqb2JJZCI6MTE2MTA3NzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Edital nº 04/2026 Professor(a) Ensino Superior - Psicologia  | Grupo BOM JESUS IELUSC |  | 10/08/2026 | aberta | [link](https://bomjesusielusc.gupy.io/job/eyJqb2JJZCI6MTE0NzQ4MjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Professor(a) Ensino Superior - Pedagogia | FMU |  | 14/07/2026 | aberta | [link](https://fmu.gupy.io/job/eyJqb2JJZCI6MTEyOTQwMjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
@@ -741,10 +750,11 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 | AVISO DE CHAMAMENTO PÚBLICO | Serviço Nacional de Aprendizagem Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-chamamento-publico-717706394) |
 
-## Bolsas / pós-doc / agências (64)
+## Bolsas / pós-doc / agências (65)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Chamada para bolsa de pós-doutorado FAPESP – Projeto DECODE (FGV EAESP) | FGV EAESP |  |  | sem prazo identificado | [link](https://eaesp.fgv.br/noticias/chamada-para-bolsa-de-pos-doutorado-fapesp-projeto-decode-fgv-eaesp) |
 | pós-doutorado — DO de Rio de Janeiro | Rio de Janeiro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3304557/2026-06-18/df5094ccac698583348c6df3a0a336b32c1770fb.pdf) |
 | pós-doutorado — DO de Rio de Janeiro | Rio de Janeiro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3304557/2026-06-15/493d31ebe338feb95971be6d398fbfab34b94237.pdf) |
 | pós-doutorado — DO de Rio de Janeiro | Rio de Janeiro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3304557/2026-06-08/22db3a9e0bda7c37057967dc92fe27f7102fcb78.pdf) |
