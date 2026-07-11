@@ -71,6 +71,32 @@ def status_por_prazo(prazo: str) -> str:
     return "sem prazo identificado"
 
 
+# --- validador central: só vaga aberta de docência/pesquisa em ensino superior ---
+EXCLUIR = re.compile(
+    r"educação infantil|ensino fundamental|ensino médio|educação básica|\beja\b|creche|berçário|"
+    r"professor de apoio|auxiliar de classe|professor i\b|peb.i|"
+    r"extrato de contrato|extrato de termo|extrato de doação|extrato de acordo|extrato de rescisão|"
+    r"extrato de registro|termo aditivo|aviso de licitação|apostilamento|"
+    r"resultado final|homologação|nomeação|convocação|aposentadoria|exoneração|"
+    r"relação de cursos|pós em\b|inscreva-se no curso", re.I)
+CARGO = re.compile(r"professor|docente|pesquisador|pós.doutor|postdoc|bolsista|magistério superior|lecturer", re.I)
+CONTEXTO_SUPERIOR = re.compile(
+    r"universi|faculdade|instituto|centro universitário|ensino superior|magistério superior|"
+    r"pós.gradua|campus|pós.doutor|postdoc|fapesp|capes|cnpq", re.I)
+
+
+def eh_vaga_academica(texto: str, classificacao: str = "") -> bool:
+    """True somente para vaga aberta de professor/pesquisador de ensino superior."""
+    if EXCLUIR.search(texto):
+        return False
+    if not CARGO.search(texto):
+        return False
+    # diários municipais publicam sobretudo educação básica: exige contexto de ensino superior
+    if classificacao in ("pública municipal", "verificar manualmente") and not CONTEXTO_SUPERIOR.search(texto):
+        return False
+    return True
+
+
 def extrair_estado(texto: str) -> str:
     m = re.search(r"\b(AC|AL|AP|AM|BA|CE|DF|ES|GO|MA|MT|MS|MG|PA|PB|PR|PE|PI|RJ|RN|RS|RO|RR|SC|SP|SE|TO)\b", texto)
     return m.group(1) if m else ""

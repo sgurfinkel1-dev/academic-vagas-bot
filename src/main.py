@@ -12,6 +12,7 @@ import yaml
 
 from .database import storage
 from .database.models import Vaga
+from .extractors import llm_classifier as clf
 from .sources import dou, querido_diario, fapesp, universidades_publicas, universidades_privadas, busca_aberta, gupy, vagas_com
 from .alerts import telegram_alert, discord_alert, email_alert
 from .output import export_csv, export_json, export_markdown
@@ -32,6 +33,9 @@ def filtrar(vagas: list[Vaga], user: dict) -> list[Vaga]:
     estados = set(user.get("estados", []))
     saida = []
     for v in vagas:
+        if not clf.eh_vaga_academica(f"{v.titulo} {v.natureza} {v.trecho_comprovacao}",
+                                     v.classificacao_instituicao):
+            continue
         if v.classificacao_instituicao not in classes_ok:
             continue
         if estados and v.estado and v.estado not in estados:
@@ -68,6 +72,8 @@ def _buscar_palavra(palavra: str, cfg: dict, modo: str = "geral") -> int:
     for v in qd:
         v.area = palavra
     vagas += qd
+    vagas = [v for v in vagas if clf.eh_vaga_academica(
+        f"{v.titulo} {v.natureza} {v.trecho_comprovacao}", v.classificacao_instituicao)]
     con = storage.conectar()
     novas = storage.salvar(con, vagas)
     export_csv.exportar(storage.todas(con))
