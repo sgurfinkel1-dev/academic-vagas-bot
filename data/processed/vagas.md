@@ -636,10 +636,30 @@
 | EDITAL Nº 12/2026 | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | EDITAL Nº 11/2026 | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (109)
+## Privadas (129)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor de Administração | Fundação Salvador Arena |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2821290/professor-de-administracao) |
+| Professor de Engenharia de Computação | Fundação Salvador Arena |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2821297/professor-de-engenharia-de-computacao) |
+| Professor de Planejamento, Programação e Controle da Produção (Ppcp) para o Curs | Colégio Santa Cruz |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2823859/professor-de-planejamento-programacao-e-controle-da-producao-ppcp-para-o-curso-de-educacao-profissional) |
+| Auxiliar Administrativo | Inspirali |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2821930/auxiliar-administrativo) |
+| Coordenador de Curso (TI) | Universidade Veiga de Almeida |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2822525/coordenador-de-curso-ti) |
+| Assistente Acadêmico | Inspirali |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2820424/assistente-academico) |
+| Assistente Acadêmico | Inspirali |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2818022/assistente-academico) |
+| Psicólogo (a) - Napid | Inspirali |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2820286/psicologo-a-napid) |
+| Psicólogo (a) - Napid | Inspirali |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2822396/psicologo-a-napid) |
+| Analista Acadêmico | Inspirali |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2821920/analista-academico) |
+| Estagiário de Pedagogia | Fundação São Francisco Xavier |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2824605/estagiario-de-pedagogia) |
+| Assistente de Suporte Acadêmico | Fundação Getulio Vargas |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2822971/assistente-de-suporte-academico) |
+| Assistente Suporte Academico | A.C.Camargo Cancer Center |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2820407/assistente-suporte-academico) |
+| Psicopedagogo (a) Junior - Ensino / Pecp - Programa Einstein na Comunidade de Pa | Einstein Hospital Israelita |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2823056/psicopedagogo-a-junior-ensino-pecp-programa-einstein-na-comunidade-de-paraisopolis) |
+| 133448 / PROFESSOR – ENGENHARIA MECÂNICA – BETIM/MG Betim - MG Efetivo | Cogna (Anhanguera...) |  |  | sem prazo identificado | [link](https://cogna.gupy.io/jobs/11566082?jobBoardSource=gupy_public_page) |
+| AUXILIAR ADMINISTRATIVO-SALA DOS PROFESSORES ESTÁCIO JUIZ DE FORA  MG Juiz de Fo | Yduqs (Estácio...) |  |  | sem prazo identificado | [link](https://yduqs.gupy.io/jobs/11285285?jobBoardSource=gupy_public_page) |
+| COORDENADOR CURSO II - ENFERMAGEM - ESTÁCIO MACAPÁ Macapá - AP Docente | Ibmec |  |  | sem prazo identificado | [link](https://ibmec.gupy.io/jobs/11496082?jobBoardSource=gupy_public_page) |
+| PROFESSOR(A) - BANCO DE TALENTOS - EXCLUSIVO PARA PESSOAS COM DEFICIÊNCIA - IBME | Ibmec |  |  | sem prazo identificado | [link](https://ibmec.gupy.io/jobs/1610601?jobBoardSource=gupy_public_page) |
+| PROFESSOR ADJUNTO I - A&U: PRÉ-INDUSTRIAL - IBMEC BARRA DA TIJUCA Rio de Janeiro | Ibmec |  |  | sem prazo identificado | [link](https://ibmec.gupy.io/jobs/11502845?jobBoardSource=gupy_public_page) |
+| PROFESSOR ADJUNTO I – CALCULO – IBMEC BARRA DA TIJUCA Rio de Janeiro - RJ Docent | Ibmec |  |  | sem prazo identificado | [link](https://ibmec.gupy.io/jobs/11381454?jobBoardSource=gupy_public_page) |
 | Relação de Cursos e Professores | Mackenzie |  |  | sem prazo identificado | [link](https://www.mackenzie.br/aluno-e-antigo-aluno/universidade/area-administrativa-de-estagio/informacoes-para-empresas-e-agentes-de-integracao/relacao-de-cursos-e-professores) |
 | Professores Visitantes | Mackenzie |  |  | sem prazo identificado | [link](https://www.mackenzie.br/internacional/professores-visitantes) |
 | Pós em Formação Docente em Práticas Educativas Inclusivas | Mackenzie |  |  | sem prazo identificado | [link](https://www.mackenzie.br/pos-graduacao/pos-e-mba/sao-paulo-higienopolis/educacao/pos-em-formacao-docente-em-praticas-educativas-inclusivas) |

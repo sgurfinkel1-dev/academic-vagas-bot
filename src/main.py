@@ -12,7 +12,7 @@ import yaml
 
 from .database import storage
 from .database.models import Vaga
-from .sources import dou, querido_diario, fapesp, universidades_publicas, universidades_privadas, busca_aberta, gupy
+from .sources import dou, querido_diario, fapesp, universidades_publicas, universidades_privadas, busca_aberta, gupy, vagas_com
 from .alerts import telegram_alert, discord_alert, email_alert
 from .output import export_csv, export_json, export_markdown
 
@@ -103,6 +103,7 @@ def main():
         ("universidades_privadas", lambda: universidades_privadas.buscar(cfg.get("paginas_privadas", []), max_f)),
         ("busca_aberta", lambda: busca_aberta.buscar(cfg.get("termos_base", []), user.get("areas", []), 50)),
         ("gupy", lambda: gupy.buscar(user.get("areas", []), max_f)),
+        ("vagas_com", lambda: vagas_com.buscar(max_f)),
     ]
     for nome, fn in execucoes:
         if not fontes.get(nome, False):

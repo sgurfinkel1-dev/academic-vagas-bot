@@ -36,6 +36,7 @@ fontes:
   universidades_privadas: true
   busca_aberta: false  # ponytail: Bing/DDG servem captcha a scrapers; ligue só se plugar uma API de busca (ex.: SerpAPI free tier)
   gupy: true           # privadas (Anhanguera, Estácio, FMU etc.) via API pública do Gupy
+  vagas_com: true      # privadas fora do Gupy via Vagas.com.br
 
 termos_base:
   - "professor substituto"
@@ -98,6 +99,21 @@ paginas_privadas:
   - nome: FGV EAESP
     url: https://eaesp.fgv.br/
   # FGV Direito SP: TLS incompatível com httpx; FGV central publica via LinkedIn
+  # grupos privados com mural público no Gupy (cobrem a maior parte das particulares de SP)
+  - nome: Ânima (São Judas, Anhembi Morumbi...)
+    url: https://anima.gupy.io/
+  - nome: Cogna (Anhanguera...)
+    url: https://cogna.gupy.io/
+  - nome: Yduqs (Estácio...)
+    url: https://yduqs.gupy.io/
+  - nome: Cruzeiro do Sul
+    url: https://cruzeirodosul.gupy.io/
+  - nome: FMU
+    url: https://fmu.gupy.io/
+  - nome: UniCid
+    url: https://unicid.gupy.io/
+  - nome: Ibmec
+    url: https://ibmec.gupy.io/
 
 alertas:
   telegram:

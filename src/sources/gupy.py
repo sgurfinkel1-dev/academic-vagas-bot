@@ -23,8 +23,14 @@ MODALIDADE = {"on-site": "presencial", "remote": "remoto", "hybrid": "híbrido"}
 def buscar(termos_extra: list[str] | None = None, max_por_fonte: int = 100) -> list[Vaga]:
     vagas, vistos = [], set()
     for termo in TERMOS + (termos_extra or []):
-        dados = baixar_json(URL, params={"jobName": termo, "limit": 100})
-        for j in (dados or {}).get("data", []):
+        itens = []
+        for offset in (0, 100, 200, 300):  # pagina até secar
+            dados = baixar_json(URL, params={"jobName": termo, "limit": 100, "offset": offset})
+            pagina = (dados or {}).get("data", [])
+            itens += pagina
+            if len(pagina) < 100:
+                break
+        for j in itens:
             if j["id"] in vistos:
                 continue
             vistos.add(j["id"])
