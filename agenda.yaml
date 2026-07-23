@@ -1,0 +1,7 @@
+# Configuração da busca automática — editável pelo dashboard.
+# O robô (src/main.py) lê este arquivo e sobrepõe o config.yaml.
+areas:
+  - Direito
+  - Medicina
+  - Inteligência Artificial
+dias_retroativos: 30

@@ -7,9 +7,39 @@ from pathlib import Path
 
 import pandas as pd
 import streamlit as st
+import yaml
+
+from src import nuvem
 
 RAIZ = Path(__file__).parent
 DB = RAIZ / "data" / "processed" / "vagas.db"
+AGENDA = RAIZ / "agenda.yaml"
+
+st.set_page_config(page_title="Vagas Acadêmicas", layout="wide")
+
+
+def _secret(chave, default=None):
+    try:
+        return st.secrets.get(chave, default)
+    except Exception:
+        return default
+
+
+def _exigir_login():
+    """Login Google — ativo só quando 'auth' está configurado nos secrets (nuvem)."""
+    if not _secret("auth"):
+        return  # local: acesso aberto
+    if not getattr(st.user, "is_logged_in", False):
+        st.title("🎓 Vagas Acadêmicas")
+        st.info("Acesso restrito. Entre com sua conta Google para continuar.")
+        st.button("Entrar com Google", on_click=st.login, type="primary")
+        st.stop()
+    with st.sidebar:
+        st.caption(f"👤 {getattr(st.user, 'email', '')}")
+        st.button("Sair", on_click=st.logout)
+
+
+_exigir_login()
 
 CLASSES = ["pública federal", "pública estadual", "pública municipal",
            "instituto público", "privada", "agência/fundação", "verificar manualmente"]
@@ -26,7 +56,6 @@ TIPOS_VAGA = {
     "Bolsa": r"bolsa|bolsista|fellowship",
 }
 
-st.set_page_config(page_title="Vagas Acadêmicas", layout="wide")
 st.title("🎓 Vagas de Professor e Pesquisador — Brasil")
 
 if not DB.exists():
@@ -40,7 +69,37 @@ def _busca_viva(palavra: str, modo: str, aviso: str):
     st.rerun()
 
 
+def _painel_config():
+    """Configura áreas + período da busca automática; salva na agenda e, na nuvem, dispara o robô."""
+    ag = yaml.safe_load(AGENDA.read_text(encoding="utf-8")) if AGENDA.exists() else {}
+    repo, token = _secret("github_repo"), _secret("github_token")
+    with st.sidebar.expander("⚙️ Busca automática", expanded=False):
+        areas_txt = st.text_area("Áreas de interesse (uma por linha)",
+                                 "\n".join(ag.get("areas", [])), height=110)
+        dias = st.select_slider("Período (dias para trás)", [7, 15, 30, 60, 90],
+                                value=ag.get("dias_retroativos", 30))
+        if st.button("💾 Salvar configuração", use_container_width=True):
+            nova = {"areas": [a.strip() for a in areas_txt.splitlines() if a.strip()],
+                    "dias_retroativos": dias}
+            conteudo = yaml.safe_dump(nova, allow_unicode=True, sort_keys=False)
+            AGENDA.write_text(conteudo, encoding="utf-8")
+            if repo and token:  # nuvem: persiste no repo p/ a busca agendada usar
+                nuvem.commitar_arquivo(repo, "agenda.yaml", conteudo, token,
+                                       "dashboard: atualiza agenda de busca")
+            st.success("Configuração salva.")
+        if repo and token:
+            st.caption("A busca roda sozinha todo dia no horário agendado (GitHub Actions).")
+            if st.button("☁️ Rodar busca completa agora", use_container_width=True):
+                ok = nuvem.disparar_busca(repo, token)
+                st.success("Disparado! Resultados chegam em alguns minutos.") if ok \
+                    else st.error("Falha ao disparar — confira o token nos secrets.")
+        else:
+            st.caption("Modo local: use os botões de busca abaixo. "
+                       "Na nuvem, aqui aparece o disparo automático.")
+
+
 with st.sidebar:
+    _painel_config()
     st.header("Filtros")
     f_classe = st.selectbox("Tipo de instituição", ["Todas"] + CLASSES)
     f_tipos = st.multiselect("Tipo de vaga (vazio = todos)", list(TIPOS_VAGA))

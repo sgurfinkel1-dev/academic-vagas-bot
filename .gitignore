@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .venv/
 data/raw/
+
+# secrets locais do Streamlit (nunca comitar)
+.streamlit/secrets.toml

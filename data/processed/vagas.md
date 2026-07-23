@@ -223,10 +223,13 @@
 | pós-doutorado — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-06-09/b033b608510dd845e504e8d1445291f039defc8d.pdf) |
 | Gerenciamento de Pesquisadores | UNICAMP |  |  | sem prazo identificado | [link](https://www.dgrh.unicamp.br/link-sistema-de-gerenciamento-de-pesquisadores) |
 
-## Públicas municipais (6)
+## Públicas municipais (9)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| farmacia — DO de Rio Claro | Rio Claro | farmacia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3543907/2026-06-03/04c6e06c11e48ffba0dd88833bf8639c8dc303ad.pdf) |
+| farmacia — DO de Rio Claro | Rio Claro | farmacia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3543907/2026-05-29/6c00f828baf231764cf394b1bb99270b2abf0d8c.pdf) |
+| farmacia — DO de Betim | Betim | farmacia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3106705/2026-06-30/8a3898a04723fdc5d4b9831df10966ef7408da38.pdf) |
 | filosofia — DO de Betim | Betim | filosofia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3106705/2026-04-30/75b8a797e055de0ded26929d629c587639a1dccf.pdf) |
 | professor colaborador — DO de Taubaté | Taubaté |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3554102/2026-06-30/0ac206e636d2302d84dd81b8ae85f5f41a1f1dac.pdf) |
 | docente — DO de Angra dos Reis | Angra dos Reis |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3300100/2026-07-06/e20d567e6e0ad4ee79ce9836e7bcd691c80af1a7.pdf) |

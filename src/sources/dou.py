@@ -3,6 +3,7 @@ Os resultados vêm embutidos num <script> com jsonArray (mesma fonte que o Ro-DO
 """
 import json
 import logging
+import os
 import re
 from datetime import date, timedelta
 from urllib.parse import quote
@@ -13,12 +14,15 @@ from ..database.models import Vaga
 log = logging.getLogger("bot")
 BUSCA = ("https://www.in.gov.br/consulta/-/buscar/dou?q=%22{termo}%22&s=do3&sortType=0"
          "&delta={delta}&exactDate=personalizado&publishFrom={desde}&publishTo={ate}")
+# Windows local: Chromium empacotado não abre (side-by-side), usa Chrome instalado.
+# Linux/CI: sem Chrome instalado, usa o Chromium empacotado (AVB_REAL_CHROME=0).
+REAL_CHROME = os.getenv("AVB_REAL_CHROME", "1") != "0"
 
 
 def _itens(termo: str, desde: str, ate: str, delta: int):
     from scrapling.fetchers import DynamicFetcher
     url = BUSCA.format(termo=quote(termo), delta=min(delta, 75), desde=desde, ate=ate)
-    p = DynamicFetcher.fetch(url, real_chrome=True, headless=True, timeout=120000, wait=8000)
+    p = DynamicFetcher.fetch(url, real_chrome=REAL_CHROME, headless=True, timeout=120000, wait=8000)
     html = p.html_content
     i = html.find("jsonArray")
     if i < 0:

@@ -91,6 +91,15 @@ def main():
     args = ap.parse_args()
     cfg = yaml.safe_load(Path(args.config).read_text(encoding="utf-8"))
 
+    # agenda.yaml (editável pelo dashboard) sobrepõe áreas e período
+    agenda = Path(args.config).with_name("agenda.yaml")
+    if agenda.exists():
+        ag = yaml.safe_load(agenda.read_text(encoding="utf-8")) or {}
+        if ag.get("areas"):
+            cfg["usuario"]["areas"] = ag["areas"]
+        if ag.get("dias_retroativos"):
+            cfg["busca"]["dias_retroativos"] = ag["dias_retroativos"]
+
     if args.palavra:
         return _buscar_palavra(args.palavra, cfg, args.modo)
 

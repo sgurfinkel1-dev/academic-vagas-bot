@@ -16,8 +16,10 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
+      - run: scrapling install || python -m playwright install --with-deps chromium
       - run: python -m src.main
         env:
+          AVB_REAL_CHROME: "0"   # Linux/CI usa o Chromium empacotado, não Chrome instalado
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
