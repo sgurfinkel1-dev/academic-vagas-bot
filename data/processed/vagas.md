@@ -1,10 +1,77 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (200)
+## Públicas federais (267)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EDITAL Nº 208/2026/DICS/DAP/PROGEPE, DE 22 DE JULHO DE 2026 | Universidade Federal da Integração Latino-Americana |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-208/2026/dics/dap/progepe-de-22-de-julho-de-2026-720976133) |
+| EDITAL Nº 232/2026, DE 21 DE JULHO DE 2026 | Fundação Universidade Federal do Pampa |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-232/2026-de-21-de-julho-de-2026-720785898) |
+| RETIFICAÇÃO | Pró-Reitoria de Gestão de Pessoas e Qualidade de Vida |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/retificacao-720738279) |
+| EDITAL Nº 1689, DE 21 DE JULHO DE 2026 | Universidade Federal de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1689-de-21-de-julho-de-2026-720730736) |
+| EXTRATO DE DISTRATO | Campus Porto Velho Calama |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-distrato-720726864) |
+| EXTRATO DE EXTINÇÃO DE CONTRATO Nº 11/2026 | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-extincao-de-contrato-n-11/2026-720711751) |
+| EXTRATOS DE CONTRATOS | Fundação Universidade Federal de Ouro Preto |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extratos-de-contratos-720709979) |
+| EXTRATOS DE CONTRATO | Universidade Federal de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extratos-de-contrato-720685035) |
+| EDITAL Nº 1691, DE 20 DE JULHO DE 2026 | Universidade Federal de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1691-de-20-de-julho-de-2026-720660618) |
+| EXTRATOS DE CONTRATOS | Pró-Reitoria de Gestão de Pessoas e Qualidade de Vida |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extratos-de-contratos-720651667) |
+| EXTRATO DO CONTRATO Nº 39/2026 | Instituto Federal de Educação, Ciência e Tecnologia do Pará |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-do-contrato-n-39/2026-720634804) |
+| AVISO DE RESCISÃO | Instituto Federal de Educação, Ciência e Tecnologia do Maranhão |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-rescisao-720465281) |
+| EXTRATOs de RESCISÃO | Campus Santa Rosa |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extratos-de-rescisao-720399492) |
+| EDITAL Nº 1635, DE 13 DE JULHO DE 2026 | Pró-Reitoria de Recursos Humanos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1635-de-13-de-julho-de-2026-719709728) |
+| EDITAL Nº 1639, DE 13 DE JULHO DE 2026 | Pró-Reitoria de Recursos Humanos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1639-de-13-de-julho-de-2026-719554205) |
+| EDITAL Nº 1638, DE 13 DE JULHO DE 2026 | Pró-Reitoria de Recursos Humanos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1638-de-13-de-julho-de-2026-719446088) |
+| EDITAL Nº 1652, DE 14 DE JULHO DE 2026 | Pró-Reitoria de Recursos Humanos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1652-de-14-de-julho-de-2026-719445923) |
+| EDITAL Nº 1640, DE 13 DE JULHO DE 2026 | Pró-Reitoria de Recursos Humanos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1640-de-13-de-julho-de-2026-719436711) |
+| EDITAL Nº 14, DE 8 DE JULHO DE 2026 | Universidade Federal Rural de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-14-de-8-de-julho-de-2026-718030638) |
+| EDITAL nº 3, DE 13 DE JULHO DE 2026 | Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-3-de-13-de-julho-de-2026-719441849) |
+| EDITAL | Universidade Federal de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-720929736) |
+| EDITAL Nº 152/2026 - PROGEP-DSP, 08 de Julho de 2026 | Universidade Federal da Paraíba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-152/2026-progep-dsp-08-de-julho-de-2026-719737448) |
+| EDITAL Nº 1654, DE 14 DE JULHO DE 2026 | Pró-Reitoria de Recursos Humanos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1654-de-14-de-julho-de-2026-719554536) |
+| EDITAL Nº 1631, DE 13 DE JULHO DE 2026 | Pró-Reitoria de Recursos Humanos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1631-de-13-de-julho-de-2026-719554528) |
+| EDITAL Nº 1651, DE 14 DE JULHO DE 2026 | Pró-Reitoria de Recursos Humanos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1651-de-14-de-julho-de-2026-719554503) |
+| EDITAL Nº 1634, DE 13 DE JULHO DE 2026 | Pró-Reitoria de Recursos Humanos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1634-de-13-de-julho-de-2026-719554473) |
+| EDITAL Nº 1653, DE 14 DE JULHO DE 2026 | Pró-Reitoria de Recursos Humanos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1653-de-14-de-julho-de-2026-719554271) |
+| EDITAL Nº 1641, DE 13 DE JULHO DE 2026 | Pró-Reitoria de Recursos Humanos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1641-de-13-de-julho-de-2026-719554117) |
+| EDITAL Nº 1633, DE 13 DE JULHO DE 2026 | Pró-Reitoria de Recursos Humanos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1633-de-13-de-julho-de-2026-719554114) |
+| EDITAL Nº 72/2026 - PROGEP-DSP, 18 de Junho de 2026 | Universidade Federal da Paraíba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-72/2026-progep-dsp-18-de-junho-de-2026-719536336) |
+| EDITAL Nº 1637, DE 13 DE JULHO DE 2026 | Pró-Reitoria de Recursos Humanos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1637-de-13-de-julho-de-2026-719446167) |
+| EDITAL | Universidade Federal de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-719441456) |
+| EDITAL Nº 1630, DE 13 DE JULHO DE 2026 | Pró-Reitoria de Recursos Humanos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1630-de-13-de-julho-de-2026-719436734) |
+| EDITAL Nº 1636, DE 13 DE JULHO DE 2026 | Pró-Reitoria de Recursos Humanos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1636-de-13-de-julho-de-2026-719436574) |
+| EDITAL Nº 1632, DE 13 DE JULHO DE 2026 | Pró-Reitoria de Recursos Humanos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1632-de-13-de-julho-de-2026-719436494) |
+| EDITAL Nº 8, DE 14 DE JULHO DE 2026 | Fundação Universidade Federal de Sergipe |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-8-de-14-de-julho-de-2026-719259368) |
+| EDITAL 103, DE 9 DE JULHO DE 2026 | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-103-de-9-de-julho-de-2026-718377008) |
+| EDITAL Nº 104, DE 9 DE JULHO DE 2026 | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-104-de-9-de-julho-de-2026-718303850) |
+| RETIFICAÇÃO | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/retificacao-718265209) |
+| EDITAL Nº 10, DE 29 DE JUNHO DE 2026 | Universidade Federal de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-10-de-29-de-junho-de-2026-718033219) |
+| EDITAL Nº 9, DE 29 DE JUNHO DE 2026 | Universidade Federal de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-9-de-29-de-junho-de-2026-718032107) |
+| EDITAL Nº 28, DE 17 DE JULHO DE 2026 | Departamento de Administração de Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-28-de-17-de-julho-de-2026-720268037) |
+| EDITAL DE 14 DE JULHO DE 2026 | Universidade Federal Rural do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-14-de-julho-de-2026-719226592) |
+| EDITAL Nº 12/2026 - CCN/UFPI | Assistente do CCN |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-ccn/ufpi-718545522) |
+| EDITAL Nº 822, DE 2 DE JULHO DE 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-822-de-2-de-julho-de-2026-716544223) |
+| EDITAL N° 154/DDP, de 22 de junho de 2026 | Departamento de Desenvolvimento de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-154/ddp-de-22-de-junho-de-2026-720994275) |
+| EDITAL PROGEP Nº 38, DE 20 DE JULHO DE 2026 | Pró-Reitoria de Gestão de Pessoas e do Trabalho |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-progep-n-38-de-20-de-julho-de-2026-720990002) |
+| EXTRATOs DE TERMOs ADITIVOs | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extratos-de-termos-aditivos-719794460) |
+| EDITAL Nº 63, DE 10 DE JULHO DE 2026 | Pró-Reitoria de Desenvolvimento e Gestão de Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-63-de-10-de-julho-de-2026-718647982) |
+| EDITAL RETIFICADOR Nº 2/2026 | Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-retificador-n-2/2026-721055007) |
+| EDITAL | Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-721027993) |
+| EDITAL | Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-720903485) |
+| EDITAL COPERSE Nº 8, DE 21 DE JULHO DE 2026 | Universidade Federal do Rio Grande do Sul |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-coperse-n-8-de-21-de-julho-de-2026-720684886) |
+| EDITAL, de 20 de julho de 2026. | Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-20-de-julho-de-2026.-720661225) |
+| EDITAL N° 2, de 20 de julho de 2026 | Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-2-de-20-de-julho-de-2026-720506655) |
+| EDITAL DE 20 DE JULHO DE 2026 | Pró-Reitoria de Desenvolvimento de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-20-de-julho-de-2026-720357269) |
+| EDITAL N° 1, DE 17 de julho de 2026 | Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1-de-17-de-julho-de-2026-720267988) |
+| EXTRATO DE MEMORANDO DE ENTENDIMENTO | Universidade Federal do Rio Grande do Norte |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-memorando-de-entendimento-720241868) |
+| EDITAL Nº 51, DE 15 DE JULHO DE 2026 | Universidade Federal Rural do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-51-de-15-de-julho-de-2026-720208908) |
+| EDITAL Nº 2, DE 13 DE JULHO DE 2026 | Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-2-de-13-de-julho-de-2026-719778971) |
+| EXTRATO DO CONTRATO Nº 9/2026 | Campus Catanduva |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-do-contrato-n-9/2026-719688511) |
+| EDITAL Nº 125, DE 16 DE JULHO DE 2026 | Universidade Federal do Espírito Santo |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-125-de-16-de-julho-de-2026-719647905) |
+| EXTRATO DE EXTINÇÃO | Universidade Federal Rural de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-extincao-719393691) |
+| EXTTATO DE ACORDO DE COOPERAÇÃO INTERNACIONAL Nº 85/2026 | Universidade Federal da Bahia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/exttato-de-acordo-de-cooperacao-internacional-n-85/2026-719286716) |
+| EDITAL DE CHAMAMENTO PÚBLICO Nº 1/2026 - AGITS/UNIFESP | Agência de Inovação Tecnológica e Social |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-chamamento-publico-n-1/2026-agits/unifesp-719257779) |
+| EXTRATO DE EXTINÇÃO | Universidade Federal Rural de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-extincao-719156361) |
+| Pesquisadores e Produção Científica | UFMG |  |  | sem prazo identificado | [link](https://www.ufmg.br/concursos/) |
 | EDITAL Nº 40/2026 | Universidade Federal do Ceará | lógica |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-40/2026-710448109) |
 | EDITAL Nº 10, de 29 de maio de 2026 | Pró-Reitoria de Gestão de Pessoas | lógica |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-10-de-29-de-maio-de-2026-709824297) |
 | EDITAL Nº 1584, DE 2 DE JULHO DE 2026 | Universidade Federal de Minas Gerais | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1584-de-2-de-julho-de-2026-717377263) |
@@ -206,10 +273,11 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (12)
+## Públicas estaduais (13)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| pesquisador — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-06-25/06530a93e471960f60e12d3cf3111e92125ecdb6.pdf) |
 | resultado de Julgamento | Conselho Regional de Química da 4ª Região | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-714386056) |
 | professor substituto — DO de Dracena | Dracena |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3514403/2026-06-25/06b7ac433052020bb59b8afe4da874c2d692a6d4.pdf) |
 | professor colaborador — DO de Aguaí | Aguaí |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500303/2026-06-22/fe91ca48457a183b6c7dbe30b282c451a9cc2c85.pdf) |
@@ -223,10 +291,12 @@
 | pós-doutorado — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-06-09/b033b608510dd845e504e8d1445291f039defc8d.pdf) |
 | Gerenciamento de Pesquisadores | UNICAMP |  |  | sem prazo identificado | [link](https://www.dgrh.unicamp.br/link-sistema-de-gerenciamento-de-pesquisadores) |
 
-## Públicas municipais (9)
+## Públicas municipais (11)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| docente — DO de Porangaba | Porangaba |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3540507/2026-07-15/96e4c514d84cb46679ed99bb3484f43943ee501f.pdf) |
+| docente — DO de Junqueirópolis | Junqueirópolis |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3526001/2026-07-14/280ff3c72584e557bec1e0b05781974d7cf59ec0.pdf) |
 | farmacia — DO de Rio Claro | Rio Claro | farmacia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3543907/2026-06-03/04c6e06c11e48ffba0dd88833bf8639c8dc303ad.pdf) |
 | farmacia — DO de Rio Claro | Rio Claro | farmacia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3543907/2026-05-29/6c00f828baf231764cf394b1bb99270b2abf0d8c.pdf) |
 | farmacia — DO de Betim | Betim | farmacia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3106705/2026-06-30/8a3898a04723fdc5d4b9831df10966ef7408da38.pdf) |
@@ -237,10 +307,19 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (23)
+## Institutos públicos (32)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| professor substituto — DO de Ourinhos | Ourinhos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3534708/2026-07-16/92497e1378e580aa1e71bf0a5cfebcbee95248ba.pdf) |
+| professor substituto — DO de Ourinhos | Ourinhos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3534708/2026-07-14/4a5f8194c2f4be5c3a147a25f79b74d63257317b.pdf) |
+| docente — DO de Saquarema | Saquarema |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3305505/2026-07-22/8710bb29bc41fc6696d1995498088c382bbde31d.pdf) |
+| docente — DO de Casimiro de Abreu | Casimiro de Abreu |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3301306/2026-07-22/8a840e121b405dfdf37246bc3641aa38d45183c9.pdf) |
+| docente — DO de Várzea da Palma | Várzea da Palma |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3170800/2026-07-22/e72850cfd392ba629cc2c8e029896e0c8eefffd4.pdf) |
+| docente — DO de Casimiro de Abreu | Casimiro de Abreu |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3301306/2026-07-21/7e836b7f7771b898d1e05221c0bd2abc6f9ee997.pdf) |
+| docente — DO de Betim | Betim |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3106705/2026-07-15/72d45f9889055c5fbbbda723ebdd6dadf8e73254.pdf) |
+| docente — DO de Itápolis | Itápolis |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522703/2026-07-14/f1b644dcbd4303fd127ae371f4984da2ac7bbbaa.pdf) |
+| pós-doutorado — DO de Armação dos Búzios | Armação dos Búzios |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3300233/2026-07-08/76a8bc3f775b336b8055563ce2b46472cb75d941.pdf) |
 | Edital de Seleção de Professores(as) - ÀREA DE DIREITO CIVIL- Vagas Afirmativas  | PUC-SP |  |  | sem prazo identificado | [link](https://pucsp.gupy.io/jobs/11547778?jobBoardSource=gupy_public_page) |
 | Edital de Seleção de Professores(as) - ÁREA DE DIREITOS DIFUSOS - Vagas Afirmati | PUC-SP |  |  | sem prazo identificado | [link](https://pucsp.gupy.io/jobs/11548085?jobBoardSource=gupy_public_page) |
 | Edital de Seleção de Professores(as) - MÉTODOS E TÉCNICAS EM PSICOLOGIA - Vagas  | PUC-SP |  |  | sem prazo identificado | [link](https://pucsp.gupy.io/jobs/11548427?jobBoardSource=gupy_public_page) |
@@ -265,10 +344,23 @@
 | EDITAL Nº 12/2026 | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | EDITAL Nº 11/2026 | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (122)
+## Privadas (135)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| PROFESSOR ASSISTENTE - FONOAUDIOLOGIA (AUDIOLOGIA) São Paulo - SP Docente | UniCid |  |  | sem prazo identificado | [link](https://unicid.gupy.io/jobs/11567883?jobBoardSource=gupy_public_page) |
+| COORDENADOR DE CURSO – CIÊNCIAS ECONÔMICAS – IBMEC FARIA LIMA São Paulo - SP Doc | Ibmec |  |  | sem prazo identificado | [link](https://ibmec.gupy.io/jobs/11602954?jobBoardSource=gupy_public_page) |
+| Professor(a) Universitário - Ubatuba  | FMU |  | 18/09/2026 | aberta | [link](https://fmu.gupy.io/job/eyJqb2JJZCI6MTE3MTAyOTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor(a) Universitário(a) de Medicina Veterinária – Diagnóstico por Imagem e | Seleção de Professores (Presencial) - Centro Universitário Facens |  | 31/07/2026 | aberta | [link](https://professoresfacens.gupy.io/job/eyJqb2JJZCI6MTE0MjY4NzEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente de Psicologia - Análise Experimental do Comportamento | Unifeob |  | 20/09/2026 | aberta | [link](https://unifeob.gupy.io/job/eyJqb2JJZCI6MTE3NDQ1MDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente - Gestão Hospitalar - Faculdade de Saúde Santa Casa BH  | Santa Casa BH |  | 20/08/2026 | aberta | [link](https://santacasabh.gupy.io/job/eyJqb2JJZCI6MTE1ODQwODksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Ensino e Pesquisa - Docente em Redes de Telecomunicações | Inatel  |  | 30/09/2026 | aberta | [link](https://inatel.gupy.io/job/eyJqb2JJZCI6OTQ4NjIzNiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal) |
+| Docente - Curso Técnico em Enfermagem  | Santa Casa BH |  | 17/08/2026 | aberta | [link](https://santacasabh.gupy.io/job/eyJqb2JJZCI6MTE1MDc2MTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente - Curso de Odontologia - Nova Iguaçu | UNIG Carreiras |  | 06/09/2026 | aberta | [link](https://vemserunig.gupy.io/job/eyJqb2JJZCI6MTE2MDMyMTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor de Física | Rede Decisão |  | 21/09/2026 | aberta | [link](https://vemprarededecisao.gupy.io/job/eyJqb2JJZCI6MTE3NjEwNjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor de Matemática / Penha  | Rede Decisão |  | 21/09/2026 | aberta | [link](https://vemprarededecisao.gupy.io/job/eyJqb2JJZCI6MTE3NjEwNDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor de Física / Anália Franco | Rede Decisão |  | 21/09/2026 | aberta | [link](https://vemprarededecisao.gupy.io/job/eyJqb2JJZCI6MTE3NTgxODYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor e Preceptor de Medicina | Universidade Veiga de Almeida |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2817441/professor-e-preceptor-de-medicina) |
 | Professor de Administração | Fundação Salvador Arena |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2821290/professor-de-administracao) |
 | Professor de Engenharia de Computação | Fundação Salvador Arena |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2821297/professor-de-engenharia-de-computacao) |
 | Professor de Planejamento, Programação e Controle da Produção (Ppcp) para o Curs | Colégio Santa Cruz |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2823859/professor-de-planejamento-programacao-e-controle-da-producao-ppcp-para-o-curso-de-educacao-profissional) |
@@ -392,10 +484,45 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (49)
+## Bolsas / pós-doc / agências (84)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Post-Doctoral Fellowship in Condensed Matter Physics Instituition: Instituto de  | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../flash:-microscopia-stem-ultrarrapida-para-estudos-de-materiais-sensiveis-ao-bombardeamento-eletronico-em-baixa-dose-e-com-alta-resolucao/9564/) |
+| Bolsa de PD em Imunologia / Virologia / Biologia Molecular Instituição: Laborató | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../continuo-aprimoramento-de-vacinas:-centro-para-vigilancia-viral-e-avaliacao-sorologica-(cevivas)/9599/) |
+| Bolsa de PD em Biomateriais / Aquicultura Instituição: Faculdade de Ciências Far | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../desafio-do-uso-de-medicamentos-na-piscicultura-no-contexto-one-health:-avaliacao-da-eficacia-seguranca-e-analise-de-risco/9624/) |
+| Post-Doctoral Fellowship in Chemical Ecology / Plant-Insect Interaction Institui | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../diversidade-molecular-na-especificidade-de-interacoes-entre-plantas-e-herbivoros/9404/) |
+| Bolsa de PD em Genômica Populacional Instituição: Instituto de Ciências Biomédic | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../variacao-individual-no-risco-de-malaria:-causas-e-consequencias-em-populacoes-amazonicas/9430/) |
+| Bolsa de JC-II em Ciências Biomédicas Instituição: Instituto de Ciências Biomédi | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../variacao-individual-no-risco-de-malaria:-causas-e-consequencias-em-populacoes-amazonicas/9431/) |
+| Bolsa de PD em Novas Tecnologias e Materiais para Tecnologias Assistivas' Instit | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-multidisciplinar-para-o-desenvolvimento-de-tecnologia-assistiva-(cmdta)/9463/) |
+| Bolsa de Doutorado em Biomateriais Instituição: Instituto de Estudos Avançados d | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../engenharia-de-nanoparticulas-com-defeitos-controlados-para-liberacao-precisa-de-ros-em-plataformas-de-regeneracao-de-pele-baseadas-em-biopolimeros-4d-(ros4heal)/9479/) |
+| Bolsa de PD em Bioinformática / Química Analítica / Ciência dos Alimentos Instit | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../padronizacao-da-analise-de-compostos-fenolicos-por-meio-de-tecnicas-avancadas:-existe-ordem-no-caos/9529/) |
+| Bolsa de PD em Inteligência Artificial / Processamento de Línguas Naturais / Red | ver oportunidade (FAPESP) | Inteligência Artificial |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../usando-redes-complexas-e-processamento-de-linguagem-natural-para-prever-e-analisar-sucesso-na-ciencia/9544/) |
+| Bolsa de TT-IV em Reabilitação e Controle Motor Instituição: Universidade Cidade | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../eficacia-das-estrategias-de-representacao-do-movimento-no-alivio-da-dor-e-no-impacto-da-fibromialgia:-estudo-controlado-aleatorizado/9555/) |
+| Bolsa de PD em Governança Socio-Técnica, Laboratórios Vivos e Infraestruturas Di | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../redes-e-servicos-inteligentes-rumo-a-2030-(smartness)/9560/) |
+| Post-Doctoral Fellowship in Applied Mathematics and Mathematical Modeling Instit | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../ciencia-de-dados-para-a-industria-inteligente-(cdii)/9583/) |
+| Bolsa de PD em Literatura Comparada / Literatura e Cinema Instituição: Faculdade | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../alma-no-olho-e-camera-na-mao:-peculiaridades-do-epico-em-narrativas-do-cinema-brasileiro-dirigido-por-mulheres-negras/9614/) |
+| Bolsa de Doutorado em Bioquímica, Biologia Molecular e Imunologia Instituição: I | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../identificacao-e-analise-de-proteinas-enriquecidas-na-superficie-de-conidios-do-fungo-patogenico-humano-<i>aspergillus-fumigatus<-i>/9620/) |
+| Bolsa de Doutorado em Etologia Instituição: Instituto de Psicologia, Universidad | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../da-mata-atlantica-a-selva-urbana:-um-estudo-integrativo-da-resiliencia-da-formiga-<i>pachycondyla-striata<-i>-em-ambientes-urbanos/9483/) |
+| Bolsa de Mestrado em Etologia Instituição: Instituto de Psicologia, Universidade | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../da-mata-atlantica-a-selva-urbana:-um-estudo-integrativo-da-resiliencia-da-formiga-<i>pachycondyla-striata<-i>-em-ambientes-urbanos/9488/) |
+| Post-Doctoral Fellowship in Paleontology Instituition: Faculdade de Ciências – U | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../incursoes-marinhas-e-trocas-faunisticas-no-interior-da-america-do-sul-durante-o-devoniano-e-os-impactos-paleobiogeograficos-na-bacia-do-parana/9619/) |
+| Bolsa de PD em Física Nuclear Instituição: Instituto Tecnológico de Aeronáutica  | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../dinamica-emergente-de-poucos-corpos-em-nucleos-exoticos-e-outras-aplicacoes/9621/) |
+| Bolsa de PD em Tecnologia de Alimentos Instituição: Centro de Ciência e Qualidad | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../plataforma-biotecnologica-de-ingredientes-saudaveis-(pbis)-–-desenvolvimento-de-ingredientes-alimenticios-de-origem-vegetal:-processamento-caracterizacao-e-aplicacoes/9628/) |
+| Bolsa de Doutorado Direto em Biomateriais e Biotecnologia Instituição: Instituto | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../desenvolvimento-de-curativos-cutaneos-3d-de-colageno-marinho-enriquecidos-com-exossomas-originados-de-celulas-mesenquimais-para-a-regeneracao-de-feridas-cutaneas-em-ratos-diabeticos/9629/) |
+| Bolsa de PD em Vacinologia Reversa e Biologia Molecular Instituição: Faculdade d | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../avancos-em-vacinologia-reversa-e-biologia-molecular:-estrategias-disruptivas-para-mitigacao-da-gripe-aviaria-e-sustentabilidade-alimentar/9635/) |
+| Bolsas de PD em Físico-Química de Materiais Instituição: Instituto de Química de | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../materiais-aplicados-na-transformacao-de-biomassa-em-diesel-verde:-do-laboratorio-ao-piloto/9641/) |
+| Bolsa de PD em Biologia Molecular e Bioinformática Instituição: Centro de Biolog | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-melhoramento-molecular-de-plantas-(cem²p)/9610/) |
+| Bolsa de PD em Inteligência Artificial Instituição: Faculdade de Filosofia, Ciên | ver oportunidade (FAPESP) | Inteligência Artificial |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../fusao-de-dados-multimodais-e-modelagem-de-crescimento-baseados-em-aprendizado-de-maquina-para-melhoria-da-producao-de-soja-(soia)/9634/) |
+| Bolsa de PD em Aprendizado de Máquina Instituição: Instituto de Ciências Matemát | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../ciencia-de-dados-para-a-industria-inteligente-(cdii)/9615/) |
+| Post-Doctoral Fellowship in Medicinal Chemistry Instituition: Centro de Biologia | ver oportunidade (FAPESP) | Medicina |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../avanco-de-moleculas-ligantes-para-proteinas-envolvidas-em-processamento-de-rna/9630/) |
+| Bolsa de Mestrado em Produtos Naturais Marinhos Instituição: Instituto de Químic | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../investigacao-do-papel-do-microbioma-e-do-metaboloma-em-corais-do-atlantico-sul-quanto-ao-efeito-do-branqueamento/9526/) |
+| Bolsas de PD em Ciências Sociais Aplicadas Instituição: Centro de Engenharia, Mo | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-estudos-da-favela-(cefavela)-/9616/) |
+| Bolsa de PD em Ciência de Dados e Economia Instituição: Faculdade de Medicina, U | ver oportunidade (FAPESP) | Medicina |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../avaliacao-da-eficiencia-das-estrategias-de-prevencao-das-infeccoes-relacionadas-a-cateter-de-longa-permanencia-em-servicos-de-oncologia-do-municipio-de-sao-paulo/9618/) |
+| Bolsa de TT-IV-A em Neurociências / Modelos Humanos do Cérebro Instituição: Facu | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../dissecando-os-mecanismos-da-rede-neuronal-e-celular-da-displasia-cortical-focal-utilizando-um-modelo-humano/9626/) |
+| Bolsa de PD em Fisiologia da Conservação Instituição: Departamento de Fisiologia | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../impacto-das-mudancas-antropogenicas-na-fauna:-contribuicoes-da-fisiologia-da-conservacao/9650/) |
+| Bolsa de Iniciação Científica em Biologia Celular Instituição: Instituto de Ciên | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../variacao-individual-no-risco-de-malaria:-causas-e-consequencias-em-populacoes-amazonicas/9499/) |
+| Bolsa de TT-III em Genômica Comparada Instituição: Instituto de Biociências, Uni | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../interacoes-bioticas-como-motor-da-inovacao-fenotipica:-integrando-genomica-comparativa-e-eco-evo-devo/9542/) |
+| FGV EAESP abre seleção para bolsa de Pós-Doutorado no Exterior do CNPq | FGV EAESP |  |  | sem prazo identificado | [link](https://eaesp.fgv.br/noticias/fgv-eaesp-abre-selecao-para-bolsa-de-pos-doutorado-no-exterior-do-cnpq) |
 | Chamada para bolsa de pós-doutorado FAPESP – Projeto DECODE (FGV EAESP) | FGV EAESP |  |  | sem prazo identificado | [link](https://eaesp.fgv.br/noticias/chamada-para-bolsa-de-pos-doutorado-fapesp-projeto-decode-fgv-eaesp) |
 | pós-doutorado — DO de Rio de Janeiro | Rio de Janeiro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3304557/2026-06-18/df5094ccac698583348c6df3a0a336b32c1770fb.pdf) |
 | pós-doutorado — DO de Rio de Janeiro | Rio de Janeiro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3304557/2026-06-15/493d31ebe338feb95971be6d398fbfab34b94237.pdf) |
@@ -446,9 +573,10 @@
 | Bolsa de PD em Saúde Coletiva Instituição: Faculdade de Enfermagem, Universidade | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../projeto-ubuntu:-os-4-rs-da-educacao-antirracista-para-equidade-em-saude/9598/) |
 | Bolsa de PD em Química, Instrumentação Analítica e Engenharia Mecânica/Eletrônic | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../novas-ferramentas-analiticas-para-o-estudo-da-doenca-de-parkinson:-automacao-do-preparo-de-amostras-biologicas-dispositivos-3d-printed@mip-e-cromatografia-liquida-capilar-portatil/9600/) |
 
-## Verificar manualmente (2)
+## Verificar manualmente (3)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EXTRATO DE PROTOCOLO DE INTENÇÕES | Universidade Tecnológica Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-protocolo-de-intencoes-720786075) |
 | Concurso Público para Técnico Universitário e Analista Universitário | UEMG |  |  | sem prazo identificado | [link](https://www.uemg.br/t-e-a) |
 | AVISO | Conselho Nacional de Desenvolvimento Científico e Tecnológico |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-716041802) |
