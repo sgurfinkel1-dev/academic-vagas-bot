@@ -10,6 +10,7 @@ from pathlib import Path
 
 import yaml
 
+from . import assinaturas
 from .database import storage
 from .database.models import Vaga
 from .extractors import llm_classifier as clf
@@ -56,6 +57,30 @@ def montar_alerta(novas: list[Vaga], user: dict) -> str:
     if len(novas) > 15:
         linhas.append(f"... e mais {len(novas) - 15}. Veja data/processed/vagas.md")
     return "\n".join(linhas)
+
+
+def _avisar_assinantes(novas: list[Vaga], cfg: dict, user: dict) -> None:
+    """Envia a cada assinante do dashboard só as vagas novas da área dele."""
+    try:
+        inscritos = assinaturas.carregar()
+    except Exception as e:
+        log.warning("não consegui ler assinaturas: %s", e)
+        return
+    if not inscritos:
+        return
+    cfg_email = cfg.get("alertas", {}).get("email", {})
+    enviados = 0
+    for pessoa in inscritos:
+        minhas = assinaturas.vagas_do_assinante(pessoa, novas)
+        if not minhas:
+            continue
+        corpo = montar_alerta(minhas, {"areas": pessoa.get("areas", [])})
+        corpo += ("\n\n---\nVocê recebe este e-mail porque ativou o alerta em "
+                  "https://vagas-academicas.streamlit.app — desative por lá quando quiser.")
+        if email_alert.enviar(corpo, cfg_email, destinatario=pessoa["email"],
+                              assunto=f"{len(minhas)} nova(s) vaga(s) acadêmica(s)"):
+            enviados += 1
+    log.info("alertas por e-mail enviados a %d assinante(s)", enviados)
 
 
 def _buscar_palavra(palavra: str, cfg: dict, modo: str = "geral") -> int:
@@ -150,6 +175,7 @@ def main():
          "discord": lambda: discord_alert.enviar(msg, alertas_cfg.get("discord", {})),
          "email": lambda: email_alert.enviar(msg, alertas_cfg.get("email", {})),
          }.get(canal, lambda: log.info("alerta desativado"))()
+        _avisar_assinantes(novas, cfg, user)
 
     # resumo final
     abertas = [r for r in registros if r["status"] == "aberta"]

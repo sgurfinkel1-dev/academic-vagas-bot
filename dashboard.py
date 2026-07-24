@@ -9,7 +9,7 @@ import pandas as pd
 import streamlit as st
 import yaml
 
-from src import nuvem
+from src import nuvem, assinaturas
 
 RAIZ = Path(__file__).parent
 DB = RAIZ / "data" / "processed" / "vagas.db"
@@ -110,6 +110,42 @@ def _painel_config():
         else:
             st.caption("Modo local: use os botões de busca abaixo. "
                        "Na nuvem, aqui aparece o disparo automático.")
+    _painel_alerta_email(repo, token)
+
+
+def _painel_alerta_email(repo, token):
+    """Cada pessoa ativa o próprio alerta: recebe por e-mail as vagas novas da sua área."""
+    meu_email = getattr(st.user, "email", "") or ""
+    inscritos = assinaturas.carregar()
+    atual = next((a for a in inscritos if a.get("email", "").lower() == meu_email.lower()), None)
+    with st.sidebar.expander("📧 Receber vagas por e-mail", expanded=False):
+        if not meu_email:
+            st.caption("Entre com sua conta Google para ativar o alerta.")
+            return
+        st.caption(f"Enviaremos para **{meu_email}** quando surgirem vagas novas.")
+        ativo = st.checkbox("Quero receber alertas por e-mail", value=atual is not None)
+        areas_txt = st.text_area(
+            "Minhas áreas (uma por linha; vazio = todas as vagas)",
+            "\n".join(atual.get("areas", [])) if atual else "", height=90,
+            key="areas_alerta")
+        if st.button("💾 Salvar meu alerta", use_container_width=True):
+            try:
+                novos = assinaturas.upsert(inscritos, meu_email,
+                                           areas_txt.splitlines(), ativo=ativo)
+            except ValueError as e:
+                st.error(str(e))
+                return
+            conteudo = assinaturas.serializar(novos)
+            if repo and token:
+                ok = nuvem.commitar_arquivo(repo, "assinaturas.yaml", conteudo, token,
+                                            "dashboard: atualiza assinaturas de alerta")
+                if not ok:
+                    st.error("Não consegui salvar sua inscrição. Avise o responsável pelo app.")
+                    return
+            else:
+                assinaturas.ARQUIVO.write_text(conteudo, encoding="utf-8")
+            st.success("Alerta ativado! Você receberá as vagas novas da sua área."
+                       if ativo else "Alerta desativado.")
 
 
 with st.sidebar:
