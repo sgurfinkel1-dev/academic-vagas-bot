@@ -1,0 +1,7 @@
+# Lista de e-mails autorizados a entrar no dashboard.
+# Só contas Google destas listas passam no login; as demais veem "não autorizado".
+# Deixe a lista vazia (ou apague o arquivo) para liberar qualquer conta Google.
+emails:
+  - sgurfinkel1@gmail.com          # Saul (admin)
+  - c.nascimentomonteiro@gmail.com # Camila
+  - saragmgodoy@gmail.com          # Sara

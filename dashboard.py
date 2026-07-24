@@ -14,6 +14,7 @@ from src import nuvem, assinaturas
 RAIZ = Path(__file__).parent
 DB = RAIZ / "data" / "processed" / "vagas.db"
 AGENDA = RAIZ / "agenda.yaml"
+ACESSO = RAIZ / "acesso.yaml"
 
 st.set_page_config(page_title="Vagas Acadêmicas", layout="wide")
 
@@ -25,14 +26,31 @@ def _secret(chave, default=None):
         return default
 
 
+def _emails_permitidos() -> set:
+    """Lista de e-mails autorizados (acesso.yaml). Vazio/ausente = qualquer conta Google entra."""
+    if not ACESSO.exists():
+        return set()
+    dados = yaml.safe_load(ACESSO.read_text(encoding="utf-8")) or {}
+    return {e.strip().lower() for e in dados.get("emails", []) if e.strip()}
+
+
 def _exigir_login():
-    """Login Google — ativo só quando 'auth' está configurado nos secrets (nuvem)."""
+    """Login Google — ativo só quando 'auth' está configurado nos secrets (nuvem).
+    Se acesso.yaml listar e-mails, só eles passam (os demais veem 'não autorizado')."""
     if not _secret("auth"):
         return  # local: acesso aberto
     if not getattr(st.user, "is_logged_in", False):
         st.title("🎓 Vagas Acadêmicas")
         st.info("Acesso restrito. Entre com sua conta Google para continuar.")
         st.button("Entrar com Google", on_click=st.login, type="primary")
+        st.stop()
+    email = (getattr(st.user, "email", "") or "").lower()
+    permitidos = _emails_permitidos()
+    if permitidos and email not in permitidos:
+        st.title("🎓 Vagas Acadêmicas")
+        st.error(f"A conta **{email}** não tem acesso a este painel. "
+                 "Fale com quem administra o app para ser incluído.")
+        st.button("Sair", on_click=st.logout)
         st.stop()
     with st.sidebar:
         st.caption(f"👤 {getattr(st.user, 'email', '')}")
