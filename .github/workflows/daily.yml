@@ -13,6 +13,11 @@ on:
         description: "geral (privadas + municipais) ou diarios (DOU + municipais)"
         required: false
         default: "geral"
+      email_teste:
+        description: "Envia só um e-mail de teste (valida SMTP) e sai"
+        type: boolean
+        required: false
+        default: false
 
 jobs:
   buscar:
@@ -30,7 +35,9 @@ jobs:
         # palavra/modo vão por env (não interpolados no shell) para evitar injeção,
         # já que qualquer usuário do dashboard pode disparar este workflow.
         run: |
-          if [ -n "$PALAVRA" ]; then
+          if [ "$EMAIL_TESTE" = "true" ]; then
+            python -m src.main --email-teste
+          elif [ -n "$PALAVRA" ]; then
             python -m src.main --palavra "$PALAVRA" --modo "$MODO"
           else
             python -m src.main
@@ -38,6 +45,7 @@ jobs:
         env:
           PALAVRA: ${{ inputs.palavra }}
           MODO: ${{ inputs.modo }}
+          EMAIL_TESTE: ${{ inputs.email_teste }}
           AVB_REAL_CHROME: "0"   # Linux/CI usa o Chromium empacotado, não Chrome instalado
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

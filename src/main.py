@@ -113,8 +113,19 @@ def main():
     ap.add_argument("--config", default=str(Path(__file__).resolve().parents[1] / "config.yaml"))
     ap.add_argument("--palavra", help="busca ao vivo por esta palavra/área (ex.: Direito)")
     ap.add_argument("--modo", default="geral", choices=["geral", "diarios"])
+    ap.add_argument("--email-teste", action="store_true",
+                    help="envia 1 e-mail de teste (valida SMTP_USER/SMTP_PASS) e sai")
     args = ap.parse_args()
     cfg = yaml.safe_load(Path(args.config).read_text(encoding="utf-8"))
+
+    if args.email_teste:
+        ok = email_alert.enviar(
+            "Teste de configuração do robô de vagas acadêmicas.\n\n"
+            "Se você recebeu este e-mail, o envio de alertas está funcionando. 🎓",
+            cfg.get("alertas", {}).get("email", {}),
+            assunto="✅ Teste — Vagas Acadêmicas")
+        print("e-mail de teste:", "ENVIADO" if ok else "FALHOU (confira SMTP_USER/SMTP_PASS)")
+        return 0 if ok else 1
 
     # agenda.yaml (editável pelo dashboard) sobrepõe áreas e período
     agenda = Path(args.config).with_name("agenda.yaml")
