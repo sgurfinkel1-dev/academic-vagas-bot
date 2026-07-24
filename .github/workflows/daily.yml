@@ -4,6 +4,15 @@ on:
   schedule:
     - cron: "0 10 * * *"   # 07:00 BRT
   workflow_dispatch:
+    inputs:
+      palavra:
+        description: "Área/palavra para busca dirigida (vazio = busca completa)"
+        required: false
+        default: ""
+      modo:
+        description: "geral (privadas + municipais) ou diarios (DOU + municipais)"
+        required: false
+        default: "geral"
 
 jobs:
   buscar:
@@ -17,8 +26,18 @@ jobs:
           python-version: "3.12"
       - run: pip install -r requirements.txt
       - run: scrapling install || python -m playwright install --with-deps chromium
-      - run: python -m src.main
+      - name: Executar busca
+        # palavra/modo vão por env (não interpolados no shell) para evitar injeção,
+        # já que qualquer usuário do dashboard pode disparar este workflow.
+        run: |
+          if [ -n "$PALAVRA" ]; then
+            python -m src.main --palavra "$PALAVRA" --modo "$MODO"
+          else
+            python -m src.main
+          fi
         env:
+          PALAVRA: ${{ inputs.palavra }}
+          MODO: ${{ inputs.modo }}
           AVB_REAL_CHROME: "0"   # Linux/CI usa o Chromium empacotado, não Chrome instalado
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

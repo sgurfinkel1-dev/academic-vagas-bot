@@ -62,6 +62,20 @@ if not DB.exists():
     st.warning("Banco vazio. Clique em 'Buscar novas vagas' na barra lateral ou rode `python -m src.main`.")
 
 def _busca_viva(palavra: str, modo: str, aviso: str):
+    """Na nuvem, dispara o robô no GitHub Actions (lá existe navegador, exigido pelo DOU;
+    o container do Streamlit não tem). Localmente, roda direto."""
+    repo, token = _secret("github_repo"), _secret("github_token")
+    if repo and token:
+        if nuvem.disparar_busca(repo, token, palavra=palavra, modo=modo):
+            st.success(f"🔎 Busca por '{palavra}' iniciada na nuvem. "
+                       "Os resultados entram no painel em ~5-10 min (a página se atualiza sozinha).")
+        else:
+            st.error("Não consegui iniciar a busca. Avise o responsável pelo app.")
+        return
+    if not RAIZ.joinpath("src").exists() or _secret("auth"):
+        st.warning("A busca ao vivo não está configurada neste ambiente. "
+                   "Use os filtros acima — o robô atualiza as vagas todo dia automaticamente.")
+        return
     with st.spinner(aviso):
         r = subprocess.run([sys.executable, "-m", "src.main", "--palavra", palavra, "--modo", modo],
                            cwd=RAIZ, capture_output=True, text=True)
@@ -159,20 +173,23 @@ c2.metric("Abertas", int((df.status == "aberta").sum()))
 c3.metric("Públicas", int(df.classificacao_instituicao.str.startswith("pública").sum()))
 c4.metric("Bolsas/agências", int((df.classificacao_instituicao == "agência/fundação").sum()))
 
-st.dataframe(
-    df[["titulo", "instituicao", "classificacao_instituicao", "natureza",
-        "estado", "titulacao_exigida", "prazo_inscricao", "status", "link_oficial"]],
-    width="stretch", hide_index=True,
-    column_config={
-        "titulo": "Vaga", "instituicao": "Instituição",
-        "classificacao_instituicao": "Tipo de instituição", "natureza": "Tipo de vaga",
-        "estado": "UF", "titulacao_exigida": "Titulação",
-        "prazo_inscricao": "Prazo", "status": "Status",
-        "link_oficial": st.column_config.LinkColumn("Fonte", display_text="🔗 Abrir fonte"),
-    },
-)
+# A tabela tem muitas colunas p/ caber num celular: fica recolhida, e os cartões
+# abaixo (que quebram linha bem em tela estreita) são a leitura principal.
+with st.expander("📊 Ver como tabela", expanded=False):
+    st.dataframe(
+        df[["titulo", "instituicao", "classificacao_instituicao", "natureza",
+            "estado", "titulacao_exigida", "prazo_inscricao", "status", "link_oficial"]],
+        width="stretch", hide_index=True,
+        column_config={
+            "titulo": "Vaga", "instituicao": "Instituição",
+            "classificacao_instituicao": "Tipo de instituição", "natureza": "Tipo de vaga",
+            "estado": "UF", "titulacao_exigida": "Titulação",
+            "prazo_inscricao": "Prazo", "status": "Status",
+            "link_oficial": st.column_config.LinkColumn("Fonte", display_text="🔗 Abrir fonte"),
+        },
+    )
 
-st.subheader("Detalhes das vagas filtradas")
+st.subheader("Vagas encontradas")
 for _, r in df.head(50).iterrows():
     with st.container(border=True):
         st.markdown(f"**{r.titulo}**")

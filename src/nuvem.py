@@ -27,11 +27,15 @@ def commitar_arquivo(repo: str, caminho: str, conteudo: str, token: str, msg: st
         return False
 
 
-def disparar_busca(repo: str, token: str, workflow: str = "daily.yml") -> bool:
-    """workflow_dispatch: roda a busca completa na nuvem sob demanda."""
+def disparar_busca(repo: str, token: str, workflow: str = "daily.yml",
+                   palavra: str = "", modo: str = "geral") -> bool:
+    """workflow_dispatch: roda a busca na nuvem sob demanda.
+    O GitHub Actions tem navegador (necessário p/ o DOU); o container do Streamlit não.
+    palavra vazia = busca completa de todas as fontes."""
     url = f"{API}/repos/{repo}/actions/workflows/{workflow}/dispatches"
+    payload = {"ref": "main", "inputs": {"palavra": palavra, "modo": modo}}
     try:
-        r = httpx.post(url, headers=_headers(token), json={"ref": "main"}, timeout=30)
+        r = httpx.post(url, headers=_headers(token), json=payload, timeout=30)
         return r.status_code == 204
     except Exception:
         return False
