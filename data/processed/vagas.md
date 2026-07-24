@@ -1,10 +1,18 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (267)
+## Públicas federais (275)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EDITAL Nº 2, DE 22 DE JULHO DE 2026 | Campus Ituiutaba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-2-de-22-de-julho-de-2026-721304527) |
+| EDITAL DE PRORROGAÇÃO DE CONCURSO, DE 22 DE JULHO DE 2026 | Universidade Federal de Goiás |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-prorrogacao-de-concurso-de-22-de-julho-de-2026-721284123) |
+| EXTRATO DE DISTRATO N° 2/2026 | Universidade Federal do Sul e Sudeste do Pará |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-distrato-n-2/2026-721275901) |
+| EXTRATOS DE CONTRATOS | Pró-Reitoria de Gestão de Pessoas e Qualidade de Vida |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extratos-de-contratos-721252223) |
+| EXTRATO DE DISTRATO | Pró-Reitoria de Gestão de Pessoas e Qualidade de Vida |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-distrato-721212655) |
+| EDITAL Nº 49, DE 22 DE JULHO DE 2026 | Instituto Federal de Educação, Ciência e Tecnologia do Maranhão |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-49-de-22-de-julho-de-2026-721191458) |
+| EXTRATOS DE CONTRATOS | Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extratos-de-contratos-721174180) |
+| Extrato de Protocolo de Intenções | Pró-Reitoria de Administração e Infraestrutura |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-protocolo-de-intencoes-721172816) |
 | EDITAL Nº 208/2026/DICS/DAP/PROGEPE, DE 22 DE JULHO DE 2026 | Universidade Federal da Integração Latino-Americana |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-208/2026/dics/dap/progepe-de-22-de-julho-de-2026-720976133) |
 | EDITAL Nº 232/2026, DE 21 DE JULHO DE 2026 | Fundação Universidade Federal do Pampa |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-232/2026-de-21-de-julho-de-2026-720785898) |
 | RETIFICAÇÃO | Pró-Reitoria de Gestão de Pessoas e Qualidade de Vida |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/retificacao-720738279) |
@@ -307,10 +315,13 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (32)
+## Institutos públicos (35)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EDITAL DE RECLASSIFICAÇÃO Nº 128/ 2026 | Decanato de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-reclassificacao-n-128/-2026-721190520) |
+| EXTRATO DE COMPROMISSO | Embrapa Roraima |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-721306026) |
+| EXTRATO DE COMPROMISSO | Embrapa Roraima |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-721194340) |
 | professor substituto — DO de Ourinhos | Ourinhos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3534708/2026-07-16/92497e1378e580aa1e71bf0a5cfebcbee95248ba.pdf) |
 | professor substituto — DO de Ourinhos | Ourinhos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3534708/2026-07-14/4a5f8194c2f4be5c3a147a25f79b74d63257317b.pdf) |
 | docente — DO de Saquarema | Saquarema |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3305505/2026-07-22/8710bb29bc41fc6696d1995498088c382bbde31d.pdf) |
@@ -344,10 +355,14 @@
 | EDITAL Nº 12/2026 | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | EDITAL Nº 11/2026 | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (135)
+## Privadas (139)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| PROFESSOR ASSISTENTE - PSICOLOGIA São Paulo - SP Docente | Cruzeiro do Sul |  |  | sem prazo identificado | [link](https://cruzeirodosul.gupy.io/jobs/11550923?jobBoardSource=gupy_public_page) |
+| PROFESSOR AUXILIAR MEDICO CIRURGIÃO / Afya Centro Universitário de São João Del  | Carreira Médica na Afya |  | 20/09/2026 | aberta | [link](https://afyamedicina.gupy.io/job/eyJqb2JJZCI6MTE3NTAyMzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR MEDICO GINECOLOGISTA/ Afya Centro Universitário de São João D | Carreira Médica na Afya |  | 20/09/2026 | aberta | [link](https://afyamedicina.gupy.io/job/eyJqb2JJZCI6MTE3NTAyMjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR ASSISTENTE - PSICOLOGIA | Universidade Cruzeiro do Sul |  | 28/07/2026 | aberta | [link](https://cruzeirodosul.gupy.io/job/eyJqb2JJZCI6MTE1NTA5MjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR ASSISTENTE - FONOAUDIOLOGIA (AUDIOLOGIA) São Paulo - SP Docente | UniCid |  |  | sem prazo identificado | [link](https://unicid.gupy.io/jobs/11567883?jobBoardSource=gupy_public_page) |
 | COORDENADOR DE CURSO – CIÊNCIAS ECONÔMICAS – IBMEC FARIA LIMA São Paulo - SP Doc | Ibmec |  |  | sem prazo identificado | [link](https://ibmec.gupy.io/jobs/11602954?jobBoardSource=gupy_public_page) |
 | Professor(a) Universitário - Ubatuba  | FMU |  | 18/09/2026 | aberta | [link](https://fmu.gupy.io/job/eyJqb2JJZCI6MTE3MTAyOTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
@@ -484,10 +499,13 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (84)
+## Bolsas / pós-doc / agências (87)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| RESULTADO DE JULGAMENTO | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-721276922) |
+| EXTRATO DE CONCESSÃO DE AUXÍLIO FINANCEIRO À <span class='highlight' style='back | Diretoria de Programas e Bolsas no País |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-de-auxilio-financeiro-a-pesquisadores-721270216) |
+| Bolsa de JC-I em Literatura e Cinema Instituição: Faculdade de Ciências e Letras | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../alma-no-olho-e-camera-na-mao:-peculiaridades-do-epico-em-narrativas-do-cinema-brasileiro-dirigido-por-mulheres-negras/9653/) |
 | Post-Doctoral Fellowship in Condensed Matter Physics Instituition: Instituto de  | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../flash:-microscopia-stem-ultrarrapida-para-estudos-de-materiais-sensiveis-ao-bombardeamento-eletronico-em-baixa-dose-e-com-alta-resolucao/9564/) |
 | Bolsa de PD em Imunologia / Virologia / Biologia Molecular Instituição: Laborató | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../continuo-aprimoramento-de-vacinas:-centro-para-vigilancia-viral-e-avaliacao-sorologica-(cevivas)/9599/) |
 | Bolsa de PD em Biomateriais / Aquicultura Instituição: Faculdade de Ciências Far | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../desafio-do-uso-de-medicamentos-na-piscicultura-no-contexto-one-health:-avaliacao-da-eficacia-seguranca-e-analise-de-risco/9624/) |
