@@ -281,10 +281,11 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (13)
+## Públicas estaduais (14)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| professor substituto — DO de Dracena | Dracena |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3514403/2026-07-23/b74814cdd4dfe39217d298213ebd92067e3f6cfa.pdf) |
 | pesquisador — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-06-25/06530a93e471960f60e12d3cf3111e92125ecdb6.pdf) |
 | resultado de Julgamento | Conselho Regional de Química da 4ª Região | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-714386056) |
 | professor substituto — DO de Dracena | Dracena |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3514403/2026-06-25/06b7ac433052020bb59b8afe4da874c2d692a6d4.pdf) |
@@ -355,10 +356,16 @@
 | EDITAL Nº 12/2026 | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | EDITAL Nº 11/2026 | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (139)
+## Privadas (145)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor(a) Universitário(a) - Terapia Ocupacional  | FMU |  | 22/09/2026 | aberta | [link](https://fmu.gupy.io/job/eyJqb2JJZCI6MTE3NzU0MjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor(a) Universitário - Fisioterapia Dermatologia Funcional   | FMU |  | 22/09/2026 | aberta | [link](https://fmu.gupy.io/job/eyJqb2JJZCI6MTE3NzU0MTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I  - CIÊNCIAS BIOLÓGICAS - BACHARELADO - ESTÁCIO CONSTANTINO  | Estácio |  | 19/09/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE3MjY5MzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - PSICOLOGIA - ESTÁCIO NOVA FRIBURGO | Estácio |  | 13/09/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE2NDUwODQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR - CURSO DE ENFERMAGEM / Afya Faculdade de Ciências Médicas de | Afya  |  | 24/07/2027 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTE2NjU2MDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR - CURSO DE PSICOLOGIA / Afya Faculdade de Ciências Médicas de | Afya  |  | 24/07/2027 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTE2NjU2MTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR ASSISTENTE - PSICOLOGIA São Paulo - SP Docente | Cruzeiro do Sul |  |  | sem prazo identificado | [link](https://cruzeirodosul.gupy.io/jobs/11550923?jobBoardSource=gupy_public_page) |
 | PROFESSOR AUXILIAR MEDICO CIRURGIÃO / Afya Centro Universitário de São João Del  | Carreira Médica na Afya |  | 20/09/2026 | aberta | [link](https://afyamedicina.gupy.io/job/eyJqb2JJZCI6MTE3NTAyMzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR AUXILIAR MEDICO GINECOLOGISTA/ Afya Centro Universitário de São João D | Carreira Médica na Afya |  | 20/09/2026 | aberta | [link](https://afyamedicina.gupy.io/job/eyJqb2JJZCI6MTE3NTAyMjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
@@ -499,10 +506,12 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (87)
+## Bolsas / pós-doc / agências (89)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa de TT-V em Microscopia de Tunelamento por Varredura / Materiais 2D Institu | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../fotonica-quantica:-de-materiais-2d-a-moleculas-biologicas/9659/) |
+| Bolsa de PD em Antropologia Econômica Instituição: Centro de Educação e Ciências | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../financas-na-periferia:-expansao-do-mercado-de-credito-e-respostas-de-comunidades-rurais-e-urbanas-no-brasil/9663/) |
 | RESULTADO DE JULGAMENTO | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-721276922) |
 | EXTRATO DE CONCESSÃO DE AUXÍLIO FINANCEIRO À <span class='highlight' style='back | Diretoria de Programas e Bolsas no País |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-de-auxilio-financeiro-a-pesquisadores-721270216) |
 | Bolsa de JC-I em Literatura e Cinema Instituição: Faculdade de Ciências e Letras | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../alma-no-olho-e-camera-na-mao:-peculiaridades-do-epico-em-narrativas-do-cinema-brasileiro-dirigido-por-mulheres-negras/9653/) |
