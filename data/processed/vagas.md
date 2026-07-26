@@ -1,10 +1,11 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (275)
+## Públicas federais (276)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| docente — DO de Birigui | Birigui |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3506508/2026-07-24/c47ad748b5e8ca5450b5d76e4e3768dfc45d2642.pdf) |
 | EDITAL Nº 2, DE 22 DE JULHO DE 2026 | Campus Ituiutaba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-2-de-22-de-julho-de-2026-721304527) |
 | EDITAL DE PRORROGAÇÃO DE CONCURSO, DE 22 DE JULHO DE 2026 | Universidade Federal de Goiás |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-prorrogacao-de-concurso-de-22-de-julho-de-2026-721284123) |
 | EXTRATO DE DISTRATO N° 2/2026 | Universidade Federal do Sul e Sudeste do Pará |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-distrato-n-2/2026-721275901) |
@@ -281,10 +282,11 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (14)
+## Públicas estaduais (15)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| docente — DO de Valinhos | Valinhos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556206/2026-07-24/ef9856f2bd14e5bb9fade84645fed60c997e1388.pdf) |
 | professor substituto — DO de Dracena | Dracena |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3514403/2026-07-23/b74814cdd4dfe39217d298213ebd92067e3f6cfa.pdf) |
 | pesquisador — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-06-25/06530a93e471960f60e12d3cf3111e92125ecdb6.pdf) |
 | resultado de Julgamento | Conselho Regional de Química da 4ª Região | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-714386056) |
