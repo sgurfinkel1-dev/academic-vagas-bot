@@ -1,10 +1,28 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (276)
+## Públicas federais (294)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EDITAL Nº 154 - PROGEP-DSP, 16 DE JULHO DE 2026 | Universidade Federal da Paraíba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-154-progep-dsp-16-de-julho-de-2026-721560819) |
+| EDITAL Nº 188/2026/GAB-RET/IFSULDEMINAS, DE 22 DE JULHO DE 2026 | Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-188/2026/gab-ret/ifsuldeminas-de-22-de-julho-de-2026-721542610) |
+| AVISO | Fundação Universidade Federal do Tocantins |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-721509843) |
+| EDITAL Nº 3/UNIR/CJP/2026 | Diretoria do Campus de Ji-Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-3/unir/cjp/2026-721468949) |
+| EDITAL Nº 155/2026 - PROGEP-DSP, 20 de Julho de 2026 | Universidade Federal da Paraíba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-155/2026-progep-dsp-20-de-julho-de-2026-721441287) |
+| EDITAL Nº 206/2026/DICS/DAP/PROGEPE | Universidade Federal da Integração Latino-Americana |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-206/2026/dics/dap/progepe-721546927) |
+| EDITAL Nº 207/2026/DICS/DAP/PROGEPE | Universidade Federal da Integração Latino-Americana |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-207/2026/dics/dap/progepe-721441364) |
+| EDITAL Nº 189/GAB-RET/IFSULDEMINAS, DE 23 DE JULHO DE 2026 | Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-189/gab-ret/ifsuldeminas-de-23-de-julho-de-2026-721607063) |
+| EDITAL Nº 205/2026/DICS/DAP/PROGEPE | Universidade Federal da Integração Latino-Americana |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-205/2026/dics/dap/progepe-721568815) |
+| EDITAL PROGEP Nº 118/2026 | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-progep-n-118/2026-721542856) |
+| EDITAL Nº 204/2026/DICS/DAP/PROGEPE | Universidade Federal da Integração Latino-Americana |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-204/2026/dics/dap/progepe-721607323) |
+| EDITAL PROGEP Nº 125/2026 | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-progep-n-125/2026-721607300) |
+| EDITAL PROGEP Nº 126/2026 | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-progep-n-126/2026-721607271) |
+| EDITAL PROGEP Nº 122/2026 | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-progep-n-122/2026-721606982) |
+| EDITAL PROGEP Nº 121/2026 | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-progep-n-121/2026-721604557) |
+| EDITAL PROGEP Nº 123/2026 | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-progep-n-123/2026-721602770) |
+| EDITAL PROGEP Nº 124/2026 | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-progep-n-124/2026-721602691) |
+| EDITAL PROGEP Nº 119/2026 | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-progep-n-119/2026-721542833) |
 | docente — DO de Birigui | Birigui |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3506508/2026-07-24/c47ad748b5e8ca5450b5d76e4e3768dfc45d2642.pdf) |
 | EDITAL Nº 2, DE 22 DE JULHO DE 2026 | Campus Ituiutaba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-2-de-22-de-julho-de-2026-721304527) |
 | EDITAL DE PRORROGAÇÃO DE CONCURSO, DE 22 DE JULHO DE 2026 | Universidade Federal de Goiás |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-prorrogacao-de-concurso-de-22-de-julho-de-2026-721284123) |
@@ -318,10 +336,15 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (35)
+## Institutos públicos (40)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EDITAL | Conselho de Arquitetura e Urbanismo do Brasil |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-721558226) |
+| EDITAL Nº 1, DE 24 DE JULHO DE 2026 | Tribunal de Justiça do Distrito Federal e dos Territórios |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1-de-24-de-julho-de-2026-721463412) |
+| EXTRATO DE COMPROMISSO | Embrapa Agrobiologia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-721593567) |
+| EXTRATO DE COMPROMISSO | Embrapa Roraima |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-721578421) |
+| EXTRATO DE COMPROMISSO | Embrapa Gado de Corte |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-721548732) |
 | EDITAL DE RECLASSIFICAÇÃO Nº 128/ 2026 | Decanato de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-reclassificacao-n-128/-2026-721190520) |
 | EXTRATO DE COMPROMISSO | Embrapa Roraima |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-721306026) |
 | EXTRATO DE COMPROMISSO | Embrapa Roraima |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-721194340) |
@@ -508,10 +531,11 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (89)
+## Bolsas / pós-doc / agências (90)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| AVISO DE ADENDO | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-adendo-721548574) |
 | Bolsa de TT-V em Microscopia de Tunelamento por Varredura / Materiais 2D Institu | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../fotonica-quantica:-de-materiais-2d-a-moleculas-biologicas/9659/) |
 | Bolsa de PD em Antropologia Econômica Instituição: Centro de Educação e Ciências | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../financas-na-periferia:-expansao-do-mercado-de-credito-e-respostas-de-comunidades-rurais-e-urbanas-no-brasil/9663/) |
 | RESULTADO DE JULGAMENTO | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-721276922) |
