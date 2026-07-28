@@ -1,10 +1,20 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (294)
+## Públicas federais (304)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EXTRATO DO CONTRATO Nº 50/2026 | Instituto Federal de Educação, Ciência e Tecnologia do Pará |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-do-contrato-n-50/2026-721839933) |
+| EXTRATOS DE CONTRATOS | Universidade Federal do Sul e Sudeste do Pará |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extratos-de-contratos-721822426) |
+| EDITAL Nº 29, DE 22 de julho de 2026 | Universidade Federal de Goiás |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-29-de-22-de-julho-de-2026-721750304) |
+| EXTRATOS DE CONTRATOs | Universidade Federal Rural do Semi-Árido |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extratos-de-contratos-721738168) |
+| EXTRATOS DE CONTRATOs | Pró-Reitoria de Gestão de Pessoas e Qualidade de Vida |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extratos-de-contratos-721733709) |
+| EXTRATO DE DISTRATO | Campus Vilhena |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-distrato-721696844) |
+| EDITAL Nº 1.706, DE 23 DE JULHO DE 2026 | Universidade Federal de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1.706-de-23-de-julho-de-2026-721766730) |
+| EDITAL Nº 547, DE 24 DE JULHO DE 2026 | Pró-Reitoria de Gestão com Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-547-de-24-de-julho-de-2026-721765127) |
+| Extrato de Protocolo de Intenções | Pró-Reitoria de Administração e Infraestrutura |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-protocolo-de-intencoes-721807588) |
+| EDITAL Nº 901, DE 27 DE JULHO DE 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-901-de-27-de-julho-de-2026-721861329) |
 | EDITAL Nº 154 - PROGEP-DSP, 16 DE JULHO DE 2026 | Universidade Federal da Paraíba |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-154-progep-dsp-16-de-julho-de-2026-721560819) |
 | EDITAL Nº 188/2026/GAB-RET/IFSULDEMINAS, DE 22 DE JULHO DE 2026 | Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-188/2026/gab-ret/ifsuldeminas-de-22-de-julho-de-2026-721542610) |
 | AVISO | Fundação Universidade Federal do Tocantins |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-721509843) |
@@ -336,10 +346,19 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (40)
+## Institutos públicos (49)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EDITAL Nº 131, DE 23 DE JULHO DE 2026 | Decanato de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-131-de-23-de-julho-de-2026-721822191) |
+| EDITAL Nº 6, DE 27 DE JULHO DE 2026 | Hospital de Clínicas de Porto Alegre |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-6-de-27-de-julho-de-2026-721860859) |
+| EXTRATO DE COMPROMISSO | Embrapa Clima Temperado |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-721856133) |
+| EXTRATO DE COMPROMISSO | Embrapa Clima Temperado |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-721826221) |
+| EXTRATO DE COMPROMISSO | Embrapa Clima Temperado |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-721810392) |
+| EXTRATO DE COMPROMISSO | Embrapa Clima Temperado |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-721784260) |
+| EXTRATO DE COMPROMISSO | Embrapa Clima Temperado |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-721770184) |
+| EXTRATO DE COMPROMISSO | Embrapa Clima Temperado |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-721706174) |
+| EXTRATO DE COMPROMISSO | Embrapa Clima Temperado |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-721700165) |
 | EDITAL | Conselho de Arquitetura e Urbanismo do Brasil |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-721558226) |
 | EDITAL Nº 1, DE 24 DE JULHO DE 2026 | Tribunal de Justiça do Distrito Federal e dos Territórios |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1-de-24-de-julho-de-2026-721463412) |
 | EXTRATO DE COMPROMISSO | Embrapa Agrobiologia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-721593567) |
@@ -381,10 +400,18 @@
 | EDITAL Nº 12/2026 | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | EDITAL Nº 11/2026 | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (145)
+## Privadas (153)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor Universitário - Engenharias  | FMU |  | 25/09/2026 | aberta | [link](https://fmu.gupy.io/job/eyJqb2JJZCI6MTE4Mjg2ODMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor(a) Universitário - Fonoaudiologia (Audiologia)  | FMU |  | 25/09/2026 | aberta | [link](https://fmu.gupy.io/job/eyJqb2JJZCI6MTE4Mjg2MjIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente Engenharia Mecânica - Projeto de Máquinas: Içamento e Transporte | Unifeob |  | 06/08/2026 | aberta | [link](https://unifeob.gupy.io/job/eyJqb2JJZCI6MTE4MzAwNTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor de Fundamental 1 (2º ano) TARDE / Santa Branca - BH | Rede Decisão |  | 31/08/2026 | aberta | [link](https://vemprarededecisao.gupy.io/job/eyJqb2JJZCI6MTE4MzE3MzMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I  - PSICOLOGIA - ESTÁCIO SANTA CRUZ | Estácio |  | 23/09/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE3OTEyMDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I  - ENGENHARIA - ESTÁCIO SAQUAREMA | Estácio |  | 20/09/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE3NDM4NTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I  - DIREITO - ESTÁCIO SAQUAREMA | Estácio |  | 20/09/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE3NDM4NTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor de Química / Zona Sul | Rede Decisão |  | 25/09/2026 | aberta | [link](https://vemprarededecisao.gupy.io/job/eyJqb2JJZCI6MTE4MjUxMjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Professor(a) Universitário(a) - Terapia Ocupacional  | FMU |  | 22/09/2026 | aberta | [link](https://fmu.gupy.io/job/eyJqb2JJZCI6MTE3NzU0MjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Professor(a) Universitário - Fisioterapia Dermatologia Funcional   | FMU |  | 22/09/2026 | aberta | [link](https://fmu.gupy.io/job/eyJqb2JJZCI6MTE3NzU0MTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR AUXILIAR I  - CIÊNCIAS BIOLÓGICAS - BACHARELADO - ESTÁCIO CONSTANTINO  | Estácio |  | 19/09/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE3MjY5MzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
@@ -531,10 +558,11 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (90)
+## Bolsas / pós-doc / agências (91)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| FGV EAESP abre seleção para bolsa de Pós-Doutorado FAPESP | FGV EAESP |  |  | sem prazo identificado | [link](https://eaesp.fgv.br/noticias/fgv-eaesp-abre-selecao-para-bolsa-de-pos-doutorado-fapesp) |
 | AVISO DE ADENDO | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-adendo-721548574) |
 | Bolsa de TT-V em Microscopia de Tunelamento por Varredura / Materiais 2D Institu | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../fotonica-quantica:-de-materiais-2d-a-moleculas-biologicas/9659/) |
 | Bolsa de PD em Antropologia Econômica Instituição: Centro de Educação e Ciências | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../financas-na-periferia:-expansao-do-mercado-de-credito-e-respostas-de-comunidades-rurais-e-urbanas-no-brasil/9663/) |
