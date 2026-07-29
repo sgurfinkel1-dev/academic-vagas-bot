@@ -1,10 +1,19 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (304)
+## Públicas federais (313)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EDITAL DE PRORROGAÇÃO Nº 31, DE 27 DE JULHO DE 2026 | Campus Uberlândia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-prorrogacao-n-31-de-27-de-julho-de-2026-722102497) |
+| EXTRATO DO CONTRATO Nº 15/2026/PAL/REI/IFTO | Campus Palmas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-do-contrato-n-15/2026/pal/rei/ifto-722065009) |
+| EXTRATOs DE CONTRATOs | Fundação Universidade Federal de Ouro Preto |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extratos-de-contratos-722025133) |
+| EXTRATOS DE CONTRATO | Departamento de Administração de Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extratos-de-contrato-722014264) |
+| EDITAL Nº 83, DE 28 DE JULHO DE 2026 | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-83-de-28-de-julho-de-2026-722007035) |
+| EXTRATO DE EXTINÇÃO DE CONTRATO Nº 22/2024 | Campus São Borja |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-extincao-de-contrato-n-22/2024-721994621) |
+| EXTRATOS DE CONTRATOS | Universidade Federal do Sul e Sudeste do Pará |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extratos-de-contratos-721989338) |
+| EXTRATO DE EXTINÇÃO DE CONTRATO Nº 24/2024 | Campus São Borja |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-extincao-de-contrato-n-24/2024-721922340) |
+| EXTRATO DE MEMORANDO DE ENTENDIMENTO | Universidade Federal do Rio Grande do Norte |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-memorando-de-entendimento-722081293) |
 | EXTRATO DO CONTRATO Nº 50/2026 | Instituto Federal de Educação, Ciência e Tecnologia do Pará |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-do-contrato-n-50/2026-721839933) |
 | EXTRATOS DE CONTRATOS | Universidade Federal do Sul e Sudeste do Pará |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extratos-de-contratos-721822426) |
 | EDITAL Nº 29, DE 22 de julho de 2026 | Universidade Federal de Goiás |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-29-de-22-de-julho-de-2026-721750304) |
@@ -346,10 +355,11 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (49)
+## Institutos públicos (50)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EDITAL Nº 1/2026 | Empresa de Tecnologia e Informações da Previdência |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1/2026-722086011) |
 | EDITAL Nº 131, DE 23 DE JULHO DE 2026 | Decanato de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-131-de-23-de-julho-de-2026-721822191) |
 | EDITAL Nº 6, DE 27 DE JULHO DE 2026 | Hospital de Clínicas de Porto Alegre |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-6-de-27-de-julho-de-2026-721860859) |
 | EXTRATO DE COMPROMISSO | Embrapa Clima Temperado |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-721856133) |
@@ -400,10 +410,14 @@
 | EDITAL Nº 12/2026 | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | EDITAL Nº 11/2026 | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (153)
+## Privadas (157)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| PROFESSOR ASSISTENTE - FISIOTERAPIA São Paulo - SP Docente | Cruzeiro do Sul |  |  | sem prazo identificado | [link](https://cruzeirodosul.gupy.io/jobs/11567872?jobBoardSource=gupy_public_page) |
+| PROFESSOR ENSINO PROFISSIONALIZANTE | Estácio |  | 26/09/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE4NDEyNDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR ASSISTENTE - FISIOTERAPIA | Universidade Cruzeiro do Sul |  | 31/07/2026 | aberta | [link](https://cruzeirodosul.gupy.io/job/eyJqb2JJZCI6MTE1Njc4NzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor de Engenharia de Computação | Fundação Salvador Arena |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2810863/professor-de-engenharia-de-computacao) |
 | Professor Universitário - Engenharias  | FMU |  | 25/09/2026 | aberta | [link](https://fmu.gupy.io/job/eyJqb2JJZCI6MTE4Mjg2ODMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Professor(a) Universitário - Fonoaudiologia (Audiologia)  | FMU |  | 25/09/2026 | aberta | [link](https://fmu.gupy.io/job/eyJqb2JJZCI6MTE4Mjg2MjIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Docente Engenharia Mecânica - Projeto de Máquinas: Içamento e Transporte | Unifeob |  | 06/08/2026 | aberta | [link](https://unifeob.gupy.io/job/eyJqb2JJZCI6MTE4MzAwNTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
@@ -558,10 +572,11 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (91)
+## Bolsas / pós-doc / agências (92)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| RESULTADO DE JULGAMENTO | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-722052523) |
 | FGV EAESP abre seleção para bolsa de Pós-Doutorado FAPESP | FGV EAESP |  |  | sem prazo identificado | [link](https://eaesp.fgv.br/noticias/fgv-eaesp-abre-selecao-para-bolsa-de-pos-doutorado-fapesp) |
 | AVISO DE ADENDO | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-adendo-721548574) |
 | Bolsa de TT-V em Microscopia de Tunelamento por Varredura / Materiais 2D Institu | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../fotonica-quantica:-de-materiais-2d-a-moleculas-biologicas/9659/) |
