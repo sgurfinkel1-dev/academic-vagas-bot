@@ -75,17 +75,71 @@ CONTEXTO_AREA = re.compile(
     r"\s*(?:de|em|:)\s*([^.;\n]{3,60})", re.I)
 
 
+# "Faculdade de Filosofia, Letras e Ciências Humanas" é o nome da CASA, não a área:
+# uma vaga de História na FFLCH não é vaga de filosofia. Idem "Escola de Filosofia".
+# "Faculdade/Escola de Filosofia" é unidade guarda-chuva (FFLCH, EFLCH): abriga História,
+# Comunicação, Letras. Já "Departamento de Filosofia" é a área da vaga — esse fica.
+NOME_DE_CASA = re.compile(
+    r"(?:faculdade|escola)\s+de\s+filosofia(?:\s*,?\s*"
+    r"(?:letras|ci[êe]ncias|artes|educa[çc][ãa]o)[^.;]{0,40})?|"
+    r"instituto\s+de\s+filosofia\s*(?:e|,)\s*ci[êe]ncias", re.I)
+
+
+def _sem_nome_de_casa(texto: str) -> str:
+    return NOME_DE_CASA.sub(" ", texto or "")
+
+
 def classificar_area(titulo: str, corpo: str = "") -> str:
     """Área do conhecimento; '' quando nada casa (melhor vazio que errado).
     O título vale por si; no corpo, só conta se estiver declarando a área da vaga."""
-    area = _primeira(REGRAS_AREA, titulo, "")
+    area = _primeira(REGRAS_AREA, _sem_nome_de_casa(titulo), "")
     if area:
         return area
-    for m in CONTEXTO_AREA.finditer(corpo or ""):
+    for m in CONTEXTO_AREA.finditer(_sem_nome_de_casa(corpo)):
         area = _primeira(REGRAS_AREA, m.group(1), "")
         if area:
             return area
     return ""
+
+
+# o edital costuma declarar a área literal: "Área: Filosofia Subárea: Filosofia Política",
+# "Área de Conhecimento: Filosofia Clássica Alemã", "Setor de estudo: Lógica"
+ROTULO_AREA = re.compile(
+    r"(sub[ -]?[áa]rea|[áa]rea\s+de\s+conhecimento|setor\s+de\s+estudos?|[áa]reas?|departamento)"
+    r"\s*:?\s*(?:d[eoa]s?\s+|em\s+)?[\"“]?", re.I)
+# a captura corre até o próximo rótulo do edital; corta aí para não colar dois campos
+CORTA_ROTULO = re.compile(
+    r"\s+(?:sub[ -]?[áa]rea|[áa]rea|departamento|setor|edital|n[ºo°]\b|regime|vagas?|"
+    r"processo|classe|campus|per[íi]odo|inscri|requisito|titula[çc])\b.*$", re.I)
+# quanto mais específico o rótulo, melhor a declaração
+PESO_ROTULO = {"sub": 4, "área de conhecimento": 3, "area de conhecimento": 3,
+               "setor de estudo": 3, "setor de estudos": 3, "área": 2, "area": 2,
+               "departamento": 1}
+
+
+def _peso(rotulo: str) -> int:
+    r = rotulo.lower().strip()
+    return 4 if r.startswith("sub") else PESO_ROTULO.get(r, 1)
+
+
+def extrair_subarea(corpo: str) -> str:
+    """O que o edital declara como área/subárea da vaga, na letra dele.
+    Fica com a declaração de rótulo mais específico ("Subárea" ganha de "Área")."""
+    texto = _sem_nome_de_casa(corpo or "")
+    marcas = list(ROTULO_AREA.finditer(texto))
+    melhor, melhor_peso = "", 0
+    for i, m in enumerate(marcas):
+        # até o próximo rótulo: senão "Área: X Subárea: Y" cola os dois campos
+        fim = marcas[i + 1].start() if i + 1 < len(marcas) else len(texto)
+        valor = re.split(r"[.;:\n\"”]", texto[m.end():fim])[0]
+        valor = CORTA_ROTULO.sub("", valor).strip(" -–,\"”")
+        valor = re.sub(r"\s+(?:d[eoa]s?|e|em|na|no|,)\s*$", "", valor, flags=re.I)  # conector solto no fim
+        if len(valor) < 4:
+            continue
+        p = _peso(m.group(1))
+        if p > melhor_peso:
+            melhor, melhor_peso = re.sub(r"\s+", " ", valor), p
+    return melhor[:120]
 
 
 def _primeira(regras, texto, default):

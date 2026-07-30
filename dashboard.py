@@ -5,6 +5,7 @@ import sys
 import unicodedata
 from pathlib import Path
 
+import numpy as np
 import pandas as pd
 import streamlit as st
 import yaml
@@ -223,25 +224,43 @@ if f_texto:
     import re
     palavras = [p for p in _sem_acento(f_texto).split() if p not in GENERICAS] \
         or _sem_acento(f_texto).split()
-    # O que a vaga É (título/área) pesa; o corpo do edital é só desempate. Sem isso,
-    # "lógica" casava um edital de previdência que dizia "continuidade lógica".
+    # três níveis: a subárea declarada no edital ("Subárea: Filosofia Política") é o
+    # sinal mais forte; título/área vêm depois; o corpo do edital só desempata.
+    subarea = df["subarea"].fillna("").map(_sem_acento)
     tema = df[["titulo", "area"]].fillna("").agg(" ".join, axis=1).map(_sem_acento)
     corpo = df[["instituicao", "natureza", "trecho_comprovacao"]].fillna("").agg(" ".join, axis=1).map(_sem_acento)
 
     def _casa(serie):
         return pd.concat([serie.str.contains(rf"\b{re.escape(p)}\b", na=False)
-                          for p in palavras], axis=1)
+                          for p in palavras], axis=1, keys=palavras)
 
-    no_tema, no_corpo = _casa(tema), _casa(corpo)
-    # regra: pelo menos um termo tem que estar no título ou na área. Casar só no
-    # corpo do edital não basta — é daí que vinham as vagas de química/antropologia.
-    relevantes = no_tema.any(axis=1)
-    pontos = no_tema.sum(axis=1) * 3 + no_corpo.sum(axis=1)
+    n_sub, n_tema, n_corpo = _casa(subarea), _casa(tema), _casa(corpo)
+    # termo raro vale mais que termo comum: em "filosofia da lógica" quase toda vaga
+    # da lista casa "filosofia", então quem decide a ordem é "lógica".
+    onde = n_sub | n_tema | n_corpo
+    freq = onde.sum(axis=0).clip(lower=1)
+    peso = np.log(len(df) / freq) + 0.1
+
+    # cada termo conta UMA vez, pelo melhor campo em que aparece. Somar os campos
+    # faria "filosofia" (em subárea + título) ganhar de "lógica", que é o termo raro.
+    campo = np.maximum.reduce([n_sub.values * 4, n_tema.values * 3, n_corpo.values * 1])
+    pontos = pd.Series((campo * peso.values).sum(axis=1), index=df.index)
+    # bônus grande para quem casa TODOS os termos: é a interseção que se pediu
+    completos = onde.all(axis=1)
+    pontos = pontos + completos * peso.sum() * 4
+
+    # entra quem tem algum termo na subárea, no título ou na área; só no corpo não basta
+    relevantes = (n_sub | n_tema).any(axis=1)
     df = df[relevantes].assign(_p=pontos[relevantes]) \
                        .sort_values("_p", ascending=False).drop(columns="_p")
+    n_completos = int((completos & relevantes).sum())
+    if len(df) and len(palavras) > 1:
+        st.caption(f"{n_completos} vaga(s) com todos os termos de “{f_texto}” aparecem primeiro; "
+                   f"depois as {len(df) - n_completos} que batem em parte." if n_completos
+                   else f"Nenhuma vaga combina “{' + '.join(palavras)}” ao mesmo tempo. "
+                        f"Mostrando {len(df)} por proximidade, as mais específicas primeiro.")
     if not len(df):
-        st.info(f"Nenhuma vaga de “{f_texto}”. Tente um termo mais amplo "
-                "(ex.: “filosofia” em vez de “filosofia da lógica”).")
+        st.info(f"Nenhuma vaga de “{f_texto}”.")
 
 c1, c2, c3, c4 = st.columns(4)
 c1.metric("Vagas", len(df))

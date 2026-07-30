@@ -2,7 +2,7 @@ import hashlib
 from dataclasses import dataclass, field, asdict
 
 CAMPOS = [
-    "titulo", "instituicao", "classificacao_instituicao", "natureza", "area",
+    "titulo", "instituicao", "classificacao_instituicao", "natureza", "area", "subarea",
     "departamento", "cidade", "estado", "pais", "modalidade",
     "titulacao_exigida", "regime", "remuneracao_ou_bolsa", "data_publicacao",
     "prazo_inscricao", "status", "link_oficial", "link_edital_pdf", "fonte",
@@ -17,6 +17,7 @@ class Vaga:
     classificacao_instituicao: str = ""
     natureza: str = ""
     area: str = ""
+    subarea: str = ""  # o que o edital declara: "Filosofia Política", "Lógica"
     departamento: str = ""
     cidade: str = ""
     estado: str = ""

@@ -39,6 +39,8 @@ def _enriquecer(v: Vaga) -> Vaga:
     """Preenche a área e torna o título legível. Roda para toda vaga, de qualquer fonte."""
     if not (v.area or "").strip():
         v.area = clf.classificar_area(f"{v.titulo} {v.area or ''}", v.trecho_comprovacao)
+    if not (v.subarea or "").strip():
+        v.subarea = clf.extrair_subarea(v.trecho_comprovacao)
     if SO_REFERENCIA.match(v.titulo) and not CARGO_NO_TITULO.search(v.titulo):
         cargo = v.natureza if v.natureza != "não informado" else "Vaga docente"
         rotulo = f"{cargo} em {v.area}" if v.area else cargo

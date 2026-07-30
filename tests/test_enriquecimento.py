@@ -82,14 +82,20 @@ def _buscar(df, consulta):
     sa = lambda s: unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
     fonte = open("dashboard.py", encoding="utf-8").read()
     genericas = eval(re.search(r"GENERICAS = (\{.*?\})", fonte, re.S).group(1))
+    import numpy as np
     palavras = [p for p in sa(consulta).split() if p not in genericas] or sa(consulta).split()
+    subarea = df["subarea"].fillna("").map(sa) if "subarea" in df else pd.Series("", index=df.index)
     tema = df[["titulo", "area"]].fillna("").agg(" ".join, axis=1).map(sa)
     corpo = df[["instituicao", "natureza", "trecho_comprovacao"]].fillna("").agg(" ".join, axis=1).map(sa)
     casa = lambda s: pd.concat([s.str.contains(rf"\b{re.escape(p)}\b", na=False)
-                                for p in palavras], axis=1)
-    no_tema, no_corpo = casa(tema), casa(corpo)
-    rel = no_tema.any(axis=1)
-    pontos = no_tema.sum(axis=1) * 3 + no_corpo.sum(axis=1)
+                                for p in palavras], axis=1, keys=palavras)
+    n_sub, n_tema, n_corpo = casa(subarea), casa(tema), casa(corpo)
+    onde = n_sub | n_tema | n_corpo
+    peso = np.log(len(df) / onde.sum(axis=0).clip(lower=1)) + 0.1
+    campo = np.maximum.reduce([n_sub.values * 4, n_tema.values * 3, n_corpo.values * 1])
+    pontos = (pd.Series((campo * peso.values).sum(axis=1), index=df.index)
+              + onde.all(axis=1) * peso.sum() * 4)
+    rel = (n_sub | n_tema).any(axis=1)
     return df[rel].assign(_p=pontos[rel]).sort_values("_p", ascending=False)
 
 
@@ -105,7 +111,7 @@ def test_busca_relevante():
         # o que NÃO pode aparecer
         {"titulo": "Bolsa de PD em Antropologia Forense", "area": "sociologia/antropologia",
          "instituicao": "Escola de Filosofia, Letras e Ciências Humanas",
-         "natureza": "bolsa", "trecho_comprovacao": ""},
+         "natureza": "bolsa", "trecho_comprovacao": "", "subarea": ""},
         {"titulo": "Bolsa de PD em Química", "area": "química",
          "instituicao": "Instituto de Química", "natureza": "bolsa", "trecho_comprovacao": ""},
         {"titulo": "EDITAL MPS Nº 17", "area": "", "instituicao": "Previdência",
@@ -122,8 +128,37 @@ def test_busca_relevante():
     print(f"OK  busca relevante ({len(achados)} vagas para 'filosofia da lógica', sem lixo)")
 
 
+def test_ordena_por_especificidade():
+    """O termo raro manda: em 'filosofia da lógica' quase tudo casa 'filosofia',
+    então quem decide a ordem é 'lógica'. E a subárea declarada vale mais que o título."""
+    import pandas as pd
+    base = dict(instituicao="UF", natureza="professor efetivo", trecho_comprovacao="")
+    df = pd.DataFrame([
+        {"titulo": "Professor efetivo em lógica", "area": "lógica", "subarea": "", **base},
+        {"titulo": "Professor efetivo em filosofia", "area": "filosofia",
+         "subarea": "Ensino de Filosofia", **base},
+        {"titulo": "Professor efetivo em filosofia", "area": "filosofia",
+         "subarea": "Filosofia Política", **base},
+    ] + [{"titulo": f"Professor de filosofia {i}", "area": "filosofia", "subarea": "", **base}
+         for i in range(10)])  # "filosofia" comum, "lógica" rara
+
+    ordem = list(_buscar(df, "filosofia da lógica").index)
+    assert ordem[0] == 0, f"a vaga de lógica devia vir primeiro, veio a {ordem[0]}"
+
+    ordem = list(_buscar(df, "filosofia política").index)
+    assert ordem[0] == 2, f"a subárea 'Filosofia Política' devia vir primeiro, veio a {ordem[0]}"
+
+    # quem casa os dois termos passa na frente de quem casa só um
+    df2 = pd.concat([df, pd.DataFrame([{"titulo": "Professor de Filosofia da Lógica",
+                                        "area": "filosofia", "subarea": "Lógica", **base}])],
+                    ignore_index=True)
+    assert list(_buscar(df2, "filosofia da lógica").index)[0] == len(df2) - 1
+    print("OK  ordenação por especificidade")
+
+
 if __name__ == "__main__":
     test_area()
+    test_ordena_por_especificidade()
     test_area_no_corpo()
     test_busca_relevante()
     test_titulo_dou()

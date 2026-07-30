@@ -7,6 +7,7 @@ só a referência do ato. Roda uma vez; depois disso o robô já grava certo.
 
 Sem --aplicar só mostra o que mudaria.
 """
+import re
 import sqlite3
 import sys
 from pathlib import Path
@@ -34,8 +35,14 @@ def reparar(linha: dict) -> dict:
     # 2. DOU: HTML do destaque da busca grudado no texto
     if "<" in (v["trecho_comprovacao"] or ""):
         v["trecho_comprovacao"] = _limpo(v["trecho_comprovacao"])[:600]
-    # 3. área: recalcula com a regra nova (menção solta não conta mais)
+    # 2b. título já remontado numa passada anterior ("Professor em X — Casa (EDITAL Nº 1)")
+    # tem a área velha embutida; volta à referência para o recálculo não se realimentar
+    remontado = re.match(r"^.+ — .+ \((.+)\)$", v["titulo"] or "")
+    if remontado and SO_REFERENCIA.match(remontado.group(1)):
+        v["titulo"] = remontado.group(1)
+    # 3. área e subárea: recalcula com a regra nova (menção solta não conta mais)
     v["area"] = clf.classificar_area(v["titulo"], v["trecho_comprovacao"]) or ""
+    v["subarea"] = clf.extrair_subarea(v["trecho_comprovacao"])
     # 4. título que é só "EDITAL Nº ..." vira legível
     if SO_REFERENCIA.match(v["titulo"] or "") and not CARGO_NO_TITULO.search(v["titulo"] or ""):
         from src.database.models import Vaga
@@ -59,9 +66,10 @@ def main(aplicar: bool) -> None:
         print("\n(simulação — rode com --aplicar para gravar)")
         return
     for _, d in mudadas:
-        con.execute("UPDATE vagas SET titulo=?, area=?, instituicao=?, trecho_comprovacao=? "
-                    "WHERE chave=?",
-                    (d["titulo"], d["area"], d["instituicao"], d["trecho_comprovacao"], d["chave"]))
+        con.execute("UPDATE vagas SET titulo=?, area=?, subarea=?, instituicao=?, "
+                    "trecho_comprovacao=? WHERE chave=?",
+                    (d["titulo"], d["area"], d["subarea"], d["instituicao"],
+                     d["trecho_comprovacao"], d["chave"]))
     con.commit()
     registros = storage.todas(con)
     export_csv.exportar(registros)

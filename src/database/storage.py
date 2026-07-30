@@ -10,6 +10,12 @@ def conectar(db_path=DB_PATH) -> sqlite3.Connection:
     con = sqlite3.connect(db_path)
     cols = ", ".join(f"{c} TEXT" for c in CAMPOS)
     con.execute(f"CREATE TABLE IF NOT EXISTS vagas (chave TEXT PRIMARY KEY, encontrada_em TEXT DEFAULT CURRENT_TIMESTAMP, {cols})")
+    # campo novo em CAMPOS entra em banco antigo sem recriar a tabela
+    existentes = {linha[1] for linha in con.execute("PRAGMA table_info(vagas)")}
+    for c in CAMPOS:
+        if c not in existentes:
+            con.execute(f"ALTER TABLE vagas ADD COLUMN {c} TEXT DEFAULT ''")
+    con.commit()
     return con
 
 
