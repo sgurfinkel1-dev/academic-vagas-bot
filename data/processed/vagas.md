@@ -1,10 +1,20 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (313)
+## Públicas federais (323)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EXTRATO DO CONTRATO Nº 4/2026 - CGP-SRQ/DRG-SRQ/IFSP | Instituto Federal de Educação, Ciência e Tecnologia de São Paulo |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-do-contrato-n-4/2026-cgp-srq/drg-srq/ifsp-722367497) |
+| EXTRATO DE EXTINÇÃO | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-extincao-722347415) |
+| EXTRATO DE DISTRATO Nº 20/2026 | Pró-Reitoria de Desenvolvimento e Gestão de Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-distrato-n-20/2026-722335448) |
+| EXTRATOS DE CONTRATOS | Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extratos-de-contratos-722328667) |
+| EXTRATOS DE CONTRATOS | Campus São João da Boa Vista |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extratos-de-contratos-722328509) |
+| EXTRATO DE DISTRATO | Pró-Reitoria de Gestão de Pessoas e Qualidade de Vida |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-distrato-722312184) |
+| EDITAL N° 94, DE 29 DE JULHO DE 2026 | Seção do Gabinete da Diretoria Geral |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-94-de-29-de-julho-de-2026-722272964) |
+| EDITAL Nº 86, DE 29 DE JULHO DE 2026 | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-86-de-29-de-julho-de-2026-722213632) |
+| Edital, de 29 de julho de 2026 | Instituto Federal de Educação, Ciência e Tecnologia Catarinense |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-29-de-julho-de-2026-722354823) |
+| EXTRATO DE COLABORAÇÃO TÉCNICA | Instituto Federal de Educação, Ciência e Tecnologia de Rondônia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-colaboracao-tecnica-722347646) |
 | EDITAL DE PRORROGAÇÃO Nº 31, DE 27 DE JULHO DE 2026 | Campus Uberlândia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-prorrogacao-n-31-de-27-de-julho-de-2026-722102497) |
 | EXTRATO DO CONTRATO Nº 15/2026/PAL/REI/IFTO | Campus Palmas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-do-contrato-n-15/2026/pal/rei/ifto-722065009) |
 | EXTRATOs DE CONTRATOs | Fundação Universidade Federal de Ouro Preto |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extratos-de-contratos-722025133) |
@@ -355,10 +365,11 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (50)
+## Institutos públicos (51)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EXTRATO DE CARTA CONVITE | Instituto Nacional de Pesquisas da Amazônia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-carta-convite-722321265) |
 | EDITAL Nº 1/2026 | Empresa de Tecnologia e Informações da Previdência |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1/2026-722086011) |
 | EDITAL Nº 131, DE 23 DE JULHO DE 2026 | Decanato de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-131-de-23-de-julho-de-2026-721822191) |
 | EDITAL Nº 6, DE 27 DE JULHO DE 2026 | Hospital de Clínicas de Porto Alegre |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-6-de-27-de-julho-de-2026-721860859) |
@@ -410,10 +421,11 @@
 | EDITAL Nº 12/2026 | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | EDITAL Nº 11/2026 | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (157)
+## Privadas (158)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| PROFESSOR AUXILIAR I - TECNOLOGIA APLICADA EM SAÚDE - IDOMED ANGRA DOS REIS  | IDOMED |  | 22/09/2026 | aberta | [link](https://idomed.gupy.io/job/eyJqb2JJZCI6MTE3ODE2MjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR ASSISTENTE - FISIOTERAPIA São Paulo - SP Docente | Cruzeiro do Sul |  |  | sem prazo identificado | [link](https://cruzeirodosul.gupy.io/jobs/11567872?jobBoardSource=gupy_public_page) |
 | PROFESSOR ENSINO PROFISSIONALIZANTE | Estácio |  | 26/09/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE4NDEyNDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR ASSISTENTE - FISIOTERAPIA | Universidade Cruzeiro do Sul |  | 31/07/2026 | aberta | [link](https://cruzeirodosul.gupy.io/job/eyJqb2JJZCI6MTE1Njc4NzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
