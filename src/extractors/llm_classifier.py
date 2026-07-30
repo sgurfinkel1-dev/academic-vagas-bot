@@ -130,8 +130,8 @@ def status_por_prazo(prazo: str) -> str:
 EXCLUIR = re.compile(
     r"educação infantil|ensino fundamental|ensino médio|educação básica|\beja\b|creche|berçário|"
     r"professor de apoio|auxiliar de classe|professor i\b|peb.i|"
-    r"extrato de contrato|extrato de termo|extrato de doação|extrato de acordo|extrato de rescisão|"
-    r"extrato de registro|termo aditivo|aviso de licitação|apostilamento|"
+    r"extratos? d[eo]s? (contratos?|termos?|doaç|acordos?|rescis|registros?|convênios?|instrumento)|"
+    r"termo aditivo|aviso de licitação|apostilamento|"
     r"resultado final|homologação|nomeação|convocação|aposentadoria|exoneração|"
     r"relação de cursos|pós em\b|inscreva-se no curso", re.I)
 CARGO = re.compile(r"professor|docente|pesquisador|pós.doutor|postdoc|bolsista|magistério superior|lecturer", re.I)

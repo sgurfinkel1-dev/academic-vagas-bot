@@ -1,5 +1,6 @@
 """FAPESP Oportunidades — bolsas e pós-doutorado."""
 import logging
+import re
 from bs4 import BeautifulSoup
 
 from ..extractors.html_extractor import baixar
@@ -8,6 +9,16 @@ from ..database.models import Vaga
 
 log = logging.getLogger("bot")
 URL = "https://fapesp.br/oportunidades/"
+# o anúncio vem num texto só: "Bolsa de X Instituição: Y Cidade: Z Inscrições até: ..."
+ROTULO_SEGUINTE = re.compile(r"\s*(?:Cidade|Inscri[çc][õo]es|Publicad[ao]|Área|Programa)\s*:", re.I)
+
+
+def partes(titulo: str) -> tuple[str, str]:
+    """Separa o assunto da vaga do nome da instituição. Sem isso o nome da casa
+    ("Escola de Filosofia, Letras...") era lido como a área da vaga."""
+    assunto, _, resto = titulo.partition("Instituição:")
+    casa = ROTULO_SEGUINTE.split(resto.strip(), maxsplit=1)[0].strip() if resto else ""
+    return (assunto.strip(" -–") or titulo), casa
 
 
 def buscar(areas: list[str], max_por_fonte: int = 100) -> list[Vaga]:
@@ -22,10 +33,7 @@ def buscar(areas: list[str], max_por_fonte: int = 100) -> list[Vaga]:
         if len(titulo) < 15 or href.rstrip("/").endswith("oportunidades"):
             continue
         link = href if href.startswith("http") else "https://fapesp.br" + href
-        # o anúncio traz "Bolsa de X Instituição: Y" num texto só; separar evita que o
-        # nome da casa ("Escola de Filosofia, Letras...") seja lido como área da vaga
-        assunto, _, casa = titulo.partition("Instituição:")
-        assunto, casa = assunto.strip(" -–") or titulo, casa.strip()
+        assunto, casa = partes(titulo)
         texto = assunto.lower()
         area_match = next((ar for ar in areas if ar.lower() in texto), "") \
             or clf.classificar_area(assunto)
