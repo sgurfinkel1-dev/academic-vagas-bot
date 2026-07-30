@@ -5,6 +5,7 @@ Uso:  python -m src.main [--config config.yaml]
 """
 import argparse
 import logging
+import re
 import sys
 from pathlib import Path
 
@@ -14,7 +15,8 @@ from . import assinaturas
 from .database import storage
 from .database.models import Vaga
 from .extractors import llm_classifier as clf
-from .sources import dou, querido_diario, fapesp, universidades_publicas, universidades_privadas, busca_aberta, gupy, vagas_com
+from .sources import (dou, querido_diario, fapesp, universidades_publicas, universidades_privadas,
+                      busca_aberta, gupy, vagas_com, anpof)
 from .alerts import telegram_alert, discord_alert, email_alert
 from .output import export_csv, export_json, export_markdown
 
@@ -25,6 +27,25 @@ CLASSE_FILTRO = {
     "publica_federal": "pública federal", "publica_estadual": "pública estadual",
     "publica_municipal": "pública municipal", "privada": "privada",
 }
+
+
+# Título que é só a referência do ato ("EDITAL Nº 1584, DE 2 DE JULHO DE 2026"):
+# comum no DOU e ilegível na listagem — remontamos a partir do que foi classificado.
+SO_REFERENCIA = re.compile(r"^\s*(edital|aviso|portaria|retifica[çc][ãa]o|extrato)\b", re.I)
+CARGO_NO_TITULO = re.compile(r"professor|docente|pesquisador|p[óo]s.doutor|bolsa|magist[ée]rio", re.I)
+
+
+def _enriquecer(v: Vaga) -> Vaga:
+    """Preenche a área e torna o título legível. Roda para toda vaga, de qualquer fonte."""
+    texto = f"{v.titulo} {v.area or ''} {v.trecho_comprovacao}"
+    if not (v.area or "").strip():
+        v.area = clf.classificar_area(texto)
+    if SO_REFERENCIA.match(v.titulo) and not CARGO_NO_TITULO.search(v.titulo):
+        cargo = v.natureza if v.natureza != "não informado" else "Vaga docente"
+        rotulo = f"{cargo} em {v.area}" if v.area else cargo
+        ref = re.sub(r",?\s*DE\s+\d.*$", "", v.titulo, flags=re.I).strip()  # corta a data do ato
+        v.titulo = f"{rotulo[0].upper()}{rotulo[1:]} — {v.instituicao} ({ref})"[:200]
+    return v
 
 
 def filtrar(vagas: list[Vaga], user: dict) -> list[Vaga]:
@@ -43,7 +64,7 @@ def filtrar(vagas: list[Vaga], user: dict) -> list[Vaga]:
             continue
         if not user.get("incluir_vencidas", False) and v.status == "vencida":
             continue
-        saida.append(v)
+        saida.append(_enriquecer(v))
     return saida
 
 
@@ -155,6 +176,7 @@ def main():
         ("busca_aberta", lambda: busca_aberta.buscar(cfg.get("termos_base", []), user.get("areas", []), 50)),
         ("gupy", lambda: gupy.buscar(user.get("areas", []), max_f)),
         ("vagas_com", lambda: vagas_com.buscar(max_f)),
+        ("anpof", lambda: anpof.buscar(dias, max_f)),
     ]
     for nome, fn in execucoes:
         if not fontes.get(nome, False):

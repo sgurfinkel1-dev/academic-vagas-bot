@@ -37,6 +37,7 @@ fontes:
   busca_aberta: false  # ponytail: Bing/DDG servem captcha a scrapers; ligue só se plugar uma API de busca (ex.: SerpAPI free tier)
   gupy: true           # privadas (Anhanguera, Estácio, FMU etc.) via API pública do Gupy
   vagas_com: true      # privadas fora do Gupy via Vagas.com.br
+  anpof: true          # agenda de concursos da ANPOF — melhor fonte para filosofia
 
 termos_base:
   - "professor substituto"
@@ -89,6 +90,18 @@ paginas_concursos:
     url: https://www.ufv.br/concursos/
   - nome: IFSP
     url: https://www.ifsp.edu.br/component/content/article?id=13-concursos
+  - nome: UFSC
+    url: https://concursos.ufsc.br/
+  - nome: UFPE
+    url: https://www.ufpe.br/progepe/concursos
+  - nome: UFF
+    url: https://www.uff.br/?q=concursos
+  - nome: UFSCar
+    url: https://www.progpe.ufscar.br/concursos-e-selecoes
+  - nome: UFJF
+    url: https://www2.ufjf.br/progepe/concursos/
+# ponytail: UnB/UFPR/UFBA/UFC/UFABC/UFRN/UFES/UFG/UFU testadas e fora (DNS, SSL ou 404);
+# revisitar se alguém sentir falta — os editais delas ainda chegam pelo DOU.
 
 # páginas de vagas/editais de instituições privadas (varridas por universidades_privadas)
 paginas_privadas:

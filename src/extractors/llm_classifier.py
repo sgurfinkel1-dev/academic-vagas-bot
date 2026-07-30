@@ -33,6 +33,44 @@ REGRAS_TITULACAO = [
 ]
 
 
+# Área do conhecimento. Ordem importa: a primeira que casar vence, então os termos
+# mais específicos vêm antes (lógica antes de filosofia, direito antes de humanas).
+REGRAS_AREA = [
+    ("lógica", r"\bl[óo]gica\b"),
+    ("filosofia", r"filosofi|\bética\b|epistemolog|metafísic|fenomenolog|hermenêutic|estétic"),
+    ("direito", r"\bdireito\b|jurídic|\bjurídica\b|ciências jurídicas"),
+    ("medicina", r"\bmedicina\b|\bmédic[ao]\b|clínica médica|cirurgi|patologi"),
+    ("enfermagem", r"enfermage"),
+    ("farmácia", r"farm[áa]ci|farmacolog"),
+    ("odontologia", r"odontolog"),
+    ("psicologia", r"psicolog"),
+    ("educação", r"\bpedagogi|educação|ensino de\b|didátic"),
+    ("história", r"\bhistória\b|historiograf"),
+    ("letras/linguística", r"\bletras\b|linguístic|literatura|língua portuguesa|língua inglesa"),
+    ("sociologia/antropologia", r"sociolog|antropolog|ciências sociais"),
+    ("ciência política", r"ciência política|relações internacionais"),
+    ("economia", r"\beconomia\b|econômic|contábe|contabilidade"),
+    ("administração", r"administração|\bgestão\b|marketing|recursos humanos"),
+    ("computação", r"computação|\binformática\b|engenharia de software|ciência da computação|"
+                   r"inteligência artificial|ciência de dados|sistemas de informação"),
+    ("matemática", r"matemátic|estatístic"),
+    ("física", r"\bfísica\b"),
+    ("química", r"\bquímica\b|químic[ao]\b"),
+    ("biologia", r"biologi|biociênc|ciências biológicas|genétic|ecologi"),
+    ("engenharia", r"engenharia"),
+    ("arquitetura/urbanismo", r"arquitetur|urbanismo"),
+    ("agrárias", r"agronomi|veterinári|zootecni|ciências agrárias|agronegóci"),
+    ("comunicação", r"\bjornalismo\b|comunicação social|publicidade"),
+    ("artes", r"\bartes\b|artes visuais|\bmúsica\b|\bteatro\b|\bdança\b"),
+    ("educação física", r"educação física"),
+]
+
+
+def classificar_area(texto: str) -> str:
+    """Área do conhecimento inferida do texto; '' quando nada casa (melhor vazio que errado)."""
+    return _primeira(REGRAS_AREA, texto, "")
+
+
 def _primeira(regras, texto, default):
     t = texto.lower()
     for rotulo, padrao in regras:
