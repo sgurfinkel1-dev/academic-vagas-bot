@@ -10,7 +10,7 @@ import pandas as pd
 import streamlit as st
 import yaml
 
-from src import nuvem, assinaturas
+from src import nuvem, assinaturas, sinonimos
 
 RAIZ = Path(__file__).parent
 DB = RAIZ / "data" / "processed" / "vagas.db"
@@ -215,15 +215,11 @@ def _sem_acento(s: str) -> str:
     return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
 
 
-# palavras genéricas: aparecem em quase toda vaga, só atrapalham o casamento
-GENERICAS = {"concurso", "professor", "professora", "professores", "vaga", "vagas",
-             "docente", "docentes", "edital", "publico", "publica", "universidade",
-             "de", "da", "do", "dos", "das", "para", "em", "e", "no", "na"}
-
 if f_texto:
     import re
-    palavras = [p for p in _sem_acento(f_texto).split() if p not in GENERICAS] \
-        or _sem_acento(f_texto).split()
+    # cada grupo é um termo: "epistemologia" também acha "teoria do conhecimento"
+    grupos = sinonimos.expandir(f_texto)
+    palavras = [g[0] for g in grupos]  # rótulo do grupo, só para exibir
     # três níveis: a subárea declarada no edital ("Subárea: Filosofia Política") é o
     # sinal mais forte; título/área vêm depois; o corpo do edital só desempata.
     subarea = df["subarea"].fillna("").map(_sem_acento)
@@ -231,8 +227,9 @@ if f_texto:
     corpo = df[["instituicao", "natureza", "trecho_comprovacao"]].fillna("").agg(" ".join, axis=1).map(_sem_acento)
 
     def _casa(serie):
-        return pd.concat([serie.str.contains(rf"\b{re.escape(p)}\b", na=False)
-                          for p in palavras], axis=1, keys=palavras)
+        return pd.concat([serie.str.contains(
+            r"\b(?:" + "|".join(re.escape(f) for f in g) + r")\b", na=False)
+            for g in grupos], axis=1, keys=palavras)
 
     n_sub, n_tema, n_corpo = _casa(subarea), _casa(tema), _casa(corpo)
     # termo raro vale mais que termo comum: em "filosofia da lógica" quase toda vaga

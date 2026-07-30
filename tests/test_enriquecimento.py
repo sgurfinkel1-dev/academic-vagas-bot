@@ -79,16 +79,17 @@ def _buscar(df, consulta):
     import re
     import unicodedata
     import pandas as pd
-    sa = lambda s: unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
-    fonte = open("dashboard.py", encoding="utf-8").read()
-    genericas = eval(re.search(r"GENERICAS = (\{.*?\})", fonte, re.S).group(1))
     import numpy as np
-    palavras = [p for p in sa(consulta).split() if p not in genericas] or sa(consulta).split()
+    from src import sinonimos
+    sa = sinonimos.sem_acento
+    grupos = sinonimos.expandir(consulta)
+    palavras = [g[0] for g in grupos]
     subarea = df["subarea"].fillna("").map(sa) if "subarea" in df else pd.Series("", index=df.index)
     tema = df[["titulo", "area"]].fillna("").agg(" ".join, axis=1).map(sa)
     corpo = df[["instituicao", "natureza", "trecho_comprovacao"]].fillna("").agg(" ".join, axis=1).map(sa)
-    casa = lambda s: pd.concat([s.str.contains(rf"\b{re.escape(p)}\b", na=False)
-                                for p in palavras], axis=1, keys=palavras)
+    casa = lambda s: pd.concat(
+        [s.str.contains(r"\b(?:" + "|".join(re.escape(f) for f in g) + r")\b", na=False)
+         for g in grupos], axis=1, keys=palavras)
     n_sub, n_tema, n_corpo = casa(subarea), casa(tema), casa(corpo)
     onde = n_sub | n_tema | n_corpo
     peso = np.log(len(df) / onde.sum(axis=0).clip(lower=1)) + 0.1
@@ -118,14 +119,41 @@ def test_busca_relevante():
          "natureza": "não informado", "trecho_comprovacao": "continuidade lógica previdencia"},
     ])
     achados = set(_buscar(df, "filosofia da lógica").titulo)
-    assert "Concurso para professor efetivo de Filosofia" in achados, achados
+    # "filosofia da lógica" é UM conceito (grupo de sinônimos), não duas palavras soltas:
+    # traz a vaga de lógica, não filosofia em geral. Quem quer o amplo busca "filosofia".
     assert "Professor do setor de estudo Lógica" in achados, achados
     for lixo in ["Bolsa de PD em Antropologia Forense", "Bolsa de PD em Química", "EDITAL MPS Nº 17"]:
         assert lixo not in achados, f"{lixo!r} não devia aparecer em 'filosofia da lógica'"
 
+    amplo = set(_buscar(df, "filosofia").titulo)
+    assert "Concurso para professor efetivo de Filosofia" in amplo, amplo
+    assert "Bolsa de PD em Antropologia Forense" not in amplo, "FFLCH não é área"
+
     # busca de uma palavra só continua funcionando
     assert "Bolsa de PD em Química" in set(_buscar(df, "química").titulo)
     print(f"OK  busca relevante ({len(achados)} vagas para 'filosofia da lógica', sem lixo)")
+
+
+def test_sinonimos():
+    """Quem busca 'epistemologia' também quer 'teoria do conhecimento', e vice-versa."""
+    import pandas as pd
+    from src import sinonimos
+    base = dict(instituicao="UF", natureza="professor efetivo", trecho_comprovacao="")
+    df = pd.DataFrame([
+        {"titulo": "Professor efetivo", "area": "filosofia",
+         "subarea": "Teoria do Conhecimento", **base},
+        {"titulo": "Professor efetivo", "area": "filosofia", "subarea": "Ética", **base},
+        {"titulo": "Professor efetivo", "area": "química", "subarea": "", **base},
+    ])
+    assert list(_buscar(df, "epistemologia").index) == [0], "sinônimo de epistemologia falhou"
+    assert list(_buscar(df, "gnosiologia").index) == [0]
+    assert list(_buscar(df, "filosofia moral").index) == [1], "ética = filosofia moral"
+
+    # o grupo inteiro conta como UM termo, não como vários
+    assert len(sinonimos.expandir("epistemologia")) == 1
+    # palavra sem sinônimo cadastrado continua valendo por si
+    assert sinonimos.expandir("química") == [["quimica"]]
+    print("OK  sinônimos de subárea")
 
 
 def test_ordena_por_especificidade():
@@ -158,6 +186,7 @@ def test_ordena_por_especificidade():
 
 if __name__ == "__main__":
     test_area()
+    test_sinonimos()
     test_ordena_por_especificidade()
     test_area_no_corpo()
     test_busca_relevante()
