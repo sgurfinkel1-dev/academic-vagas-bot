@@ -5,3 +5,7 @@ data/raw/
 
 # secrets locais do Streamlit (nunca comitar)
 .streamlit/secrets.toml
+
+# saidas de ferramentas de analise (nao versionar)
+.codegraph/
+graphify-out/
