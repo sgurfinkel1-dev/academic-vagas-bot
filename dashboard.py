@@ -221,20 +221,27 @@ GENERICAS = {"concurso", "professor", "professora", "professores", "vaga", "vaga
 
 if f_texto:
     import re
-    cols = ["titulo", "area", "instituicao", "natureza", "trecho_comprovacao", "fonte"]
-    alvo = df[cols].fillna("").agg(" ".join, axis=1).map(_sem_acento)
     palavras = [p for p in _sem_acento(f_texto).split() if p not in GENERICAS] \
         or _sem_acento(f_texto).split()
-    achou = [alvo.str.contains(rf"\b{re.escape(p)}\b", na=False) for p in palavras]
-    todas = pd.concat(achou, axis=1).all(axis=1)
-    if todas.any():
-        df = df[todas]
-    else:  # nenhuma vaga tem todos os termos: mostra as que têm algum, melhores primeiro
-        pontos = pd.concat(achou, axis=1).sum(axis=1)
-        df = df[pontos > 0].assign(_p=pontos[pontos > 0]).sort_values("_p", ascending=False).drop(columns="_p")
-        if len(df):
-            st.caption(f"Nenhuma vaga tem todos os termos de “{f_texto}”. "
-                       f"Mostrando {len(df)} que combinam com parte da busca.")
+    # O que a vaga É (título/área) pesa; o corpo do edital é só desempate. Sem isso,
+    # "lógica" casava um edital de previdência que dizia "continuidade lógica".
+    tema = df[["titulo", "area"]].fillna("").agg(" ".join, axis=1).map(_sem_acento)
+    corpo = df[["instituicao", "natureza", "trecho_comprovacao"]].fillna("").agg(" ".join, axis=1).map(_sem_acento)
+
+    def _casa(serie):
+        return pd.concat([serie.str.contains(rf"\b{re.escape(p)}\b", na=False)
+                          for p in palavras], axis=1)
+
+    no_tema, no_corpo = _casa(tema), _casa(corpo)
+    # regra: pelo menos um termo tem que estar no título ou na área. Casar só no
+    # corpo do edital não basta — é daí que vinham as vagas de química/antropologia.
+    relevantes = no_tema.any(axis=1)
+    pontos = no_tema.sum(axis=1) * 3 + no_corpo.sum(axis=1)
+    df = df[relevantes].assign(_p=pontos[relevantes]) \
+                       .sort_values("_p", ascending=False).drop(columns="_p")
+    if not len(df):
+        st.info(f"Nenhuma vaga de “{f_texto}”. Tente um termo mais amplo "
+                "(ex.: “filosofia” em vez de “filosofia da lógica”).")
 
 c1, c2, c3, c4 = st.columns(4)
 c1.metric("Vagas", len(df))

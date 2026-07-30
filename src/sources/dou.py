@@ -34,6 +34,14 @@ def _itens(termo: str, desde: str, ate: str, delta: int):
     return dados.get("jsonArray", [])
 
 
+# o DOU devolve o trecho com a busca destacada: <span class='highlight' ...>termo</span>
+TAG = re.compile(r"<[^>]+>")
+
+
+def _limpo(texto: str) -> str:
+    return re.sub(r"\s+", " ", TAG.sub(" ", texto or "")).strip()
+
+
 def buscar(termos: list[str], dias: int = 30, max_por_fonte: int = 100) -> list[Vaga]:
     vagas = []
     desde = (date.today() - timedelta(days=dias)).strftime("%d-%m-%Y")
@@ -49,8 +57,9 @@ def buscar(termos: list[str], dias: int = 30, max_por_fonte: int = 100) -> list[
             continue
         log.info("DOU %r: %d itens", termo, len(itens))
         for item in itens[:max_por_fonte]:
-            titulo = item.get("title", "")
-            texto = f"{titulo} {item.get('content', '')} {item.get('hierarchyStr', '')}"
+            titulo = _limpo(item.get("title", ""))
+            conteudo = _limpo(item.get("content", ""))
+            texto = f"{titulo} {conteudo} {item.get('hierarchyStr', '')}"
             prazo = clf.extrair_prazo(texto)
             vagas.append(Vaga(
                 titulo=titulo or termo,
@@ -64,7 +73,7 @@ def buscar(termos: list[str], dias: int = 30, max_por_fonte: int = 100) -> list[
                 status=clf.status_por_prazo(prazo),
                 link_oficial="https://www.in.gov.br/web/dou/-/" + (item.get("urlTitle") or ""),
                 fonte=f"DOU (busca: {termo})",
-                trecho_comprovacao=(item.get("content", "") or titulo)[:600],
+                trecho_comprovacao=(conteudo or titulo)[:600],
                 confianca="alto",
             ))
     return vagas
@@ -79,8 +88,21 @@ def buscar_palavra(palavra: str, dias: int = 30, max_por_fonte: int = 75) -> lis
     """Busca ao vivo no DOU pela área (frase única) e filtra por termos de vaga
     localmente — o 'E' entre duas aspas quebra no motor do DOU, então filtramos aqui."""
     vagas = buscar([palavra], dias, max_por_fonte)
-    academicas = [v for v in vagas if ANCORA_VAGA.search(f"{v.titulo} {v.trecho_comprovacao}")]
+    academicas = [v for v in vagas
+                  if ANCORA_VAGA.search(f"{v.titulo} {v.trecho_comprovacao}")
+                  and _e_da_area(v, palavra)]
     for v in academicas:
-        v.area = palavra
+        v.area = clf.classificar_area(v.titulo, v.trecho_comprovacao) or palavra
         v.fonte = f"DOU (área: {palavra})"
     return academicas
+
+
+def _e_da_area(v: Vaga, palavra: str) -> bool:
+    """O motor do DOU casa a palavra em qualquer ponto do ato — "continuidade lógica"
+    num edital de previdência virava vaga de lógica. Só vale no título ou onde o
+    edital declara a área da vaga."""
+    alvo = re.compile(rf"\b{re.escape(palavra)}", re.I)
+    if alvo.search(v.titulo):
+        return True
+    return any(alvo.search(m.group(1))
+               for m in clf.CONTEXTO_AREA.finditer(v.trecho_comprovacao or ""))

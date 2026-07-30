@@ -66,9 +66,26 @@ REGRAS_AREA = [
 ]
 
 
-def classificar_area(texto: str) -> str:
-    """Área do conhecimento inferida do texto; '' quando nada casa (melhor vazio que errado)."""
-    return _primeira(REGRAS_AREA, texto, "")
+# No corpo de um edital a palavra da área aparece solta em qualquer contexto
+# ("continuidade lógica", "argumentação lógica"). Só vale quando vem onde o edital
+# de fato declara a área da vaga.
+CONTEXTO_AREA = re.compile(
+    r"(?:[áa]reas?(?:\s+de\s+conhecimento)?|setor\s+de\s+estudos?|departamento|"
+    r"curso|disciplinas?|programa\s+de\s+p[óo]s.?gradua[çc][ãa]o)"
+    r"\s*(?:de|em|:)\s*([^.;\n]{3,60})", re.I)
+
+
+def classificar_area(titulo: str, corpo: str = "") -> str:
+    """Área do conhecimento; '' quando nada casa (melhor vazio que errado).
+    O título vale por si; no corpo, só conta se estiver declarando a área da vaga."""
+    area = _primeira(REGRAS_AREA, titulo, "")
+    if area:
+        return area
+    for m in CONTEXTO_AREA.finditer(corpo or ""):
+        area = _primeira(REGRAS_AREA, m.group(1), "")
+        if area:
+            return area
+    return ""
 
 
 def _primeira(regras, texto, default):

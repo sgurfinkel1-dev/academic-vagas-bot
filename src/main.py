@@ -37,9 +37,8 @@ CARGO_NO_TITULO = re.compile(r"professor|docente|pesquisador|p[óo]s.doutor|bols
 
 def _enriquecer(v: Vaga) -> Vaga:
     """Preenche a área e torna o título legível. Roda para toda vaga, de qualquer fonte."""
-    texto = f"{v.titulo} {v.area or ''} {v.trecho_comprovacao}"
     if not (v.area or "").strip():
-        v.area = clf.classificar_area(texto)
+        v.area = clf.classificar_area(f"{v.titulo} {v.area or ''}", v.trecho_comprovacao)
     if SO_REFERENCIA.match(v.titulo) and not CARGO_NO_TITULO.search(v.titulo):
         cargo = v.natureza if v.natureza != "não informado" else "Vaga docente"
         rotulo = f"{cargo} em {v.area}" if v.area else cargo
