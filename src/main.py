@@ -177,7 +177,10 @@ def main():
         ("busca_aberta", lambda: busca_aberta.buscar(cfg.get("termos_base", []), user.get("areas", []), 50)),
         ("gupy", lambda: gupy.buscar(user.get("areas", []), max_f)),
         ("vagas_com", lambda: vagas_com.buscar(max_f)),
-        ("anpof", lambda: anpof.buscar(dias, max_f)),
+        # ANPOF publica poucos itens por mês: com a janela de 30 dias do DOU vinha
+        # zero vaga. 180 dias é o mínimo para a fonte render algo (a data aparece
+        # em cada vaga, então dá para julgar se ainda vale).
+        ("anpof", lambda: anpof.buscar(max(dias, 180), max_f)),
     ]
     for nome, fn in execucoes:
         if not fontes.get(nome, False):
