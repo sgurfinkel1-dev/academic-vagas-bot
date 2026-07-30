@@ -1,17 +1,28 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (319)
+## Públicas federais (330)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
-| Seleção para Professor(a) Visitante em Filosofia da Religião e/ou Metafísica  -  | UFS | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/agenda/concursos-e-selecoes/selecao-para-professora-visitante-em-filosofia-da-religiao-eou-metafisica--ppgfufs) |
-| Concurso para docente efetivo(a) de Filosofia na UFAM, campus São Gabriel da Cac | UFAM | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/agenda/concursos-e-selecoes/concurso-para-docente-efetivoa-de-filosofia-na-ufam-campus-sao-gabriel-da-cachoeira) |
-| Departamento de Filosofia da UFAM abre 4 vagas para professores substitutos | UFAM | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/agenda/concursos-e-selecoes/departamento-de-filosofia-da-ufam-abre-4-vagas-para-professores-substitutos) |
-| Estágio de Pós-Doutorado Voluntário no Programa de Pós-Graduação em Filosofia (P | UFLA | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/agenda/concursos-e-selecoes/estagio-de-pos-doutorado-voluntario-no-programa-de-pos-graduacao-em-filosofia-ppgfil-da-universidade-federal-de-lavras-ufla) |
-| Concurso Público para o Magistério Superior na UFPI - Filosofia Medieval | UFPI | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/agenda/concursos-e-selecoes/concurso-publico-para-o-magisterio-superior-na-ufpi--filosofia-medieval) |
-| Professor/a Efetivo/a na área de Ensino de Filosofia na Universidade Federal da  | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/agenda/concursos-e-selecoes/professora-efetivoa-na-area-de-ensino-de-filosofia-na-universidade-federal-da-paraiba) |
-| Concurso para professor efetivo 1 vaga em Filosofia Africana e Afro-brasileira - | UFU | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/agenda/concursos-e-selecoes/concurso-para-professor-efetivo-1-vaga-em-filosofia-africana-e-afro-brasileira--ufu-e-1-vaga-em-filosofia-politica) |
+| Seleção do Mestrado em Filosofia do PPGF-UFAM 2027 | UFAM | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-do-mestrado-em-filosofia-do-ppgf-ufam-2027) |
+| Seleção do Mestrado em Filosofia do PPGF-UFAM - Edital exclusivo para pessoas in | UFAM | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-do-mestrado-em-filosofia-do-ppgf-ufam--edital-exclusivo-para-pessoas-indigenas) |
+| Seleção Doutorado em Filosofia UFG | UFG | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-doutorado-em-filosofia-ufg) |
+| Seleção Mestrado em Filosofia UFG | UFG | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-mestrado-em-filosofia-ufg) |
+| Processo Seletivo - Mestrado e Doutorado Filosofia UFSC | UFSC | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo--mestrado-e-doutorado-filosofia-ufsc) |
+| Seleção do Mestrado em Filosofia do PPGFIL-UFSJ | UFSJ | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-do-mestrado-em-filosofia-do-ppgfil-ufsj) |
+| Seleção para Professor(a) Visitante em Filosofia da Religião e/ou Metafísica  -  | UFS | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-para-professora-visitante-em-filosofia-da-religiao-eou-metafisica--ppgfufs) |
+| Concurso para docente efetivo(a) de Filosofia na UFAM, campus São Gabriel da Cac | UFAM | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/concurso-para-docente-efetivoa-de-filosofia-na-ufam-campus-sao-gabriel-da-cachoeira) |
+| Departamento de Filosofia da UFAM abre 4 vagas para professores substitutos | UFAM | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/departamento-de-filosofia-da-ufam-abre-4-vagas-para-professores-substitutos) |
+| Estágio de Pós-Doutorado Voluntário no Programa de Pós-Graduação em Filosofia (P | UFLA | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/estagio-de-pos-doutorado-voluntario-no-programa-de-pos-graduacao-em-filosofia-ppgfil-da-universidade-federal-de-lavras-ufla) |
+| Concurso Público para o Magistério Superior na UFPI - Filosofia Medieval | UFPI | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/concurso-publico-para-o-magisterio-superior-na-ufpi--filosofia-medieval) |
+| Concurso para docente efetivo UFG | UFG | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/concurso-para-docente-efetivo-ufg) |
+| Processo Seletivo Mestrado do Programa de Pós-Graduação em Filosofia (PPGFil) da | UFLA | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo-mestrado-do-programa-de-pos-graduacao-em-filosofia-ppgfil-da-universidade-federal-de-lavras-ufla--202601) |
+| PROCESSO DE SELEÇÃO SIMPLIFICADA PARA ESTÁGIO DE PÓS-DOUTORADO EM FILOSOFIA NA M | UFT | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-de-selecao-simplificada-para-estagio-de-pos-doutorado-em-filosofia-na-modalidade-voluntaria-uft) |
+| Professor/a Efetivo/a na área de Ensino de Filosofia na Universidade Federal da  | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/professora-efetivoa-na-area-de-ensino-de-filosofia-na-universidade-federal-da-paraiba) |
+| Seleção para o Mestrado e Doutorado Profissional em Filosofia e Ensino do PPFEN/ | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-para-o-mestrado-e-doutorado-profissional-em-filosofia-e-ensino-do-ppfencefet-rj) |
+| Concurso para professor efetivo 1 vaga em Filosofia Africana e Afro-brasileira - | UFU | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/concurso-para-professor-efetivo-1-vaga-em-filosofia-africana-e-afro-brasileira--ufu-e-1-vaga-em-filosofia-politica) |
+| Seleção de Mestrado em Filosofia na UFSJ | UFSJ | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-de-mestrado-em-filosofia-na-ufsj) |
 | Concurso público e admissão de efetivos | UFSC |  |  | sem prazo identificado | [link](https://concursos.ufsc.br/1702-2/) |
 | Editais do Magistério Superior | UFSC |  |  | sem prazo identificado | [link](https://concursos.ufsc.br/editais-magisterio-superior/) |
 | Prorrogação do Prazo de Inscrições – Processo Seletivo para Professor Visitante  | UFSC |  |  | sem prazo identificado | [link](https://concursos.ufsc.br/2026/07/22/prorrogacao-do-prazo-de-inscricoes-processo-seletivo-para-professor-visitante-edital-no-1502026ddp/) |
@@ -361,10 +372,11 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (50)
+## Institutos públicos (51)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Edital extraordinário - Inclusão étnico-racial Processo de Seleção para ingresso | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/edital-extraordinario--inclusao-etnico-racial-processo-de-selecao-para-ingresso-no-programa-de-pos-graduacao-em-filosofia-mestrado-e-doutorado-2026) |
 | Pesquisador — Instituto Nacional de Pesquisas da Amazônia (EXTRATO DE CARTA CONV | Instituto Nacional de Pesquisas da Amazônia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-carta-convite-722321265) |
 | Professor efetivo (concurso público) — Empresa de Tecnologia e Informações da Pr | Empresa de Tecnologia e Informações da Previdência |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1/2026-722086011) |
 | Professor substituto — Decanato de Gestão de Pessoas (EDITAL Nº 131) | Decanato de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-131-de-23-de-julho-de-2026-721822191) |
@@ -676,14 +688,22 @@
 | Bolsa de PD em Saúde Coletiva | Faculdade de Enfermagem, Universidade Estadual de Campinas (FEnf-Unicamp ) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../projeto-ubuntu:-os-4-rs-da-educacao-antirracista-para-equidade-em-saude/9598/) |
 | Bolsa de PD em Química, Instrumentação Analítica e Engenharia Mecânica/Eletrônic | Departamento de Química – Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, Universidade de São Paulo (FFCLRP-USP) | química |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../novas-ferramentas-analiticas-para-o-estudo-da-doenca-de-parkinson:-automacao-do-preparo-de-amostras-biologicas-dispositivos-3d-printed@mip-e-cromatografia-liquida-capilar-portatil/9600/) |
 
-## Verificar manualmente (7)
+## Verificar manualmente (15)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
-| Processo Seletivo Simplificado para Professor Visitante | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/agenda/concursos-e-selecoes/processo-seletivo-simplificado-para-professor-visitante) |
-| Processo seletivo simplificado para contratação de professor(a) visitante | UFU | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/agenda/concursos-e-selecoes/processo-seletivo-simplificado-para-contratacao-de-professora-visitante) |
-| Concurso público para Professor do Magistério Superior no Departamento de Filoso | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/agenda/concursos-e-selecoes/concurso-publico-para-professor-do-magisterio-superior-no-departamento-de-filosofia-da-universidade-de-brasilia) |
-| Chamada Pós-Doutorado IPP/CEBRAP 2026 | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/agenda/concursos-e-selecoes/chamada-pos-doutorado-ippcebrap-2026) |
+| Pós-graduação O NASCIMENTO DO ATEÍSMO CONTEMPORÂNEO | PUC | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/pos-graduacao-o-nascimento-do-ateismo-contemporaneo) |
+| Seleção Prof visitante pleno - Ensino de Filosofia | UFCA | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-prof-visitante-pleno--ensino-de-filosofia) |
+| Processo Seletivo de Prof. Substituto(a) | UFPI | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo-de-prof-substitutoa) |
+| PROCESSO SELETIVO MESTRADO E DOUTORADO EM FILOSOFIA | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo-mestrado-e-doutorado-em-filosofia) |
+| Processo Seletivo Simplificado para Professor Visitante | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo-simplificado-para-professor-visitante) |
+| Processo Seletivo Simplificado - Professor Visitante | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo-simplificado--professor-visitante) |
+| Processo seletivo simplificado para contratação de professor(a) visitante | UFU | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo-simplificado-para-contratacao-de-professora-visitante) |
+| Concurso público para Professor do Magistério Superior no Departamento de Filoso | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/concurso-publico-para-professor-do-magisterio-superior-no-departamento-de-filosofia-da-universidade-de-brasilia) |
+| Escola de Talentos 2026 | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/escola-de-talentos-2026) |
+| Concurso para professor efetivo em Filosofia Política | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/concurso-para-professor-efetivo-em-filosofia-politica) |
+| Chamada Pós-Doutorado IPP/CEBRAP 2026 | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/chamada-pos-doutorado-ippcebrap-2026) |
+| CHAMADA PARA SELEÇÃO DE PROPOSTAS | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/chamada-para-selecao-de-propostas) |
 | Docente (outros) — Universidade Tecnológica Federal do Paraná (EXTRATO DE PROTOC | Universidade Tecnológica Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-protocolo-de-intencoes-720786075) |
 | Concurso Público para Técnico Universitário e Analista Universitário | UEMG |  |  | sem prazo identificado | [link](https://www.uemg.br/t-e-a) |
 | Pós-doutorado — Conselho Nacional de Desenvolvimento Científico e Tecnológico (A | Conselho Nacional de Desenvolvimento Científico e Tecnológico |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-716041802) |

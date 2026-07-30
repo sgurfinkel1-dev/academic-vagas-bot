@@ -42,6 +42,8 @@ def _item(div, base: str) -> Vaga | None:
     publicacao = m.group(1) if m else ""
     uf = UF_FINAL.search(texto)
     prazo = clf.extrair_prazo(texto)
+    # urljoin com base = domínio, porque o href é relativo ao raiz (agenda/...)
+    link = urljoin("https://anpof.org.br/", a["href"])
     return Vaga(
         titulo=titulo[:200],
         instituicao=_instituicao(f"{titulo} {texto}"),
@@ -54,7 +56,7 @@ def _item(div, base: str) -> Vaga | None:
         data_publicacao=publicacao,
         prazo_inscricao=prazo,
         status=clf.status_por_prazo(prazo),
-        link_oficial=urljoin(base, a["href"]),
+        link_oficial=link,
         fonte="ANPOF (concursos e seleções)",
         trecho_comprovacao=texto[:300],
         confianca="alto",
