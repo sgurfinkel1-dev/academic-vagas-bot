@@ -214,12 +214,27 @@ def _sem_acento(s: str) -> str:
     return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
 
 
+# palavras genéricas: aparecem em quase toda vaga, só atrapalham o casamento
+GENERICAS = {"concurso", "professor", "professora", "professores", "vaga", "vagas",
+             "docente", "docentes", "edital", "publico", "publica", "universidade",
+             "de", "da", "do", "dos", "das", "para", "em", "e", "no", "na"}
+
 if f_texto:
     import re
     cols = ["titulo", "area", "instituicao", "natureza", "trecho_comprovacao", "fonte"]
     alvo = df[cols].fillna("").agg(" ".join, axis=1).map(_sem_acento)
-    padrao = r"\b" + re.escape(_sem_acento(f_texto.strip())) + r"\b"  # palavra inteira
-    df = df[alvo.str.contains(padrao, na=False, regex=True)]
+    palavras = [p for p in _sem_acento(f_texto).split() if p not in GENERICAS] \
+        or _sem_acento(f_texto).split()
+    achou = [alvo.str.contains(rf"\b{re.escape(p)}\b", na=False) for p in palavras]
+    todas = pd.concat(achou, axis=1).all(axis=1)
+    if todas.any():
+        df = df[todas]
+    else:  # nenhuma vaga tem todos os termos: mostra as que têm algum, melhores primeiro
+        pontos = pd.concat(achou, axis=1).sum(axis=1)
+        df = df[pontos > 0].assign(_p=pontos[pontos > 0]).sort_values("_p", ascending=False).drop(columns="_p")
+        if len(df):
+            st.caption(f"Nenhuma vaga tem todos os termos de “{f_texto}”. "
+                       f"Mostrando {len(df)} que combinam com parte da busca.")
 
 c1, c2, c3, c4 = st.columns(4)
 c1.metric("Vagas", len(df))
