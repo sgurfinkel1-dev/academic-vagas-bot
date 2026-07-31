@@ -80,9 +80,17 @@ st.title("🎓 Vagas de Professor e Pesquisador — Brasil")
 if not DB.exists():
     st.warning("Banco vazio. Clique em 'Buscar novas vagas' na barra lateral ou rode `python -m src.main`.")
 
+def _tem_busca_viva() -> bool:
+    """Na nuvem, precisa dos secrets do GitHub (o robô roda lá, que tem navegador para o
+    DOU; o container do Streamlit não tem). Local, roda direto. Sem isso, os botões de
+    busca ao vivo nem aparecem — botão que não faz nada só confunde."""
+    if _secret("github_repo") and _secret("github_token"):
+        return True
+    return RAIZ.joinpath("src").exists() and not _secret("auth")
+
+
 def _busca_viva(palavra: str, modo: str, aviso: str):
-    """Na nuvem, dispara o robô no GitHub Actions (lá existe navegador, exigido pelo DOU;
-    o container do Streamlit não tem). Localmente, roda direto."""
+    """Dispara o robô no GitHub Actions (nuvem) ou direto (local)."""
     repo, token = _secret("github_repo"), _secret("github_token")
     if repo and token:
         if nuvem.disparar_busca(repo, token, palavra=palavra, modo=modo):
@@ -90,10 +98,6 @@ def _busca_viva(palavra: str, modo: str, aviso: str):
                        "Os resultados entram no painel em ~5-10 min (a página se atualiza sozinha).")
         else:
             st.error("Não consegui iniciar a busca. Avise o responsável pelo app.")
-        return
-    if not RAIZ.joinpath("src").exists() or _secret("auth"):
-        st.warning("A busca ao vivo não está configurada neste ambiente. "
-                   "Use os filtros acima — o robô atualiza as vagas todo dia automaticamente.")
         return
     with st.spinner(aviso):
         r = subprocess.run([sys.executable, "-m", "src.main", "--palavra", palavra, "--modo", modo],
@@ -178,10 +182,16 @@ with st.sidebar:
                              ["Qualquer data", "7 dias", "15 dias", "30 dias", "90 dias"])
     f_titulacao = st.selectbox("Titulação exigida", ["Todas", "graduação", "mestrado",
                                                      "doutorado", "pós-doutorado", "livre-docência", "não informado"])
+    ao_vivo = _tem_busca_viva()
     with st.form("busca_texto", border=False):
         f_texto = st.text_input("Buscar por área/palavra (ex.: Direito, IA)")
-        b_geral = st.form_submit_button("🔍 Busca geral", use_container_width=True)
-        b_diarios = st.form_submit_button("📜 Buscar só nos diários oficiais", use_container_width=True)
+        if ao_vivo:
+            b_geral = st.form_submit_button("🔍 Busca geral", use_container_width=True)
+            b_diarios = st.form_submit_button("📜 Buscar só nos diários oficiais",
+                                              use_container_width=True)
+        else:  # sem busca ao vivo, o campo só filtra o que já está no banco
+            st.form_submit_button("🔍 Buscar", use_container_width=True)
+            b_geral = b_diarios = False
     if b_geral and f_texto.strip():
         _busca_viva(f_texto.strip(), "geral",
                     f"Buscando '{f_texto}' em privadas (Gupy) e diários municipais... (~30 s)")
