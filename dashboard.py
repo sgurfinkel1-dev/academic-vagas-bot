@@ -277,17 +277,20 @@ c4.metric("Bolsas/agências", int((df.classificacao_instituicao == "agência/fun
 
 # A tabela tem muitas colunas p/ caber num celular: fica recolhida, e os cartões
 # abaixo (que quebram linha bem em tela estreita) são a leitura principal.
+# O link vem PRIMEIRO: como última coluna ele só aparecia depois de rolar a tabela
+# até o fim, então na prática ninguém achava o caminho para a fonte.
 with st.expander("📊 Ver como tabela", expanded=False):
     st.dataframe(
-        df[["titulo", "instituicao", "classificacao_instituicao", "natureza",
-            "estado", "titulacao_exigida", "prazo_inscricao", "status", "link_oficial"]],
+        df[["link_oficial", "titulo", "instituicao", "classificacao_instituicao",
+            "natureza", "estado", "titulacao_exigida", "prazo_inscricao", "status"]],
         width="stretch", hide_index=True,
         column_config={
+            "link_oficial": st.column_config.LinkColumn("Fonte", display_text="🔗 Abrir",
+                                                        width="small"),
             "titulo": "Vaga", "instituicao": "Instituição",
             "classificacao_instituicao": "Tipo de instituição", "natureza": "Tipo de vaga",
             "estado": "UF", "titulacao_exigida": "Titulação",
             "prazo_inscricao": "Prazo", "status": "Status",
-            "link_oficial": st.column_config.LinkColumn("Fonte", display_text="🔗 Abrir fonte"),
         },
     )
 
