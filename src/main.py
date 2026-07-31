@@ -56,8 +56,10 @@ def filtrar(vagas: list[Vaga], user: dict) -> list[Vaga]:
     estados = set(user.get("estados", []))
     saida = []
     for v in vagas:
-        if not clf.eh_vaga_academica(f"{v.titulo} {v.natureza} {v.trecho_comprovacao}",
-                                     v.classificacao_instituicao):
+        # a natureza fica de fora do teste: ela é derivada do mesmo texto, então usá-la
+        # como prova de cargo faz a classificação confirmar o próprio erro
+        if not clf.eh_vaga_academica(f"{v.titulo} {v.trecho_comprovacao}",
+                                     v.classificacao_instituicao, v.fonte):
             continue
         if v.classificacao_instituicao not in classes_ok:
             continue
@@ -120,7 +122,7 @@ def _buscar_palavra(palavra: str, cfg: dict, modo: str = "geral") -> int:
         v.area = palavra
     vagas += qd
     vagas = [v for v in vagas if clf.eh_vaga_academica(
-        f"{v.titulo} {v.natureza} {v.trecho_comprovacao}", v.classificacao_instituicao)]
+        f"{v.titulo} {v.trecho_comprovacao}", v.classificacao_instituicao, v.fonte)]
     con = storage.conectar()
     novas = storage.salvar(con, vagas)
     export_csv.exportar(storage.todas(con))

@@ -66,12 +66,30 @@ def test_anpof():
     vagas = anpof.buscar(dias=365)
     assert len(vagas) >= 10, f"esperava >=10 itens no ano, veio {len(vagas)}"
     docentes = [v for v in vagas
-                if clf.eh_vaga_academica(f"{v.titulo} {v.natureza} {v.trecho_comprovacao}",
-                                         v.classificacao_instituicao)]
+                if clf.eh_vaga_academica(f"{v.titulo} {v.trecho_comprovacao}",
+                                         v.classificacao_instituicao, v.fonte)]
     assert len(docentes) >= 5, f"esperava >=5 vagas docentes, veio {len(docentes)}"
     assert all(v.link_oficial.startswith("https://anpof.org.br/") for v in vagas)
     assert all(v.area for v in vagas), "toda vaga da ANPOF tem área (filosofia por padrão)"
     print(f"OK  ANPOF ({len(vagas)} itens, {len(docentes)} vagas docentes)")
+
+
+def test_nao_docente():
+    """Concurso de técnico-administrativo não é vaga do app, mesmo dizendo 'concurso público'."""
+    tecnico = ("EDITAL Nº 10, de 29 de maio de 2026 CONCURSO PÚBLICO para cargos da "
+               "carreira técnico-administrativa em educação. 8.1.1 O recurso deverá ser "
+               "apresentado: a) com argumentação lógica")
+    # a natureza não pode inventar um "professor" a partir de "concurso público" sozinho:
+    # era isso que fazia eh_vaga_academica aprovar o edital (o cargo vinha do próprio rótulo)
+    assert "professor" not in clf.classificar_natureza(tecnico), clf.classificar_natureza(tecnico)
+    assert not clf.eh_vaga_academica(tecnico, "pública federal"), "técnico não é vaga docente"
+
+    # e a vaga docente de verdade continua passando, com a natureza certa
+    docente = ("EDITAL Nº 5 CONCURSO PÚBLICO de provas e títulos para o cargo de "
+               "Professor do Magistério Superior, área de Filosofia")
+    assert clf.classificar_natureza(docente) == "professor efetivo (concurso público)"
+    assert clf.eh_vaga_academica(docente, "pública federal")
+    print("OK  técnico-administrativo barrado, professor mantido")
 
 
 def _buscar(df, consulta):
@@ -186,6 +204,7 @@ def test_ordena_por_especificidade():
 
 if __name__ == "__main__":
     test_area()
+    test_nao_docente()
     test_sinonimos()
     test_ordena_por_especificidade()
     test_area_no_corpo()

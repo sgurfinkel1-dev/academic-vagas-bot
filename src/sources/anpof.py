@@ -47,7 +47,9 @@ def _item(div, base: str) -> Vaga | None:
     return Vaga(
         titulo=titulo[:200],
         instituicao=_instituicao(f"{titulo} {texto}"),
-        classificacao_instituicao=clf.classificar_instituicao(titulo),
+        # pelo item inteiro, não só pelo título: a sigla (UFG, UFSJ) costuma estar
+        # na linha da cidade, e sem ela a vaga caía em "verificar manualmente"
+        classificacao_instituicao=clf.classificar_instituicao(f"{titulo} {texto}"),
         natureza=clf.classificar_natureza(titulo),
         # o site é exclusivamente de filosofia; só refina se o título disser algo mais preciso
         area=clf.classificar_area(titulo) or "filosofia",

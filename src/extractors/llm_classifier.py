@@ -17,7 +17,13 @@ REGRAS_NATUREZA = [
     ("professor visitante", r"professor visitante"),
     ("professor colaborador", r"professor colaborador"),
     ("professor substituto", r"professor substituto|professor temporário|processo seletivo simplificado"),
-    ("professor efetivo (concurso público)", r"concurso público|concurso docente|professor efetivo|magistério superior|carreira docente"),
+    # "concurso público" sozinho NÃO é vaga de professor — técnico-administrativo também
+    # é concurso público. Exige o cargo docente por perto, senão a natureza inventava um
+    # "professor" que depois fazia eh_vaga_academica aprovar o edital (raciocínio circular).
+    ("professor efetivo (concurso público)",
+     r"concurso p[úu]blico[^.]{0,80}?(?:professor|docente|magist[ée]rio)|"
+     r"(?:professor|docente|magist[ée]rio)[^.]{0,80}?concurso p[úu]blico|"
+     r"concurso docente|professor efetivo|magistério superior|carreira docente"),
     ("pós-doutorado", r"pós.doutor|postdoc|post.doctoral"),
     ("bolsa", r"\bbolsa\b|bolsista|fellowship"),
     ("pesquisador", r"pesquisador|research (fellow|position)"),
@@ -187,21 +193,36 @@ EXCLUIR = re.compile(
     r"extratos? d[eo]s? (contratos?|termos?|doaç|acordos?|rescis|registros?|convênios?|instrumento)|"
     r"termo aditivo|aviso de licitação|apostilamento|"
     r"resultado final|homologação|nomeação|convocação|aposentadoria|exoneração|"
-    r"relação de cursos|pós em\b|inscreva-se no curso", re.I)
-CARGO = re.compile(r"professor|docente|pesquisador|pós.doutor|postdoc|bolsista|magistério superior|lecturer", re.I)
+    r"relação de cursos|pós em\b|inscreva-se no curso|"
+    # concursos de servidor não-docente: o app é só de professor/pesquisador.
+    # (não pega "Ensino Básico, Técnico e Tecnológico", que é carreira docente do IF)
+    r"t[ée]cnico.administrativ|carreira t[ée]cnic|cargos? t[ée]cnicos?|"
+    r"assistente em administra|t[ée]cnico de laborat[óo]rio|técnico de tecnologia", re.I)
+# post.?doc cobre postdoc, post-doc e "post-doctoral fellowship" (FAPESP publica em inglês).
+# "Prof." / "Profa." abreviado é comum nos anúncios da ANPOF ("Seleção Prof visitante pleno").
+CARGO = re.compile(r"professor|\bprofa?\b\.?|docente|pesquisador|pós.doutor|post.?doc|bolsista|"
+                   r"magistério superior|lecturer|research fellow", re.I)
 CONTEXTO_SUPERIOR = re.compile(
     r"universi|faculdade|instituto|centro universitário|ensino superior|magistério superior|"
     r"pós.gradua|campus|pós.doutor|postdoc|fapesp|capes|cnpq", re.I)
 
 
-def eh_vaga_academica(texto: str, classificacao: str = "") -> bool:
+# Fontes que, por construção, só publicam vaga de ensino superior. Nelas o anúncio é
+# curto ("Concurso para professor efetivo em Filosofia Política — Uberlândia/MG") e não
+# repete a palavra "universidade": exigir isso descartaria vaga boa.
+FONTE_SO_SUPERIOR = re.compile(r"ANPOF|FAPESP", re.I)
+
+
+def eh_vaga_academica(texto: str, classificacao: str = "", fonte: str = "") -> bool:
     """True somente para vaga aberta de professor/pesquisador de ensino superior."""
     if EXCLUIR.search(texto):
         return False
     if not CARGO.search(texto):
         return False
     # diários municipais publicam sobretudo educação básica: exige contexto de ensino superior
-    if classificacao in ("pública municipal", "verificar manualmente") and not CONTEXTO_SUPERIOR.search(texto):
+    if (classificacao in ("pública municipal", "verificar manualmente")
+            and not FONTE_SO_SUPERIOR.search(fonte)
+            and not CONTEXTO_SUPERIOR.search(texto)):
         return False
     return True
 

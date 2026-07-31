@@ -1,34 +1,29 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (335)
+## Públicas federais (323)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
-| Professor substituto — Campus São Borja (EXTRATO DE EXTINÇÃO) | Campus São Borja |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-extincao-722670152) |
-| Professor substituto — Campus São Borja (EXTRATO DE EXTINÇÃO) | Campus São Borja |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-extincao-722520162) |
-| Professor efetivo (concurso público) — Instituto Federal de Educação, Ciência e  | Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-30-de-julho-de-2026-722625479) |
-| Professor efetivo (concurso público) — Instituto Federal de Educação, Ciência e  | Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12-de-30-de-julho-de-2026-722565660) |
-| Pesquisador — Fundação Universidade Federal do Pampa (extrato de protocolo de in | Fundação Universidade Federal do Pampa |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-protocolo-de-intencoes-722683248) |
-| Seleção do Mestrado em Filosofia do PPGF-UFAM 2027 | UFAM | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-do-mestrado-em-filosofia-do-ppgf-ufam-2027) |
-| Seleção do Mestrado em Filosofia do PPGF-UFAM - Edital exclusivo para pessoas in | UFAM | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-do-mestrado-em-filosofia-do-ppgf-ufam--edital-exclusivo-para-pessoas-indigenas) |
-| Seleção Doutorado em Filosofia UFG | UFG | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-doutorado-em-filosofia-ufg) |
-| Seleção Mestrado em Filosofia UFG | UFG | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-mestrado-em-filosofia-ufg) |
-| Processo Seletivo - Mestrado e Doutorado Filosofia UFSC | UFSC | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo--mestrado-e-doutorado-filosofia-ufsc) |
-| Seleção do Mestrado em Filosofia do PPGFIL-UFSJ | UFSJ | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-do-mestrado-em-filosofia-do-ppgfil-ufsj) |
+| Seleção Prof visitante pleno - Ensino de Filosofia | UFCA | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-prof-visitante-pleno--ensino-de-filosofia) |
+| Processo Seletivo de Prof. Substituto(a) | UFPI | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo-de-prof-substitutoa) |
 | Seleção para Professor(a) Visitante em Filosofia da Religião e/ou Metafísica  -  | UFS | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-para-professora-visitante-em-filosofia-da-religiao-eou-metafisica--ppgfufs) |
+| Processo Seletivo Simplificado para Professor Visitante | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo-simplificado-para-professor-visitante) |
 | Concurso para docente efetivo(a) de Filosofia na UFAM, campus São Gabriel da Cac | UFAM | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/concurso-para-docente-efetivoa-de-filosofia-na-ufam-campus-sao-gabriel-da-cachoeira) |
 | Departamento de Filosofia da UFAM abre 4 vagas para professores substitutos | UFAM | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/departamento-de-filosofia-da-ufam-abre-4-vagas-para-professores-substitutos) |
 | Estágio de Pós-Doutorado Voluntário no Programa de Pós-Graduação em Filosofia (P | UFLA | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/estagio-de-pos-doutorado-voluntario-no-programa-de-pos-graduacao-em-filosofia-ppgfil-da-universidade-federal-de-lavras-ufla) |
 | Concurso Público para o Magistério Superior na UFPI - Filosofia Medieval | UFPI | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/concurso-publico-para-o-magisterio-superior-na-ufpi--filosofia-medieval) |
 | Concurso para docente efetivo UFG | UFG | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/concurso-para-docente-efetivo-ufg) |
-| Processo Seletivo Mestrado do Programa de Pós-Graduação em Filosofia (PPGFil) da | UFLA | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo-mestrado-do-programa-de-pos-graduacao-em-filosofia-ppgfil-da-universidade-federal-de-lavras-ufla--202601) |
 | PROCESSO DE SELEÇÃO SIMPLIFICADA PARA ESTÁGIO DE PÓS-DOUTORADO EM FILOSOFIA NA M | UFT | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-de-selecao-simplificada-para-estagio-de-pos-doutorado-em-filosofia-na-modalidade-voluntaria-uft) |
+| Processo Seletivo Simplificado - Professor Visitante | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo-simplificado--professor-visitante) |
 | Professor/a Efetivo/a na área de Ensino de Filosofia na Universidade Federal da  | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/professora-efetivoa-na-area-de-ensino-de-filosofia-na-universidade-federal-da-paraiba) |
-| Seleção para o Mestrado e Doutorado Profissional em Filosofia e Ensino do PPFEN/ | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-para-o-mestrado-e-doutorado-profissional-em-filosofia-e-ensino-do-ppfencefet-rj) |
+| Processo seletivo simplificado para contratação de professor(a) visitante | UFU | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo-simplificado-para-contratacao-de-professora-visitante) |
 | Concurso para professor efetivo 1 vaga em Filosofia Africana e Afro-brasileira - | UFU | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/concurso-para-professor-efetivo-1-vaga-em-filosofia-africana-e-afro-brasileira--ufu-e-1-vaga-em-filosofia-politica) |
-| Seleção de Mestrado em Filosofia na UFSJ | UFSJ | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-de-mestrado-em-filosofia-na-ufsj) |
-| Concurso público e admissão de efetivos | UFSC |  |  | sem prazo identificado | [link](https://concursos.ufsc.br/1702-2/) |
+| Professor substituto — Campus São Borja (EXTRATO DE EXTINÇÃO) | Campus São Borja |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-extincao-722670152) |
+| Professor substituto — Campus São Borja (EXTRATO DE EXTINÇÃO) | Campus São Borja |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-extincao-722520162) |
+| Professor efetivo (concurso público) — Instituto Federal de Educação, Ciência e  | Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-30-de-julho-de-2026-722625479) |
+| Professor efetivo (concurso público) — Instituto Federal de Educação, Ciência e  | Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12-de-30-de-julho-de-2026-722565660) |
+| Pesquisador — Fundação Universidade Federal do Pampa (extrato de protocolo de in | Fundação Universidade Federal do Pampa |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-protocolo-de-intencoes-722683248) |
 | Editais do Magistério Superior | UFSC |  |  | sem prazo identificado | [link](https://concursos.ufsc.br/editais-magisterio-superior/) |
 | Prorrogação do Prazo de Inscrições – Processo Seletivo para Professor Visitante  | UFSC |  |  | sem prazo identificado | [link](https://concursos.ufsc.br/2026/07/22/prorrogacao-do-prazo-de-inscricoes-processo-seletivo-para-professor-visitante-edital-no-1502026ddp/) |
 | Processo Seletivo para Professor Visitante – Edital nº 150/2026/DDP | UFSC |  |  | sem prazo identificado | [link](https://concursos.ufsc.br/2026/06/26/processo-seletivo-para-professor-visitante-edital-no-1502026ddp/) |
@@ -37,13 +32,11 @@
 | Processo Seletivo para Professor Substituto – Edital nº 120/2026/DDP | UFSC |  |  | sem prazo identificado | [link](https://concursos.ufsc.br/2026/04/13/processo-seletivo-para-professor-substituto-edital-no-1202026ddp/) |
 | Processo Seletivo para Professor Substituto – Edital nº 095/2026/DDP | UFSC |  |  | sem prazo identificado | [link](https://concursos.ufsc.br/2026/03/20/processo-seletivo-para-professor-substituto-edital-no-0952026ddp/) |
 | Processo Seletivo para Professor Substituto – Edital nº 023/2026/DDP | UFSC |  |  | sem prazo identificado | [link](https://concursos.ufsc.br/2026/02/27/processo-seletivo-para-professor-substituto-edital-no-0232026ddp/) |
-| Abertura de concurso público para a carreira Técnico-Administrativo em Educação  | UFSC | educação |  | sem prazo identificado | [link](https://concursos.ufsc.br/2026/02/04/abertura-de-concurso-publico-para-a-carreira-tecnico-administrativo-em-educacao-tae-4/) |
 | Política de formação de professores | UFPE |  |  | sem prazo identificado | [link](https://www.ufpe.br/prograd/formacao-de-professores) |
 | Núcleo de Formação Docente | UFPE |  |  | sem prazo identificado | [link](https://www.ufpe.br/nucleo-formacao-docente-caa) |
 | Progressão/Promoção Docentes | UFPE |  |  | sem prazo identificado | [link](https://www.ufpe.br/cav/progressao-docentes) |
 | Progressão e Promoção Docentes | UFPE |  |  | sem prazo identificado | [link](https://www.ufpe.br/ccs/progressao-docentes) |
 | Coordenação de Formação Docente para as Licenciaturas | UFPE |  |  | sem prazo identificado | [link](https://www.ufpe.br/ce/coordenacao-licenciaturas) |
-| Processo Seletivo Simplificado | UFPE |  |  | sem prazo identificado | [link](https://www.ufpe.br/formas-de-ingresso/processo-seletivo-simplificado) |
 | Comissão Permanente de Pessoal Docente (CPPD) | UFPE |  |  | sem prazo identificado | [link](https://www.ufpe.br/institucional/cppd) |
 | (LEGEP) Laboratório de Ensino de Geografia e Profissionalização Docente | UFPE | educação |  | sem prazo identificado | [link](https://www.ufpe.br/legep) |
 | Credenciamento de Docentes | UFPE |  |  | sem prazo identificado | [link](https://www.ufpe.br/ppgecam/credenciamento) |
@@ -60,7 +53,6 @@
 | Credenciamento e Descredenciamento de Docentes do PPGMCF | UFPE |  |  | sem prazo identificado | [link](https://www.ufpe.br/ppgmcf/credenciamento-e-descredenciamento) |
 | Estágio Pós-Doutoral | UFPE |  |  | sem prazo identificado | [link](https://www.ufpe.br/ppgedu/estagio-pos-doutoral) |
 | Concursos (Docente e Técnico) | UFPE |  |  | sem prazo identificado | [link](http://www.ufpe.br/progepe/concursos) |
-| Processo Seletivo Simplificado | UFPE |  |  | sem prazo identificado | [link](http://www.ufpe.br/formas-de-ingresso/processo-seletivo-simplificado) |
 | Concursos Docentes Efetivos | UFPE |  |  | sem prazo identificado | [link](https://www.ufpe.br/progepe/concursos/concursos-em-andamento) |
 | Seleções Simplificadas Professor Substituto | UFPE |  |  | sem prazo identificado | [link](https://www.ufpe.br/progepe/selecao-simplificada) |
 | DOCUMENTAÇÃO E EXAMES NECESSÁRIOS PARA ADMISSÃO (DOCENTES EFETIVOS) | UFPE |  |  | sem prazo identificado | [link](https://www.ufpe.br/documents/560019/5554031/Kit+Admissional%2BFormul%C3%A1rios+-+Professor+Efetivo.pdf/0b618d15-0c0b-44e9-b7e8-ec29a990371b) |
@@ -71,7 +63,6 @@
 | Pesquisadores e Produção Acadêmica | UFF |  |  | sem prazo identificado | [link](https://www.uff.br/pesquisa-e-inovacao/pesquisadores-e-producao-academica/) |
 | Coordenação de Pessoal Docente (CPD) | UFF |  |  | sem prazo identificado | [link](https://app.uff.br/cpd/processoSeletivo/listarTodos.cpd) |
 | Comissão Permanente de Pessoal Docente | UFF |  |  | sem prazo identificado | [link](https://cppd.uff.br/) |
-| Concurso Público 2026 - Técnico Administrativo | UFSCar |  |  | sem prazo identificado | [link](https://www.progpe.ufscar.br/concursos-e-selecoes/concurso-publico-para-cargos-tecnico-administrativos) |
 | Formulários para posse de candidatos aprovados em Concurso público para o cargo  | UFJF |  |  | sem prazo identificado | [link](https://www2.ufjf.br/progepe/formularios-para-posse-de-candidatos-aprovados-em-concurso-publico-para-o-cargo-de-docente-e-tae/) |
 | Professores Substitutos | UFJF |  |  | sem prazo identificado | [link](https://www2.ufjf.br/progepe/professores-substitutos/) |
 | Professor substituto — Pró-Reitoria de Gestão de Pessoas (EXTRATO DE EXTINÇÃO) | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-extincao-722347415) |
@@ -178,7 +169,6 @@
 | Docente (outros) — Universidade Federal Rural de Pernambuco (EXTRATO DE EXTINÇÃO | Universidade Federal Rural de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-extincao-719156361) |
 | Pesquisadores e Produção Científica | UFMG |  |  | sem prazo identificado | [link](https://www.ufmg.br/concursos/) |
 | Professor efetivo (concurso público) — Universidade Federal do Ceará (EDITAL Nº  | Universidade Federal do Ceará |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-40/2026-710448109) |
-| Professor efetivo (concurso público) em lógica — Pró-Reitoria de Gestão de Pesso | Pró-Reitoria de Gestão de Pessoas | lógica |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-10-de-29-de-maio-de-2026-709824297) |
 | Professor substituto em história — Universidade Federal de Minas Gerais (EDITAL  | Universidade Federal de Minas Gerais | história |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1584-de-2-de-julho-de-2026-717377263) |
 | Professor efetivo (concurso público) em filosofia — Pró-Reitoria de Gestão e Des | Pró-Reitoria de Gestão e Desenvolvimento de Pessoas | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-2-de-julho-de-2026-716582378) |
 | Professor efetivo (concurso público) em filosofia — Universidade Federal de Uber | Universidade Federal de Uberlândia | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-progep-n-61/2026-716417677) |
@@ -333,11 +323,9 @@
 | Edital 08/2011 – Professor Titular | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=16911) |
 | Afastamento do País - Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1046) |
 | Afastamento no País - Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1213) |
-| Afastamento para Colaboração (Técnico-Administrativo e Docente) | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1122) |
 | Alteração de Regime de Trabalho para Docente (CPPD) | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1653) |
 | Avaliação de Desempenho – Docente (CPPD) | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1247) |
 | Estágio Probatório Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1348) |
-| Redistribuição (Técnico-Administrativo ou Docente) | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1479) |
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
@@ -377,12 +365,12 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (52)
+## Institutos públicos (51)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Vaga docente em filosofia — ver anúncio (Edital extraordinário - Inclusão étnico | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/edital-extraordinario--inclusao-etnico-racial-processo-de-selecao-para-ingresso-no-programa-de-pos-graduacao-em-filosofia-mestrado-e-doutorado-2026) |
 | Docente (outros) — Diretoria de Educação  Preparatória e Assistencial (EDITAL Nº | Diretoria de Educação  Preparatória e Assistencial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1-de-31-de-julho-de-2026-722685770) |
-| Edital extraordinário - Inclusão étnico-racial Processo de Seleção para ingresso | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/edital-extraordinario--inclusao-etnico-racial-processo-de-selecao-para-ingresso-no-programa-de-pos-graduacao-em-filosofia-mestrado-e-doutorado-2026) |
 | Pesquisador — Instituto Nacional de Pesquisas da Amazônia (EXTRATO DE CARTA CONV | Instituto Nacional de Pesquisas da Amazônia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-carta-convite-722321265) |
 | Professor efetivo (concurso público) — Empresa de Tecnologia e Informações da Pr | Empresa de Tecnologia e Informações da Previdência |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1/2026-722086011) |
 | Professor substituto — Decanato de Gestão de Pessoas (EDITAL Nº 131) | Decanato de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-131-de-23-de-julho-de-2026-721822191) |
@@ -415,7 +403,6 @@
 | Edital de Seleção de Professores(as) - MÉTODOS E TÉCNICAS EM PSICOLOGIA - Vagas  | PUC-SP | psicologia |  | sem prazo identificado | [link](https://pucsp.gupy.io/jobs/11548427?jobBoardSource=gupy_public_page) |
 | Edital de Seleção de Professores(as) - PROGRAMA DE CIÊNCIAS CONTÁBEIS - Vagas Af | PUC-SP | economia |  | sem prazo identificado | [link](https://pucsp.gupy.io/jobs/11548784?jobBoardSource=gupy_public_page) |
 | Edital de Seleção de Professores(as) - PSICOLOGIA DO DESENVOLVIMENTO HUMANO - Va | PUC-SP | psicologia |  | sem prazo identificado | [link](https://pucsp.gupy.io/jobs/11548222?jobBoardSource=gupy_public_page) |
-| farmácia — DO de Campinas | Campinas | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-07-08/ef8078c4bf898d5e0f6d1881424207bc5fe05a51.pdf) |
 | Professor efetivo (concurso público) — Gabinete do Ministro (EDITAL MPS Nº 17) | Gabinete do Ministro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-mps-n-17-de-23-de-junho-de-2026-714308665) |
 | Professor efetivo (concurso público) — Decanato de Gestão de Pessoas (retificaçã | Decanato de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/retificacao-717303486) |
 | professor substituto — DO de Ourinhos | Ourinhos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3534708/2026-07-07/d2297ef580961f19394f964900bf764dc4d078d6.pdf) |
@@ -434,7 +421,7 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (160)
+## Privadas (159)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
@@ -488,7 +475,6 @@
 | Analista Acadêmico | Inspirali |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2821920/analista-academico) |
 | Assistente de Suporte Acadêmico | Fundação Getulio Vargas |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2822971/assistente-de-suporte-academico) |
 | Assistente Suporte Academico | A.C.Camargo Cancer Center |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2820407/assistente-suporte-academico) |
-| Psicopedagogo (a) Junior - Ensino / Pecp - Programa Einstein na Comunidade de Pa | Einstein Hospital Israelita |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2823056/psicopedagogo-a-junior-ensino-pecp-programa-einstein-na-comunidade-de-paraisopolis) |
 | 133448 / PROFESSOR – ENGENHARIA MECÂNICA – BETIM/MG Betim - MG Efetivo | Cogna (Anhanguera...) | engenharia |  | sem prazo identificado | [link](https://cogna.gupy.io/jobs/11566082?jobBoardSource=gupy_public_page) |
 | AUXILIAR ADMINISTRATIVO-SALA DOS PROFESSORES ESTÁCIO JUIZ DE FORA  MG Juiz de Fo | Yduqs (Estácio...) |  |  | sem prazo identificado | [link](https://yduqs.gupy.io/jobs/11285285?jobBoardSource=gupy_public_page) |
 | COORDENADOR CURSO II - ENFERMAGEM - ESTÁCIO MACAPÁ Macapá - AP Docente | Ibmec | enfermagem |  | sem prazo identificado | [link](https://ibmec.gupy.io/jobs/11496082?jobBoardSource=gupy_public_page) |
@@ -599,11 +585,10 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (100)
+## Bolsas / pós-doc / agências (99)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
-| Pesquisador — Diretoria de Formação de Professores da Educação Básica (EXTRATO D | Diretoria de Formação de Professores da Educação Básica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-722668831) |
 | Pesquisador — Diretoria de Programas e Bolsas no País (EXTRATO DE CONCESSÃO) | Diretoria de Programas e Bolsas no País |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-722608186) |
 | RESULTADO DE JULGAMENTO | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-722591814) |
 | RESULTADO DE JULGAMENTO | Diretoria de Cooperação Institucional, Internacional e Inovação |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-722622315) |
@@ -704,22 +689,12 @@
 | Bolsa de PD em Saúde Coletiva | Faculdade de Enfermagem, Universidade Estadual de Campinas (FEnf-Unicamp ) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../projeto-ubuntu:-os-4-rs-da-educacao-antirracista-para-equidade-em-saude/9598/) |
 | Bolsa de PD em Química, Instrumentação Analítica e Engenharia Mecânica/Eletrônic | Departamento de Química – Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, Universidade de São Paulo (FFCLRP-USP) | química |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../novas-ferramentas-analiticas-para-o-estudo-da-doenca-de-parkinson:-automacao-do-preparo-de-amostras-biologicas-dispositivos-3d-printed@mip-e-cromatografia-liquida-capilar-portatil/9600/) |
 
-## Verificar manualmente (15)
+## Verificar manualmente (5)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
-| Pós-graduação O NASCIMENTO DO ATEÍSMO CONTEMPORÂNEO | PUC | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/pos-graduacao-o-nascimento-do-ateismo-contemporaneo) |
-| Seleção Prof visitante pleno - Ensino de Filosofia | UFCA | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-prof-visitante-pleno--ensino-de-filosofia) |
-| Processo Seletivo de Prof. Substituto(a) | UFPI | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo-de-prof-substitutoa) |
-| PROCESSO SELETIVO MESTRADO E DOUTORADO EM FILOSOFIA | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo-mestrado-e-doutorado-em-filosofia) |
-| Processo Seletivo Simplificado para Professor Visitante | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo-simplificado-para-professor-visitante) |
-| Processo Seletivo Simplificado - Professor Visitante | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo-simplificado--professor-visitante) |
-| Processo seletivo simplificado para contratação de professor(a) visitante | UFU | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo-simplificado-para-contratacao-de-professora-visitante) |
 | Concurso público para Professor do Magistério Superior no Departamento de Filoso | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/concurso-publico-para-professor-do-magisterio-superior-no-departamento-de-filosofia-da-universidade-de-brasilia) |
-| Escola de Talentos 2026 | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/escola-de-talentos-2026) |
 | Concurso para professor efetivo em Filosofia Política | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/concurso-para-professor-efetivo-em-filosofia-politica) |
 | Chamada Pós-Doutorado IPP/CEBRAP 2026 | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/chamada-pos-doutorado-ippcebrap-2026) |
-| CHAMADA PARA SELEÇÃO DE PROPOSTAS | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/chamada-para-selecao-de-propostas) |
 | Docente (outros) — Universidade Tecnológica Federal do Paraná (EXTRATO DE PROTOC | Universidade Tecnológica Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-protocolo-de-intencoes-720786075) |
-| Concurso Público para Técnico Universitário e Analista Universitário | UEMG |  |  | sem prazo identificado | [link](https://www.uemg.br/t-e-a) |
 | Pós-doutorado — Conselho Nacional de Desenvolvimento Científico e Tecnológico (A | Conselho Nacional de Desenvolvimento Científico e Tecnológico |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-716041802) |

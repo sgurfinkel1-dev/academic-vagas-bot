@@ -79,8 +79,10 @@ def buscar(termos: list[str], dias: int = 30, max_por_fonte: int = 100) -> list[
     return vagas
 
 
+# "concurso público" saiu da lista: sozinho não indica vaga docente (técnico-administrativo
+# também é concurso público). O cargo tem de aparecer no texto.
 ANCORA_VAGA = re.compile(
-    r"professor|docente|pesquisador|pós.doutor|magistério superior|concurso público|"
+    r"professor|docente|pesquisador|pós.doutor|magistério superior|"
     r"processo seletivo simplificado|bolsa de|monitor|substituto|visitante", re.I)
 
 
