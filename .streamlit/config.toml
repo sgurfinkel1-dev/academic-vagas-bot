@@ -1,0 +1,13 @@
+[client]
+showErrorDetails = true
+
+[logger]
+level = "info"
+
+[server]
+maxUploadSize = 200
+enableXsrfProtection = true
+
+# Reduz timeout de sessão inativa (força recarga, não hibernação)
+[browser]
+gatherUsageStats = false

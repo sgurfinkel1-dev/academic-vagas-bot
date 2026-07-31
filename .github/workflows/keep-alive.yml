@@ -1,0 +1,16 @@
+name: Keep Streamlit App Alive
+
+on:
+  schedule:
+    # A cada 25 minutos (dentro do limite do plano free)
+    - cron: '*/25 * * * *'
+  workflow_dispatch:
+
+jobs:
+  wake-up:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wake up Streamlit app
+        run: |
+          curl -s https://vagas-academicas.streamlit.app > /dev/null
+          echo "✅ App pinged"
