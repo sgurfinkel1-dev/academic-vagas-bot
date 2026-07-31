@@ -1,10 +1,15 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (330)
+## Públicas federais (335)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor substituto — Campus São Borja (EXTRATO DE EXTINÇÃO) | Campus São Borja |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-extincao-722670152) |
+| Professor substituto — Campus São Borja (EXTRATO DE EXTINÇÃO) | Campus São Borja |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-extincao-722520162) |
+| Professor efetivo (concurso público) — Instituto Federal de Educação, Ciência e  | Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-30-de-julho-de-2026-722625479) |
+| Professor efetivo (concurso público) — Instituto Federal de Educação, Ciência e  | Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12-de-30-de-julho-de-2026-722565660) |
+| Pesquisador — Fundação Universidade Federal do Pampa (extrato de protocolo de in | Fundação Universidade Federal do Pampa |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-protocolo-de-intencoes-722683248) |
 | Seleção do Mestrado em Filosofia do PPGF-UFAM 2027 | UFAM | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-do-mestrado-em-filosofia-do-ppgf-ufam-2027) |
 | Seleção do Mestrado em Filosofia do PPGF-UFAM - Edital exclusivo para pessoas in | UFAM | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-do-mestrado-em-filosofia-do-ppgf-ufam--edital-exclusivo-para-pessoas-indigenas) |
 | Seleção Doutorado em Filosofia UFG | UFG | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-doutorado-em-filosofia-ufg) |
@@ -372,10 +377,11 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (51)
+## Institutos públicos (52)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Docente (outros) — Diretoria de Educação  Preparatória e Assistencial (EDITAL Nº | Diretoria de Educação  Preparatória e Assistencial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1-de-31-de-julho-de-2026-722685770) |
 | Edital extraordinário - Inclusão étnico-racial Processo de Seleção para ingresso | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/edital-extraordinario--inclusao-etnico-racial-processo-de-selecao-para-ingresso-no-programa-de-pos-graduacao-em-filosofia-mestrado-e-doutorado-2026) |
 | Pesquisador — Instituto Nacional de Pesquisas da Amazônia (EXTRATO DE CARTA CONV | Instituto Nacional de Pesquisas da Amazônia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-carta-convite-722321265) |
 | Professor efetivo (concurso público) — Empresa de Tecnologia e Informações da Pr | Empresa de Tecnologia e Informações da Previdência |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1/2026-722086011) |
@@ -428,10 +434,12 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (158)
+## Privadas (160)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| PROFESSOR AUXILIAR / Afya Universidade Unigranrio - Duque de Caxias | Afya  |  | 12/09/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTE2Mzg4MzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor de Português - Temporário / Interlagos  | Rede Decisão |  | 28/09/2026 | aberta | [link](https://vemprarededecisao.gupy.io/job/eyJqb2JJZCI6MTE4ODEyNDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR AUXILIAR I - TECNOLOGIA APLICADA EM SAÚDE - IDOMED ANGRA DOS REIS  | IDOMED |  | 22/09/2026 | aberta | [link](https://idomed.gupy.io/job/eyJqb2JJZCI6MTE3ODE2MjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR ASSISTENTE - FISIOTERAPIA São Paulo - SP Docente | Cruzeiro do Sul |  |  | sem prazo identificado | [link](https://cruzeirodosul.gupy.io/jobs/11567872?jobBoardSource=gupy_public_page) |
 | PROFESSOR ENSINO PROFISSIONALIZANTE | Estácio |  | 26/09/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE4NDEyNDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
@@ -591,10 +599,18 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (92)
+## Bolsas / pós-doc / agências (100)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Pesquisador — Diretoria de Formação de Professores da Educação Básica (EXTRATO D | Diretoria de Formação de Professores da Educação Básica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-722668831) |
+| Pesquisador — Diretoria de Programas e Bolsas no País (EXTRATO DE CONCESSÃO) | Diretoria de Programas e Bolsas no País |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-722608186) |
+| RESULTADO DE JULGAMENTO | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-722591814) |
+| RESULTADO DE JULGAMENTO | Diretoria de Cooperação Institucional, Internacional e Inovação |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-722622315) |
+| Bolsa de TT-IV em Genômica Comparada | Instituto de Biociências, Universidade de São Paulo (IB-USP) | biologia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../interacoes-bioticas-como-motor-da-inovacao-fenotipica:-integrando-genomica-comparativa-e-eco-evo-devo/9543/) |
+| Post-Doctoral Fellowship in Power Electronics Instituition: Faculdade de Engenha | ver oportunidade (FAPESP) | computação |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-pesquisa-em-engenharia-para-a-mobilidade-aerea-do-futuro-(flymov)/9554/) |
+| Bolsa de Doutorado Direto em Biologia Molecular | Centro de Ciências e Tecnologias para a Sustentabilidade, Universidade Federal de São Carlos (CCTS-UFSCar) | biologia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../bioluminescencia:-biodiversidade;-origem-metabolica;-estrutura-funcao-e-engenharia-de-luciferases;-empregos-em-biossensores-bioensaios-e-bioindicacao-ambiental/9623/) |
+| Post-Doctoral Fellowship in Seismology Instituition: Instituto de Astronomia, Ge | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../evolucao-tectonica-e-magnetismo-da-margem-oceanica-do-atlantico-sul/9637/) |
 | RESULTADO DE JULGAMENTO | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-722052523) |
 | FGV EAESP abre seleção para bolsa de Pós-Doutorado FAPESP | FGV EAESP |  |  | sem prazo identificado | [link](https://eaesp.fgv.br/noticias/fgv-eaesp-abre-selecao-para-bolsa-de-pos-doutorado-fapesp) |
 | Pesquisador — Diretoria Científica (AVISO DE ADENDO) | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-adendo-721548574) |
