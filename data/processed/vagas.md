@@ -421,10 +421,11 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (159)
+## Privadas (160)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Alan De Genaro Pós-Doutorado em matemática aplicada pelo Courant Institute of Ma | FGV EAESP | matemática |  | sem prazo identificado | [link](https://eaesp.fgv.br/pessoa/alan-genaro) |
 | PROFESSOR AUXILIAR / Afya Universidade Unigranrio - Duque de Caxias | Afya  |  | 12/09/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTE2Mzg4MzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Professor de Português - Temporário / Interlagos  | Rede Decisão |  | 28/09/2026 | aberta | [link](https://vemprarededecisao.gupy.io/job/eyJqb2JJZCI6MTE4ODEyNDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR AUXILIAR I - TECNOLOGIA APLICADA EM SAÚDE - IDOMED ANGRA DOS REIS  | IDOMED |  | 22/09/2026 | aberta | [link](https://idomed.gupy.io/job/eyJqb2JJZCI6MTE3ODE2MjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
@@ -585,10 +586,11 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (111)
+## Bolsas / pós-doc / agências (112)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa de PD em Gestão de Riscos Geológicos | Instituto de Geociências e Ciências Exatas, Universidade Estadual Paulista (IGCE-UNESP) | administração |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../gestao-de-riscos-geologicos-no-programa-de-geoparques-mundiais-da-unesco-na-america-latina:-construindo-resiliencia-para-comunidades/9643/) |
 | Bolsa de TT-V em Ciência de Dados e Aprendizado de Máquina aplicados à Saúde | Central da Visão (Pagmed Meios de Pagmento Especializado. e Prestação de Serviços Administrativos S.A.) | computação |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../plataforma-inteligente-para-otimizacao-preditiva-e-personalizada-da-jornada-cirurgica-de-doencas-oftalmologicas/9642/) |
 | Bolsa de TT-V em Desenvolvimento de Software e Ciência de Dados aplicados à Pers | Central da Visão (Pagmed Meios de Pagmento Especializado. e Prestação de Serviços Administrativos S.A.) | computação |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../plataforma-inteligente-para-otimizacao-preditiva-e-personalizada-da-jornada-cirurgica-de-doencas-oftalmologicas/9644/) |
 | Bolsa de TT-V em Aprendizado de Máquina aplicado à Saúde e Desenvolvimento Back- | Central da Visão (Pagmed Meios de Pagmento Especializado. e Prestação de Serviços Administrativos S.A.) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../plataforma-inteligente-para-otimizacao-preditiva-e-personalizada-da-jornada-cirurgica-de-doencas-oftalmologicas/9645/) |
