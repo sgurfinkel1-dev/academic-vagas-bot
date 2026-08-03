@@ -1,10 +1,11 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (323)
+## Públicas federais (324)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| professor substituto — DO de Rio de Janeiro | Rio de Janeiro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3304557/2026-07-07/9d400f1139ab12cb074b80f96559fa4fce36e7a0.pdf) |
 | Seleção Prof visitante pleno - Ensino de Filosofia | UFCA | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-prof-visitante-pleno--ensino-de-filosofia) |
 | Processo Seletivo de Prof. Substituto(a) | UFPI | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo-de-prof-substitutoa) |
 | Seleção para Professor(a) Visitante em Filosofia da Religião e/ou Metafísica  -  | UFS | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-para-professora-visitante-em-filosofia-da-religiao-eou-metafisica--ppgfufs) |
@@ -349,10 +350,11 @@
 | pós-doutorado — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-06-09/b033b608510dd845e504e8d1445291f039defc8d.pdf) |
 | Gerenciamento de Pesquisadores | UNICAMP |  |  | sem prazo identificado | [link](https://www.dgrh.unicamp.br/link-sistema-de-gerenciamento-de-pesquisadores) |
 
-## Públicas municipais (11)
+## Públicas municipais (12)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| docente — DO de Betim | Betim |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3106705/2026-07-31/03890515c86be484dabd4ff33e89c32b629eb6e2.pdf) |
 | docente — DO de Porangaba | Porangaba |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3540507/2026-07-15/96e4c514d84cb46679ed99bb3484f43943ee501f.pdf) |
 | docente — DO de Junqueirópolis | Junqueirópolis |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3526001/2026-07-14/280ff3c72584e557bec1e0b05781974d7cf59ec0.pdf) |
 | farmacia — DO de Rio Claro | Rio Claro | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3543907/2026-06-03/04c6e06c11e48ffba0dd88833bf8639c8dc303ad.pdf) |
@@ -365,10 +367,11 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (51)
+## Institutos públicos (52)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| docente — DO de Santos | Santos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3548500/2026-07-30/fb28f3e0fecf7c7a3cbb6fa6e33656e532da1d6c.pdf) |
 | Vaga docente em filosofia — ver anúncio (Edital extraordinário - Inclusão étnico | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/edital-extraordinario--inclusao-etnico-racial-processo-de-selecao-para-ingresso-no-programa-de-pos-graduacao-em-filosofia-mestrado-e-doutorado-2026) |
 | Docente (outros) — Diretoria de Educação  Preparatória e Assistencial (EDITAL Nº | Diretoria de Educação  Preparatória e Assistencial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1-de-31-de-julho-de-2026-722685770) |
 | Pesquisador — Instituto Nacional de Pesquisas da Amazônia (EXTRATO DE CARTA CONV | Instituto Nacional de Pesquisas da Amazônia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-carta-convite-722321265) |
