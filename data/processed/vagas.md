@@ -1,10 +1,11 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (323)
+## Públicas federais (324)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| professor substituto — DO de Rio de Janeiro | Rio de Janeiro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3304557/2026-07-07/9d400f1139ab12cb074b80f96559fa4fce36e7a0.pdf) |
 | Seleção Prof visitante pleno - Ensino de Filosofia | UFCA | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-prof-visitante-pleno--ensino-de-filosofia) |
 | Processo Seletivo de Prof. Substituto(a) | UFPI | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo-de-prof-substitutoa) |
 | Seleção para Professor(a) Visitante em Filosofia da Religião e/ou Metafísica  -  | UFS | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-para-professora-visitante-em-filosofia-da-religiao-eou-metafisica--ppgfufs) |
@@ -349,10 +350,11 @@
 | pós-doutorado — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-06-09/b033b608510dd845e504e8d1445291f039defc8d.pdf) |
 | Gerenciamento de Pesquisadores | UNICAMP |  |  | sem prazo identificado | [link](https://www.dgrh.unicamp.br/link-sistema-de-gerenciamento-de-pesquisadores) |
 
-## Públicas municipais (11)
+## Públicas municipais (12)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| docente — DO de Betim | Betim |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3106705/2026-07-31/03890515c86be484dabd4ff33e89c32b629eb6e2.pdf) |
 | docente — DO de Porangaba | Porangaba |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3540507/2026-07-15/96e4c514d84cb46679ed99bb3484f43943ee501f.pdf) |
 | docente — DO de Junqueirópolis | Junqueirópolis |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3526001/2026-07-14/280ff3c72584e557bec1e0b05781974d7cf59ec0.pdf) |
 | farmacia — DO de Rio Claro | Rio Claro | farmácia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3543907/2026-06-03/04c6e06c11e48ffba0dd88833bf8639c8dc303ad.pdf) |
@@ -365,10 +367,11 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (51)
+## Institutos públicos (52)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| docente — DO de Santos | Santos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3548500/2026-07-30/fb28f3e0fecf7c7a3cbb6fa6e33656e532da1d6c.pdf) |
 | Vaga docente em filosofia — ver anúncio (Edital extraordinário - Inclusão étnico | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/edital-extraordinario--inclusao-etnico-racial-processo-de-selecao-para-ingresso-no-programa-de-pos-graduacao-em-filosofia-mestrado-e-doutorado-2026) |
 | Docente (outros) — Diretoria de Educação  Preparatória e Assistencial (EDITAL Nº | Diretoria de Educação  Preparatória e Assistencial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1-de-31-de-julho-de-2026-722685770) |
 | Pesquisador — Instituto Nacional de Pesquisas da Amazônia (EXTRATO DE CARTA CONV | Instituto Nacional de Pesquisas da Amazônia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-carta-convite-722321265) |
@@ -421,10 +424,11 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (159)
+## Privadas (160)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Alan De Genaro Pós-Doutorado em matemática aplicada pelo Courant Institute of Ma | FGV EAESP | matemática |  | sem prazo identificado | [link](https://eaesp.fgv.br/pessoa/alan-genaro) |
 | PROFESSOR AUXILIAR / Afya Universidade Unigranrio - Duque de Caxias | Afya  |  | 12/09/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTE2Mzg4MzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Professor de Português - Temporário / Interlagos  | Rede Decisão |  | 28/09/2026 | aberta | [link](https://vemprarededecisao.gupy.io/job/eyJqb2JJZCI6MTE4ODEyNDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR AUXILIAR I - TECNOLOGIA APLICADA EM SAÚDE - IDOMED ANGRA DOS REIS  | IDOMED |  | 22/09/2026 | aberta | [link](https://idomed.gupy.io/job/eyJqb2JJZCI6MTE3ODE2MjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
@@ -585,10 +589,23 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (99)
+## Bolsas / pós-doc / agências (112)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa de PD em Gestão de Riscos Geológicos | Instituto de Geociências e Ciências Exatas, Universidade Estadual Paulista (IGCE-UNESP) | administração |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../gestao-de-riscos-geologicos-no-programa-de-geoparques-mundiais-da-unesco-na-america-latina:-construindo-resiliencia-para-comunidades/9643/) |
+| Bolsa de TT-V em Ciência de Dados e Aprendizado de Máquina aplicados à Saúde | Central da Visão (Pagmed Meios de Pagmento Especializado. e Prestação de Serviços Administrativos S.A.) | computação |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../plataforma-inteligente-para-otimizacao-preditiva-e-personalizada-da-jornada-cirurgica-de-doencas-oftalmologicas/9642/) |
+| Bolsa de TT-V em Desenvolvimento de Software e Ciência de Dados aplicados à Pers | Central da Visão (Pagmed Meios de Pagmento Especializado. e Prestação de Serviços Administrativos S.A.) | computação |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../plataforma-inteligente-para-otimizacao-preditiva-e-personalizada-da-jornada-cirurgica-de-doencas-oftalmologicas/9644/) |
+| Bolsa de TT-V em Aprendizado de Máquina aplicado à Saúde e Desenvolvimento Back- | Central da Visão (Pagmed Meios de Pagmento Especializado. e Prestação de Serviços Administrativos S.A.) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../plataforma-inteligente-para-otimizacao-preditiva-e-personalizada-da-jornada-cirurgica-de-doencas-oftalmologicas/9645/) |
+| Bolsa de TT-V em Design Centrado no Usuário | Central da Visão (Pagmed Meios de Pagmento Especializado. e Prestação de Serviços Administrativos S.A. |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../plataforma-inteligente-para-otimizacao-preditiva-e-personalizada-da-jornada-cirurgica-de-doencas-oftalmologicas/9646/) |
+| Bolsa de Mestrado em Epidemiologia | A.C.Camargo Cancer Center |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../estudo-epidemiologico-e-molecular-do-mesotelioma:-base-para-prevencao-e-diagnostico-precoce/9666/) |
+| Bolsa de PD em Física de Minerais | Instituto de Astronomia, Geofísica e Ciências Atmosféricas, Universidade de São Paulo (IAG-USP) | física |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../o-campo-arqueomagnetico-e-paleomagnetico-recente-no-hemisferio-sul-–-sharp/9668/) |
+| Post-Doctoral Fellowship in Public Administration Instituition: Escola de Admini | ver oportunidade (FAPESP) | administração |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../burocratas-de-nivel-de-rua-no-olho-do-furacao:-licoes-de-transicoes-municipais-de-poder/9674/) |
+| Bolsa de Mestrado em Digitalização de Processos | Faculdade de Ciências Farmacêuticas de Ribeirão Preto, Universidade de São Paulo (FCFRP-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../desenvolvimento-de-modelos-tumorais-3d-bioimpressos-com-inteligencia-artificial-para-aprimorar-testes-de-tratamentos-contra-o-cancer-de-mama/9671/) |
+| Bolsa de PD em Políticas Públicas Habitacionais | Faculdade de Arquitetura e Urbanismo e Design, Universidade de São Paulo (FAU-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../habitacao-como-servico:-insumos-para-formulacao-gestao-e-implementacao-de-uma-politica-habitacional-de-aluguel-social-em-sao-paulo/9640/) |
+| Post-Doctoral Fellowship in Artificial  Intelligence applied to Medicine Institu | ver oportunidade (FAPESP) | computação |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../inteligencia-artificial-para-melhoria-dos-resultados-em-doencas-infecciosas-em-receptores-de-transplante-renal/9638/) |
+| Post-Doctoral Fellowship in Genetics and Plant Breeding Instituition: Divisão de | ver oportunidade (FAPESP) | agrárias |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../inteligencia-artificial-para-identificacao-de-resistencia-ao-mildio-em-germoplasma-de-videira/9680/) |
+| Post-Doctoral Fellowship in Circular Economy Instituition: Escola Politécnica, U | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../otic-–-centro-de-inovacao-em-tecnologia-offshore/9633/) |
 | Pesquisador — Diretoria de Programas e Bolsas no País (EXTRATO DE CONCESSÃO) | Diretoria de Programas e Bolsas no País |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-722608186) |
 | RESULTADO DE JULGAMENTO | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-722591814) |
 | RESULTADO DE JULGAMENTO | Diretoria de Cooperação Institucional, Internacional e Inovação |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-722622315) |
