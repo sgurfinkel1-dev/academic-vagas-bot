@@ -1,5 +1,16 @@
 [client]
 showErrorDetails = true
+# Esconde a toolbar do Streamlit Cloud, que expõe o perfil (e o e-mail) do dono
+# do app para qualquer visitante.
+toolbarMode = "minimal"
+
+# Paleta "Data-Dense Dashboard": azul profissional + verde de ação.
+[theme]
+primaryColor = "#0369A1"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F9FF"
+textColor = "#0C4A6E"
+font = "sans serif"
 
 [logger]
 level = "info"

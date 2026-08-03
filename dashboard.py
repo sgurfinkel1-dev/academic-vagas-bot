@@ -19,6 +19,47 @@ ACESSO = RAIZ / "acesso.yaml"
 
 st.set_page_config(page_title="Vagas Acadêmicas", layout="wide")
 
+st.markdown("""
+<style>
+/* O badge do Streamlit Cloud mostra o perfil (e o e-mail) do dono do app para
+   qualquer visitante. O toolbarMode do config.toml some com a barra de cima;
+   isto cobre o badge do canto e o rodapé. */
+[class*="viewerBadge"], [data-testid="stToolbar"], #MainMenu, footer { display: none !important; }
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700&display=swap');
+html, body, [class*="st-"], button, input, textarea { font-family: 'Fira Sans', system-ui, sans-serif; }
+
+/* Cartão de vaga: destaque na linha sob o cursor, como manda painel de dados. */
+[data-testid="stVerticalBlockBorderWrapper"] {
+  transition: border-color 200ms ease, box-shadow 200ms ease;
+}
+[data-testid="stVerticalBlockBorderWrapper"]:hover {
+  border-color: #0EA5E9;
+  box-shadow: 0 1px 8px rgba(3, 105, 161, 0.10);
+}
+
+/* No celular as 4 métricas viram 4 telas empilhadas. Mantém em linha, menores. */
+@media (max-width: 640px) {
+  [data-testid="stMetric"] { padding: 0.25rem 0.4rem; }
+  [data-testid="stMetricValue"] { font-size: 1.35rem; }
+  [data-testid="stMetricLabel"] p { font-size: 0.7rem; }
+  [data-testid="stHorizontalBlock"] { flex-wrap: nowrap !important; gap: 0.25rem; }
+  [data-testid="stHorizontalBlock"] > div { min-width: 0 !important; }
+  /* Alvo de toque mínimo de 44px (WCAG). Os testids do Streamlit mudam de
+     versão; estes são os controles que o usuário realmente toca — a barrinha
+     de ferramentas de elemento fica de fora de propósito. */
+  [data-testid^="stBaseButton-"]:not([data-testid*="elementToolbar"]),
+  [data-testid="stSelectbox"] div[data-baseweb="select"] > div,
+  .stLinkButton a { min-height: 44px; }
+  h1 { font-size: 1.55rem !important; line-height: 1.25 !important; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; }
+}
+</style>
+""", unsafe_allow_html=True)
+
 
 def _secret(chave, default=None):
     try:
@@ -74,6 +115,10 @@ TIPOS_VAGA = {
     "Pós-doutorado": r"pós.doutor|postdoc",
     "Bolsa": r"bolsa|bolsista|fellowship",
 }
+# rótulo -> dias. Concurso público tem tramitação longa; edital de seis meses
+# atrás ainda pode estar com inscrição aberta.
+PERIODOS = {"Qualquer data": None, "7 dias": 7, "15 dias": 15, "30 dias": 30,
+            "90 dias": 90, "6 meses": 180, "1 ano": 365}
 
 st.title("🎓 Vagas de Professor e Pesquisador — Brasil")
 
@@ -113,7 +158,8 @@ def _painel_config():
     with st.sidebar.expander("⚙️ Busca automática", expanded=False):
         areas_txt = st.text_area("Áreas de interesse (uma por linha)",
                                  "\n".join(ag.get("areas", [])), height=110)
-        dias = st.select_slider("Período (dias para trás)", [7, 15, 30, 60, 90],
+        dias = st.select_slider("Período (dias para trás)",
+                                [7, 15, 30, 60, 90, 180, 365],
                                 value=ag.get("dias_retroativos", 30))
         if st.button("💾 Salvar configuração", use_container_width=True):
             nova = {"areas": [a.strip() for a in areas_txt.splitlines() if a.strip()],
@@ -173,31 +219,44 @@ def _painel_alerta_email(repo, token):
 
 with st.sidebar:
     _painel_config()
-    st.header("Filtros")
-    f_classe = st.selectbox("Tipo de instituição", ["Todas"] + CLASSES)
-    f_tipos = st.multiselect("Tipo de vaga (vazio = todos)", list(TIPOS_VAGA))
-    f_estado = st.selectbox("Estado", ["Todos"] + UFS)
-    f_status = st.selectbox("Status", ["Todos", "aberta", "sem prazo identificado", "vencida"])
-    f_periodo = st.selectbox("Publicadas nos últimos",
-                             ["Qualquer data", "7 dias", "15 dias", "30 dias", "90 dias"])
-    f_titulacao = st.selectbox("Titulação exigida", ["Todas", "graduação", "mestrado",
-                                                     "doutorado", "pós-doutorado", "livre-docência", "não informado"])
+
+# A busca é a ação principal e fica sempre visível — filtro escondido atrás de
+# menu é o anti-padrão clássico deste tipo de painel, e na sidebar do celular
+# ele simplesmente desaparece.
+with st.form("busca_texto", border=False):
+    f_texto = st.text_input("Buscar por área ou palavra",
+                            placeholder="Ex.: Direito, Filosofia, Inteligência Artificial")
     ao_vivo = _tem_busca_viva()
-    with st.form("busca_texto", border=False):
-        f_texto = st.text_input("Buscar por área/palavra (ex.: Direito, IA)")
-        if ao_vivo:
-            b_geral = st.form_submit_button("🔍 Busca geral", use_container_width=True)
-            b_diarios = st.form_submit_button("📜 Buscar só nos diários oficiais",
-                                              use_container_width=True)
-        else:  # sem busca ao vivo, o campo só filtra o que já está no banco
-            st.form_submit_button("🔍 Buscar", use_container_width=True)
-            b_geral = b_diarios = False
-    if b_geral and f_texto.strip():
-        _busca_viva(f_texto.strip(), "geral",
-                    f"Buscando '{f_texto}' em privadas (Gupy) e diários municipais... (~30 s)")
-    if b_diarios and f_texto.strip():
-        _busca_viva(f_texto.strip(), "diarios",
-                    f"Buscando '{f_texto}' no DOU e diários municipais... (~2 min)")
+    bc1, bc2 = st.columns(2)
+    b_geral = bc1.form_submit_button("Busca geral", use_container_width=True,
+                                     type="primary")
+    b_diarios = bc2.form_submit_button("Só nos diários oficiais",
+                                       use_container_width=True)
+
+if not ao_vivo and (b_geral or b_diarios):
+    st.info("A busca ao vivo não está configurada neste ambiente — o texto acima "
+            "filtra as vagas já coletadas. Para buscar em tempo real, configure "
+            "`github_repo` e `github_token` nos secrets.")
+
+with st.expander("Filtros avançados", expanded=False):
+    fc1, fc2, fc3 = st.columns(3)
+    f_classe = fc1.selectbox("Tipo de instituição", ["Todas"] + CLASSES)
+    f_estado = fc2.selectbox("Estado", ["Todos"] + UFS)
+    f_status = fc3.selectbox("Status", ["Todos", "aberta", "sem prazo identificado", "vencida"])
+
+    fc4, fc5 = st.columns(2)
+    f_periodo = fc4.selectbox("Publicadas nos últimos", list(PERIODOS))
+    f_titulacao = fc5.selectbox("Titulação exigida", ["Todas", "graduação", "mestrado",
+                                                      "doutorado", "pós-doutorado",
+                                                      "livre-docência", "não informado"])
+    f_tipos = st.multiselect("Tipo de vaga (vazio = todos)", list(TIPOS_VAGA))
+
+if ao_vivo and b_geral and f_texto.strip():
+    _busca_viva(f_texto.strip(), "geral",
+                f"Buscando '{f_texto}' em privadas (Gupy) e diários municipais... (~30 s)")
+if ao_vivo and b_diarios and f_texto.strip():
+    _busca_viva(f_texto.strip(), "diarios",
+                f"Buscando '{f_texto}' no DOU e diários municipais... (~2 min)")
 
 if not DB.exists():
     st.stop()
@@ -213,9 +272,8 @@ if f_estado != "Todos":
     df = df[df.estado == f_estado]
 if f_status != "Todos":
     df = df[df.status == f_status]
-if f_periodo != "Qualquer data":
-    dias = {"7 dias": 7, "15 dias": 15, "30 dias": 30, "90 dias": 90}[f_periodo]
-    corte = pd.Timestamp.now().normalize() - pd.Timedelta(days=dias)
+if PERIODOS[f_periodo] is not None:
+    corte = pd.Timestamp.now().normalize() - pd.Timedelta(days=PERIODOS[f_periodo])
     pub = pd.to_datetime(df.data_publicacao, format="%d/%m/%Y", errors="coerce")
     # mantém sem-data (listagens ao vivo de páginas/FAPESP, inerentemente atuais)
     df = df[pub.isna() | (pub >= corte)]
@@ -295,13 +353,18 @@ with st.expander("📊 Ver como tabela", expanded=False):
     )
 
 st.subheader("Vagas encontradas")
+# Status e prazo decidem se vale abrir o edital, então vêm em cor, no topo.
+CORES_STATUS = {"aberta": "green", "vencida": "red", "sem prazo identificado": "orange"}
 for _, r in df.head(50).iterrows():
     with st.container(border=True):
+        cor = CORES_STATUS.get(r.status, "gray")
+        prazo = r.prazo_inscricao or "ver edital"
+        st.markdown(f":{cor}-background[**{r.status}**] &nbsp; :gray[prazo: {prazo}]")
         st.markdown(f"**{r.titulo}**")
         st.caption(f"{r.instituicao} · {r.classificacao_instituicao} · {r.natureza}"
-                   f" · prazo: {r.prazo_inscricao or 'ver edital'} · fonte: {r.fonte}")
+                   f" · {r.estado or '—'} · fonte: {r.fonte}")
         if r.trecho_comprovacao:
             st.caption(f"“{r.trecho_comprovacao}”")
-        st.link_button("🔗 Acessar a fonte", r.link_oficial or "about:blank")
+        st.link_button("Acessar a fonte", r.link_oficial or "about:blank")
 if len(df) > 50:
     st.caption(f"Mostrando detalhes das 50 primeiras de {len(df)} vagas — use os filtros para refinar.")
