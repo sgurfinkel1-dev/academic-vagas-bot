@@ -21,12 +21,16 @@ st.set_page_config(page_title="Vagas Acadêmicas", layout="wide")
 
 st.markdown("""
 <style>
+/* @import só vale como primeira regra da folha de estilo — abaixo de qualquer
+   seletor o navegador o descarta e a fonte nunca chega a baixar. Mantenha esta
+   linha no topo do bloco. */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700&display=swap');
+
 /* O badge do Streamlit Cloud mostra o perfil (e o e-mail) do dono do app para
    qualquer visitante. O toolbarMode do config.toml some com a barra de cima;
    isto cobre o badge do canto e o rodapé. */
 [class*="viewerBadge"], [data-testid="stToolbar"], #MainMenu, footer { display: none !important; }
 
-@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700&display=swap');
 /* A troca de fonte não pode alcançar os ícones: o Streamlit os desenha como
    ligadura da Material Symbols (<span>keyboard_arrow_right</span>). Com outra
    família a ligadura não forma e o span, de 16px, mostra o nome cru por cima
