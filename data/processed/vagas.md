@@ -1,10 +1,11 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (324)
+## Públicas federais (325)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Pesquisadores da UFF participam de consenso internacional sobre cirurgia do cânc | UFF | medicina |  | sem prazo identificado | [link](https://www.uff.br/04-08-2026/pesquisadores-da-uff-participam-de-consenso-internacional-sobre-cirurgia-do-cancer-de-pancreas/) |
 | professor substituto — DO de Rio de Janeiro | Rio de Janeiro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3304557/2026-07-07/9d400f1139ab12cb074b80f96559fa4fce36e7a0.pdf) |
 | Seleção Prof visitante pleno - Ensino de Filosofia | UFCA | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-prof-visitante-pleno--ensino-de-filosofia) |
 | Processo Seletivo de Prof. Substituto(a) | UFPI | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo-de-prof-substitutoa) |
@@ -424,10 +425,16 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (162)
+## Privadas (168)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Banco de Talentos / Professor(a) Universitário(a) Presencial – Medicina / Atençã | Seleção Docentes Medicina  | medicina | 01/12/2026 | aberta | [link](https://professoresmedicina.gupy.io/job/eyJqb2JJZCI6MTE5MzgyMjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR MÉDICO AUXILIAR I - INTERNATO CONTRATAÇÃO DE MÉDICO CLÍNICO GERAL - ID | IDOMED | medicina | 03/10/2026 | aberta | [link](https://idomed.gupy.io/job/eyJqb2JJZCI6MTE5Mzc0MTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - ODONTOLOGIA - WYDEN CAMPINAS - VILA INDUSTRIAL | Wyden | odontologia | 30/09/2026 | aberta | [link](https://wyden.gupy.io/job/eyJqb2JJZCI6MTE5Mzc0MzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - ODONTOLOGIA - ESTÁCIO LOURDES | Estácio | odontologia | 03/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5Mzc0NjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - ENGENHARIA CIVIL - ESTÁCIO JUIZ DE FORA | Estácio | engenharia | 03/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5Mzc0NjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR (A) AUXILIAR - MÉDICO / Afya Faculdade de Ciências Médicas de Contagem | Afya  | medicina | 02/10/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTE5Mjk5NTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Docente de Libras - Itaperuna | UNIG Carreiras | medicina | 02/10/2026 | aberta | [link](https://vemserunig.gupy.io/job/eyJqb2JJZCI6MTE5MjgxNTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Professor(a) de Inglês (CÓPIA) | Red Balloon |  | 02/10/2026 | aberta | [link](https://redballoon.gupy.io/job/eyJqb2JJZCI6MTE5Mjk4MTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Alan De Genaro Pós-Doutorado em matemática aplicada pelo Courant Institute of Ma | FGV EAESP | matemática |  | sem prazo identificado | [link](https://eaesp.fgv.br/pessoa/alan-genaro) |
@@ -591,10 +598,13 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (115)
+## Bolsas / pós-doc / agências (118)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa de JC-III em Estudos Paralímpico e Paradesportivo | Instituto de Ciências Biomédicas, Universidade de São Paulo (ICB-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-multiprofissional-de-estudos-paralimpico-e-paradesportivo-(cmepp):-saude-formacao-alto-desempenho-e-tecnologia/9683/) |
+| Bolsa de TT-IV em Ciências Ambientais | Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas, Universidade Federal do ABC (CECS-UFABC) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-inovacao-em-resiliencia-urbana-e-energetica-(cirue)/9688/) |
+| Bolsa de TT-III em Saúde da Mulher | Instituto de Biociências de Botucatu, Universidade Estadual Paulista (IBB-Unesp) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../disfuncao-endotelial-em-doencas-hipertensivas-da-gestacao-/9689/) |
 | Bolsa de TT-IV em Síntese de Peptídeos | Bind Pesquisa e Desenvolvimento LTDA |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../desenvolvimento-de-processo-quimico-para-sintese-do-ifa-tirzepatida-no-brasil/9684/) |
 | Bolsa de TT-III em Saúde | Faculdade de Medicina, Universidade de São Paulo (FM-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../osteoporose-na-doenca-renal-cronica/9686/) |
 | Post-Doctoral Fellowship in Photobiology / Molecular Biology / Biophotonics Inst | ver oportunidade (FAPESP) | matemática |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../bioluminescencia:-biodiversidade;-origem-metabolica;-estrutura-funcao-e-engenharia-de-luciferases;-empregos-em-biossensores-bioensaios-e-bioindicacao-ambiental/9676/) |
