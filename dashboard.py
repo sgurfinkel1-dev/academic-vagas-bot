@@ -27,7 +27,16 @@ st.markdown("""
 [class*="viewerBadge"], [data-testid="stToolbar"], #MainMenu, footer { display: none !important; }
 
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700&display=swap');
-html, body, [class*="st-"], button, input, textarea { font-family: 'Fira Sans', system-ui, sans-serif; }
+/* A troca de fonte não pode alcançar os ícones: o Streamlit os desenha como
+   ligadura da Material Symbols (<span>keyboard_arrow_right</span>). Com outra
+   família a ligadura não forma e o span, de 16px, mostra o nome cru por cima
+   do rótulo — era a sobreposição vista nos expansores no celular. */
+html, body, [class*="st-"]:not([data-testid^="stIconMaterial"]), button, input, textarea {
+  font-family: 'Fira Sans', system-ui, sans-serif;
+}
+[data-testid^="stIconMaterial"] {
+  font-family: 'Material Symbols Rounded', 'Material Symbols Outlined', 'Material Icons' !important;
+}
 
 /* Cartão de vaga: destaque na linha sob o cursor, como manda painel de dados. */
 [data-testid="stVerticalBlockBorderWrapper"] {
@@ -232,11 +241,6 @@ with st.form("busca_texto", border=False):
                                      type="primary")
     b_diarios = bc2.form_submit_button("Só nos diários oficiais",
                                        use_container_width=True)
-
-if not ao_vivo and (b_geral or b_diarios):
-    st.info("A busca ao vivo não está configurada neste ambiente — o texto acima "
-            "filtra as vagas já coletadas. Para buscar em tempo real, configure "
-            "`github_repo` e `github_token` nos secrets.")
 
 with st.expander("Filtros avançados", expanded=False):
     fc1, fc2, fc3 = st.columns(3)
