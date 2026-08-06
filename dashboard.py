@@ -28,8 +28,21 @@ st.markdown("""
 
 /* O badge do Streamlit Cloud mostra o perfil (e o e-mail) do dono do app para
    qualquer visitante. O toolbarMode do config.toml some com a barra de cima;
-   isto cobre o badge do canto e o rodapé. */
-[class*="viewerBadge"], [data-testid="stToolbar"], #MainMenu, footer { display: none !important; }
+   isto cobre o badge do canto e o rodapé.
+
+   O Community Cloud injeta esse badge fora do app, com classes geradas por
+   hash que mudam a cada release — foi por isso que só [class*="viewerBadge"]
+   parou de pegar o selo novo (o do avatar do criador). Mira-se então também o
+   destino do link, que não muda de release para release. O app não renderiza
+   nenhum link para streamlit.io, então a regra não alcança conteúdo próprio. */
+[class*="viewerBadge"],
+[class*="profileContainer"],
+[data-testid*="viewerBadge" i],
+[data-testid="stAppCreatorBadge"],
+a[href*="share.streamlit.io"],
+a[href*="streamlit.io/cloud"],
+a[href^="https://streamlit.io/"],
+[data-testid="stToolbar"], #MainMenu, footer { display: none !important; }
 
 /* A troca de fonte não pode alcançar os ícones: o Streamlit os desenha como
    ligadura da Material Symbols (<span>keyboard_arrow_right</span>). Com outra
