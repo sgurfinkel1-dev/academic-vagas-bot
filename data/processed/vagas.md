@@ -1,10 +1,24 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (325)
+## Públicas federais (339)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor substituto — Instituto Federal de Educação, Ciência e Tecnologia do Ac | Instituto Federal de Educação, Ciência e Tecnologia do Acre |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-complementar-n-8-de-5-de-agosto-de-2026-723757259) |
+| Professor substituto — Pró-Reitoria de Gestão de Pessoas (EXTRATO DE EXTINÇÃO DE | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-extincao-de-contrato-n-22/2024-cap/progep-723659739) |
+| Professor substituto — Campus Iguatu (EXTRATO DE DISTRATO) | Campus Iguatu |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-distrato-723588454) |
+| Professor substituto — Campus Ariquemes (EXTRATO DE DISTRATO) | Campus Ariquemes |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-distrato-723342624) |
+| Professor substituto — Coordenação-Geral de Recursos Humanos (EDITAL Nº 30) | Coordenação-Geral de Recursos Humanos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-30-de-28-de-maio-de-2026-723263709) |
+| Docente (outros) — Universidade Federal do Estado do Rio de Janeiro (EDITAL Nº 1 | Universidade Federal do Estado do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-183-de-03-de-agosto-de-2026-723241317) |
+| Professor efetivo (concurso público) em computação — Universidade Federal Rural  | Universidade Federal Rural de Pernambuco | computação |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-15-de-5-de-agosto-de-2026-723594760) |
+| Professor visitante — Coordenação-Geral de Recursos Humanos (EDITAL Nº 31) | Coordenação-Geral de Recursos Humanos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-31-de-29-de-maio-de-2026-723176396) |
+| Professor substituto — Instituto Federal de Educação, Ciência e Tecnologia do Su | Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-723580025) |
+| Docente (outros) — Instituto Federal de Educação, Ciência e Tecnologia do Piauí  | Instituto Federal de Educação, Ciência e Tecnologia do Piauí |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-103/2026-gab/rei/ifpi-de-3-de-agosto-de-2026-723265136) |
+| Docente (outros) — Pró-Reitoria de Administração e Infraestrutura (Extrato de Pr | Pró-Reitoria de Administração e Infraestrutura |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-protocolo-de-intencoes-723234257) |
+| Docente (outros) — Universidade Federal de Pernambuco (EDITAL Nº 12) | Universidade Federal de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12-de-29-de-julho-de-2026-722989898) |
+| Docente (outros) — Universidade Federal do Rio Grande do Norte (EXTRATO DE MEMOR | Universidade Federal do Rio Grande do Norte |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-memorando-de-entendimento-722971018) |
+| Professor da UFF é reconhecido como “Orientador de Destaque” no Programa Sebrae  | UFF |  |  | sem prazo identificado | [link](https://www.uff.br/06-08-2026/professor-da-uff-e-reconhecido-como-orientador-de-destaque-no-programa-sebrae-supernova/) |
 | Pesquisadores da UFF participam de consenso internacional sobre cirurgia do cânc | UFF | medicina |  | sem prazo identificado | [link](https://www.uff.br/04-08-2026/pesquisadores-da-uff-participam-de-consenso-internacional-sobre-cirurgia-do-cancer-de-pancreas/) |
 | professor substituto — DO de Rio de Janeiro | Rio de Janeiro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3304557/2026-07-07/9d400f1139ab12cb074b80f96559fa4fce36e7a0.pdf) |
 | Seleção Prof visitante pleno - Ensino de Filosofia | UFCA | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/selecao-prof-visitante-pleno--ensino-de-filosofia) |
@@ -331,10 +345,12 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (15)
+## Públicas estaduais (17)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| docente — DO de Rio de Janeiro | Rio de Janeiro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3304557/2026-08-03/79e703e7bb6abbaa076cedc86c275c32480510e8.pdf) |
+| docente — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-07-28/845809a66c3e5de00b98068f816176494253f210.pdf) |
 | docente — DO de Valinhos | Valinhos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556206/2026-07-24/ef9856f2bd14e5bb9fade84645fed60c997e1388.pdf) |
 | professor substituto — DO de Dracena | Dracena |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3514403/2026-07-23/b74814cdd4dfe39217d298213ebd92067e3f6cfa.pdf) |
 | pesquisador — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-06-25/06530a93e471960f60e12d3cf3111e92125ecdb6.pdf) |
@@ -368,10 +384,16 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (52)
+## Institutos públicos (58)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor substituto — Decanato de Gestão de Pessoas (Edital) | Decanato de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-723756949) |
+| Professor substituto — Decanato de Gestão de Pessoas (EDITAL Nº 135) | Decanato de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-135-de-3-de-agosto-de-2026-723344952) |
+| Docente (outros) — Fundação Escola Nacional de Administração Pública (EDITAL Nº  | Fundação Escola Nacional de Administração Pública |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-225-de-5-de-agosto-de-2026-723696676) |
+| Bolsa — Embrapa Roraima (EXTRATO DE COMPROMISSO) | Embrapa Roraima |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-723590790) |
+| provas e títulos — DO de Taubaté | Taubaté |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3554102/2026-08-04/e6b7275d7719aa2c56b270c2ba61d9770bcec6da.pdf) |
+| docente — DO de Itápolis | Itápolis |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522703/2026-08-04/4b3b843aea061e923cfbf230232ab2acc160f042.pdf) |
 | docente — DO de Santos | Santos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3548500/2026-07-30/fb28f3e0fecf7c7a3cbb6fa6e33656e532da1d6c.pdf) |
 | Vaga docente em filosofia — ver anúncio (Edital extraordinário - Inclusão étnico | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/edital-extraordinario--inclusao-etnico-racial-processo-de-selecao-para-ingresso-no-programa-de-pos-graduacao-em-filosofia-mestrado-e-doutorado-2026) |
 | Docente (outros) — Diretoria de Educação  Preparatória e Assistencial (EDITAL Nº | Diretoria de Educação  Preparatória e Assistencial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1-de-31-de-julho-de-2026-722685770) |
@@ -425,10 +447,13 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (168)
+## Privadas (171)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor de Fundamental 1 (4° ano) - Período da manhã / Anália Franco  | Rede Decisão |  | 31/08/2026 | aberta | [link](https://vemprarededecisao.gupy.io/job/eyJqb2JJZCI6MTE5NjE1NDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor de Fundamental 4º ano - Período tarde / Campinas  | Rede Decisão |  | 31/08/2026 | aberta | [link](https://vemprarededecisao.gupy.io/job/eyJqb2JJZCI6MTE5NjEzNzUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - DIREITO - ESTÁCIO SANTOS | Estácio | direito | 31/08/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5Mzc0MzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Banco de Talentos / Professor(a) Universitário(a) Presencial – Medicina / Atençã | Seleção Docentes Medicina  | medicina | 01/12/2026 | aberta | [link](https://professoresmedicina.gupy.io/job/eyJqb2JJZCI6MTE5MzgyMjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR MÉDICO AUXILIAR I - INTERNATO CONTRATAÇÃO DE MÉDICO CLÍNICO GERAL - ID | IDOMED | medicina | 03/10/2026 | aberta | [link](https://idomed.gupy.io/job/eyJqb2JJZCI6MTE5Mzc0MTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR AUXILIAR I - ODONTOLOGIA - WYDEN CAMPINAS - VILA INDUSTRIAL | Wyden | odontologia | 30/09/2026 | aberta | [link](https://wyden.gupy.io/job/eyJqb2JJZCI6MTE5Mzc0MzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
@@ -598,10 +623,12 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (118)
+## Bolsas / pós-doc / agências (120)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| RESULTADO DE JULGAMENTO | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-723624921) |
+| Bolsa de Doutorado Direto em Biologia Molecular / Biologia Celular / Biologia de | Departamento de Bioquímica e Imunologia – Faculdade de Medicina de Ribeirão Preto, Universidade de São Paulo (FMRP-USP) | biologia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../dissecando-como-a-ubiquitinacao-direciona-a-replicacao-e-a-plasticidade-do-genoma-em-<i>leishmania<-i>/9567/) |
 | Bolsa de JC-III em Estudos Paralímpico e Paradesportivo | Instituto de Ciências Biomédicas, Universidade de São Paulo (ICB-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-multiprofissional-de-estudos-paralimpico-e-paradesportivo-(cmepp):-saude-formacao-alto-desempenho-e-tecnologia/9683/) |
 | Bolsa de TT-IV em Ciências Ambientais | Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas, Universidade Federal do ABC (CECS-UFABC) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-inovacao-em-resiliencia-urbana-e-energetica-(cirue)/9688/) |
 | Bolsa de TT-III em Saúde da Mulher | Instituto de Biociências de Botucatu, Universidade Estadual Paulista (IBB-Unesp) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../disfuncao-endotelial-em-doencas-hipertensivas-da-gestacao-/9689/) |
