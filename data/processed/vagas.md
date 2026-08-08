@@ -353,10 +353,11 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (17)
+## Públicas estaduais (18)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| professor substituto — DO de Dracena | Dracena |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3514403/2026-08-06/ab07186f32e59a69089dfeb683deb26a550e08d3.pdf) |
 | docente — DO de Rio de Janeiro | Rio de Janeiro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3304557/2026-08-03/79e703e7bb6abbaa076cedc86c275c32480510e8.pdf) |
 | docente — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-07-28/845809a66c3e5de00b98068f816176494253f210.pdf) |
 | docente — DO de Valinhos | Valinhos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556206/2026-07-24/ef9856f2bd14e5bb9fade84645fed60c997e1388.pdf) |
@@ -460,10 +461,32 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (186)
+## Privadas (208)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| PROFESSOR AUXILIAR I - PSICOLOGIA - ESTÁCIO SÃO JOSÉ DOS CAMPOS | Estácio | psicologia | 07/09/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5NjkwNzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - PEDAGOGIA - ESTÁCIO PIRACICABA | Estácio | educação | 07/09/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5NjkwNTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - PSICOLOGIA - ESTÁCIO CONTAGEM | Estácio | psicologia | 04/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5NTIwNTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - ENFERMAGEM - ESTÁCIO PIRACICABA | Estácio | enfermagem | 07/09/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5NjkwNjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - PSICOLOGIA - ESTÁCIO SÃO JOSÉ DOS CAMPOS | Estácio | psicologia | 05/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5NjkwODEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - DIREITO - ESTÁCIO SÃO JOSÉ DOS CAMPOS | Estácio | direito | 05/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5NjkwNzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - DIREITO - ESTÁCIO SÃO JOSÉ DOS CAMPOS | Estácio | direito | 05/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5NjkwOTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - DIREITO - ESTÁCIO PIRACICABA | Estácio | direito | 07/09/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5NjkwNTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - PEDAGOGIA - ESTÁCIO CAMPINAS | Estácio | educação | 07/09/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5NjkwMTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - ENFERMAGEM - ESTÁCIO SÃO JOSÉ DOS CAMPOS | Estácio | enfermagem | 05/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5NjkwODQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - DIREITO - ESTÁCIO PIRACICABA | Estácio | direito | 05/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5NjkwNTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - ENFERMAGEM - ESTÁCIO SÃO JOSÉ DOS CAMPOS | Estácio | enfermagem | 05/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5NjkwODcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - ENFERMAGEM - ESTÁCIO CAMPINAS | Estácio | enfermagem | 07/09/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5NjkwNDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - PSICOLOGIA - ESTÁCIO PIRACICABA | Estácio | psicologia | 05/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5NjkwNjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - ENFERMAGEM - ESTÁCIO CAMPINAS | Estácio | enfermagem | 05/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5NjkwNDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - ODONTOLOGIA - ESTÁCIO NITERÓI | Estácio | odontologia | 31/08/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5NjkwMDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - ENFERMAGEM - ESTÁCIO NITERÓI | Estácio | enfermagem | 31/08/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5NjkwMDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - DIREITO - ESTÁCIO ANGRA DOS REIS | Estácio | direito | 31/08/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5Njg5OTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - DIREITO - ESTÁCIO ANGRA DOS REIS | Estácio | direito | 31/08/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5NjkwMDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - ENFERMAGEM - ESTÁCIO ANGRA DOS REIS | Estácio | enfermagem | 31/08/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5NjkwMDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - FARMACIA - WYDEN CAMPINAS - VILA INDUSTRIAL - EXCLUSIVO P | Wyden | farmácia | 31/08/2026 | aberta | [link](https://wyden.gupy.io/job/eyJqb2JJZCI6MTE5NjkwOTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor Mestrado/ Doutorado | Universidade Veiga de Almeida |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2819183/professor-mestrado-doutorado) |
 | Professor(a) Universitário(a) Presencial – Medicina / Mecanismos Celulares e Mol | Seleção Docentes Medicina  | medicina |  | sem prazo identificado | [link](https://professoresmedicina.gupy.io/job/eyJqb2JJZCI6MTE5NzAxMzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Professor(a) Universitário(a) Presencial – Medicina / Morfofisiologia I | Seleção Docentes Medicina  | medicina |  | sem prazo identificado | [link](https://professoresmedicina.gupy.io/job/eyJqb2JJZCI6MTE5Njk5NDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR AUXILIAR I - PSICOLOGIA - ESTÁCIO CAMPINAS | Estácio | psicologia | 05/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5NjkwNDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
@@ -651,10 +674,11 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (122)
+## Bolsas / pós-doc / agências (123)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa de TT-V em Microfabricação | Laboratório Nacional de Nanotecnologia, Centro Nacional de Pesquisa em Energia e Materiais (LNNano/CNPEM) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../materiais-2d-funcionalizados-processados-em-solucao:-desenvolvimento-de-sensores-e-biossensores-eletricos-prototipaveis/9705/) |
 | Bolsa de PD em Biologia Molecular / Biologia Celular / Biologia de Genoma / Para | Departamento de Bioquímica e Imunologia – Faculdade de Medicina de Ribeirão Preto, Universidade de São Paulo (FMRP-USP) | biologia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../dissecando-como-a-ubiquitinacao-direciona-a-replicacao-e-a-plasticidade-do-genoma-em-<i>leishmania<-i>/9568/) |
 | Bolsa de PD em Genética Mitocondrial | Departamento de Genética e Evolução – Centro de Ciências Biológicas e da Saúde, Universidade Federal de São Carlos (CCBS-UFSCar) | biologia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../bilateral-bbsrc-fapesp:-mecanismos-moleculares-que-modulam-a-transmissao-pela-linhagem-germinativa-de-variantes-de-mtdna/9651/) |
 | RESULTADO DE JULGAMENTO | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-723624921) |
