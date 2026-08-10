@@ -1,8 +1,10 @@
 """Dashboard com filtros. Rodar: streamlit run dashboard.py"""
+import re
 import sqlite3
 import subprocess
 import sys
 import unicodedata
+from datetime import date, datetime
 from pathlib import Path
 
 import numpy as np
@@ -72,13 +74,19 @@ html, body, [class*="st-"]:not([data-testid^="stIconMaterial"]), button, input, 
   [data-testid="stMetricLabel"] p { font-size: 0.7rem; }
   [data-testid="stHorizontalBlock"] { flex-wrap: nowrap !important; gap: 0.25rem; }
   [data-testid="stHorizontalBlock"] > div { min-width: 0 !important; }
-  /* Alvo de toque mínimo de 44px (WCAG). Os testids do Streamlit mudam de
-     versão; estes são os controles que o usuário realmente toca — a barrinha
-     de ferramentas de elemento fica de fora de propósito. */
+  h1 { font-size: 1.55rem !important; line-height: 1.25 !important; }
+}
+
+/* Alvo de toque mínimo de 44px (WCAG 2.5.5). Estava preso a max-width:640px, o
+   que deixava tablet de fora: em 768px os botões mediam 38-40px. Vale por tipo
+   de ponteiro, não por largura — quem toca com o dedo precisa do alvo maior
+   independente do tamanho da tela. Os testids do Streamlit mudam de versão;
+   estes são os controles que o usuário realmente toca — a barrinha de
+   ferramentas de elemento fica de fora de propósito. */
+@media (max-width: 1024px), (pointer: coarse) {
   [data-testid^="stBaseButton-"]:not([data-testid*="elementToolbar"]),
   [data-testid="stSelectbox"] div[data-baseweb="select"] > div,
   .stLinkButton a { min-height: 44px; }
-  h1 { font-size: 1.55rem !important; line-height: 1.25 !important; }
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -283,7 +291,26 @@ if ao_vivo and b_diarios and f_texto.strip():
 if not DB.exists():
     st.stop()
 
-df = pd.read_sql("SELECT * FROM vagas", sqlite3.connect(DB))
+with sqlite3.connect(DB) as _con:
+    df = pd.read_sql("SELECT * FROM vagas", _con)
+
+
+def _status_atual(prazo: str, gravado: str) -> str:
+    """O status vem gravado da coleta e envelhece no banco: vaga recolhida com
+    prazo futuro continua marcada 'aberta' depois que o prazo passa. Recalcula
+    na leitura — quem abre o painel quer saber se dá para se inscrever hoje."""
+    p = (prazo or "").strip()
+    if not p:
+        return gravado or "sem prazo identificado"
+    for fmt in ("%d/%m/%Y", "%d/%m/%y"):
+        try:
+            return "aberta" if datetime.strptime(p, fmt).date() >= date.today() else "vencida"
+        except ValueError:
+            continue
+    return gravado or "sem prazo identificado"
+
+
+df["status"] = [_status_atual(p, s) for p, s in zip(df.prazo_inscricao, df.status)]
 
 if f_classe != "Todas":
     df = df[df.classificacao_instituicao == f_classe]
@@ -296,7 +323,15 @@ if f_status != "Todos":
     df = df[df.status == f_status]
 if PERIODOS[f_periodo] is not None:
     corte = pd.Timestamp.now().normalize() - pd.Timedelta(days=PERIODOS[f_periodo])
+    # As fontes não falam a mesma língua de data: a maioria grava DD/MM/AAAA, mas
+    # parte vem em ISO (AAAA-MM-DD). Lendo só um formato, o outro virava NaT e
+    # escapava do filtro como se fosse "sem data" — vaga antiga aparecendo em
+    # "últimos 7 dias". Tenta os dois antes de desistir.
     pub = pd.to_datetime(df.data_publicacao, format="%d/%m/%Y", errors="coerce")
+    faltando = pub.isna()
+    if faltando.any():
+        pub = pub.fillna(pd.to_datetime(df.data_publicacao.where(faltando),
+                                        format="ISO8601", errors="coerce"))
     # mantém sem-data (listagens ao vivo de páginas/FAPESP, inerentemente atuais)
     df = df[pub.isna() | (pub >= corte)]
 if f_titulacao != "Todas":
@@ -306,7 +341,6 @@ def _sem_acento(s: str) -> str:
 
 
 if f_texto:
-    import re
     # cada grupo é um termo: "epistemologia" também acha "teoria do conhecimento"
     grupos = sinonimos.expandir(f_texto)
     palavras = [g[0] for g in grupos]  # rótulo do grupo, só para exibir
@@ -374,20 +408,42 @@ with st.expander("📊 Ver como tabela", expanded=False):
         },
     )
 
-st.subheader("Vagas encontradas")
+# h2: entre o h1 do topo e esta seção não há nível intermediário, e pular de h1
+# para h3 quebra a navegação por títulos de quem usa leitor de tela.
+st.header("Vagas encontradas")
 # Status e prazo decidem se vale abrir o edital, então vêm em cor, no topo.
 CORES_STATUS = {"aberta": "green", "vencida": "red", "sem prazo identificado": "orange"}
+_MD_ESPECIAIS = re.compile(r"([\\`*_\[\]()<>#|~])")
+
+
+def _md(valor) -> str:
+    """Escapa markdown de texto vindo de scraping. O título e o trecho do edital
+    são conteúdo de terceiros: sem escapar, um "[clique](http://...)" no título
+    de um edital vira link de verdade dentro do cartão."""
+    return _MD_ESPECIAIS.sub(r"\\\1", str(valor or ""))
+
+
+def _link_seguro(url) -> str:
+    """Só http(s) vira botão; qualquer outro esquema (javascript:, data:) sai."""
+    u = str(url or "").strip()
+    return u if u.lower().startswith(("http://", "https://")) else ""
+
+
 for _, r in df.head(50).iterrows():
     with st.container(border=True):
         cor = CORES_STATUS.get(r.status, "gray")
-        prazo = r.prazo_inscricao or "ver edital"
+        prazo = _md(r.prazo_inscricao or "ver edital")
         st.markdown(f":{cor}-background[**{r.status}**] &nbsp; :gray[prazo: {prazo}]")
-        st.markdown(f"**{r.titulo}**")
-        st.caption(f"{r.instituicao} · {r.classificacao_instituicao} · {r.natureza}"
-                   f" · {r.estado or '—'} · fonte: {r.fonte}")
+        st.markdown(f"**{_md(r.titulo)}**")
+        st.caption(f"{_md(r.instituicao)} · {r.classificacao_instituicao} · {_md(r.natureza)}"
+                   f" · {r.estado or '—'} · fonte: {_md(r.fonte)}")
         if r.trecho_comprovacao:
-            st.caption(f"“{r.trecho_comprovacao}”")
-        st.link_button("Acessar a fonte", r.link_oficial or "about:blank")
+            st.caption(f"“{_md(r.trecho_comprovacao)}”")
+        destino = _link_seguro(r.link_oficial)
+        if destino:
+            st.link_button("Acessar a fonte", destino)
+        else:
+            st.caption("Sem link oficial confiável para esta vaga.")
 if len(df) > 50:
     st.caption(f"Mostrando detalhes das 50 primeiras de {len(df)} vagas — use os filtros para refinar.")
 
@@ -412,6 +468,11 @@ def _esconder_selo_do_host():
   var doc;
   try { doc = window.parent.document; } catch (e) { return; }  // sem acesso: desiste
   if (!doc || !doc.body) return;
+
+  // O Streamlit fixa lang="en" no <html>, mas o painel é todo em português —
+  // leitor de tela lia texto em português com voz inglesa (WCAG 3.1.1). Não há
+  // opção de config para isto, então corrige aqui.
+  doc.documentElement.lang = 'pt-BR';
 
   var DOMINIOS = 'a[href*="streamlit.io"], a[href*="streamlit.app"]';
 
