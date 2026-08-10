@@ -1,10 +1,22 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (347)
+## Públicas federais (359)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor substituto — Pró-Reitoria de Gestão de Pessoas (EXTRATO DE EXTINÇÃO DE | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-extincao-de-contrato-n-13/2025-724451831) |
+| Professor substituto — Campus Paraíso do Tocantins (EDITAL Nº 50/2026/PSO/REI/IF | Campus Paraíso do Tocantins |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-50/2026/pso/rei/ifto-de-6-de-agosto-de-2026-724407790) |
+| Professor substituto em educação — Universidade Federal de Minas Gerais (EDITAL  | Universidade Federal de Minas Gerais | educação |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1801-de-6-de-agosto-de-2026-724364413) |
+| Professor substituto — Pró-Reitoria de Gestão de Pessoas (EXTRATO DE EXTINÇÃO DE | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-extincao-de-contrato-n-10/2025-724332688) |
+| Professor substituto — Fundação Universidade Federal de Sergipe (EDITAL Nº 7) | Fundação Universidade Federal de Sergipe |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-7-de-7-de-agosto-de-2026-724320016) |
+| Professor substituto — Campus Paracatu (EDITAL N° 32/DGPC-REI) | Campus Paracatu |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-32/dgpc-rei-de-7-de-agosto-de-2026-724300494) |
+| Professor efetivo (concurso público) — Universidade Federal de Pernambuco (EDITA | Universidade Federal de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-724384607) |
+| Professor efetivo (concurso público) — Pró-Reitoria de Gestão de Pessoas (aviso  | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-retificacao-724427091) |
+| Professor visitante — Universidade Federal do Espírito Santo (EDITAL Nº 127) | Universidade Federal do Espírito Santo |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-127-de-7-de-agosto-de-2026-724307502) |
+| Docente (outros) — Pró-Reitoria de Administração e Infraestrutura (EXTRATO DE PR | Pró-Reitoria de Administração e Infraestrutura |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-protocolo-de-intencoes-724426617) |
+| Professor substituto — Pró-Reitoria de Gestão de Pessoas (EDITAL N° 138/2026) | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-138/2026-724426463) |
+| Docente (outros) — Diretoria Acadêmica (Edital de Seleção) | Diretoria Acadêmica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-selecao-724397493) |
 | Docente (outros) — Instituto Federal de Educação, Ciência e Tecnologia do Maranh | Instituto Federal de Educação, Ciência e Tecnologia do Maranhão |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-rescisao-723984870) |
 | Professor substituto — Campus Cedro (EDITAL Nº 18 DG-CED/CEDRO-IFCE) | Campus Cedro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-18-dg-ced/cedro-ifce-de-05-de-agosto-de-2026-723961328) |
 | Professor substituto — Instituto Federal de Educação, Ciência e Tecnologia de Pe | Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-cpes/ifpe-n-3-de-3-de-agosto-de-2026-723954459) |
@@ -393,10 +405,17 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (63)
+## Institutos públicos (70)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Docente (outros) — Instituto Nacional de Estudos e Pesquisas Educacionais Anísio | Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-49-de-24-de-abril-de-2026-*-724453033) |
+| Bolsa — Embrapa Clima Temperado (EXTRATO DE COMPROMISSO) | Embrapa Clima Temperado |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-724446676) |
+| Bolsa — Embrapa Clima Temperado (EXTRATO DE COMPROMISSO) | Embrapa Clima Temperado |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-724440613) |
+| Bolsa — Embrapa Clima Temperado (EXTRATO DE COMPROMISSO) | Embrapa Clima Temperado |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-724410059) |
+| Bolsa — Embrapa Clima Temperado (EXTRATO DE COMPROMISSO) | Embrapa Clima Temperado |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-724401454) |
+| Bolsa — Embrapa Meio Ambiente (Extrato de Compromisso) | Embrapa Meio Ambiente |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-724360505) |
+| Bolsa — Embrapa Territorial (Extrato de Distrato) | Embrapa Territorial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-distrato-724350377) |
 | Professor substituto — Decanato de Gestão de Pessoas (EDITAL Nº 138) | Decanato de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-138-de-5-de-agosto-de-2026-723899979) |
 | Docente (outros) — Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível S | Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-6/2026-723887142) |
 | Bolsa — Embrapa Meio Ambiente (EXTRATO DE COMPROMISSO) | Embrapa Meio Ambiente |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-compromisso-723968499) |
@@ -674,10 +693,12 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (123)
+## Bolsas / pós-doc / agências (125)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa de PD em Melhoramento Genético Florestal | Faculdade de Ciências Agronômicas – UNESP, câmpus de Botucatu | biologia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../efeito-c-em-foco:-desvendando-decadas-de-incerteza-com-abordagem-epigenomica/9698/) |
+| Bolsa de Doutorado em Imunometabolismo e Exercício | Instituto de Ciências Biomédicas, Universidade de São Paulo (ICB-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-multiprofissional-de-estudos-paralimpico-e-paradesportivo-(cmepp):-saude-formacao-alto-desempenho-e-tecnologia/9699/) |
 | Bolsa de TT-V em Microfabricação | Laboratório Nacional de Nanotecnologia, Centro Nacional de Pesquisa em Energia e Materiais (LNNano/CNPEM) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../materiais-2d-funcionalizados-processados-em-solucao:-desenvolvimento-de-sensores-e-biossensores-eletricos-prototipaveis/9705/) |
 | Bolsa de PD em Biologia Molecular / Biologia Celular / Biologia de Genoma / Para | Departamento de Bioquímica e Imunologia – Faculdade de Medicina de Ribeirão Preto, Universidade de São Paulo (FMRP-USP) | biologia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../dissecando-como-a-ubiquitinacao-direciona-a-replicacao-e-a-plasticidade-do-genoma-em-<i>leishmania<-i>/9568/) |
 | Bolsa de PD em Genética Mitocondrial | Departamento de Genética e Evolução – Centro de Ciências Biológicas e da Saúde, Universidade Federal de São Carlos (CCBS-UFSCar) | biologia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../bilateral-bbsrc-fapesp:-mecanismos-moleculares-que-modulam-a-transmissao-pela-linhagem-germinativa-de-variantes-de-mtdna/9651/) |
