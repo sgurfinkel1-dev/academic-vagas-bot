@@ -189,10 +189,12 @@ def main():
         ("busca_aberta", lambda: busca_aberta.buscar(cfg.get("termos_base", []), user.get("areas", []), 50)),
         ("gupy", lambda: gupy.buscar(user.get("areas", []), max_f)),
         ("vagas_com", lambda: vagas_com.buscar(max_f)),
-        # ANPOF publica poucos itens por mês: com a janela de 30 dias do DOU vinha
-        # zero vaga. 180 dias é o mínimo para a fonte render algo (a data aparece
-        # em cada vaga, então dá para julgar se ainda vale).
-        ("anpof", lambda: anpof.buscar(max(dias, 180), max_f)),
+        # ANPOF publica poucos itens por mês e é a melhor fonte de filosofia, então
+        # ganha janela própria de um ano. Concurso público tem tramitação longa: o
+        # edital de dezembro com inscrição em janeiro caía fora dos 180 dias
+        # antigos e nunca era coletado, mesmo o painel oferecendo filtro de 1 ano.
+        # Custa uma página só — a listagem inteira vem numa requisição.
+        ("anpof", lambda: anpof.buscar(max(dias, 365), max_f)),
     ]
     for nome, fn in execucoes:
         if not fontes.get(nome, False):
