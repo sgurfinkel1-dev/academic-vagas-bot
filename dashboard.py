@@ -448,18 +448,19 @@ if len(df) > 50:
     st.caption(f"Mostrando detalhes das 50 primeiras de {len(df)} vagas — use os filtros para refinar.")
 
 
-def _esconder_selo_do_host():
-    """Remove o selo que o Community Cloud injeta no canto inferior direito.
+def _declarar_idioma():
+    """Declara o idioma da página no <html>.
 
-    Só CSS não resolve: o selo vem de fora do app, com classes geradas por hash
-    que mudam a cada release, e é reinjetado depois que a página carrega. Este
-    script roda no documento pai e mira duas coisas que não dependem de nome de
-    classe — o destino do link e a posição na tela —, reaplicando a cada
-    mutação do DOM.
+    O Streamlit fixa lang="en" e não expõe configuração para trocar. O painel é
+    todo em português, e leitor de tela lia o texto com voz inglesa (WCAG
+    3.1.1). Mexer no documento pai é o único caminho, então é o que se faz aqui.
 
-    Efeito colateral aceito: o botão "Manage app", que o Cloud desenha no mesmo
-    canto e só aparece para quem é dono, também some. A administração continua
-    pelo share.streamlit.io.
+    Nota sobre o selo do Community Cloud, para quem vier depois: houve neste
+    mesmo script uma tentativa de removê-lo, mirando o destino do link e a
+    posição na tela. Funcionou em laboratório e não no app publicado — ou o
+    iframe não alcança o documento pai na nuvem, ou o selo vive em shadow DOM
+    fechado. Foi retirada em vez de mantida sem efeito. O selo é injetado pelo
+    host: quem quiser mesmo tirá-lo precisa sair do Community Cloud.
     """
     components.html(
         """
@@ -467,50 +468,8 @@ def _esconder_selo_do_host():
 (function () {
   var doc;
   try { doc = window.parent.document; } catch (e) { return; }  // sem acesso: desiste
-  if (!doc || !doc.body) return;
-
-  // O Streamlit fixa lang="en" no <html>, mas o painel é todo em português —
-  // leitor de tela lia texto em português com voz inglesa (WCAG 3.1.1). Não há
-  // opção de config para isto, então corrige aqui.
+  if (!doc || !doc.documentElement) return;
   doc.documentElement.lang = 'pt-BR';
-
-  var DOMINIOS = 'a[href*="streamlit.io"], a[href*="streamlit.app"]';
-
-  function sumir(el) {
-    if (el && el.style) el.style.setProperty('display', 'none', 'important');
-  }
-
-  function limpar() {
-    // 1) Pelo destino do link — o selo aponta para o perfil/streamlit.io.
-    doc.querySelectorAll(DOMINIOS).forEach(function (a) {
-      sumir(a);
-      // sobe até 3 níveis para pegar a bolha que embrulha o link
-      var p = a.parentElement, n = 0;
-      while (p && n < 3) {
-        var cs = doc.defaultView.getComputedStyle(p);
-        if (cs.position === 'fixed' || cs.position === 'absolute') { sumir(p); break; }
-        p = p.parentElement; n++;
-      }
-    });
-
-    // 2) Pela posição — pega o avatar do criador, que não tem link.
-    var W = doc.defaultView.innerWidth, H = doc.defaultView.innerHeight;
-    doc.querySelectorAll('div, span').forEach(function (el) {
-      if (el.dataset && el.dataset.seloOk) return;
-      var cs = doc.defaultView.getComputedStyle(el);
-      if (cs.position !== 'fixed' || cs.display === 'none') return;
-      var r = el.getBoundingClientRect();
-      var noCanto = r.right > W - 220 && r.bottom > H - 140;
-      var pequeno = r.width > 0 && r.width < 260 && r.height > 0 && r.height < 120;
-      // nada que contenha controle do app entra na peneira
-      var inofensivo = !el.querySelector('input, textarea, select, [data-testid^="stBaseButton"]');
-      if (noCanto && pequeno && inofensivo) sumir(el);
-    });
-  }
-
-  limpar();
-  new MutationObserver(limpar).observe(doc.body, {childList: true, subtree: true});
-  doc.defaultView.addEventListener('resize', limpar);
 })();
 </script>
         """,
@@ -518,4 +477,4 @@ def _esconder_selo_do_host():
     )
 
 
-_esconder_selo_do_host()
+_declarar_idioma()

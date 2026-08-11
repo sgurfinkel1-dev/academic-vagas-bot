@@ -29,8 +29,24 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install -r requirements.txt
+      - run: pip install -r requirements-dev.txt
       - run: scrapling install || python -m playwright install --with-deps chromium
+
+      # Portão antes de publicar: o robô commita direto na main e o painel lê
+      # de lá. Sem isto, um src/ quebrado publica resultado quebrado por cima
+      # da coleta boa, e quem usa o painel vê o estrago antes de qualquer um
+      # de nós. Falhou, não busca e não commita.
+      - name: Testes antes de publicar
+        run: python -m pytest -m "not rede" -q
+
+      # Os testes de rede batem nos sites de verdade. Não podem barrar a
+      # coleta — site de terceiro fora do ar não é bug nosso —, mas aqui é o
+      # único lugar com rede real, então rodam e ficam registrados no log:
+      # é assim que se descobre que um parser de fonte parou de casar.
+      - name: Fontes ao vivo (não barra a coleta)
+        continue-on-error: true
+        run: python -m pytest -m "rede" -q
+
       - name: Executar busca
         # palavra/modo vão por env (não interpolados no shell) para evitar injeção,
         # já que qualquer usuário do dashboard pode disparar este workflow.
