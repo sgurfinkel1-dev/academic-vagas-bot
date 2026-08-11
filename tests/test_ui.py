@@ -195,6 +195,54 @@ class TestAcessibilidade:
         assert "File" not in src or "data/processed/vagas.db" in src  # path do banco é ok
 
 
+class TestRegressaoAcessibilidade:
+    """Testes que garantem que correções de acessibilidade não sejam revertidas."""
+
+    def test_lang_do_documento_em_portugues(self):
+        """O documento deve ter lang='pt-BR' para leitor de tela."""
+        import dashboard
+        src = Path(dashboard.__file__).read_text(encoding="utf-8")
+        assert "doc.documentElement.lang = 'pt-BR'" in src, (
+            "A linha que seta lang='pt-BR' foi removida — leitor de tela "
+            "pode usar voz em inglês para texto em português."
+        )
+
+    def test_secao_vagas_e_h2_nao_h3(self):
+        """Seção 'Vagas encontradas' deve ser h2, não h3 ou subheader."""
+        import dashboard
+        src = Path(dashboard.__file__).read_text(encoding="utf-8")
+        assert 'st.header("Vagas encontradas")' in src, (
+            "st.header foi substituído por st.subheader — quebra a hierarquia "
+            "de títulos (h1 -> h2) para leitores de tela."
+        )
+        # Não deve usar subheader para esta seção
+        assert 'st.subheader("Vagas encontradas")' not in src, (
+            "st.subheader foi usado para 'Vagas encontradas' — deve ser h2 (st.header)."
+        )
+
+    def test_media_query_cobre_tablet_e_touch(self):
+        """Media query deve cobrir tablets (1024px) e touch (pointer: coarse)."""
+        import dashboard
+        src = Path(dashboard.__file__).read_text(encoding="utf-8")
+        assert "max-width: 1024px" in src, (
+            "A media query foi reduzida para 640px — tablets em 768px "
+            "ficam sem alvo de toque adequado."
+        )
+        assert "(pointer: coarse)" in src, (
+            "A condição (pointer: coarse) foi removida — dispositivos touch "
+            "ficam sem alvo de toque adequado independentemente da largura."
+        )
+
+    def test_44px_min_height_presente(self):
+        """Deve haver min-height: 44px paraWCAG 2.5.5."""
+        import dashboard
+        src = Path(dashboard.__file__).read_text(encoding="utf-8")
+        assert "min-height: 44px" in src, (
+            "A regra min-height: 44px foi removida — botões podem ficar "
+            "difíceis de tocar em dispositivos touch."
+        )
+
+
 # ===========================================================================
 # RESPONSIVIDADE (layout hints)
 # ===========================================================================
@@ -279,6 +327,76 @@ class TestRobustness:
         # caracteres especiais não devem quebrar a expansão
         grupos = sinonimos.expandir("filosofia&lógica")
         assert len(grupos) >= 1
+
+
+# ===========================================================================
+# REGRESSÃO: correções que não devem ser desfeitas
+# ===========================================================================
+
+class TestRegressaoStatus:
+    """Testes que garantem que a correção de status recalculado não seja revertida."""
+
+    def test_status_recalculado_com_prazo_futuro(self):
+        """Vaga com prazo futuro deve ser 'aberta', mesmo que gravada como 'vencida'."""
+        from dashboard import _status_atual
+        # prazo futuro, status gravado errado
+        assert _status_atual("30/12/2099", "vencida") == "aberta"
+
+    def test_status_recalculado_com_prazo_passado(self):
+        """Vaga com prazo passado deve ser 'vencida', mesmo que gravada como 'aberta'."""
+        from dashboard import _status_atual
+        # prazo passado, status gravado errado
+        assert _status_atual("01/01/2020", "aberta") == "vencida"
+
+    def test_status_sem_prazo_mantem_gravado(self):
+        """Sem prazo, usa status gravado."""
+        from dashboard import _status_atual
+        assert _status_atual("", "aberta") == "aberta"
+
+    def test_dashboard_usa_status_recalculado(self):
+        """O dashboard deve chamar _status_atual na list comprehension."""
+        import dashboard
+        src = Path(dashboard.__file__).read_text(encoding="utf-8")
+        assert '_status_atual(p, s)' in src, (
+            "A chamada a _status_atual foi removida — o status passará a ser "
+            "lido diretamente do banco, mostrando vagas 'abertas' mesmo com "
+            "prazo vencido."
+        )
+        assert 'df["status"] = [_status_atual' in src or "df['status'] = [_status_atual" in src, (
+            "A atribuição de status recalculado foi substituída por uso direto do banco."
+        )
+
+
+class TestRegressaoISOData:
+    """Testes que garantem que o fallback ISO8601 não seja removido."""
+
+    def test_filtro_periodo_aceita_data_ISO(self):
+        """Data no formato ISO deve ser parseada pelo filtro de período."""
+        import pandas as pd
+        # Simula data_publicacao no formato ISO
+        datas = ["2026-07-07", "2026-06-15", "invalid"]
+        pub = pd.to_datetime(datas, format="ISO8601", errors="coerce")
+        assert pub[0] == pd.Timestamp("2026-07-07")
+        assert pub[1] == pd.Timestamp("2026-06-15")
+        assert pd.isna(pub[2])
+
+    def test_dashboard_tem_fallback_ISO(self):
+        """O dashboard deve conter o fallback format='ISO8601'."""
+        import dashboard
+        src = Path(dashboard.__file__).read_text(encoding="utf-8")
+        assert 'format="ISO8601"' in src, (
+            "O fallback ISO8601 foi removido — datas no formato ISO não serão "
+            "parseadas corretamente pelo filtro de período."
+        )
+
+    def test_dashboard_tem_preenchimento_de_datas_faltando(self):
+        """O dashboard deve preencher datas faltando com fallback ISO."""
+        import dashboard
+        src = Path(dashboard.__file__).read_text(encoding="utf-8")
+        assert "fillna" in src and "faltando" in src, (
+            "A lógica de preenchimento de datas faltando foi removida — "
+            "vagas sem data_publicacao no formato BR não serão filtradas."
+        )
 
 
 # ===========================================================================

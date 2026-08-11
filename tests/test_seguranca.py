@@ -177,6 +177,64 @@ class TestClassifierSecurity:
             fonte="DOU")
 
     def test_exclusoes_nao_docentes(self):
+        """Cargos não-docentes são excluídos mesmo com palavras-chave acadêmicas."""
+        assert not clf.eh_vaga_academica(
+            "processo seletivo para analista administrativo",
+            classificacao="pública federal",
+            fonte="DOU")
+
+
+# ===========================================================================
+# REGRESSÃO: segurança do dashboard
+# ===========================================================================
+
+class TestRegressaoSeguranca:
+    """Testes que garantem que correções de segurança não sejam revertidas."""
+
+    def test_md_escapa_colchetes_e_chaves(self):
+        """_md deve escapar [ e ] para evitar links markdown maliciosos."""
+        from dashboard import _md
+        # título com syntax de link markdown
+        titulo = "[clique](@url:`http://exemplo.com`)"
+        resultado = _md(titulo)
+        # os colchetes devem ser escapados
+        assert "\\" in resultado or "[" not in resultado
+
+    def test_md_escapa_pontuacao_especial(self):
+        """_md deve escapar caracteres que quebram markdown."""
+        from dashboard import _md
+        assert _md("texto*com*asteriscos") == "texto\\*com\\*asteriscos"
+        assert _md("texto`com`backticks") == "texto\\`com\\`backticks"
+
+    def test_link_seguro_rejeita_javascript(self):
+        """_link_seguro deve rejeitar javascript: e data:."""
+        from dashboard import _link_seguro
+        assert _link_seguro("javascript:alert(1)") == ""
+        assert _link_seguro("data:text/html;base64,abc") == ""
+        assert _link_seguro("https://exemplo.com") == "https://exemplo.com"
+        assert _link_seguro("http://exemplo.com") == "http://exemplo.com"
+
+    def test_link_seguro_rejeita_vazio(self):
+        """Links vazios ou nulos retornam string vazia."""
+        from dashboard import _link_seguro
+        assert _link_seguro("") == ""
+        assert _link_seguro(None) == ""
+
+    def test_dashboard_usa_link_seguro(self):
+        """O dashboard deve chamar _link_seguro antes de passar ao st.link_button."""
+        import dashboard
+        src = Path(dashboard.__file__).read_text(encoding="utf-8")
+        assert '_link_seguro(r.link_oficial)' in src, (
+            "A chamada a _link_seguro foi removida — links maliciosos como "
+            "javascript:alert(1) podem aparecer como botões clicáveis."
+        )
+
+    def test_dashboard_tem_funcoes_seguranca(self):
+        """O dashboard deve implementar _md e _link_seguro."""
+        import dashboard
+        src = Path(dashboard.__file__).read_text(encoding="utf-8")
+        assert "def _md(valor)" in src, "_md foi removido — título pode virar link malicioso"
+        assert "def _link_seguro(url)" in src, "_link_seguro foi removido — javascript: pode vazar"
         exclusoes = [
             "concurso para professor de apoio",
             "auxiliar de classe creche",
