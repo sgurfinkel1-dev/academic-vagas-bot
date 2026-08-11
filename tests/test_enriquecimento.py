@@ -1,6 +1,8 @@
 """Checa área inferida, título remontado do DOU e o parser da ANPOF.
 Rodar: python -m tests.test_enriquecimento (não precisa de rede exceto o teste da ANPOF).
 """
+import pytest
+
 from src.database.models import Vaga
 from src.extractors import llm_classifier as clf
 from src.main import _enriquecer
@@ -61,7 +63,12 @@ def test_titulo_dou():
     print("OK  título legível preservado")
 
 
+@pytest.mark.rede
 def test_anpof():
+    """Bate no site da ANPOF de verdade, por isso fica fora do CI (`-m "not rede"`).
+    O resultado depende de o site estar no ar e não bloquear o runner — hoje ele
+    responde 403 a datacenter —, e teste que fica vermelho por motivo alheio ao
+    código ensina todo mundo a ignorar o vermelho."""
     from src.sources import anpof
     vagas = anpof.buscar(dias=365)
     assert len(vagas) >= 10, f"esperava >=10 itens no ano, veio {len(vagas)}"

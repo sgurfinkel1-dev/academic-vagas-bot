@@ -77,17 +77,26 @@ class TestHtmlExtractor:
 # ===========================================================================
 
 class TestPdfExtractor:
-    def test_texto_do_pdf_mock(self, tmp_path):
-        pdf_path = tmp_path / "edital.pdf"
-        pdf_path.write_bytes(b"fake pdf")
+    def test_texto_do_pdf_mock(self, tmp_path, monkeypatch):
+        """PDF já baixado não é baixado de novo.
+
+        texto_do_pdf recebe uma URL e sempre resolve o arquivo dentro de RAW —
+        passar um caminho local não faz a função lê-lo, ela só usa o nome do
+        arquivo. Apontando RAW para tmp_path, o "já existe" passa a ser verdade
+        de fato. Sem isso o teste dependia de ter sobrado um data/raw/edital.pdf
+        de execução anterior: passava na máquina de quem já rodou o robô e
+        falhava em checkout limpo, como o do CI.
+        """
+        monkeypatch.setattr(pdf_extractor, "RAW", tmp_path)
+        (tmp_path / "edital.pdf").write_bytes(b"fake pdf")
         with patch("src.extractors.pdf_extractor.pdfplumber.open") as m:
             page = MagicMock()
             page.extract_text.return_value = "Texto do edital"
             m.return_value.__enter__.return_value.pages = [page]
             with patch("src.extractors.pdf_extractor.httpx.get") as http:
-                http.side_effect = Exception("ja existe")
-                result = pdf_extractor.texto_do_pdf(str(pdf_path))
+                result = pdf_extractor.texto_do_pdf("https://exemplo.com/edital.pdf")
                 assert "Texto do edital" in result
+                http.assert_not_called()  # o cache tem que evitar o download
 
     def test_texto_do_pdf_falha_retorna_vazio(self):
         with patch("src.extractors.pdf_extractor.pdfplumber.open") as m:

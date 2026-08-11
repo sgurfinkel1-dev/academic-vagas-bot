@@ -1,0 +1,4 @@
+# Dependências só de teste. O app em produção instala requirements.txt;
+# o CI instala os dois.
+-r requirements.txt
+pytest
