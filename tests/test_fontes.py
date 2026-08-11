@@ -183,6 +183,60 @@ class TestDou:
 
 
 # ===========================================================================
+# DOU: parsing do jsonArray (contrato com o site real)
+# ===========================================================================
+
+class TestDouParse:
+    """Testa o parser do jsonArray embutido no <script> da página do DOU.
+
+    Usa fixture real (tests/fixtures/dou_busca.html) — HTML sintético não testa
+    o contrato. Se a fixture não existir, o teste pula (não falha), porque o
+    objetivo é falhar alto quando o formato do site mudar.
+
+    Para gerar a fixture: salve a página de busca do DOU no navegador como
+    HTML completo e coloque em tests/fixtures/dou_busca.html.
+    """
+
+    FIXTURE = Path(__file__).parent / "fixtures" / "dou_busca.html"
+
+    def test_parse_extraia_itens_do_jsonarray(self):
+        if not self.FIXTURE.exists():
+            pytest.skip("Fixture tests/fixtures/dou_busca.html ausente — "
+                        "salve HTML real do DOU para ativar este teste")
+
+        html = self.FIXTURE.read_text(encoding="utf-8")
+        itens = dou._parse_html_dou(html)
+
+        # O DOU sempre devolve resultados para "professor" — lista vazia = quebra
+        assert isinstance(itens, list), "Parser devolveu tipo errado"
+        assert len(itens) > 0, (
+            "Parser encontrou 0 itens no HTML da fixture — o formato do jsonArray "
+            "mudou e buscar() está devolvendo lista vazia em silêncio."
+        )
+
+    def test_itens_têm_campos_esperados(self):
+        if not self.FIXTURE.exists():
+            pytest.skip("Fixture tests/fixtures/dou_busca.html ausente")
+
+        html = self.FIXTURE.read_text(encoding="utf-8")
+        itens = dou._parse_html_dou(html)
+        assert len(itens) > 0
+
+        item = itens[0]
+        # Campos que buscar() lê para construir Vaga — se faltar, a vaga fica incompleta
+        for campo in ("title", "content", "pubDate", "urlTitle", "hierarchyStr"):
+            assert campo in item, f"Campo '{campo}' ausente no jsonArray — " \
+                                   f"o formato mudou e buscar() vai gerar vaga incompleta"
+
+    def test_html_sem_jsonarray_devolve_lista_vazia(self):
+        """HTML sem jsonArray deve devolver lista vazia, não levantar exceção."""
+        assert dou._parse_html_dou("<html><body>sem resultados</body></html>") == []
+
+    def test_html_vazio_nao_quebra(self):
+        assert dou._parse_html_dou("") == []
+
+
+# ===========================================================================
 # ANPOF
 # ===========================================================================
 
