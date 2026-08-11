@@ -48,4 +48,8 @@ def buscar(paginas: list[dict], max_por_fonte: int = 100) -> list[Vaga]:
             achados += 1
             if achados >= max_por_fonte:
                 break
+        # Página que rende zero é indistinguível de página que sumiu: as duas
+        # falham em silêncio. Com a lista crescendo, o log por página é o que
+        # permite descobrir qual instituição parou de ser lida.
+        log.info("  %s: %d", pag["nome"], achados)
     return vagas

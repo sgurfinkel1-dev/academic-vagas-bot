@@ -104,7 +104,81 @@ paginas_concursos:
 # revisitar se alguém sentir falta — os editais delas ainda chegam pelo DOU.
 
 # páginas de vagas/editais de instituições privadas (varridas por universidades_privadas)
+  # --- estaduais: a camada que faltava. Fatec/Etec (Centro Paula Souza), UNESP,
+  # UERJ e as demais estaduais publicam concurso docente em pagina propria, no
+  # mesmo formato de lista de links que o parser generico ja le.
+  - nome: Centro Paula Souza (Fatec/Etec)
+    url: https://www.cps.sp.gov.br/concursos-e-processos-seletivos/
+  - nome: UNESP
+    url: https://www2.unesp.br/portal#!/concursos
+  - nome: UERJ
+    url: https://www.uerj.br/concursos/
+  - nome: UEMG
+    url: https://www.uemg.br/concursos
+  - nome: UEL
+    url: https://www.uel.br/portal/frm/frmOpcao.php?opcao=concursos
+  - nome: UEM
+    url: https://www.uem.br/concursos
+  - nome: UEPG
+    url: https://www.uepg.br/concursos/
+  - nome: UDESC
+    url: https://www.udesc.br/concursos
+  - nome: UEFS
+    url: https://www.uefs.br/concursos
+  - nome: UECE
+    url: https://www.uece.br/concursos/
+  - nome: UEPB
+    url: https://concursos.uepb.edu.br/
+  - nome: UERN
+    url: https://www.uern.br/concursos
+  - nome: UEA
+    url: https://www.uea.edu.br/concursos.php
+  - nome: UNEMAT
+    url: https://unemat.br/concursos
+  - nome: UEG
+    url: https://www.ueg.br/concursos
+  - nome: UESB
+    url: https://www.uesb.br/concursos/
 paginas_privadas:
+  # --- privadas e institutos de pesquisa. O parser e generico (recolhe links
+  # cujo texto casa professor|docente|pesquisador|processo seletivo|concurso),
+  # entao acrescentar instituicao aqui e configuracao, nao codigo: URL que nao
+  # resolve nao rende nada e aparece com 0 no log por pagina.
+  - nome: PUC-Rio
+    url: https://www.puc-rio.br/sobrepuc/depto/rh/vagas.html
+  - nome: PUC-RS
+    url: https://www.pucrs.br/trabalhe-conosco/
+  - nome: PUC-Campinas
+    url: https://www.puc-campinas.edu.br/trabalhe-conosco/
+  - nome: PUC-PR
+    url: https://www.pucpr.br/trabalhe-conosco/
+  - nome: PUC-Minas
+    url: https://www.pucminas.br/destaques/Paginas/trabalhe-conosco.aspx
+  - nome: PUC-Goias
+    url: https://www.pucgoias.edu.br/trabalhe-conosco/
+  - nome: Insper
+    url: https://www.insper.edu.br/pt/trabalhe-conosco
+  - nome: FGV
+    url: https://portal.fgv.br/trabalhe-conosco
+  - nome: Unisinos
+    url: https://www.unisinos.br/institucional/trabalhe-conosco
+  - nome: Universidade Positivo
+    url: https://www.up.edu.br/trabalhe-conosco
+  # institutos de pesquisa
+  - nome: Fiocruz
+    url: https://portal.fiocruz.br/concursos-e-selecoes
+  - nome: Instituto Butantan
+    url: https://butantan.gov.br/processos-seletivos
+  - nome: IMPA
+    url: https://impa.br/oportunidades/
+  - nome: CNPEM
+    url: https://carreiras.cnpem.br/
+  - nome: INPE
+    url: https://www.gov.br/inpe/pt-br/acesso-a-informacao/servidores/concursos
+  - nome: Embrapa
+    url: https://www.embrapa.br/selecao-publica
+  - nome: IPT
+    url: https://www.ipt.br/trabalhe_conosco
   - nome: PUC-SP
     url: https://pucsp.gupy.io/
   - nome: Mackenzie
