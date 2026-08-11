@@ -181,6 +181,80 @@ class TestDou:
         v = Vaga(titulo="EDITAL Nº 1", trecho_comprovacao="continuidade lógica previdencia")
         assert dou._e_da_area(v, "lógica") is False
 
+    def test_itens_pagina_unica(self):
+        """Valida que _itens retorna resultados quando há resposta com menos de 75 itens."""
+        # Simula resposta do DOU com 3 itens (uma página)
+        html_mock = """
+        <html>
+        <script>
+        var jsonArray = {"jsonArray": [
+            {"title": "EDITAL professor filosofia", "content": "USP", "hierarchyStr": "USP/DCC", "pubDate": "10/08/2026", "urlTitle": "edital-1"},
+            {"title": "EDITAL professor lógica", "content": "UFMG", "hierarchyStr": "UFMG/DCC", "pubDate": "10/08/2026", "urlTitle": "edital-2"},
+            {"title": "EDITAL professor", "content": "UNICAMP", "hierarchyStr": "UNICAMP/IC", "pubDate": "09/08/2026", "urlTitle": "edital-3"}
+        ]};
+        </script>
+        </html>
+        """
+        with patch("scrapling.fetchers.DynamicFetcher.fetch") as mock_fetch:
+            mock_page = MagicMock()
+            mock_page.html_content = html_mock
+            mock_fetch.return_value = mock_page
+
+            result = dou._itens("professor", "04-08-2026", "11-08-2026", 75)
+            assert len(result) == 3
+            assert result[0]["title"] == "EDITAL professor filosofia"
+
+    def test_itens_paginacao_multiplas_paginas(self):
+        """Valida que _itens pagina por várias páginas até esgotar resultados."""
+        # Primeira página com 75 itens
+        html_page_1 = """
+        <script>
+        var jsonArray = {"jsonArray": [
+        """ + ",".join([
+            f'{{"title": "EDITAL-{i}", "content": "conteúdo", "hierarchyStr": "UNIV/DEPTO", "pubDate": "10/08/2026", "urlTitle": "edital-{i}"}}'
+            for i in range(75)
+        ]) + """
+        ]};
+        </script>
+        """
+        # Segunda página com 50 itens (sinal de fim)
+        html_page_2 = """
+        <script>
+        var jsonArray = {"jsonArray": [
+        """ + ",".join([
+            f'{{"title": "EDITAL-{i}", "content": "conteúdo", "hierarchyStr": "UNIV/DEPTO", "pubDate": "09/08/2026", "urlTitle": "edital-{i}"}}'
+            for i in range(75, 125)
+        ]) + """
+        ]};
+        </script>
+        """
+        # Terceira página vazia (fim)
+        html_page_empty = """
+        <script>
+        var jsonArray = {"jsonArray": []};
+        </script>
+        """
+
+        with patch("scrapling.fetchers.DynamicFetcher.fetch") as mock_fetch:
+            def fetch_side_effect(url, **kwargs):
+                mock_page = MagicMock()
+                if "&p=0" in url or "p=" not in url:  # Página 0 ou padrão
+                    mock_page.html_content = html_page_1
+                elif "&p=1" in url:
+                    mock_page.html_content = html_page_2
+                else:  # p=2 ou além
+                    mock_page.html_content = html_page_empty
+                return mock_page
+
+            mock_fetch.side_effect = fetch_side_effect
+            result = dou._itens("professor", "04-08-2026", "11-08-2026", 200)
+
+            # Deve ter 75 + 50 = 125 itens (segunda página é < 75, então para)
+            assert len(result) == 125
+            assert result[0]["title"] == "EDITAL-0"
+            assert result[74]["title"] == "EDITAL-74"
+            assert result[124]["title"] == "EDITAL-124"
+
 
 # ===========================================================================
 # ANPOF
