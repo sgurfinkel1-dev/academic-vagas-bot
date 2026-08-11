@@ -342,6 +342,23 @@ class TestRegressaoStatus:
         # prazo futuro, status gravado errado
         assert _status_atual("30/12/2099", "vencida") == "aberta"
 
+    def test_prazo_que_vence_hoje_ainda_esta_aberto(self):
+        """A fronteira: inscrição encerra hoje, então hoje ainda dá para se inscrever.
+
+        Os outros testes usam datas distantes (2099 e 2020) e por isso não veem
+        a diferença entre `>=` e `>` na comparação com date.today(). Trocar um
+        pelo outro afeta exatamente um dia — o último — e faria o painel marcar
+        como "vencida" a vaga de quem ainda tem o dia inteiro para se inscrever.
+        """
+        from datetime import date, timedelta
+
+        from dashboard import _status_atual
+
+        hoje = date.today().strftime("%d/%m/%Y")
+        ontem = (date.today() - timedelta(days=1)).strftime("%d/%m/%Y")
+        assert _status_atual(hoje, "vencida") == "aberta"
+        assert _status_atual(ontem, "aberta") == "vencida"
+
     def test_status_recalculado_com_prazo_passado(self):
         """Vaga com prazo passado deve ser 'vencida', mesmo que gravada como 'aberta'."""
         from dashboard import _status_atual
