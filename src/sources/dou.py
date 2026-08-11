@@ -21,7 +21,18 @@ BUSCA = (URL_BASE + "?q=%22{termo}%22&s={secao}&sortType=1"
          "&delta={delta}&start={inicio}&exactDate=personalizado&publishFrom={desde}&publishTo={ate}")
 
 REAL_CHROME = os.getenv("AVB_REAL_CHROME", "1") != "0"
-MAX_PAGINAS = 10  # teto para evitar execução infinita/muito lenta
+# Esta página do DOU não pagina por URL. Testado no navegador em 11/08/2026:
+# `p=0` e `p=1` devolvem a mesma lista, e `start=0` e `start=20` também — o
+# site ignora os dois parâmetros. Com teto 10, cada termo baixaria a MESMA
+# página dez vezes por seção: 19 termos x 3 seções x 10 = 570 carregamentos de
+# navegador, 8s de espera cada, horas de execução diária, e o dedup jogando
+# tudo fora no fim. Zero cobertura a mais.
+#
+# Fica 1 até existir paginação verificada. Para ampliar o DOU de verdade o
+# caminho é o INLABS (src/sources/inlabs.py, escrito e nunca ligado): dados
+# oficiais em XML, sem raspagem e sem parâmetro a adivinhar. O laço pelas três
+# seções, esse sim, foi verificado e continua valendo.
+MAX_PAGINAS = 1
 
 
 def _itens_pagina(termo: str, secao: str, desde: str, ate: str, delta: int, inicio: int):
