@@ -53,7 +53,12 @@ def filtrar(vagas: list[Vaga], user: dict) -> list[Vaga]:
     classes_ok = {CLASSE_FILTRO[i] for i in user.get("instituicoes", []) if i in CLASSE_FILTRO}
     # institutos, agências e "verificar manualmente" sempre passam — melhor sobrar que faltar
     classes_ok |= {"instituto público", "instituto privado", "agência/fundação", "verificar manualmente"}
-    estados = set(user.get("estados", []))
+    # O estado NÃO filtra aqui, de propósito. Filtrar na coleta é irreversível:
+    # a vaga descartada não entra no banco e nenhum filtro do painel a traz de
+    # volta. Com `estados: [SP, RJ, MG]` no config, o robô vinha jogando fora
+    # todo concurso do resto do país cujo estado ele conseguia identificar — daí
+    # o painel não achar vaga que aparece numa busca no Google. Quem quiser
+    # recortar por UF faz isso no filtro do painel, que é reversível.
     saida = []
     for v in vagas:
         # a natureza fica de fora do teste: ela é derivada do mesmo texto, então usá-la
@@ -62,8 +67,6 @@ def filtrar(vagas: list[Vaga], user: dict) -> list[Vaga]:
                                      v.classificacao_instituicao, v.fonte):
             continue
         if v.classificacao_instituicao not in classes_ok:
-            continue
-        if estados and v.estado and v.estado not in estados:
             continue
         if not user.get("incluir_vencidas", False) and v.status == "vencida":
             continue
@@ -113,11 +116,14 @@ def _buscar_palavra(palavra: str, cfg: dict, modo: str = "geral") -> int:
     modo 'diarios': DOU (navegador, lento) + diários municipais."""
     dias = max(cfg["busca"].get("dias_retroativos", 30), 90)  # janela ampla p/ área específica
     vagas = []
-    if modo == "diarios":
-        vagas += dou.buscar_palavra(palavra, dias)
-    else:
+    # O DOU entra nos dois modos. Antes só o modo 'diarios' o consultava, e como
+    # "Busca geral" é o botão principal do painel, quem procurava uma área
+    # específica não chegava à fonte onde sai a maior parte dos concursos
+    # públicos — buscava só nas privadas e voltava achando que não havia vaga.
+    vagas += dou.buscar_palavra(palavra, dias)
+    if modo != "diarios":
         vagas += gupy.buscar([palavra])
-    qd = querido_diario.buscar([palavra], dias, 100, estados=cfg["usuario"].get("estados") or None)
+    qd = querido_diario.buscar([palavra], dias, 100)
     for v in qd:
         v.area = palavra
     vagas += qd
@@ -164,15 +170,19 @@ def main():
         return _buscar_palavra(args.palavra, cfg, args.modo)
 
     user, busca, fontes = cfg["usuario"], cfg["busca"], cfg["fontes"]
+    # base (professor, docente, concurso...) + as áreas escolhidas pelo usuário.
+    # Os termos base sozinhos só acham o que usa essas palavras genéricas; é a
+    # área que faz o robô procurar "epidemiologia" ou "economia" no DOU.
     termos = cfg.get("termos_base", []) + [a for a in user.get("areas", [])]
     dias = busca.get("dias_retroativos", 30)
     max_f = busca.get("max_resultados_por_fonte", 100)
 
     todas_vagas, falhas = [], []
     execucoes = [
-        ("dou", lambda: dou.buscar(cfg.get("termos_base", []), dias, max_f)),
-        ("querido_diario", lambda: querido_diario.buscar(cfg.get("termos_base", []), dias, max_f,
-                                                         estados=user.get("estados") or None)),
+        ("dou", lambda: dou.buscar(termos, dias, max_f)),
+        # sem recorte de UF: diário municipal de qualquer estado interessa, e o
+        # painel filtra depois quem quiser só um estado
+        ("querido_diario", lambda: querido_diario.buscar(termos, dias, max_f)),
         ("fapesp", lambda: fapesp.buscar(user.get("areas", []), max_f)),
         ("universidades_publicas", lambda: universidades_publicas.buscar(cfg.get("paginas_concursos", []), max_f)),
         ("universidades_privadas", lambda: universidades_privadas.buscar(cfg.get("paginas_privadas", []), max_f)),

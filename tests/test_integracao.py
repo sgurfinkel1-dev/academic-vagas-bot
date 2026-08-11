@@ -484,3 +484,48 @@ class TestMonitorAlerta:
 
 if __name__ == "__main__":
     pytest.main([__file__, "-v"])
+
+
+class TestRegressaoCobertura:
+    """A função primordial do app é achar vaga. Estes travam as perdas silenciosas."""
+
+    def test_coleta_nao_descarta_vaga_de_estado_fora_do_config(self):
+        """UF não pode filtrar na coleta — o descarte ali é irreversível.
+
+        Com `estados: [SP, RJ, MG]` no config, filtrar(...) jogava fora todo
+        concurso do resto do país cujo estado fosse identificado na raspagem. A
+        vaga nunca entrava no banco, então nenhum filtro do painel a trazia de
+        volta: era isso que fazia o painel não ter vaga que aparece numa busca
+        no Google. Recorte por UF pertence ao painel, que é reversível.
+        """
+        from src.database.models import Vaga
+        from src.main import filtrar
+
+        vaga = Vaga(
+            titulo="Concurso público de provas e títulos para professor efetivo de Economia",
+            instituicao="Universidade Federal da Bahia",
+            classificacao_instituicao="pública federal",
+            estado="BA", fonte="DOU (busca: docente)",
+            trecho_comprovacao="Edital de concurso público de provas e títulos para o magistério superior")
+        user = {"instituicoes": ["publica_federal"], "estados": ["SP", "RJ", "MG"]}
+        assert [v.estado for v in filtrar([vaga], user)] == ["BA"]
+
+    def test_areas_do_usuario_entram_nos_termos_de_busca(self):
+        """As áreas escolhidas têm que chegar às fontes, não só os termos genéricos.
+
+        `termos` era montado com base + áreas e depois ignorado: DOU e Querido
+        Diário recebiam só os termos base. Resultado: escolher "Epidemiologia"
+        na agenda não fazia o robô procurar epidemiologia em lugar nenhum.
+        """
+        import re
+        from pathlib import Path
+
+        import src.main as m
+
+        src = Path(m.__file__).read_text(encoding="utf-8")
+        chamadas = re.findall(r'\("(dou|querido_diario)", lambda: \w+\.buscar\((\w+)', src)
+        assert chamadas, "não achei as chamadas de busca do DOU/Querido Diário"
+        for fonte, primeiro_arg in chamadas:
+            assert primeiro_arg == "termos", (
+                f"{fonte} recebe {primeiro_arg!r} em vez de `termos`; as áreas do "
+                "usuário voltariam a ser ignoradas na busca")

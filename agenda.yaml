@@ -1,6 +1,15 @@
 # Configuração da busca automática — editável pelo dashboard.
 # O robô (src/main.py) lê este arquivo e sobrepõe o config.yaml.
+#
+# Cada área vira um termo de busca no DOU e nos diários municipais, além dos
+# termos genéricos ("professor", "docente", "concurso de provas e títulos").
+# Área de menos = vaga que o robô nunca procura. Área de mais só custa tempo
+# de execução do robô, que roda de madrugada.
 areas:
+  - Filosofia
+  - Lógica
+  - Epidemiologia
+  - Economia
   - Direito
   - Medicina
   - Inteligência Artificial
