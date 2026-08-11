@@ -370,8 +370,14 @@ if f_texto:
     completos = onde.all(axis=1)
     pontos = pontos + completos * peso.sum() * 4
 
-    # entra quem tem algum termo na subárea, no título ou na área; só no corpo não basta
-    relevantes = (n_sub | n_tema).any(axis=1)
+    # Entra quem tem o termo em qualquer campo, inclusive só no corpo. Antes o
+    # corpo não bastava, e isso escondia justamente o caso mais comum: edital do
+    # DOU tem título genérico ("Professor efetivo — Universidade Federal do
+    # Ceará") e a subárea aparece só no texto. Buscar "lógica" devolvia zero
+    # tendo dois editais federais que a citam. Quem casa só no corpo vale menos
+    # na pontuação (peso 1 contra 3 e 4) e por isso já aparece no fim da lista —
+    # não precisa ser excluído, precisa ser ordenado.
+    relevantes = (n_sub | n_tema | n_corpo).any(axis=1)
     df = df[relevantes].assign(_p=pontos[relevantes]) \
                        .sort_values("_p", ascending=False).drop(columns="_p")
     n_completos = int((completos & relevantes).sum())
