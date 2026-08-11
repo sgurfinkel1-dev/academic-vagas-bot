@@ -12,26 +12,70 @@ from ..extractors import llm_classifier as clf
 from ..database.models import Vaga
 
 log = logging.getLogger("bot")
-BUSCA = ("https://www.in.gov.br/consulta/-/buscar/dou?q=%22{termo}%22&s=do3&sortType=0"
-         "&delta={delta}&exactDate=personalizado&publishFrom={desde}&publishTo={ate}")
+# Busca SEM restrição de seção (cobre Seções 1, 2 e 3)
+# sortType=1 ordena por data (mais recente primeiro), não por relevância
+BUSCA = ("https://www.in.gov.br/consulta/-/buscar/dou?q=%22{termo}%22&sortType=1"
+         "&delta={delta}&exactDate=personalizado&publishFrom={desde}&publishTo={ate}&p={pagina}")
 # Windows local: Chromium empacotado não abre (side-by-side), usa Chrome instalado.
 # Linux/CI: sem Chrome instalado, usa o Chromium empacotado (AVB_REAL_CHROME=0).
 REAL_CHROME = os.getenv("AVB_REAL_CHROME", "1") != "0"
+# Limite máximo de páginas a paginar (proteção contra loops infinitos)
+MAX_PAGINAS = 10
 
 
 def _itens(termo: str, desde: str, ate: str, delta: int):
+    """Busca no DOU paginando até esgotar resultados ou bater limite de páginas."""
     from scrapling.fetchers import DynamicFetcher
-    url = BUSCA.format(termo=quote(termo), delta=min(delta, 75), desde=desde, ate=ate)
-    p = DynamicFetcher.fetch(url, real_chrome=REAL_CHROME, headless=True, timeout=120000, wait=8000)
-    html = p.html_content
-    i = html.find("jsonArray")
-    if i < 0:
-        return []
-    ini = html.find("{", html.rfind("<script", 0, i))
-    fim = html.find("</script>", i)
-    corpo = html[ini:fim]
-    dados = json.loads(corpo[:corpo.rfind("}") + 1])
-    return dados.get("jsonArray", [])
+
+    todos_itens = []
+    pagina = 0
+    delta_por_page = min(delta, 75)  # DOU limita a 75 itens por página
+
+    while True:
+        url = BUSCA.format(
+            termo=quote(termo),
+            delta=delta_por_page,
+            desde=desde,
+            ate=ate,
+            pagina=pagina
+        )
+
+        try:
+            p = DynamicFetcher.fetch(url, real_chrome=REAL_CHROME, headless=True, timeout=120000, wait=8000)
+            html = p.html_content
+            i = html.find("jsonArray")
+            if i < 0:
+                break
+
+            ini = html.find("{", html.rfind("<script", 0, i))
+            fim = html.find("</script>", i)
+            corpo = html[ini:fim]
+            dados = json.loads(corpo[:corpo.rfind("}") + 1])
+            itens_desta_pagina = dados.get("jsonArray", [])
+
+            if not itens_desta_pagina:
+                # Nenhum resultado nesta página = fim da paginação
+                break
+
+            todos_itens.extend(itens_desta_pagina)
+            pagina += 1
+
+            # Proteção: limitar paginação
+            if pagina >= MAX_PAGINAS:
+                log.warning("DOU %r: atingiu limite de %d páginas", termo, MAX_PAGINAS)
+                break
+
+            # Se conseguimos menos itens que o esperado, é sinal de fim
+            if len(itens_desta_pagina) < delta_por_page:
+                break
+
+        except Exception as e:
+            log.warning("DOU %r (página %d): erro na paginação: %s", termo, pagina, str(e)[:150])
+            # Continua com o que conseguiu até agora
+            break
+
+    log.info("DOU %r: %d páginas, %d itens total", termo, pagina, len(todos_itens))
+    return todos_itens
 
 
 # o DOU devolve o trecho com a busca destacada: <span class='highlight' ...>termo</span>
