@@ -407,8 +407,79 @@ class TestBuscaAberta:
 # ===========================================================================
 
 class TestInlabs:
-    def test_buscar_retorna_vazio(self):
+    """Parser do XML oficial do DOU, contra artigo real (tests/fixtures/inlabs_artigo.xml).
+
+    Para regerar a fixture: baixe um ZIP diário do inlabs.in.gov.br e extraia
+    qualquer .xml que traga edital de professor.
+    """
+
+    FIXTURE = Path(__file__).parent / "fixtures" / "inlabs_artigo.xml"
+
+    def _zip_da_fixture(self) -> bytes:
+        import io
+        import zipfile
+        buf = io.BytesIO()
+        with zipfile.ZipFile(buf, "w") as z:
+            z.writestr("530_20260811_1.xml", self.FIXTURE.read_bytes())
+        return buf.getvalue()
+
+    def test_sem_credenciais_devolve_vazio(self, monkeypatch):
+        for var in ("INLABS_EMAIL", "INLABS_SENHA", "INLABS_USER", "INLABS_PASS"):
+            monkeypatch.delenv(var, raising=False)
         assert inlabs.buscar() == []
+
+    def test_artigo_real_vira_vaga(self):
+        if not self.FIXTURE.exists():
+            pytest.skip("Fixture tests/fixtures/inlabs_artigo.xml ausente")
+
+        arts = list(inlabs._artigos(self._zip_da_fixture()))
+        assert len(arts) == 1, "ZIP com um XML deveria render um <article>"
+
+        v = inlabs._vaga(arts[0], "DO3")
+        assert v is not None, (
+            "Edital de professor no XML oficial não virou Vaga — o formato do "
+            "INLABS mudou e buscar() está devolvendo lista vazia em silêncio.")
+        assert v.titulo and v.data_publicacao and v.link_oficial
+        assert v.trecho_comprovacao, "Texto do edital não foi extraído do CDATA"
+
+    def test_artigo_sem_cargo_docente_e_descartado(self):
+        xml = ('<xml><article pubDate="11/08/2026" artCategory="X">'
+               '<body><Identifica>EDITAL 1</Identifica>'
+               '<Texto>Concurso público para o cargo de motorista.</Texto>'
+               '</body></article></xml>')
+        import io
+        import zipfile
+        buf = io.BytesIO()
+        with zipfile.ZipFile(buf, "w") as z:
+            z.writestr("a.xml", xml)
+        art = next(inlabs._artigos(buf.getvalue()))
+        assert inlabs._vaga(art, "DO3") is None
+
+    def test_zip_invalido_nao_quebra(self):
+        assert list(inlabs._artigos(b"nao sou um zip")) == []
+
+    def test_tentar_repete_ate_a_rede_responder(self):
+        """O DNS do INLABS sorteia IP morto: a 1ª tentativa cai, a seguinte pega."""
+        import httpx
+        chamadas = []
+
+        def instavel():
+            chamadas.append(1)
+            if len(chamadas) < 3:
+                raise httpx.ConnectTimeout("timed out")
+            return "ok"
+
+        assert inlabs._tentar(instavel) == "ok"
+        assert len(chamadas) == 3
+
+    def test_tentar_desiste_e_propaga(self):
+        import httpx
+
+        def sempre_falha():
+            raise httpx.ConnectTimeout("timed out")
+
+        with pytest.raises(httpx.TransportError):
+            inlabs._tentar(sempre_falha, tentativas=2)
 
 
 # ===========================================================================

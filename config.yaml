@@ -24,12 +24,13 @@ usuario:
 
 busca:
   dias_retroativos: 30
-  max_resultados_por_fonte: 100
+  max_resultados_por_fonte: 500
   confirmar_em_fonte_oficial: true
   baixar_pdfs: false
 
 fontes:
   dou: true
+  inlabs: true         # DOU oficial em XML; exige INLABS_EMAIL/INLABS_SENHA no ambiente
   querido_diario: true
   fapesp: true
   universidades_publicas: true
@@ -73,21 +74,19 @@ paginas_concursos:
   - nome: UFMG
     url: https://www.ufmg.br/concursos/
   - nome: USP
-    url: https://uspdigital.usp.br/gr/admissao
+    url: https://drh.usp.br/trabalhe-na-usp/   # uspdigital.usp.br/gr/admissao é SPA: 0 links
   - nome: UNICAMP
     url: https://www.dgrh.unicamp.br/concursos
-  - nome: UNESP
-    url: https://unesp.br/portal#!/apps/concursos-publicos/
   - nome: UERJ
     url: https://www.uerj.br/institucional/concursos/
   - nome: UFRGS
-    url: https://progesp.ufrgs.br/concursos
+    url: https://www.ufrgs.br/progesp/pagina-inicial/concursos-e-processos-seletivos/
   - nome: UEMG
     url: https://www.uemg.br/concursos
   - nome: UFOP
     url: https://www.ufop.br/concursos-publicos
   - nome: UFV
-    url: https://www.ufv.br/concursos/
+    url: https://soc.ufv.br/concursos-para-docentes/   # ufv.br/concursos só tem links curtos de menu
   - nome: IFSP
     url: https://www.ifsp.edu.br/component/content/article?id=13-concursos
   - nome: UFSC
@@ -103,38 +102,22 @@ paginas_concursos:
 # ponytail: UnB/UFPR/UFBA/UFC/UFABC/UFRN/UFES/UFG/UFU testadas e fora (DNS, SSL ou 404);
 # revisitar se alguém sentir falta — os editais delas ainda chegam pelo DOU.
 
-# páginas de vagas/editais de instituições privadas (varridas por universidades_privadas)
-  # --- estaduais: a camada que faltava. Fatec/Etec (Centro Paula Souza), UNESP,
-  # UERJ e as demais estaduais publicam concurso docente em pagina propria, no
-  # mesmo formato de lista de links que o parser generico ja le.
+  # --- estaduais. URLs conferidas contra os sites reais em 12/08/2026.
+  # Fora da lista, testadas e sem substituto: UNESP (portal SPA, 0 links no HTML),
+  # UEFS (csa.uefs.br não serve links), UECE (só link de menu), UEPB (site em
+  # manutenção), UERN (certificado expirado), UEA (certificado com hostname errado).
   - nome: Centro Paula Souza (Fatec/Etec)
-    url: https://www.cps.sp.gov.br/concursos-e-processos-seletivos/
-  - nome: UNESP
-    url: https://www2.unesp.br/portal#!/concursos
-  - nome: UERJ
-    url: https://www.uerj.br/concursos/
-  - nome: UEMG
-    url: https://www.uemg.br/concursos
+    url: https://urhsistemas.cps.sp.gov.br/dgsdad/selecaopublica/
   - nome: UEL
-    url: https://www.uel.br/portal/frm/frmOpcao.php?opcao=concursos
+    url: https://sites.uel.br/prorh/
   - nome: UEM
     url: https://www.uem.br/concursos
   - nome: UEPG
-    url: https://www.uepg.br/concursos/
+    url: https://sistemas.uepg.br/producao/pro-reitorias/prorh/divisaoprovimento/Concurso/Publico/
   - nome: UDESC
     url: https://www.udesc.br/concursos
-  - nome: UEFS
-    url: https://www.uefs.br/concursos
-  - nome: UECE
-    url: https://www.uece.br/concursos/
-  - nome: UEPB
-    url: https://concursos.uepb.edu.br/
-  - nome: UERN
-    url: https://www.uern.br/concursos
-  - nome: UEA
-    url: https://www.uea.edu.br/concursos.php
   - nome: UNEMAT
-    url: https://unemat.br/concursos
+    url: https://unemat.br/editais
   - nome: UEG
     url: https://www.ueg.br/concursos
   - nome: UESB
@@ -144,63 +127,32 @@ paginas_privadas:
   # cujo texto casa professor|docente|pesquisador|processo seletivo|concurso),
   # entao acrescentar instituicao aqui e configuracao, nao codigo: URL que nao
   # resolve nao rende nada e aparece com 0 no log por pagina.
-  - nome: PUC-Rio
-    url: https://www.puc-rio.br/sobrepuc/depto/rh/vagas.html
-  - nome: PUC-RS
-    url: https://www.pucrs.br/trabalhe-conosco/
+  # URLs conferidas contra os sites reais em 12/08/2026. Fora da lista, testadas
+  # e sem substituto: PUC-Rio (404), PUC-RS e PUC-PR (vaga só no Gupy), Insper
+  # (página JS sem links), FGV central e FGV Direito SP (TLS incompatível com
+  # httpx), Unisinos e Universidade Positivo (404), IPT (404), CNPEM (403 + DNS),
+  # Butantan (a página é feed de notícia: 125 links, nenhuma vaga).
+  # Os murais *.gupy.io saíram: são SPA (0 links no HTML) e a fonte `gupy` já lê
+  # os mesmos anúncios pela API pública — Estácio, FMU, Ibmec, Ânima, Cogna etc.
   - nome: PUC-Campinas
     url: https://www.puc-campinas.edu.br/trabalhe-conosco/
-  - nome: PUC-PR
-    url: https://www.pucpr.br/trabalhe-conosco/
   - nome: PUC-Minas
-    url: https://www.pucminas.br/destaques/Paginas/trabalhe-conosco.aspx
+    url: https://www.pucminas.br/selecaodocentes
   - nome: PUC-Goias
-    url: https://www.pucgoias.edu.br/trabalhe-conosco/
-  - nome: Insper
-    url: https://www.insper.edu.br/pt/trabalhe-conosco
-  - nome: FGV
-    url: https://portal.fgv.br/trabalhe-conosco
-  - nome: Unisinos
-    url: https://www.unisinos.br/institucional/trabalhe-conosco
-  - nome: Universidade Positivo
-    url: https://www.up.edu.br/trabalhe-conosco
-  # institutos de pesquisa
-  - nome: Fiocruz
-    url: https://portal.fiocruz.br/concursos-e-selecoes
-  - nome: Instituto Butantan
-    url: https://butantan.gov.br/processos-seletivos
-  - nome: IMPA
-    url: https://impa.br/oportunidades/
-  - nome: CNPEM
-    url: https://carreiras.cnpem.br/
-  - nome: INPE
-    url: https://www.gov.br/inpe/pt-br/acesso-a-informacao/servidores/concursos
-  - nome: Embrapa
-    url: https://www.embrapa.br/selecao-publica
-  - nome: IPT
-    url: https://www.ipt.br/trabalhe_conosco
-  - nome: PUC-SP
-    url: https://pucsp.gupy.io/
+    url: https://sistemas.pucgoias.edu.br/concursos/
   - nome: Mackenzie
     url: https://www.mackenzie.br/trabalhe-conosco
   - nome: FGV EAESP
     url: https://eaesp.fgv.br/
-  # FGV Direito SP: TLS incompatível com httpx; FGV central publica via LinkedIn
-  # grupos privados com mural público no Gupy (cobrem a maior parte das particulares de SP)
-  - nome: Ânima (São Judas, Anhembi Morumbi...)
-    url: https://anima.gupy.io/
-  - nome: Cogna (Anhanguera...)
-    url: https://cogna.gupy.io/
-  - nome: Yduqs (Estácio...)
-    url: https://yduqs.gupy.io/
-  - nome: Cruzeiro do Sul
-    url: https://cruzeirodosul.gupy.io/
-  - nome: FMU
-    url: https://fmu.gupy.io/
-  - nome: UniCid
-    url: https://unicid.gupy.io/
-  - nome: Ibmec
-    url: https://ibmec.gupy.io/
+  # institutos de pesquisa
+  - nome: Fiocruz
+    url: https://fiocruz.br/concurso-fiocruz-editais
+  - nome: IMPA
+    url: https://impa.br/vaga/
+  - nome: INPE
+    url: https://www.gov.br/inpe/pt-br/acesso-a-informacao/servidores/concursos
+  - nome: Embrapa
+    url: https://www.embrapa.br/estagios-e-concursos
 
 alertas:
   telegram:

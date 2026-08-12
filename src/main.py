@@ -16,7 +16,7 @@ from .database import storage
 from .database.models import Vaga
 from .extractors import llm_classifier as clf
 from .sources import (dou, querido_diario, fapesp, universidades_publicas, universidades_privadas,
-                      busca_aberta, gupy, vagas_com, anpof)
+                      busca_aberta, gupy, vagas_com, anpof, inlabs)
 from .alerts import telegram_alert, discord_alert, email_alert
 from .output import export_csv, export_json, export_markdown
 
@@ -180,6 +180,10 @@ def main():
     todas_vagas, falhas = [], []
     execucoes = [
         ("dou", lambda: dou.buscar(termos, dias, max_f)),
+        # DOU oficial em XML: cobre as 3 seções e o dia inteiro, que é o que a
+        # busca raspada acima não alcança. Sem INLABS_EMAIL/INLABS_SENHA no
+        # ambiente, devolve vazio sem reclamar.
+        ("inlabs", lambda: inlabs.buscar(dias, max_f)),
         # sem recorte de UF: diário municipal de qualquer estado interessa, e o
         # painel filtra depois quem quiser só um estado
         ("querido_diario", lambda: querido_diario.buscar(termos, dias, max_f)),
