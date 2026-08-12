@@ -1,10 +1,14 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (622)
+## Públicas federais (626)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| PORTARIAS DE 10 DE AGOSTO DE 2026 | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-10-de-agosto-de-2026-724768713) |
+| Despacho GABIR/UFU S/N de 11 de Agosto de 2026 | Universidade Federal de Uberlândia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-gabir/ufu-s/n-de-11-de-agosto-de-2026-724775165) |
+| Professor efetivo (concurso público) — Fundação Universidade Federal de Pelotas  | Fundação Universidade Federal de Pelotas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-n-3.171/ufpel-de-6-de-agosto-de-2026-724800839) |
+| Docente (outros) em filosofia — Pró-Reitoria de Gestão de Pessoas (Edital nº 4) | Pró-Reitoria de Gestão de Pessoas | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-4-de-11-de-agosto-de-2026-724927473) |
 | Professor substituto em direito — Pró-Reitoria de Gestão de Pessoas (PORTARIA Nº | Pró-Reitoria de Gestão de Pessoas | direito |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-731-de-17-de-julho-de-2026-720008323) |
 | Professor substituto — Pró-Reitoria de Gestão de Pessoas (PORTARIA PROGEPE/UFJF  | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-progepe/ufjf-n-389-de-10-de-julho-de-2026-718422006) |
 | PORTARIAS NORMATIVAS DE 5 DE AGOSTO DE 2026 | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-normativas-de-5-de-agosto-de-2026-723804157) |
@@ -888,10 +892,11 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (235)
+## Privadas (236)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| PROFESSOR DOUTOR - PÓS-GRADUAÇÃO STRICTO SENSU - LONDRINA/PR | Cogna Educação |  | 06/10/2026 | aberta | [link](https://cogna.gupy.io/job/eyJqb2JJZCI6MTE5ODYxOTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Escritório de Apoio Institucional ao Pesquisador – EAIP | PUC-Campinas |  |  | sem prazo identificado | [link](https://www.puc-campinas.edu.br/escritorio-de-apoio-institucional-ao-pesquisador/) |
 | Processo Seletivo Externo de Docentes | PUC-Campinas |  |  | sem prazo identificado | [link](https://www.puc-campinas.edu.br/institucional/nucleo-de-carreira-docente-editais-de-processos-seletivos-externo-de-docentes/) |
 | 134800 / PROFESSOR ENFERMAGEM – CAMPINAS/SP Campinas - SP Efetivo | Cogna (Anhanguera...) | enfermagem |  | sem prazo identificado | [link](https://cogna.gupy.io/jobs/11985558?jobBoardSource=gupy_public_page) |
