@@ -38,6 +38,20 @@ fontes:
   doe_pr: true         # UEL, UEM, UEPG, UNIOESTE, UNICENTRO, UENP, UNESPAR
   doe_rs: true         # UERGS (baixa frequência: abre em lote, a cada ~2 anos)
   doe_sc: true         # UDESC
+  # Faltam RJ, ES e GO. Situação apurada em 13/08/2026, para quem retomar:
+  #  RJ  ioerj.com.br responde 200; módulo nunca foi escrito. É o que falta de
+  #      mais valioso — UERJ e UENF são estaduais.
+  #  ES  ioes.dio.es.gov.br usa a MESMA plataforma do PR/GO. Contrato verificado:
+  #      /busca/busca/buscar/query/{pág0}/di:AAAA-MM-DD/df:AAAA-MM-DD/?1=1&q=termo
+  #      devolve Elasticsearch cru (hits.total 1.544 em 60 dias) e o _source tem
+  #      exatamente os campos do DOE-PR. Não entrou por dois motivos: a busca é
+  #      OR (termo tem de ir entre aspas, senão "universidade estadual" dá 23 mil
+  #      acertos), o índice mistura o diário MUNICIPAL (já coberto pelo Querido
+  #      Diário) e, sobretudo, o ES não tem universidade estadual relevante — a
+  #      UFES é federal e já entra pelo DOU/INLABS. Prioridade baixa.
+  #  GO  diariooficial.abc.go.gov.br, mesma plataforma. Módulo foi escrito e
+  #      removido: devolvia zero em toda janela testada, inclusive 650 dias
+  #      cobrindo o concurso da UEG de 11/2024. Ver o commit que o removeu.
   fapesp: true
   universidades_publicas: true
   universidades_privadas: true
