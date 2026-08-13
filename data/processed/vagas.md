@@ -762,10 +762,11 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (242)
+## Públicas estaduais (243)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Pós-doutorado — Secretaria da Saúde — Centro de Recursos Humanos (EDITAL PROMOÇÃ | Secretaria da Saúde — Centro de Recursos Humanos |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-da-saude/edital-promocao-2015-2021-lc-1193-2013-2026073111372241992018991) |
 | pesquisador — DO de Inhambupe | Inhambupe |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/2913705/2026-08-12/74e8064a8e45a4fdc86a1ac96152d80d6259ae8c.pdf) |
 | COMUNICADO Nº 169-2026 - ref. CONCURSO Nº 213-2025 | Universidade de São Paulo — Escola Politécnica | computação |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/comunicado-n-169-2026-ref-concurso-n-213-2025-202607131342291661977724) |
 | COMUNICADO Nº 171-2026 - ref. CONCURSO Nº 215-2025 | Universidade de São Paulo — Escola Politécnica | computação |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/comunicado-n-171-2026-ref-concurso-n-215-2025-202607131342291661977760) |
@@ -1035,10 +1036,17 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (213)
+## Institutos públicos (220)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| CHAMADA PÚBLICA - EDITAL DE CONCESSÃO DE BOLSAS CBEAL Nº 001/2026, DE 22 DE JULH | Secretaria de Cultura, Economia e Indústria Criativas — Fundação Memorial da América Latina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-cultura-economia-e-industria-criativas/chamada-publica-edital-de-concessao-de-bolsas-cbeal-n-001-2026-de-22-de-julho-de-2026-202607221316142711996311) |
+| EDITAL CHAMADA PÚBLICA PARA CONCESSÃO DE BOLSAS DE PESQUISA E EXTENSÃO – Nº 002/ | Secretaria de Cultura, Economia e Indústria Criativas — Fundação Memorial da América Latina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-cultura-economia-e-industria-criativas/edital-chamada-publica-para-concessao-de-bolsas-de-pesquisa-e-extensao-n-002-2026edicao-2026-de-31-de-julho-de-2026-2026080313161462021364) |
+| EDITAL CHAMADA PÚBLICA PARA CONCESSÃO DE BOLSAS DE PESQUISA CÁTEDRA/REDE DE COOP | Secretaria de Cultura, Economia e Indústria Criativas — Fundação Memorial da América Latina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-cultura-economia-e-industria-criativas/edital-chamada-publica-para-concessao-de-bolsas-de-pesquisa-catedra-rede-de-cooperacao-unitwin-unesco-para-integracao-da-america-latina-n-003-2026edicao-2026-de-3-de-agosto-de-2026-2026080313161462021383) |
+| PROCESSO SELETIVO PÚBLICO PARA INGRESSO NO PROGRAMA DE BOMBEIROS MILITARES ESTAD | Corpo de Bombeiros Militar do RS — DEPARTAMENTO ADMINISTRATIVO |  |  | sem prazo identificado | [link](https://www.diariooficial.rs.gov.br/materia?id=1461863) |
+| CONCURSO PÚBLICO PARA O CARGO DE MILITAR ESTADUAL NA GRADUAÇÃO DE SOLDADO PRIMEI | Corpo de Bombeiros Militar do RS — DEPARTAMENTO ADMINISTRATIVO |  |  | sem prazo identificado | [link](https://www.diariooficial.rs.gov.br/materia?id=1461590) |
+| Docente (outros) em educação — Secretaria da Educação — Seção de Procedimentos E | Secretaria da Educação — Seção de Procedimentos Estatutários | educação |  | sem prazo identificado | [link](https://www.diariooficial.rs.gov.br/materia?id=1453247) |
+| Processo Seletivo Simplificado para Professor Substituto - Instituto de Filosofi | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo-simplificado-para-professor-substituto--instituto-de-filosofia-edital-progep-n-1342026) |
 | docente — DO de Maracaju | Maracaju |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/5005400/2026-08-11/8db983afe1937166eab11901fa75e4e98bf1844c.pdf) |
 | CONCURSO Nº 03.01, DE 13 DE JULHO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0301-de-13-de-julho-de-2026-202607131314142741979150) |
 | DESPACHO DE 11 DE AGOSTO DE 2026 | Gabinete da Ministra |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-11-de-agosto-de-2026-725056675) |
@@ -1630,10 +1638,11 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (189)
+## Bolsas / pós-doc / agências (190)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa de PD em Políticas Curriculares | Escola de Administração de Empresas de São Paulo, Fundação Getulio Vargas (FGV EAESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-estudos-em-implementacao-de-politicas-educacionais--atencao:-“analise-da-formulacao-e-implementacao-do-curriculo-paulista/9726/) |
 | Pesquisador — Conselho Nacional de Desenvolvimento Científico e Tecnológico (POR | Conselho Nacional de Desenvolvimento Científico e Tecnológico |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-cnpq-n-2.857-de-13-de-julho-de-2026-718720301) |
 | EXTRATO DE CONCESSÃO DE AUXÍLIO FINANCEIRO À PESQUISADORES | Diretoria de Programas e Bolsas no País |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-de-auxilio-financeiro-a-pesquisadores-718967053) |
 | EXTRATO DE CONCESSÃO DE AUXÍLIO FINANCEIRO À PESQUISADORES | Diretoria de Relações Internacionais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-de-auxilio-financeiro-a-pesquisadores-723398723) |
