@@ -527,6 +527,17 @@ class TestDoeSp:
                      if not i["title"].upper().startswith("EDITAL"))
         assert doe_sp._vaga(ruido, "epidemiologia") is None
 
+    def test_convocacao_de_escola_estadual_e_descartada(self):
+        """O Diário do Executivo paulista é, em volume, pessoal da rede básica.
+        Convocação de professor de escola estadual casa com cargo E com ato —
+        só o contexto de ensino superior separa. Eram 53 por dia."""
+        basica = {"title": "EDITAL DE CONVOCAÇÃO DE SERVIDOR - EE CLEOMÉRIO CAMPI",
+                  "excerpt": "convoca o professor de educação básica classificado",
+                  "hierarchy": ("Executivo > Atos de Pessoal > Secretaria da "
+                                "Educação > Unidade Regional de Ensino de Assis"),
+                  "date": "2026-08-13T00:00:00", "slug": "executivo/x"}
+        assert doe_sp._vaga(basica, "professor") is None
+
     def test_instituicao_sai_da_hierarquia(self):
         h = ("Executivo > Atos de Gestão e Despesas > Universidade de São Paulo"
              " > Unidades Universitárias > Faculdade de Medicina")

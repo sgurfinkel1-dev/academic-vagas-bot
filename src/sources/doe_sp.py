@@ -62,6 +62,18 @@ FORA = re.compile(r"nomea[çc][ãa]o|exonera[çc][ãa]o|demiss[ãa]o|aposentador
 # nenhum edital de abertura.
 ATO_NO_TITULO = re.compile(r"edital|concurso|processo seletivo|sele[çc][ãa]o|"
                            r"abertura de inscri", re.I)
+# O Diário do Executivo paulista é, em volume, diário de pessoal da rede básica:
+# a Secretaria da Educação e suas Unidades Regionais de Ensino publicam
+# convocação de professor de escola estadual todo dia, e isso casa com cargo E
+# com ato. Medido em 13/08/2026 sobre as 184 vagas do dia: exigir contexto de
+# ensino superior corta 55 — 53 da Secretaria da Educação, 1 concorrência de
+# prefeitura e 1 da Saúde — e mantém as 129 de universidade (UNESP 59, USP 35,
+# Unicamp 17) mais o Centro Paula Souza, que é superior por causa das Fatecs.
+SUPERIOR = re.compile(
+    r"universidade|faculdade|instituto|ensino superior|magist[ée]rio superior|"
+    r"centro universit[áa]rio|centro estadual de educa[çc][ãa]o tecnol|"
+    r"professor doutor|professor associado|professor titular|livre.doc|"
+    r"p[óo]s.gradua|fatec|etec", re.I)
 
 
 def _data_api(dt: date) -> str:
@@ -90,6 +102,8 @@ def _vaga(item: dict, termo: str) -> Vaga | None:
     if not CARGO.search(tudo) or FORA.search(tudo):
         return None
     if not ATO_NO_TITULO.search(titulo):
+        return None
+    if not SUPERIOR.search(tudo):
         return None
     slug = item.get("slug") or ""
     prazo = clf.extrair_prazo(tudo)

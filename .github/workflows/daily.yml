@@ -63,6 +63,13 @@ jobs:
           MODO: ${{ inputs.modo }}
           EMAIL_TESTE: ${{ inputs.email_teste }}
           AVB_REAL_CHROME: "0"   # Linux/CI usa o Chromium empacotado, não Chrome instalado
+          # Sem estes dois o INLABS se declara desligado e a coleta perde o DOU
+          # inteiro em XML — foi o que aconteceu em toda execução até 13/08/2026,
+          # onde o log dizia "INLABS_EMAIL/INLABS_SENHA ausentes — fonte pulada"
+          # sem falhar. Cadastro gratuito em https://inlabs.in.gov.br; grave os
+          # dois como secrets do repositório.
+          INLABS_EMAIL: ${{ secrets.INLABS_EMAIL }}
+          INLABS_SENHA: ${{ secrets.INLABS_SENHA }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
