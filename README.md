@@ -44,3 +44,4 @@ Configure via variáveis de ambiente (ou `config.yaml`):
 - Só entram vagas com fonte identificável; busca aberta entra com `confianca: baixo`.
 - Vagas vencidas são filtradas (mude `incluir_vencidas: true` no config).
 - Classificação por regras em `src/extractors/llm_classifier.py`; incertezas viram "verificar manualmente".
+# Updated 08/12/2026 22:50:09
