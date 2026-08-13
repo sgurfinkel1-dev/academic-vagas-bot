@@ -481,6 +481,33 @@ class TestInlabs:
         with pytest.raises(httpx.TransportError):
             inlabs._tentar(sempre_falha, tentativas=2)
 
+    def test_login_com_502_nao_e_tratado_como_sucesso(self, monkeypatch):
+        """O /logar.php do INLABS devolveu 502 no CI em 13/08/2026. Como 502 não
+        redireciona, a checagem de URL passava e a coleta seguia 'logada':
+        baixou 66 zips, todos 302 para acessar.php, 0 vagas, nenhum aviso."""
+        monkeypatch.setenv("INLABS_EMAIL", "x@y.com")
+        monkeypatch.setenv("INLABS_SENHA", "z")
+        resp = MagicMock(status_code=502, url="https://inlabs.in.gov.br/logar.php")
+        with patch("httpx.Client.post", return_value=resp), \
+             patch("httpx.Client.close"):
+            assert inlabs._entrar() is None, (
+                "login com 502 tem de devolver None, não um cliente que baixa "
+                "zip nenhum em silêncio")
+
+    def test_tentar_repete_em_502(self):
+        """502 do proxy do INLABS é transitório e não levanta exceção — sem
+        repetir explicitamente, passava adiante como resposta boa."""
+        respostas = [MagicMock(status_code=502), MagicMock(status_code=502),
+                     MagicMock(status_code=200)]
+        chamadas = []
+
+        def instavel():
+            chamadas.append(1)
+            return respostas[len(chamadas) - 1]
+
+        assert inlabs._tentar(instavel, tentativas=4).status_code == 200
+        assert len(chamadas) == 3
+
 
 # ===========================================================================
 # DOE-SP

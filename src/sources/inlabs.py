@@ -57,11 +57,19 @@ def _tentar(fn, tentativas: int = 4):
     """
     for i in range(tentativas):
         try:
-            return fn()
+            r = fn()
         except httpx.TransportError:
             if i == tentativas - 1:
                 raise
             log.debug("INLABS: rede falhou, tentativa %d/%d", i + 1, tentativas)
+            continue
+        # 502/503/504 do proxy do INLABS é transitório e some na tentativa
+        # seguinte, mas não levanta exceção — sem repetir aqui, o 502 do login
+        # passava adiante como se fosse sucesso (medido no CI em 13/08/2026).
+        if getattr(r, "status_code", 0) in (502, 503, 504) and i < tentativas - 1:
+            log.debug("INLABS: HTTP %d, tentativa %d/%d", r.status_code, i + 1, tentativas)
+            continue
+        return r
 
 
 def _entrar() -> httpx.Client | None:
@@ -77,6 +85,15 @@ def _entrar() -> httpx.Client | None:
         r = _tentar(lambda: cli.post("/logar.php", data={"email": email, "password": senha}))
     except httpx.TransportError as e:
         log.warning("INLABS: login falhou: %s", e)
+        cli.close()
+        return None
+    # Conferir o STATUS antes da URL. Em 13/08/2026 o /logar.php devolveu 502 no
+    # CI; como um 502 não redireciona, a checagem de URL abaixo passava e a
+    # coleta seguia "logada", baixando 66 zips que eram todos 302 para
+    # acessar.php — 0 vagas, sem um único aviso no log.
+    if r.status_code != 200:
+        log.warning("INLABS: login devolveu HTTP %d — fonte pulada nesta execução",
+                    r.status_code)
         cli.close()
         return None
     # credencial errada devolve 302 de volta para acessar.php. Conferir a URL
