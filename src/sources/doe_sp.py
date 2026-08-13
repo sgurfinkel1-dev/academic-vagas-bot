@@ -18,7 +18,17 @@ Duas armadilhas medidas: a data vai SEM zero à esquerda (2026-8-13, não
 devolve 200 com totalItems=0 — falha silenciosa, não erro.
 
 Rendimento em 30 dias (13/08/2026): concurso 1.425, professor doutor 410,
-epidemiologia 27.
+epidemiologia 27. Com a lista inteira de termos do config (41), 411 vagas em
+41 s, cobrindo 62 unidades — Unicamp, 11 campi da UNESP e várias da USP.
+
+# ponytail: prazo_inscricao sai vazio, porque o `excerpt` da busca vem truncado
+# antes da data. O texto completo existe e é acessível — GET /v2/publications/
+# {id} devolve o campo `content` com o edital inteiro (medido: 1,7 KB a 394 KB).
+# Não foi ligado porque custa uma requisição por vaga (seriam 411) e porque
+# clf.extrair_prazo não casou com nenhum dos 10 editais testados: o DOE-SP
+# redige o prazo de forma diferente do DOU. Para fechar isto: ensinar o
+# extrator a redação daqui primeiro, medir o acerto, e só então pagar a
+# requisição extra.
 """
 import logging
 import re
