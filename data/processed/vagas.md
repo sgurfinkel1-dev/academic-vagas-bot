@@ -1,10 +1,28 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (738)
+## Públicas federais (756)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor substituto — Pró-Reitoria de Gestão de Pessoas (PORTARIA Nº 3.746/PROG | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-3.746/progesp/cpii-de-12-de-agosto-de-2026-725076474) |
+| Professor efetivo (concurso público) — Universidade Federal do Ceará (PORTARIA N | Universidade Federal do Ceará |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-4.305/gabr/ufc-de-12-de-agosto-de-2026-725072528) |
+| Docente (outros) — Diretoria de Desenvolvimento de Pessoas (PORTARIA DDP/PROGEPE | Diretoria de Desenvolvimento de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-ddp/progepe-n-291-de-7-de-agosto-de-2026-725022838) |
+| Docente (outros) — Diretoria de Desenvolvimento de Pessoas (PORTARIA DDP/PROGEPE | Diretoria de Desenvolvimento de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-ddp/progepe-n-292-de-7-de-agosto-de-2026-725072449) |
+| Docente (outros) em computação — Universidade Federal do Rio Grande do Sul (PORT | Universidade Federal do Rio Grande do Sul | computação |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-5.671-de-12-de-agosto-de-2026-725070869) |
+| Docente (outros) em filosofia — Universidade Federal do Rio Grande do Sul (PORTA | Universidade Federal do Rio Grande do Sul | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-5.672-de-12-de-agosto-de-2026-725028922) |
+| Docente (outros) em história — Universidade Federal do Rio Grande do Sul (PORTAR | Universidade Federal do Rio Grande do Sul | história |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-5.703-de-12-de-agosto-de-2026-725082399) |
+| Docente (outros) — Universidade Federal do Rio Grande do Sul (PORTARIA Nº 5.700, | Universidade Federal do Rio Grande do Sul |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-5.700-12-de-agosto-de-2026-725065892) |
+| Professor efetivo (concurso público) — Universidade Federal da Bahia (PORTARIA N | Universidade Federal da Bahia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-147-de-11-de-agosto-de-2026-725033967) |
+| Pós-doutorado — Universidade Federal do Rio Grande do Sul (PORTARIA Nº 5.680) | Universidade Federal do Rio Grande do Sul |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-5.680-de-12-de-agosto-de-2026-725078607) |
+| Pós-doutorado — Universidade Federal do Rio Grande do Sul (PORTARIA Nº 5.687) | Universidade Federal do Rio Grande do Sul |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-5.687-de-12-de-agosto-de-2026-725023786) |
+| Despacho DE 11 de agosto de 2026 | Universidade Federal de Santa Catarina |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-11-de-agosto-de-2026-725065813) |
+| PORTARIAS DE 10 DE AGOSTO DE 2026 | Universidade Federal de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-10-de-agosto-de-2026-725071027) |
+| Docente (outros) em odontologia — Fundação Universidade Federal de Mato Grosso d | Fundação Universidade Federal de Mato Grosso do Sul | odontologia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.360-rtr/ufms-de-10-de-agosto-de-2026-725082162) |
+| PORTARIAS DE 7 DE AGOSTO DE 2026 | Universidade Federal do Rio de Janeiro | biologia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-7-de-agosto-de-2026-725075605) |
+| Professor efetivo (concurso público) — Pró-Reitoria de Desenvolvimento e Gestão  | Pró-Reitoria de Desenvolvimento e Gestão de Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-12-de-agosto-de-2026-725080503) |
+| Professor efetivo (concurso público) — Universidade Federal de Alfenas (PORTARIA | Universidade Federal de Alfenas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.855-de-10-de-agosto-de-2026-725044231) |
+| Professor efetivo (concurso público) em química — Pró-Reitoria de Desenvolviment | Pró-Reitoria de Desenvolvimento de Pessoas | química |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.068-de-11-de-agosto-de-2026-725041994) |
 | Professor efetivo (concurso público) — Universidade Federal Rural do Semi-Árido  | Universidade Federal Rural do Semi-Árido |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-770-de-23-de-julho-de-2026-721660102) |
 | PORTARIAS DE 7 DE AGOSTO DE 2026 | Fundação Universidade Federal de Viçosa |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-7-de-agosto-de-2026-724266575) |
 | Professor efetivo (concurso público) em medicina — Universidade Federal de Alfen | Universidade Federal de Alfenas | medicina |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.578-de-15-de-julho-de-2026-720279752) |
@@ -999,10 +1017,12 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (228)
+## Institutos públicos (230)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| DESPACHO DE 11 DE AGOSTO DE 2026 | Gabinete da Ministra |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-11-de-agosto-de-2026-725056675) |
+| Pós-doutorado — Defensoria Pública da União em Montes Claros-MG (EDITAL N° 3 - D | Defensoria Pública da União em Montes Claros-MG |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-3-defensoria-publica-da-uniao-de-4-de-agosto-de-2026-725247281) |
 | Vaga docente — Conselho de Administração (EXTRATO DE ATA DE REUNIÃO ORDINÁRIA Nº | Conselho de Administração |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-ata-de-reuniao-ordinaria-n-558-de-27-de-julho-de-2026-723526102) |
 | matemática — DO de Estrela | Estrela | matemática |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/4307807/2026-08-07/8920c87945200af28603364d71b001d848c66c94.pdf) |
 | matemática — DO de Maracaju | Maracaju | matemática |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/5005400/2026-08-07/3381c7e62a0b2758fa3b5318c30e6ef5b8c9122f.pdf) |
