@@ -10,7 +10,7 @@ on:
         required: false
         default: ""
       modo:
-        description: "geral (privadas + municipais) ou diarios (DOU + municipais)"
+        description: "geral (privadas + municipais) | diarios (DOU + municipais) | diarios_completo (DOU + INLABS + DOEs)"
         required: false
         default: "geral"
       email_teste:
