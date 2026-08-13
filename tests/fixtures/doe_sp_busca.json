@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "isLegacy": false,
+      "id": "3c87c4d7-1986-46ad-60d9-08dee1eb61b6",
+      "publicationTypeId": "53af8d5d-53db-490b-974e-0a0b20a96dde",
+      "secondLevelSectionId": "6a316cff-f35f-4da8-a65d-053112ede93b",
+      "thirdLevelSectionId": "735b3ce5-c3aa-4167-be42-137b4c1fa8be",
+      "date": "2026-07-15T01:01:09.9766675",
+      "title": "EDITAL DVACAD/FM/141/2026",
+      "slug": "executivo/universidade-de-sao-paulo/edital-dvacad-fm-141-2026-2026071413422221661981796",
+      "excerpt": " de títulos e provas visando o provimento de 1 (um) cargo de Professor Doutor, referência MS-3, junto ao Departamento de Medicina Preventiva, na Área de Epidemiologia, referente ao edital de abertura de inscrições DVACAD/FM/4/2026, publicado no Diário Oficial do Estado de São Paulo de 2 de março de 2026",
+      "hierarchy": "Executivo > Atos de Gestão e Despesas > Universidade de São Paulo > Unidades Universitárias > Faculdade de Medicina",
+      "totalTermsFound": 1,
+      "termsFound": [
+        {
+          "term": "epidemiologia",
+          "matchesFound": 1
+        }
+      ]
+    },
+    {
+      "isLegacy": false,
+      "id": "4c899744-b682-4f03-2d81-08dee342cc32",
+      "publicationTypeId": "68ffa9ab-4b7a-4c94-a0a9-5029fed1adda",
+      "secondLevelSectionId": "f9941134-1fdf-454d-c1f3-08db6b943832",
+      "thirdLevelSectionId": "8b660a5c-a4ac-4f4c-a54a-22dbbcb72c32",
+      "date": "2026-07-17T01:03:44.0556813",
+      "title": "Despacho da Chefe de Divisão de 16/07/2026",
+      "slug": "executivo/secretaria-de-agricultura-e-abastecimento/despacho-da-chefe-de-divisao-de-16-07-2026-20260716121024312271985546",
+      "excerpt": "a Lei 10.261-68, alterada pela LC. 1048-08, RODRIGO DE LEMOS MARINI, RG. 44.957.193-2, Especialista Agropecuário II, Efetivo, classificado na Divisão de Epidemiologia, do Departamento de Defesa Sanitária Animal, da Diretoria de Defesa Agropecuária, para usufruir 30 (trinta) dias de Licença Prêmio, referente ao período ",
+      "hierarchy": "Executivo > Atos de Pessoal > Secretaria de Agricultura e Abastecimento > Subsecretaria de Gestão Corporativa > Diretoria de Gestão de Pessoas > Coordenadoria de Integração de Pessoas > Divisão de Integração de Pessoas I - Campinas",
+      "totalTermsFound": 1,
+      "termsFound": [
+        {
+          "term": "epidemiologia",
+          "matchesFound": 1
+        }
+      ]
+    }
+  ],
+  "currentPage": 1,
+  "totalPages": 1,
+  "totalItems": 2,
+  "pageSize": 20,
+  "hasPreviousPage": false,
+  "hasNextPage": false
+}

@@ -32,6 +32,7 @@ fontes:
   dou: true
   inlabs: true         # DOU oficial em XML; exige INLABS_EMAIL/INLABS_SENHA no ambiente
   querido_diario: true
+  doe_sp: true         # Diário Oficial do Estado de SP — USP, Unicamp, UNESP
   fapesp: true
   universidades_publicas: true
   universidades_privadas: true

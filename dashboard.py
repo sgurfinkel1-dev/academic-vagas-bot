@@ -283,10 +283,11 @@ with st.expander("Filtros avançados", expanded=False):
 
 if ao_vivo and b_geral and f_texto.strip():
     _busca_viva(f_texto.strip(), "geral",
-                f"Buscando '{f_texto}' no DOU, em privadas (Gupy) e diários municipais... (~2 min)")
+                f"Buscando '{f_texto}' no DOU, em privadas (Gupy) e diários... (~2 min)")
 if ao_vivo and b_diarios and f_texto.strip():
     _busca_viva(f_texto.strip(), "diarios",
-                f"Buscando '{f_texto}' no DOU e diários municipais... (~2 min)")
+                f"Buscando '{f_texto}' no DOU, no Diário Oficial de SP e nos "
+                "diários municipais... (~2 min)")
 
 if not DB.exists():
     st.stop()

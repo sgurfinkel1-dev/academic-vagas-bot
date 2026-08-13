@@ -30,7 +30,7 @@ sys.path.insert(0, str(RAIZ))
 from src.extractors import html_extractor, pdf_extractor
 from src.sources import (fapesp, dou, anpof, gupy, universidades_publicas,
                          universidades_privadas, querido_diario, vagas_com,
-                         busca_aberta, inlabs)
+                         busca_aberta, inlabs, doe_sp)
 from src.database.models import Vaga
 
 
@@ -480,6 +480,63 @@ class TestInlabs:
 
         with pytest.raises(httpx.TransportError):
             inlabs._tentar(sempre_falha, tentativas=2)
+
+
+# ===========================================================================
+# DOE-SP
+# ===========================================================================
+
+class TestDoeSp:
+    """Busca no Diário Oficial do Estado de SP, contra resposta real da API
+    (tests/fixtures/doe_sp_busca.json).
+
+    Para regerar a fixture: GET em
+    do-api-web-search.doe.sp.gov.br/v2/advanced-search/publications
+    com Terms[0]=<termo>&FromDate=AAAA-M-D&ToDate=AAAA-M-D.
+    """
+
+    FIXTURE = Path(__file__).parent / "fixtures" / "doe_sp_busca.json"
+
+    def _itens(self):
+        if not self.FIXTURE.exists():
+            pytest.skip("Fixture tests/fixtures/doe_sp_busca.json ausente")
+        return json.loads(self.FIXTURE.read_text(encoding="utf-8"))["items"]
+
+    def test_data_vai_sem_zero_a_esquerda(self):
+        """Com zero à esquerda a API devolve 200 e zero resultados — falha
+        silenciosa que já custou uma coleta inteira."""
+        from datetime import date
+        assert doe_sp._data_api(date(2026, 8, 3)) == "2026-8-3"
+
+    def test_edital_real_vira_vaga(self):
+        edital = next(i for i in self._itens()
+                      if i["title"].upper().startswith("EDITAL"))
+        v = doe_sp._vaga(edital, "epidemiologia")
+        assert v is not None, (
+            "Edital de professor na resposta real da API não virou Vaga — o "
+            "formato do DOE-SP mudou e buscar() devolve vazio em silêncio.")
+        assert v.estado == "SP"
+        assert v.link_oficial.startswith("https://doe.sp.gov.br/")
+        assert v.trecho_comprovacao
+        assert "Universidade" in v.instituicao
+
+    def test_despacho_e_descartado(self):
+        """Portaria/despacho cita professor mas não abre vaga: 45 dos 78 itens
+        que passavam pelo filtro antigo eram isso."""
+        ruido = next(i for i in self._itens()
+                     if not i["title"].upper().startswith("EDITAL"))
+        assert doe_sp._vaga(ruido, "epidemiologia") is None
+
+    def test_instituicao_sai_da_hierarquia(self):
+        h = ("Executivo > Atos de Gestão e Despesas > Universidade de São Paulo"
+             " > Unidades Universitárias > Faculdade de Medicina")
+        assert doe_sp._instituicao(h) == ("Universidade de São Paulo — "
+                                          "Faculdade de Medicina")
+
+    def test_http_ruim_nao_quebra(self):
+        resp = MagicMock(status_code=503, json=MagicMock(return_value={}))
+        with patch("httpx.Client.get", return_value=resp):
+            assert doe_sp.buscar(["professor"], dias=7, max_por_fonte=5) == []
 
 
 # ===========================================================================
