@@ -25,6 +25,25 @@ from .sources import (dou, querido_diario, fapesp, universidades_publicas, unive
 # UDESC ou UERGS entrava no robô.
 DIARIOS_ESTADUAIS = [("doe_sp", doe_sp), ("doe_mg", doe_mg), ("doe_pr", doe_pr),
                      ("doe_rs", doe_rs), ("doe_sc", doe_sc)]
+
+# Âncoras de cargo que todo diário estadual entende como palavra solta.
+ANCORAS_DIARIO = ("professor", "docente", "pesquisador", "magistério", "pós-doutorado")
+
+
+def _termos_de_diario(termos: list[str]) -> list[str]:
+    """Âncoras de cargo + as palavras únicas do config (onde vêm as áreas).
+
+    Descarta frase, porque a busca desses diários é por frase exata e nenhuma
+    das frases do config casa. Medido em 13/08/2026 no DOE-MG: com a lista
+    inteira, 1 vaga; só com palavras úteis, 7.
+    """
+    unicas = [t for t in termos if t and len(t.split()) == 1]
+    vistos, saida = set(), []
+    for t in list(ANCORAS_DIARIO) + unicas:
+        if t.lower() not in vistos:
+            vistos.add(t.lower())
+            saida.append(t)
+    return saida
 from .alerts import telegram_alert, discord_alert, email_alert
 from .output import export_csv, export_json, export_markdown
 
@@ -196,6 +215,13 @@ def main():
     termos = cfg.get("termos_base", []) + [a for a in user.get("areas", [])]
     dias = busca.get("dias_retroativos", 30)
     max_f = busca.get("max_resultados_por_fonte", 100)
+    # Os diários estaduais buscam por FRASE, não por palavras soltas: "professor
+    # substituto" e "concurso público de provas e títulos" não casam com nada
+    # neles. Mandar os 41 termos do config era caro e inútil — a coleta passou
+    # de 36 min para mais de 90 e foi cancelada em 13/08/2026. A lista compacta
+    # (âncoras de cargo + o que é palavra única, que é por onde entram as áreas)
+    # cobre o mesmo e cabe no tempo.
+    termos_diario = _termos_de_diario(termos)
 
     todas_vagas, falhas = [], []
     execucoes = [
@@ -207,7 +233,7 @@ def main():
         # sem recorte de UF: diário municipal de qualquer estado interessa, e o
         # painel filtra depois quem quiser só um estado
         ("querido_diario", lambda: querido_diario.buscar(termos, dias, max_f)),
-        *[(nome, lambda m=mod: m.buscar(termos, dias, max_f))
+        *[(nome, lambda m=mod: m.buscar(termos_diario, dias, max_f))
           for nome, mod in DIARIOS_ESTADUAIS],
         ("fapesp", lambda: fapesp.buscar(user.get("areas", []), max_f)),
         ("universidades_publicas", lambda: universidades_publicas.buscar(cfg.get("paginas_concursos", []), max_f)),
