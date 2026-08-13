@@ -1,0 +1,125 @@
+$(document).ready(function () {
+  const isMobile = () => {
+    return window.screen.width < 575.98;
+  };
+
+  const getRanges = (page, numOfPages) => {
+    var startIn1 = page - 5 <= 1;
+    var start = startIn1 ? 1 : page - 5;
+    var endInMax = page + 5 >= numOfPages;
+    var end = endInMax ? numOfPages : page + 5;
+    if (endInMax && !startIn1) {
+      start = end - 9;
+    }
+    if (startIn1 && !endInMax) {
+      end = start + 9;
+    }
+    return [start, end];
+  };
+
+  const getIcon = (name, enabled) => {
+    if (name == "chevron-left") {
+      return `<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M12.0806 11.1817L18.0465 5.21582C18.3342 4.92809 18.8007 4.92809 19.0884 5.21582L19.7842 5.91164C20.0714 6.19888 20.072 6.66441 19.7854 6.95232L15.0574 11.7027L19.7854 16.453C20.072 16.7409 20.0714 17.2064 19.7842 17.4937L19.0884 18.1895C18.8007 18.4772 18.3342 18.4772 18.0465 18.1895L12.0806 12.2236C11.7929 11.9359 11.7929 11.4694 12.0806 11.1817Z" fill="${
+        enabled ? "#1351B4" : "#888888"
+      }"/>
+      <path d="M4.21582 11.1817L10.1817 5.21582C10.4695 4.92809 10.9359 4.92809 11.2236 5.21582L11.9195 5.91164C12.2067 6.19888 12.2073 6.66441 11.9207 6.95232L7.19261 11.7027L11.9207 16.453C12.2073 16.7409 12.2067 17.2064 11.9195 17.4937L11.2236 18.1895C10.9359 18.4772 10.4694 18.4772 10.1817 18.1895L4.21585 12.2236C3.92812 11.9359 3.92812 11.4694 4.21582 11.1817Z" fill="${
+        enabled ? "#1351B4" : "#888888"
+      }"/>
+      </svg>`;
+    } else if (name === "chevron-right") {
+      return `<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M11.9194 12.2236L5.95352 18.1895C5.66579 18.4772 5.19931 18.4772 4.91161 18.1895L4.21579 17.4936C3.92855 17.2064 3.928 16.7409 4.21456 16.4529L8.94265 11.7026L4.21456 6.9523C3.928 6.66439 3.92855 6.19886 4.21579 5.91162L4.91161 5.2158C5.19934 4.92807 5.66583 4.92807 5.95352 5.2158L11.9194 11.1817C12.2071 11.4694 12.2071 11.9359 11.9194 12.2236Z" fill="${
+        enabled ? "#1351B4" : "#888888"
+      }"/>
+      <path d="M19.9194 12.2236L13.9535 18.1895C13.6658 18.4772 13.1993 18.4772 12.9116 18.1895L12.2158 17.4936C11.9286 17.2064 11.928 16.7409 12.2146 16.4529L16.9426 11.7026L12.2146 6.9523C11.928 6.66439 11.9286 6.19886 12.2158 5.91162L12.9116 5.2158C13.1993 4.92807 13.6658 4.92807 13.9535 5.2158L19.9194 11.1817C20.2071 11.4694 20.2071 11.9359 19.9194 12.2236Z" fill="${
+        enabled ? "#1351B4" : "#888888"
+      }"/>
+      </svg>`;
+    }
+  };
+
+  $(".taglib-page-iterator")
+    .find(".dropdown-toggle")
+    .each(function () {
+      var bottomBar = $(this).parents(".taglib-page-iterator");
+      var portlet = $(this).parents(".portlet-boundary");
+      var botoes = $(bottomBar).find(".lfr-pagination-buttons li a");
+      $(bottomBar).find(".lfr-pagination").hide();
+      var idURL = $(portlet)
+        .attr("id")
+        .replace("p_p_id_", "p_p_id=")
+        .substring(0, $(portlet).attr("id").length - 1);
+      var paginationURLs = [];
+      var navHtml =
+        '<div class="paginacao-wrapper"><a data-senna-off="true" href="' +
+        botoes[0] +
+        ($(botoes[0]).attr("href") === "javascript:;"
+          ? '" class = disabled'
+          : "") +
+        '">' +
+        getIcon("chevron-left", $(botoes[0]).attr("href") !== "javascript:;") +
+        "</a>";
+      navHtml +=
+        '<a href="' +
+        botoes[1] +
+        ($(botoes[1]).attr("href") === "javascript:;"
+          ? '" class = "label disabled'
+          : '" class = "label') +
+        '">Anterior</a>';
+      navHtml += '<div class = "d-flex">';
+      var curPage = parseInt($(this).text().split(" ")[1]);
+      var numOfPages = parseInt($(this).text().split(" ")[3]);
+      var botaoWithLink = botoes.filter(function () {
+        return $(this).attr("href") !== "javascript:;";
+      });
+      var range = getRanges(curPage, numOfPages);
+      for (
+        i = isMobile() ? curPage : range[0];
+        i <= range[1];
+        i += isMobile() ? range[1] - curPage : 1
+      ) {
+        paginationURLs.push({
+          pageNumber: i,
+          url:
+            $(botaoWithLink[0])
+              .attr("href")
+              .substring(
+                0,
+                $(botaoWithLink[0]).attr("href").lastIndexOf("=") + 1
+              ) + i,
+        });
+      }
+      paginationURLs.forEach((element, index) => {
+        var element =
+          '<a data-senna-off="true" href="' +
+          element.url +
+          '"' +
+          (element.pageNumber === curPage
+            ? ' class="selected label"'
+            : ' class="label"') +
+          ">" +
+          element.pageNumber +
+          "</a>";
+        navHtml += element;
+      });
+      navHtml += "</div>";
+      navHtml +=
+        '<a data-senna-off="true" href="' +
+        botoes[2] +
+        ($(botoes[2]).attr("href") === "javascript:;"
+          ? '" class = "label disabled'
+          : '" class = "label') +
+        '">Proxima</a>';
+      navHtml +=
+        '<a data-senna-off="true"  href="' +
+        botoes[3] +
+        ($(botoes[3]).attr("href") === "javascript:;"
+          ? '" class = disabled'
+          : "") +
+        '">' +
+        getIcon("chevron-right", $(botoes[3]).attr("href") !== "javascript:;") +
+        "</a></div>";
+      bottomBar.append(navHtml);
+    });
+});

@@ -16,7 +16,7 @@ from .database import storage
 from .database.models import Vaga
 from .extractors import llm_classifier as clf
 from .sources import (dou, querido_diario, fapesp, universidades_publicas, universidades_privadas,
-                      busca_aberta, gupy, vagas_com, anpof, inlabs)
+                      busca_aberta, gupy, vagas_com, anpof, inlabs, doe_sp, doe_rj, doe_mg, doe_outros_estados)
 from .alerts import telegram_alert, discord_alert, email_alert
 from .output import export_csv, export_json, export_markdown
 
@@ -187,6 +187,12 @@ def main():
         # sem recorte de UF: diário municipal de qualquer estado interessa, e o
         # painel filtra depois quem quiser só um estado
         ("querido_diario", lambda: querido_diario.buscar(termos, dias, max_f)),
+        # Diários Oficiais estaduais: São Paulo, Rio, Minas
+        ("doe_sp", lambda: doe_sp.buscar(termos, dias, max_f)),
+        ("doe_rj", lambda: doe_rj.buscar(termos, dias, max_f)),
+        ("doe_mg", lambda: doe_mg.buscar(termos, dias, max_f)),
+        # Diários Oficiais outros estados: PA, SC, RS, GO, ES
+        ("doe_outros_estados", lambda: doe_outros_estados.buscar(termos, dias, max_f)),
         ("fapesp", lambda: fapesp.buscar(user.get("areas", []), max_f)),
         ("universidades_publicas", lambda: universidades_publicas.buscar(cfg.get("paginas_concursos", []), max_f)),
         ("universidades_privadas", lambda: universidades_privadas.buscar(cfg.get("paginas_privadas", []), max_f)),

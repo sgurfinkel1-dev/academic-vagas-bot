@@ -1,0 +1,270 @@
+$(document).ready(function () {
+  $("#printFunction").click(function () {
+    setTimeout(function() {
+      window.print();
+    }, 100);
+  });
+
+  // Diário Aberto
+  if ($("div").hasClass("dou-modelo")) {
+    // window.history.pushState('', null, './');
+    $(window).on('popstate', function () {
+      window.location.reload(true);
+    })
+
+    // ENVIAR E-MAIL
+    var url = window.location.href;
+
+    if (url.indexOf('?') != -1)
+      url = url.substring(0, url.indexOf('?'));
+
+    document.getElementById("mensagem").value = "Veja este conteúdo: " + window.location.href;
+
+    $("#popup-email").click(function () {
+      var popup = document.getElementById("myPopup");
+      popup.classList.toggle("show");
+    });
+
+    $("#send-mail").click(function () {
+      var msg = document.getElementById("mensagem").value;
+      var popup = document.getElementById("myPopup");
+      popup.classList.toggle("show");
+      window.location.href = "mailto:" + document.getElementById("destinatario").value + "?Subject=" + document.title + "&body=" + msg;
+      return false;
+    });
+
+    $("#versao-certificada").click(function () {
+      event.preventDefault();
+      if(confirm("O PDF será aberto em uma página nova. Deseja continuar?")){
+        window.open($("#versao-certificada").attr('href'), '_blank');
+      }
+      return 
+    });
+  }
+
+  // Botões edições do dia
+  $("#diario-completo").click(function () {
+    $("#jornal_todos").attr('checked', true);
+    $('input[name="sistema-busca"][value="2"]').prop('checked', true);
+    $('input[name="sistema-busca"][value="2"]').attr('checked', 'checked');
+    selecionarData("dia");
+		doSearch("advancedSearch");
+  });
+
+  // Botões edições do dia
+  if ($("#lista-botoes-edd, #lista-botoes-edd-responsivo").length) {
+    function create_url(date, section) {
+      return "/leiturajornal?data=" + date + "&secao=" + section;
+    }
+
+    function formatDate(date) {
+      var day = ("0" + date.getDate()).slice(-2);
+      var month = ("0" + (date.getMonth() + 1)).slice(-2);
+      var year = date.getFullYear();
+      return day + "-" + month + "-" + year;
+    }
+
+    function parse_query_string(query) {
+      var qs = (function (a) {
+        if (a == "") return {};
+        var b = {};
+        for (var i = 0; i < a.length; ++i) {
+          var p = a[i].split("=", 2);
+          if (p.length == 1) b[p[0]] = "";
+          else b[p[0]] = decodeURIComponent(p[1].replace(/\+/g, " "));
+        }
+        return b;
+      })(window.location.search.substr(1).split("&"));
+      return qs;
+    }
+
+    function leituraJornal(section) {
+      var date = formatDate($("#data-secao").datepicker("getDate"));
+      window.location.href = create_url(date, section);
+    }
+
+    // Botões edições do dia
+    function add_tags() {
+      var url_params = parse_query_string(window.location.href);
+      let date = "";
+      if (url_params.data) {
+        date = url_params.data.split("-").reverse().join("-");
+      }
+      let currentDomain = window.location.hostname;
+      const url =
+        "https://" + currentDomain + "/o/tagsRest/tags/getTags?date=" + date;
+
+      var secoes_extras = [];
+      $.ajax({
+        method: "GET",
+        url,
+        success: function (data) {
+          let parsed_data = data.serializable.jsonObject;
+          for (let key in parsed_data) {
+            if (parsed_data[key]) secoes_extras.push(key);
+          }
+          secoes_extras.forEach((secao) => {
+            document
+              .getElementById("badge-" + secao.toLowerCase())
+              .classList.remove("d-none");
+          });
+        },
+      });
+      return secoes_extras;
+    }
+
+    // Botões edições do dia (Leitura)
+    if (
+      $(
+        "#lista-botoes-edd:not('.botoes-edicao-do-dia'), #lista-botoes-edd-responsivo:not('.botoes-edicao-do-dia')"
+      ).length
+    ) {
+      var url_params = parse_query_string(window.location.href);
+      var paramDate = url_params.data;
+      var paramSecao = url_params.secao;
+      var data = null;
+      if (paramDate == null || paramDate == undefined) {
+        data = new Date();
+      } else {
+        var parts = paramDate.split("-");
+        data = new Date(parts[2], parts[1] - 1, parts[0]);
+      }
+      if (paramSecao) {
+        var class_secao = "." + url_params.secao.replace("u", "");
+      } else {
+        url_params.secao = "do1";
+        var class_secao = ".do1";
+      }
+      $(class_secao).addClass("active");
+      if (
+        class_secao == ".do1a" ||
+        class_secao == ".doe" ||
+        class_secao == ".do1e" ||
+        class_secao == ".do2e" ||
+        class_secao == ".do3e"
+      ) {
+        $($(".carousel-item")[0]).removeClass("active");
+        $($(".carousel-item")[1]).addClass("active");
+      }
+      $(".secao-item").click(function () {
+        $(".secao-item").removeClass("active");
+        $(this).addClass("active");
+      });
+      setTimeout(function () {
+        if ($("#data-secao").length > 0) {
+          $("#data-secao")
+            .datepicker({
+              dateFormat: "dd/mm/yy",
+              dayNames: [
+                "Domingo",
+                "Segunda",
+                "Terça",
+                "Quarta",
+                "Quinta",
+                "Sexta",
+                "Sábado",
+                "Domingo",
+              ],
+              dayNamesMin: [
+                "Dom",
+                "Seg",
+                "Ter",
+                "Qua",
+                "Qui",
+                "Sex",
+                "Sáb",
+                "Dom",
+              ],
+              dayNamesShort: [
+                "Dom",
+                "Seg",
+                "Ter",
+                "Qua",
+                "Qui",
+                "Sex",
+                "Sáb",
+                "Dom",
+              ],
+              monthNames: [
+                "Jan",
+                "Fev",
+                "Mar",
+                "Abr",
+                "Mai",
+                "Jun",
+                "Jul",
+                "Ago",
+                "Set",
+                "Out",
+                "Nov",
+                "Dez",
+              ],
+              monthNamesShort: [
+                "Jan",
+                "Fev",
+                "Mar",
+                "Abr",
+                "Mai",
+                "Jun",
+                "Jul",
+                "Ago",
+                "Set",
+                "Out",
+                "Nov",
+                "Dez",
+              ],
+              currentText: "Hoje",
+              closeText: "Fechar",
+            })
+            .datepicker("setDate", data);
+          $("#data-secao").on("change", function () {
+            leituraJornal(url_params.secao);
+          });
+          var dateToDisplay = $("#data-secao").datepicker("getDate") ? $.datepicker.formatDate(
+            "dd/m/yy",
+            $("#data-secao").datepicker("getDate")
+          ) : '';
+          var dateAsString =
+            '<span class = "month">' +
+            dateToDisplay.substring(0, dateToDisplay.length - 5) +
+            ' </span><span class = "year">' +
+            dateToDisplay.substring(dateToDisplay.length - 4) +
+            "</span>";
+          $("#date-extended").val(dateAsString);
+        }
+
+        $(".daypicker .is-selected").addClass(
+          class_secao
+            .replace(".", "")
+            .replace("do1e", "doe")
+            .replace("do2e", "doe")
+            .replace("do3e", "doe")
+        );
+        $(".arrow-bottom").click(function () {
+          $("#data-secao").datepicker("show");
+        });
+
+        $('a[class*="_hover"]').each(function (i, elem) {
+          var date = formatDate($("#data-secao").datepicker("getDate"));
+          var class_list = $(elem).attr("class");
+          var section =
+            "do" +
+            class_list.replace("button secao_", "").replace("_hover", "");
+
+          elem.setAttribute("href", create_url(date, section));
+        });
+      }, 100);
+
+      $("#lista-botoes-edd .badge, #lista-botoes-edd-responsivo .badge").click(
+        function () {
+          if ($(this).is("[data-section]")) {
+            leituraJornal($(this).attr("data-section"));
+          }
+        }
+      );
+    }
+
+    $(add_tags);
+  }
+
+});
