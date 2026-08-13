@@ -1,10 +1,12 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (641)
+## Públicas federais (643)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| PORTARIA GABREI N° 3.245, DE 27 DE MAIO DE 2026 | Departamento de Administração e Gestão de Pessoas | agrárias |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-gabrei-n-3.245-de-27-de-maio-de-2026-708818180) |
+| PORTARIA Nº 2.547, de 8 de julho de 2026 | Pró-Reitoria de Recursos Humanos | epidemiologia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-2.547-de-8-de-julho-de-2026-717769396) |
 | Professor substituto — Centro Federal de Educação Tecnológica Celso Suckow da Fo | Centro Federal de Educação Tecnológica Celso Suckow da Fonseca |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.449/cefet-rj-de-10-de-agosto-de-2026-724732251) |
 | Professor substituto — Pró-Reitoria de Gestão de Pessoas (PORTARIA Nº 3.705 PROG | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-3.705-progesp/cpii-de-11-de-agosto-de-2026-724763659) |
 | Docente (outros) — Instituto Federal de Educação, Ciência e Tecnologia de Santa  | Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/retificacao-724952222) |
@@ -647,10 +649,14 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (50)
+## Públicas estaduais (54)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EDITAL FSP DVACAD 30/2026 - ABERTURA DE INSCRIÇÃO AO CONCURSO PARA OBTENÇÃO DO T | Universidade de São Paulo — Faculdade de Saúde Pública | epidemiologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-fsp-dvacad-30-2026-abertura-de-inscricao-ao-concurso-para-obtencao-do-titulo-de-livre-docente-2026070613422293671968523) |
+| EDITAL DVACAD/FM/141/2026 | Universidade de São Paulo — Faculdade de Medicina | epidemiologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-dvacad-fm-141-2026-2026071413422221661981796) |
+| EDITAL Nº 49/2026, DE 24 DE JULHO DE 2026 | Universidade Estadual Paulista — Faculdade de Medicina | epidemiologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-49-2026-de-24-de-julho-de-2026-20260727134446362006717) |
+| EDITAL DVACAD/FM/4/2026 | Universidade de São Paulo — Faculdade de Medicina | epidemiologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-dvacad-fm-4-2026-2026080513422221662026982) |
 | docente — DO de Paulínia | Paulínia | letras/linguística |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3536505/2026-08-11/550118c0e14fd78bb8e0350c15491c66c3217019.pdf) |
 | Concursos e Processos Seletivos – Docentes | USP |  |  | sem prazo identificado | [link](https://uspdigital.usp.br/gr/admissao#new_tab) |
 | PROCESSO SEL. PARA AUXILIAR DOCENTE | Centro Paula Souza (Fatec/Etec) |  |  | sem prazo identificado | [link](https://urhsistemas.cps.sp.gov.br/dgsdad/selecaopublica/) |
@@ -702,10 +708,11 @@
 | pós-doutorado — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-06-09/b033b608510dd845e504e8d1445291f039defc8d.pdf) |
 | Gerenciamento de Pesquisadores | UNICAMP |  |  | sem prazo identificado | [link](https://www.dgrh.unicamp.br/link-sistema-de-gerenciamento-de-pesquisadores) |
 
-## Públicas municipais (20)
+## Públicas municipais (21)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| epidemiologia — DO de Betim | Betim | epidemiologia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3106705/2026-05-29/61c4d1ced71eaf9e2e5c41f0264aa993262cf640.pdf) |
 | docente — DO de Porto Real do Colégio | Porto Real do Colégio | educação |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/2700000/2026-08-11/36e0bbbb835092ef5ef2e72925621204916c9c15.pdf) |
 | docente — DO de Curitiba | Curitiba |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/4106902/2026-08-03/31bf6ac49149520fdd4c3c6b594025c6b7db8c56.pdf) |
 | pós-doutorado — DO de Mossoró | Mossoró |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/2408003/2026-08-03/032471e50fc603d292eedd4644c65c75106b68e7.pdf) |
@@ -727,10 +734,11 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (195)
+## Institutos públicos (196)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| CONCURSO Nº 13.01, DE 1 DE JULHO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza | epidemiologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-1301-de-1-de-julho-de-2026-202607011314142741957823) |
 | Professor substituto — Coordenação-Geral de Serviços Corporativos e Apoio à Pesq | Coordenação-Geral de Serviços Corporativos e Apoio à Pesquisa |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-processo-seletivo-simplificado-ipea/pipa-n-1-brasilia-16-de-julho-de-2026-719681459) |
 | Pesquisador — Instituto Nacional de Pesquisas da Amazônia (EXTRATO DE CARTA CONV | Instituto Nacional de Pesquisas da Amazônia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-carta-convite-724813473) |
 | Bolsa — Hospital de Clínicas de Porto Alegre (EDITAL) | Hospital de Clínicas de Porto Alegre |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-11-de-agosto-de-2026-724830978) |
@@ -1494,10 +1502,11 @@
 | Bolsa de PD em Saúde Coletiva | Faculdade de Enfermagem, Universidade Estadual de Campinas (FEnf-Unicamp ) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../projeto-ubuntu:-os-4-rs-da-educacao-antirracista-para-equidade-em-saude/9598/) |
 | Bolsa de PD em Química, Instrumentação Analítica e Engenharia Mecânica/Eletrônic | Departamento de Química – Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, Universidade de São Paulo (FFCLRP-USP) | química |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../novas-ferramentas-analiticas-para-o-estudo-da-doenca-de-parkinson:-automacao-do-preparo-de-amostras-biologicas-dispositivos-3d-printed@mip-e-cromatografia-liquida-capilar-portatil/9600/) |
 
-## Verificar manualmente (29)
+## Verificar manualmente (30)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| CONCURSO Nº 02.03, DE 11 DE JUNHO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza | epidemiologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0203-de-11-de-junho-de-2026-202606111314142741909978) |
 | Portarias de 20 de julho de 2026 | Fundação Oswaldo Cruz |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-20-de-julho-de-2026-720302125) |
 | Docente (outros) — Secretaria Executiva (PORTARIA Nº 707) | Secretaria Executiva |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-707-de-6-de-agosto-de-2026-724093925) |
 | Docente (outros) — Secretaria de Atenção Especializada à Saúde (Portaria Conjunt | Secretaria de Atenção Especializada à Saúde |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-conjunta-saes/sgtes-n-64-de-2-de-julho-de-2026-720560411) |
