@@ -1,0 +1,118 @@
+{
+ "_origem": "GET https://doe-backend.pro.rs.gov.br/public/materias/ (busca) e /<id> (detalhe), capturado em 13/08/2026; campo conteudo truncado em 1400 chars e pdf removido para caber",
+ "busca": {
+  "collection": [
+   {
+    "id": 1161501,
+    "data": "31/10/2024",
+    "texto": "...UERGS – UNIVERSIDADE ESTADUAL DO RIO GRANDE DO SUL ESTADO DO RIO GRANDE DO SUL CONCURSOS PÚBLICOS N° 02 a 24/2024 EDITAL DE ABERTURA DE CONCURSOS <mark>DOCENTES</mark> 2024 O Sr....",
+    "origem": "MATERIA",
+    "nroPagina": null,
+    "tipoDiario": null,
+    "textoLink": null,
+    "dataUrl": null,
+    "tipoMateria": "Editais"
+   },
+   {
+    "id": 1461628,
+    "data": "31/07/2026",
+    "texto": "...<mark>UERGS</mark> – UNIVERSIDADE ESTADUAL DO RIO GRANDE DO SUL CONCURSO PÚBLICO N° 10/2024 EXTRATO DO EDITAL Nº 188/2026 – HOMOLOGAÇÃO DO RESULTADO FINAL DO CONCURSO PÚBLICO A <mark>UERGS</mark> - Universidade Estadual do Rio Grande do Sul , em conformidade às normas de concursos docentes, aprovadas pela Resolução CONSUN Nº 002/2024, e consoante ao disposto no Edital de Abertura do Certame, torna público, por este Extrato, a Homologação do Resultado Final do Concurso Público nº 10/2024 em...",
+    "origem": "MATERIA",
+    "nroPagina": null,
+    "tipoDiario": null,
+    "textoLink": null,
+    "dataUrl": null,
+    "tipoMateria": "Editais"
+   }
+  ],
+  "collectionSize": 2,
+  "pageSize": 10,
+  "filtroTiposMateria": {
+   "tipo": null,
+   "resultados": [
+    {
+     "valor": "Editais",
+     "qtdResultados": 2
+    }
+   ]
+  }
+ },
+ "detalhes": {
+  "1161501": {
+   "id": 1161501,
+   "protocolo": 2024001161501,
+   "nomeEntidade": "Universidade Estadual do Rio Grande do Sul",
+   "nomeEntidadeCliente": "Gabinete da Reitoria",
+   "tipoEntidade": "GOVERNO",
+   "nomeTipoMateria": "Editais",
+   "nomeAssunto": "Edital de Concurso",
+   "nomeTipoAssunto": "Edital de Concurso",
+   "responsavelUnidade": "LEONARDO ALVIM BEROLDT DA SILVA",
+   "responsavelOrgao": "LEONARDO ALVIM BEROLDT DA SILVA",
+   "cargoResponsavelOrgao": "Reitor da Universidade Estadual do Rio Grande do Sul",
+   "cargoResponsavelUnidade": "Reitor da Universidade Estadual do Rio Grande do Sul",
+   "dataPublicacao": "31-10-2024",
+   "dataFormatada": "31 de outubro de 2024",
+   "conteudo": "<p style=\"text-align: center; \"><b>UERGS - UNIVERSIDADE ESTADUAL DO RIO GRANDE DO SUL</b></p> <p style=\"text-align: center; widows: 0\"> <b> <textopuro> ESTADO DO RIO GRANDE DO SUL </textopuro></b></p> <p style=\"text-align: center; widows: 0\"> <b>CONCURSO</b><span lang=\"pt-BR\"><b>S </b></span><b>PÚBLICO</b><span lang=\"pt-BR\"><b>S</b></span><b> N° </b><span lang=\"pt-BR\"><b>02 a 24/2024</b></span></p> <p style=\"text-align: center; widows: 0\"> <b>EDITAL </b><span lang=\"pt-BR\"><b>DE ABERTURA DE CONCURSOS DOCENTES 2024</b></span></p> <p style=\"text-align: center; widows: 0\"> <br> <br> </p> <p style=\"text-align: justify",
+   "tipoDiario": "DOE",
+   "pagina": 84,
+   "edicaoDoDia": 1,
+   "endereco": {
+    "endereco": "Rua Washington Luiz",
+    "numero": "675",
+    "complemento": "Centro Histórico",
+    "bairro": null,
+    "municipio": "Porto Alegre",
+    "siglaUf": "RS",
+    "cep": "90010460"
+   },
+   "enderecoUnidade": {
+    "endereco": "Rua Washington Luiz",
+    "numero": "675",
+    "complemento": "Centro Histórico",
+    "bairro": null,
+    "municipio": "Porto Alegre",
+    "siglaUf": "RS",
+    "cep": "90010460"
+   }
+  },
+  "1461628": {
+   "id": 1461628,
+   "protocolo": 2026001461628,
+   "nomeEntidade": "Universidade Estadual do Rio Grande do Sul",
+   "nomeEntidadeCliente": "Gabinete da Reitoria",
+   "tipoEntidade": "GOVERNO",
+   "nomeTipoMateria": "Editais",
+   "nomeAssunto": "Concurso",
+   "nomeTipoAssunto": "Funcionários",
+   "responsavelUnidade": "LEONARDO ALVIM BEROLDT DA SILVA",
+   "responsavelOrgao": "LEONARDO ALVIM BEROLDT DA SILVA",
+   "cargoResponsavelOrgao": "Reitor da Universidade Estadual do Rio Grande do Sul",
+   "cargoResponsavelUnidade": "Reitor da Universidade Estadual do Rio Grande do Sul",
+   "dataPublicacao": "31-07-2026",
+   "dataFormatada": "31 de julho de 2026",
+   "conteudo": "<p style=\"text-align: center; \"> <b>UERGS - UNIVERSIDADE ESTADUAL DO RIO GRANDE DO SUL</b></p> <p style=\"text-align: center; widows: 0; \"> <b>CONCURSO PÚBLICO N° 10/2024</b></p> <p style=\"text-align: justify; letter-spacing: -0.1pt; \"> <br> <br> </p> <p style=\"text-align: center; \"> <b>EXTRATO DO EDITAL Nº 188/2026 - HOMOLOGAÇÃO DO RESULTADO FINAL DO CONCURSO PÚBLICO</b></p> <p style=\"text-align: center; widows: 0\"> <br> <br> </p> <p style=\"text-align: justify; \"> <textopuro> A UERGS - Universidade Estadual do Rio Grande do Sul </textopuro><textopuro> , em conformidade às normas de concursos docentes, aprovadas p",
+   "tipoDiario": "DOE",
+   "pagina": 88,
+   "edicaoDoDia": 1,
+   "endereco": {
+    "endereco": "Rua Washington Luiz",
+    "numero": "675",
+    "complemento": "Centro Histórico",
+    "bairro": null,
+    "municipio": "Porto Alegre",
+    "siglaUf": "RS",
+    "cep": "90010460"
+   },
+   "enderecoUnidade": {
+    "endereco": "Rua Washington Luiz",
+    "numero": "675",
+    "complemento": "Centro Histórico",
+    "bairro": null,
+    "municipio": "Porto Alegre",
+    "siglaUf": "RS",
+    "cep": "90010460"
+   }
+  }
+ }
+}

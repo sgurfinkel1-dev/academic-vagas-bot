@@ -16,7 +16,15 @@ from .database import storage
 from .database.models import Vaga
 from .extractors import llm_classifier as clf
 from .sources import (dou, querido_diario, fapesp, universidades_publicas, universidades_privadas,
-                      busca_aberta, gupy, vagas_com, anpof, inlabs, doe_sp)
+                      busca_aberta, gupy, vagas_com, anpof, inlabs,
+                      doe_sp, doe_mg, doe_pr, doe_rs, doe_sc)
+
+# Diários oficiais estaduais. Universidade estadual publica edital aqui, não no
+# DOU, e o Querido Diário só cobre diário municipal — até estas fontes existirem
+# nenhuma vaga de USP, Unicamp, UNESP, UEMG, Unimontes, UEL, UEM, UNIOESTE,
+# UDESC ou UERGS entrava no robô.
+DIARIOS_ESTADUAIS = [("doe_sp", doe_sp), ("doe_mg", doe_mg), ("doe_pr", doe_pr),
+                     ("doe_rs", doe_rs), ("doe_sc", doe_sc)]
 from .alerts import telegram_alert, discord_alert, email_alert
 from .output import export_csv, export_json, export_markdown
 
@@ -127,12 +135,18 @@ def _buscar_palavra(palavra: str, cfg: dict, modo: str = "geral") -> int:
     for v in qd:
         v.area = palavra
     vagas += qd
-    # o botão "Só nos diários oficiais" precisa alcançar o DOE-SP, senão busca
-    # por área não acha vaga de USP/Unicamp/UNESP — que é a maioria em SP.
-    sp = doe_sp.buscar([palavra], dias, 100)
-    for v in sp:
-        v.area = palavra
-    vagas += sp
+    # O botão "Só nos diários oficiais" precisa alcançar os diários ESTADUAIS,
+    # senão busca por área não acha vaga de universidade estadual — que é a
+    # maioria em SP, PR e MG. Uma fonte fora do ar não pode derrubar as outras.
+    for nome, mod in DIARIOS_ESTADUAIS:
+        try:
+            achadas = mod.buscar([palavra], dias, 100)
+        except Exception as e:
+            log.warning("%s: %s", nome, e)
+            continue
+        for v in achadas:
+            v.area = palavra
+        vagas += achadas
     vagas = [v for v in vagas if clf.eh_vaga_academica(
         f"{v.titulo} {v.trecho_comprovacao}", v.classificacao_instituicao, v.fonte)]
     con = storage.conectar()
@@ -193,9 +207,8 @@ def main():
         # sem recorte de UF: diário municipal de qualquer estado interessa, e o
         # painel filtra depois quem quiser só um estado
         ("querido_diario", lambda: querido_diario.buscar(termos, dias, max_f)),
-        # USP, Unicamp e UNESP são estaduais: o edital delas sai no DOE-SP, que
-        # nem o DOU nem o Querido Diário (só municipal) alcançam.
-        ("doe_sp", lambda: doe_sp.buscar(termos, dias, max_f)),
+        *[(nome, lambda m=mod: m.buscar(termos, dias, max_f))
+          for nome, mod in DIARIOS_ESTADUAIS],
         ("fapesp", lambda: fapesp.buscar(user.get("areas", []), max_f)),
         ("universidades_publicas", lambda: universidades_publicas.buscar(cfg.get("paginas_concursos", []), max_f)),
         ("universidades_privadas", lambda: universidades_privadas.buscar(cfg.get("paginas_privadas", []), max_f)),

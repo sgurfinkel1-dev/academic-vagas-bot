@@ -1,0 +1,70 @@
+{
+ "total": 3,
+ "pagination": {
+  "from": 0,
+  "size": 25
+ },
+ "materias": [
+  {
+   "id": 1209949,
+   "nrJornal": "22802",
+   "cdJornal": 4607,
+   "publicacao": "2026-07-22T00:00:00.000Z",
+   "cdCategoria": 4704262,
+   "categoria": "Concursos",
+   "assunto": "EDITAL",
+   "cdAssunto": 47,
+   "cancelada": false,
+   "aprovadaTriagem": true,
+   "pronta": true,
+   "publicada": true,
+   "altura": 447.149,
+   "preco": 0,
+   "motivoCancelamento": null,
+   "extrato": "https://portal.doe.sea.sc.gov.br/#/portal/edicao/4607/materia/1209949",
+   "preview": "https://portal.doe.sea.sc.gov.br/repositorio/2026/20260722/Materias/1209949/1209949_final.html",
+   "resumo": "PROCESSO SELETIVO Nº 05/2026\n\nO Reitor da Fundação Universidade do Estado de Santa Catarina - UDESC, com base na Lei Complementar 345/06,  Resolução 015/2016 - CONSEPE , Lei Complementar 39/91 e suas alterações e supletivamente à Lei Complementar 260/04, abre inscrições para o Processo Seletivo de Professor Substituto, em caráter temporário, para as seguintes vagas:\n\n1. DA DEFINIÇÃO :\n\n1.1. Professor Substituto é o Professor Universitário admitido por prazo determinado para o fim exclusivo de dedicar-se às atividades relacionadas ao ensino, decorrente da falta de professores efetivos e das necessidades dos Centros, conforme a lei de regência e resolução editada pelos colegiados, podendo ser dispensado a qualquer tempo no interesse da Administração Pública, limitando-se a contratação total a 2 (dois) anos.\n\n2. QUADRO DE VAGAS:\n\n2.1. CENTRO DE CIÊNCIAS AGROVETERINÁRIAS - CAV\nCódigo Cargo N\n[...]\nPERÍODO DAS INSCRIÇÕES :\n\n4.1. ISENÇÃO CANDIDATOS AMPARADOS PELA LEI 10.567/97, ALTERADA PELA LEI Nº 17.457/18 (DOADORES DE SANGUE E/OU MEDULA) E PELA LEI 17.998/2020 E RESOLUÇÃO TSE Nº 22.424/2006 (VOLUNTARIADOS DA JUSTIÇA ELEITORAL E JURADOS QUE ATUAREM NO TRIBUNAL DO JÚRI)\nInício: 22/07/2026\nTérmino: 29/07/2026\n\n4.2. CANDIDATOS PAGANTES POR MEIO DE BOLETO BANCÁRIO\nInício: 22/07/2026\nTérmino: 05/08/2026\n\n5. DAS INS"
+  },
+  {
+   "id": 1216123,
+   "nrJornal": "22817",
+   "cdJornal": 4624,
+   "publicacao": "2026-08-12T00:00:00.000Z",
+   "cdCategoria": 4704299,
+   "categoria": "UDESC – Universidade do Estado de Santa Catarina",
+   "assunto": "PORTARIA DE DESIGNAÇÃO",
+   "cdAssunto": 14,
+   "cancelada": false,
+   "aprovadaTriagem": true,
+   "pronta": true,
+   "publicada": true,
+   "altura": 11.562,
+   "preco": 0,
+   "motivoCancelamento": null,
+   "extrato": "https://portal.doe.sea.sc.gov.br/#/portal/edicao/4624/materia/1216123",
+   "preview": "https://portal.doe.sea.sc.gov.br/repositorio/2026/20260812/Materias/1216123/1216123_final.html",
+   "resumo": "PORTARIA Nº 1433, de 11/08/2026.\nO Reitor da Fundação Universidade do Estado de Santa Catarina - UDESC, no uso de suas atribuições e de conformidade com a delegação de competência prevista nos incisos VII e XVII, do artigo 28, do Estatuto da UDESC, RESOLVE:\nDESIGNAR EDER GULART MONTEIRO, matrícula 0361811-0-01, ocupante do cargo de Técnico Universitário de Desenvolvimento da UDESC/Reitoria, para exercer a Função de Confiança de Coordenador de Órgão Suplementar Superior - Editora Universitária, FC-04, no período de 03/08/2026 a 11/04/2028, conforme processo UDESC 29190/2026.\nJOSE FERNANDO FRAGALLI\nREITOR\n\nPORTARIA Nº 1435, de 11/08/2026.\nO Reitor da Fundação Universidade do Estado de Santa Ca"
+  },
+  {
+   "id": 1215934,
+   "nrJornal": "22817",
+   "cdJornal": 4624,
+   "publicacao": "2026-08-12T00:00:00.000Z",
+   "cdCategoria": 4704949,
+   "categoria": "Fundações Estaduais",
+   "assunto": "EDITAL",
+   "cdAssunto": 47,
+   "cancelada": false,
+   "aprovadaTriagem": true,
+   "pronta": true,
+   "publicada": true,
+   "altura": 4.339,
+   "preco": 0,
+   "motivoCancelamento": null,
+   "extrato": "https://portal.doe.sea.sc.gov.br/#/portal/edicao/4624/materia/1215934",
+   "preview": "https://portal.doe.sea.sc.gov.br/repositorio/2026/20260812/Materias/1215934/1215934_final.html",
+   "resumo": "GOVERNO DO ESTADO DE SANTA CATARINA\nFUNDAÇÃO ESCOLA DE GOVERNO – ENA\nAVISO DE INEXIGIBILIDADE DE LICITAÇÃO Nº 77/2026/ENA\nObjeto:  Contratação do Professor Luís Gonzaga Mattos Monteiro, para ministrar a disciplina Ética e Controle Social (18 horas aula) do Curso de Pós-Graduação Lato sensu em Governança e Controle da Regulação.  Valor total:  R$ 3.510,00 (três mil, quinhentos e dez reais).  Contratada:  Luís Gonzaga Mattos Monteiro.  Fundamentação:  Art. 74, inciso III, “f”, da Lei federal nº 14.133, de 1º de abril de 2021.  Processo SGPe:  ENA 315/2026.\nFlorianópolis, 11 de agosto de 2026.\nESTEVÃO ROBERTO RIBEIRO\nPresidente\n"
+  }
+ ],
+ "busca": "professor"
+}

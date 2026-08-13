@@ -32,7 +32,12 @@ fontes:
   dou: true
   inlabs: true         # DOU oficial em XML; exige INLABS_EMAIL/INLABS_SENHA no ambiente
   querido_diario: true
-  doe_sp: true         # Diário Oficial do Estado de SP — USP, Unicamp, UNESP
+  # Diários oficiais estaduais — onde sai o edital de universidade estadual
+  doe_sp: true         # USP, Unicamp, UNESP, Centro Paula Souza
+  doe_mg: true         # UEMG, Unimontes
+  doe_pr: true         # UEL, UEM, UEPG, UNIOESTE, UNICENTRO, UENP, UNESPAR
+  doe_rs: true         # UERGS (baixa frequência: abre em lote, a cada ~2 anos)
+  doe_sc: true         # UDESC
   fapesp: true
   universidades_publicas: true
   universidades_privadas: true
