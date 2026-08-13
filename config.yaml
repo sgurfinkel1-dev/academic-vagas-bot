@@ -32,10 +32,6 @@ fontes:
   dou: true
   inlabs: true         # DOU oficial em XML; exige INLABS_EMAIL/INLABS_SENHA no ambiente
   querido_diario: true
-  doe_sp: true         # Diário Oficial São Paulo (Imprensa Oficial SP)
-  doe_rj: true         # Diário Oficial Rio de Janeiro
-  doe_mg: true         # Diário Oficial Minas Gerais
-  doe_outros_estados: true  # Diários: Pará, Santa Catarina, Rio Grande do Sul, Goiás, Espírito Santo
   fapesp: true
   universidades_publicas: true
   universidades_privadas: true

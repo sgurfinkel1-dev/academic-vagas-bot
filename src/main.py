@@ -16,7 +16,7 @@ from .database import storage
 from .database.models import Vaga
 from .extractors import llm_classifier as clf
 from .sources import (dou, querido_diario, fapesp, universidades_publicas, universidades_privadas,
-                      busca_aberta, gupy, vagas_com, anpof, inlabs, doe_sp, doe_rj, doe_mg, doe_outros_estados)
+                      busca_aberta, gupy, vagas_com, anpof, inlabs)
 from .alerts import telegram_alert, discord_alert, email_alert
 from .output import export_csv, export_json, export_markdown
 
@@ -113,8 +113,7 @@ def _avisar_assinantes(novas: list[Vaga], cfg: dict, user: dict) -> None:
 def _buscar_palavra(palavra: str, cfg: dict, modo: str = "geral") -> int:
     """Busca ao vivo por uma palavra/área e salva no banco.
     modo 'geral': privadas (Gupy) + diários municipais (rápido).
-    modo 'diarios': DOU + diários municipais.
-    modo 'diarios_completo': DOU + INLABS + Querido Diário + DOEs (SP/RJ/MG/PA/SC/RS/GO/ES)."""
+    modo 'diarios': DOU (navegador, lento) + diários municipais."""
     dias = max(cfg["busca"].get("dias_retroativos", 30), 90)  # janela ampla p/ área específica
     vagas = []
     # O DOU entra nos dois modos. Antes só o modo 'diarios' o consultava, e como
@@ -122,28 +121,12 @@ def _buscar_palavra(palavra: str, cfg: dict, modo: str = "geral") -> int:
     # específica não chegava à fonte onde sai a maior parte dos concursos
     # públicos — buscava só nas privadas e voltava achando que não havia vaga.
     vagas += dou.buscar_palavra(palavra, dias)
-    if modo == "diarios_completo":
-        # Roda todas as fontes de diários: INLABS + Querido Diário + DOEs
-        vagas += inlabs.buscar(dias, 500)
-        qd = querido_diario.buscar([palavra], dias, 100)
-        for v in qd:
-            v.area = palavra
-        vagas += qd
-        vagas += doe_sp.buscar([palavra], dias, 100)
-        vagas += doe_rj.buscar([palavra], dias, 100)
-        vagas += doe_mg.buscar([palavra], dias, 100)
-        vagas += doe_outros_estados.buscar([palavra], dias, 100)
-    elif modo != "diarios":
+    if modo != "diarios":
         vagas += gupy.buscar([palavra])
-        qd = querido_diario.buscar([palavra], dias, 100)
-        for v in qd:
-            v.area = palavra
-        vagas += qd
-    else:
-        qd = querido_diario.buscar([palavra], dias, 100)
-        for v in qd:
-            v.area = palavra
-        vagas += qd
+    qd = querido_diario.buscar([palavra], dias, 100)
+    for v in qd:
+        v.area = palavra
+    vagas += qd
     vagas = [v for v in vagas if clf.eh_vaga_academica(
         f"{v.titulo} {v.trecho_comprovacao}", v.classificacao_instituicao, v.fonte)]
     con = storage.conectar()
@@ -159,7 +142,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--config", default=str(Path(__file__).resolve().parents[1] / "config.yaml"))
     ap.add_argument("--palavra", help="busca ao vivo por esta palavra/área (ex.: Direito)")
-    ap.add_argument("--modo", default="geral", choices=["geral", "diarios", "diarios_completo"])
+    ap.add_argument("--modo", default="geral", choices=["geral", "diarios"])
     ap.add_argument("--email-teste", action="store_true",
                     help="envia 1 e-mail de teste (valida SMTP_USER/SMTP_PASS) e sai")
     args = ap.parse_args()
@@ -204,12 +187,6 @@ def main():
         # sem recorte de UF: diário municipal de qualquer estado interessa, e o
         # painel filtra depois quem quiser só um estado
         ("querido_diario", lambda: querido_diario.buscar(termos, dias, max_f)),
-        # Diários Oficiais estaduais: São Paulo, Rio, Minas
-        ("doe_sp", lambda: doe_sp.buscar(termos, dias, max_f)),
-        ("doe_rj", lambda: doe_rj.buscar(termos, dias, max_f)),
-        ("doe_mg", lambda: doe_mg.buscar(termos, dias, max_f)),
-        # Diários Oficiais outros estados: PA, SC, RS, GO, ES
-        ("doe_outros_estados", lambda: doe_outros_estados.buscar(termos, dias, max_f)),
         ("fapesp", lambda: fapesp.buscar(user.get("areas", []), max_f)),
         ("universidades_publicas", lambda: universidades_publicas.buscar(cfg.get("paginas_concursos", []), max_f)),
         ("universidades_privadas", lambda: universidades_privadas.buscar(cfg.get("paginas_privadas", []), max_f)),
