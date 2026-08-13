@@ -177,13 +177,31 @@ def _busca_viva(palavra: str, modo: str, aviso: str):
             st.success(f"🔎 Busca por '{palavra}' iniciada na nuvem. "
                        "Os resultados entram no painel em ~5-10 min (a página se atualiza sozinha).")
         else:
-            st.error("Não consegui iniciar a busca. Avise o responsável pelo app.")
+            st.error("O GitHub recusou o disparo. Confira se o `github_token` "
+                     "dos secrets ainda é válido e tem escopo `workflow`.")
         return
+    # Sem os secrets do GitHub só resta rodar aqui dentro. Isso funciona na
+    # máquina do dono e NÃO funciona no Streamlit Cloud: o container não tem
+    # navegador para o DOU. Sem timeout, o botão ficava girando para sempre e
+    # parecia quebrado — era o sintoma relatado em 13/08/2026.
     with st.spinner(aviso):
-        r = subprocess.run([sys.executable, "-m", "src.main", "--palavra", palavra, "--modo", modo],
-                           cwd=RAIZ, capture_output=True, text=True)
-    st.success(r.stdout.strip()[-200:] if r.returncode == 0 else f"Erro: {r.stderr[-300:]}")
-    st.rerun()
+        try:
+            r = subprocess.run(
+                [sys.executable, "-m", "src.main", "--palavra", palavra, "--modo", modo],
+                cwd=RAIZ, capture_output=True, text=True, timeout=600)
+        except subprocess.TimeoutExpired:
+            st.error(
+                "A busca passou de 10 min e foi interrompida. Se este app está "
+                "no Streamlit Cloud, ele não consegue rodar o robô sozinho: "
+                "grave `github_repo` e `github_token` nos secrets para que o "
+                "botão dispare o GitHub Actions, que é onde há navegador.")
+            return
+    if r.returncode == 0:
+        st.success(r.stdout.strip()[-300:] or "Busca concluída.")
+        st.rerun()
+    else:
+        st.error(f"A busca falhou (código {r.returncode}). "
+                 f"Fim do erro: {(r.stderr or '').strip()[-400:]}")
 
 
 def _painel_config():
@@ -267,6 +285,13 @@ with st.form("busca_texto", border=False):
                                      type="primary")
     b_diarios = bc2.form_submit_button("Só nos diários oficiais",
                                        use_container_width=True)
+    # Estado visível: sem os secrets do GitHub o botão cai no subprocess local,
+    # que no Streamlit Cloud não roda. Dizer isso aqui evita o sintoma de
+    # 13/08/2026 — botão que parecia morto sem nenhuma explicação.
+    if ao_vivo and not (_secret("github_repo") and _secret("github_token")):
+        st.caption("⚠️ Sem `github_repo`/`github_token` nos secrets: a busca "
+                   "tenta rodar neste servidor. Funciona na máquina local; no "
+                   "Streamlit Cloud, não (falta navegador para o DOU).")
 
 with st.expander("Filtros avançados", expanded=False):
     fc1, fc2, fc3 = st.columns(3)
