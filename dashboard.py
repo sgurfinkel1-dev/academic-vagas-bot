@@ -285,13 +285,19 @@ with st.form("busca_texto", border=False):
                                      type="primary")
     b_diarios = bc2.form_submit_button("Só nos diários oficiais",
                                        use_container_width=True)
-    # Estado visível: sem os secrets do GitHub o botão cai no subprocess local,
-    # que no Streamlit Cloud não roda. Dizer isso aqui evita o sintoma de
-    # 13/08/2026 — botão que parecia morto sem nenhuma explicação.
-    if ao_vivo and not (_secret("github_repo") and _secret("github_token")):
-        st.caption("⚠️ Sem `github_repo`/`github_token` nos secrets: a busca "
-                   "tenta rodar neste servidor. Funciona na máquina local; no "
-                   "Streamlit Cloud, não (falta navegador para o DOU).")
+    # Estado visível. Sintoma relatado em 13/08/2026: o botão não fazia NADA —
+    # nem erro, nem spinner. Causa: com só um dos dois secrets do GitHub,
+    # _tem_busca_viva() cai no ramo de baixo e devolve False quando há login
+    # configurado; aí os handlers nunca disparam. Botão morto e mudo é o pior
+    # dos mundos, então o painel passa a dizer o que falta.
+    _falta = [c for c in ("github_repo", "github_token") if not _secret(c)]
+    if _falta:
+        st.caption(
+            f"⚠️ Falta nos secrets do app: `{'`, `'.join(_falta)}`. "
+            + ("Enquanto isso os botões acima não fazem nada."
+               if not ao_vivo else
+               "A busca tentará rodar neste servidor — funciona local, mas "
+               "não no Streamlit Cloud, que não tem navegador para o DOU."))
 
 with st.expander("Filtros avançados", expanded=False):
     fc1, fc2, fc3 = st.columns(3)
