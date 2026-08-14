@@ -161,47 +161,52 @@ if not DB.exists():
     st.warning("Banco vazio. Clique em 'Buscar novas vagas' na barra lateral ou rode `python -m src.main`.")
 
 def _tem_busca_viva() -> bool:
-    """Na nuvem, precisa dos secrets do GitHub (o robô roda lá, que tem navegador para o
-    DOU; o container do Streamlit não tem). Local, roda direto. Sem isso, os botões de
-    busca ao vivo nem aparecem — botão que não faz nada só confunde."""
+    """Com os secrets do GitHub, o botão dispara o Actions (que tem navegador e
+    portanto alcança o DOU). Sem eles, busca aqui mesmo nas fontes que são httpx
+    puro — os cinco diários estaduais, o Querido Diário e o Gupy.
+
+    A versão anterior exigia os DOIS secrets e, faltando um, devolvia False
+    quando havia login configurado: os botões apareciam e não faziam nada, sem
+    erro nem aviso. Agora basta o código estar presente."""
     if _secret("github_repo") and _secret("github_token"):
         return True
-    return RAIZ.joinpath("src").exists() and not _secret("auth")
+    return RAIZ.joinpath("src").exists()
 
 
 def _busca_viva(palavra: str, modo: str, aviso: str):
-    """Dispara o robô no GitHub Actions (nuvem) ou direto (local)."""
+    """Dispara o robô no GitHub Actions e, se não der, busca aqui mesmo.
+
+    O caminho do GitHub é melhor quando existe, porque lá há navegador e
+    portanto o DOU entra. Mas ele depende de um token válido com permissão de
+    Actions — e token fine-grained sem essa permissão devolve 403. Antes isso
+    virava uma mensagem de erro e ponto: o botão não fazia nada de útil. Agora
+    o 403 apenas rebaixa a busca para as fontes que rodam aqui.
+    """
     repo, token = _secret("github_repo"), _secret("github_token")
     if repo and token:
         if nuvem.disparar_busca(repo, token, palavra=palavra, modo=modo):
             st.success(f"🔎 Busca por '{palavra}' iniciada na nuvem. "
                        "Os resultados entram no painel em ~5-10 min (a página se atualiza sozinha).")
-        else:
-            st.error("O GitHub recusou o disparo. Confira se o `github_token` "
-                     "dos secrets ainda é válido e tem escopo `workflow`.")
-        return
-    # Sem os secrets do GitHub só resta rodar aqui dentro. Isso funciona na
-    # máquina do dono e NÃO funciona no Streamlit Cloud: o container não tem
-    # navegador para o DOU. Sem timeout, o botão ficava girando para sempre e
-    # parecia quebrado — era o sintoma relatado em 13/08/2026.
+            return
+        st.warning("O GitHub recusou o disparo — token sem permissão de "
+                   "**Actions: Read and write**, ou expirado. Buscando aqui "
+                   "mesmo, sem o DOU.")
+    # Sem token do GitHub, busca aqui mesmo. Das fontes de diário só o scraper
+    # do DOU precisa de navegador; os cinco diários estaduais, o Querido Diário
+    # e o Gupy são httpx puro e rodam no container do Streamlit. Antes isto era
+    # um subprocess do pipeline inteiro, que travava sem navegador e fazia o
+    # botão parecer morto — sintoma relatado em 13/08/2026.
     with st.spinner(aviso):
         try:
-            r = subprocess.run(
-                [sys.executable, "-m", "src.main", "--palavra", palavra, "--modo", modo],
-                cwd=RAIZ, capture_output=True, text=True, timeout=600)
-        except subprocess.TimeoutExpired:
-            st.error(
-                "A busca passou de 10 min e foi interrompida. Se este app está "
-                "no Streamlit Cloud, ele não consegue rodar o robô sozinho: "
-                "grave `github_repo` e `github_token` nos secrets para que o "
-                "botão dispare o GitHub Actions, que é onde há navegador.")
+            from src.main import buscar_no_processo
+            achadas, novas = buscar_no_processo(palavra, modo)
+        except Exception as e:
+            st.error(f"A busca falhou: {type(e).__name__}: {e}")
             return
-    if r.returncode == 0:
-        st.success(r.stdout.strip()[-300:] or "Busca concluída.")
-        st.rerun()
-    else:
-        st.error(f"A busca falhou (código {r.returncode}). "
-                 f"Fim do erro: {(r.stderr or '').strip()[-400:]}")
+    st.success(f"'{palavra}': {achadas} encontradas, {novas} novas. "
+               "O DOU não entra por aqui (precisa de navegador) — ele vem na "
+               "coleta automática das 07:00.")
+    st.rerun()
 
 
 def _painel_config():
@@ -293,11 +298,10 @@ with st.form("busca_texto", border=False):
     _falta = [c for c in ("github_repo", "github_token") if not _secret(c)]
     if _falta:
         st.caption(
-            f"⚠️ Falta nos secrets do app: `{'`, `'.join(_falta)}`. "
-            + ("Enquanto isso os botões acima não fazem nada."
-               if not ao_vivo else
-               "A busca tentará rodar neste servidor — funciona local, mas "
-               "não no Streamlit Cloud, que não tem navegador para o DOU."))
+            "Busca direta nos diários estaduais e municipais. O DOU fica de "
+            "fora (precisa de navegador) e entra na coleta automática das "
+            f"07:00. Para incluí-lo aqui, grave `{'`, `'.join(_falta)}` nos "
+            "secrets do app.")
 
 with st.expander("Filtros avançados", expanded=False):
     fc1, fc2, fc3 = st.columns(3)

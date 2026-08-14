@@ -137,17 +137,26 @@ def _avisar_assinantes(novas: list[Vaga], cfg: dict, user: dict) -> None:
     log.info("alertas por e-mail enviados a %d assinante(s)", enviados)
 
 
-def _buscar_palavra(palavra: str, cfg: dict, modo: str = "geral") -> int:
+def _buscar_palavra(palavra: str, cfg: dict, modo: str = "geral",
+                    usar_navegador: bool = True) -> int:
     """Busca ao vivo por uma palavra/área e salva no banco.
     modo 'geral': privadas (Gupy) + diários municipais (rápido).
-    modo 'diarios': DOU (navegador, lento) + diários municipais."""
+    modo 'diarios': DOU (navegador, lento) + diários municipais e estaduais.
+
+    usar_navegador=False pula só o scraper do DOU, que é a ÚNICA fonte daqui
+    que precisa de navegador (scrapling/playwright). Isso deixa a busca rodar
+    dentro do container do Streamlit Cloud, onde não há navegador: os cinco
+    diários estaduais, o Querido Diário e o Gupy são httpx puro. Sem esta
+    saída, o painel dependia de um token do GitHub só para poder buscar.
+    """
     dias = max(cfg["busca"].get("dias_retroativos", 30), 90)  # janela ampla p/ área específica
     vagas = []
     # O DOU entra nos dois modos. Antes só o modo 'diarios' o consultava, e como
     # "Busca geral" é o botão principal do painel, quem procurava uma área
     # específica não chegava à fonte onde sai a maior parte dos concursos
     # públicos — buscava só nas privadas e voltava achando que não havia vaga.
-    vagas += dou.buscar_palavra(palavra, dias)
+    if usar_navegador:
+        vagas += dou.buscar_palavra(palavra, dias)
     if modo != "diarios":
         vagas += gupy.buscar([palavra])
     qd = querido_diario.buscar([palavra], dias, 100)
@@ -174,7 +183,18 @@ def _buscar_palavra(palavra: str, cfg: dict, modo: str = "geral") -> int:
     export_json.exportar(storage.todas(con))
     export_markdown.exportar(storage.todas(con))
     print(f"Busca '{palavra}': {len(vagas)} encontradas, {len(novas)} novas.")
-    return 0
+    return len(vagas), len(novas)
+
+
+def buscar_no_processo(palavra: str, modo: str = "diarios",
+                       config: str | None = None) -> tuple[int, int]:
+    """Busca sem navegador, para o painel chamar direto em vez de subir um
+    processo. Devolve (encontradas, novas). É o que permite o botão funcionar
+    no Streamlit Cloud sem token do GitHub.
+    """
+    caminho = config or str(Path(__file__).resolve().parents[1] / "config.yaml")
+    cfg = yaml.safe_load(Path(caminho).read_text(encoding="utf-8"))
+    return _buscar_palavra(palavra, cfg, modo, usar_navegador=False)
 
 
 def main():
@@ -206,7 +226,8 @@ def main():
             cfg["busca"]["dias_retroativos"] = ag["dias_retroativos"]
 
     if args.palavra:
-        return _buscar_palavra(args.palavra, cfg, args.modo)
+        _buscar_palavra(args.palavra, cfg, args.modo)
+        return 0
 
     user, busca, fontes = cfg["usuario"], cfg["busca"], cfg["fontes"]
     # base (professor, docente, concurso...) + as áreas escolhidas pelo usuário.
