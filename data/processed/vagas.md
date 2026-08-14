@@ -1,10 +1,28 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (762)
+## Públicas federais (780)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor substituto em educação — Pró-Reitoria de Gestão de Pessoas (PORTARIA N | Pró-Reitoria de Gestão de Pessoas | educação |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-normativa-n-119-de-13-de-agosto-de-2026-725474022) |
+| Professor substituto em educação — Universidade Federal Rural da Amazônia (PORTA | Universidade Federal Rural da Amazônia | educação |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.154-de-13-de-agosto-de-2026-725503673) |
+| Docente (outros) — Pró-Reitoria de Gestão de Pessoas (PORTARIA Nº 7.479/PROGEPE/ | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-7.479/progepe/ifpr-de-13-de-agosto-de-2026-725544477) |
+| Professor substituto — Pró-Reitoria de Gestão com Pessoas (EDITAL Nº 581) | Pró-Reitoria de Gestão com Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-581-de-13-de-agosto-de-2026-725345973) |
+| Docente (outros) — Pró-Reitoria de Gestão de Pessoas (PORTARIA Nº 7.456/PROGEPE/ | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-7.456/progepe/ifpr-de-13-de-agosto-de-2026-725511984) |
+| Professor visitante — Instituto Federal de Educação, Ciência e Tecnologia de San | Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/retificacao-725447503) |
+| DESPACHO Nº 4.109, DE 13 DE AGOSTO DE 2026 | Universidade Federal de Itajubá |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-n-4.109-de-13-de-agosto-de-2026-725532062) |
+| Docente (outros) — Universidade Federal do Paraná (Portaria UFPR nº 702) | Universidade Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-ufpr-n-702-de-7-de-agosto-de-2026-725536257) |
+| Pós-doutorado em física — Fundação Universidade Federal de Sergipe (PORTARIA Nº  | Fundação Universidade Federal de Sergipe | física |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-960-de-13-de-agosto-de-2026-725524782) |
+| Despacho DE 12 de agosto de 2026 | Universidade Federal de Santa Catarina |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-12-de-agosto-de-2026-725522730) |
+| PORTARIAS DE 11 DE AGOSTO DE 2026 | Universidade Federal de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-11-de-agosto-de-2026-725547319) |
+| PORTARIAS DE 12 DE AGOSTO DE 2026 | Universidade Federal de São Paulo | enfermagem |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-12-de-agosto-de-2026-725452788) |
+| Docente (outros) — Instituto Federal de Educação, Ciência e Tecnologia do Maranh | Instituto Federal de Educação, Ciência e Tecnologia do Maranhão |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-3.340-gab-reit/reitoria/ifma-de-13-de-agosto-de-2026-725539575) |
+| PORTARIAS DE 13 DE AGOSTO DE 2026 | Pró-Reitoria de Recursos Humanos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-13-de-agosto-de-2026-725444366) |
+| DESPACHO DE 13 DE AGOSTO DE 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-13-de-agosto-de-2026-725525019) |
+| Professor efetivo (concurso público) — Fundação Universidade Federal de Pelotas  | Fundação Universidade Federal de Pelotas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-n-3.262/ufpel-de-13-de-agosto-de-2026-725522651) |
+| Professor efetivo (concurso público) em direito — Universidade Federal do Rio Gr | Universidade Federal do Rio Grande do Sul | direito |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-5.759-de-13-de-agosto-de-2026-725464241) |
+| Professor efetivo (concurso público) em direito — Universidade Federal do Rio Gr | Universidade Federal do Rio Grande do Sul | direito |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-5.756-de-13-de-agosto-de-2026-725456440) |
 | Docente (outros) — Universidade Federal do Recôncavo da Bahia (PORTARIA UFRB N°  | Universidade Federal do Recôncavo da Bahia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-ufrb-n-621-de-13-de-julho-de-2026-719031493) |
 | Docente (outros) — Pró-Reitoria de Gestão de Pessoas (PORTARIA DE PESSOAL PROGEP | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-progepe/ufjf-n-896-de-15-de-julho-de-2026-720038711) |
 | PORTARIAS DE 23 DE JULHO DE 2026 | Universidade Federal de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-23-de-julho-de-2026-721888368) |
@@ -768,10 +786,11 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (285)
+## Públicas estaduais (286)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Pesquisador — Universidade do Estado do Rio de Janeiro (UERJ) (EDITAL FAPERJ Nº  | Universidade do Estado do Rio de Janeiro (UERJ) |  |  | sem prazo identificado | [link](https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjA4MTQ=) |
 | COMUNICADO Nº 172-2026 - CONCURSO Nº 170-2025 | Universidade de São Paulo — Escola Politécnica | engenharia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/comunicado-n-172-2026-concurso-n-170-2025-202607141342291661979847) |
 | Professor efetivo (concurso público) — Universidade Estadual de Campinas — Secre | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-17-p-08937-2026-de-14-de-julho-de-2026-20260714134322661980191) |
 | Docente (outros) — Universidade Estadual de Campinas — Secretaria Geral (EDITAL  | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-12-p-14691-2025-de-14-de-julho-de-2026-20260714134322661979581) |
@@ -1084,10 +1103,11 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (231)
+## Institutos públicos (232)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Pós-doutorado — Gabinete (EDITAL Nº 6) | Gabinete |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-6-de-12-de-agosto-de-2026-725382395) |
 | CONCURSO Nº 02.01, DE 14 DE JULHO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0201-de-14-de-julho-de-2026-202607141314142741981798) |
 | Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-0501-de-14-de-julho-de-2026-2026071413141461981081) |
 | EDITAL Nº 12/2026 - REPUBLICAÇÃO Perfil : Consultoria especializada para para su | Secretaria de Desenvolvimento Social — Assessoria Técnica | filosofia |  | sem prazo identificado | [link](https://www.diariooficial.rs.gov.br/materia?id=1447254) |
@@ -1698,10 +1718,11 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (192)
+## Bolsas / pós-doc / agências (193)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EXTRATO DE CONCESSÃO DE AUXÍLIO FINANCEIRO À PESQUISADORES | Diretoria de Programas e Bolsas no País |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-de-auxilio-financeiro-a-pesquisadores-725395038) |
 | Bolsa de PD em Políticas Curriculares | Escola de Administração de Empresas de São Paulo, Fundação Getulio Vargas (FGV EAESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-estudos-em-implementacao-de-politicas-educacionais-(cipe)/9726/) |
 | Bolsa de Mestrado em Biologia Molecular, Imunologia e Oncologia | Faculdade de Medicina, Universidade de São Paulo (FM-USP) | biologia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../interacoes-moleculares-no-microambiente-tumoral-do-cancer-de-prostata:-evasao-imunologica-mediada-por-micrornas-e-a-disfuncao-das-celulas-nk/9730/) |
 | Bolsa de PD em Políticas Curriculares | Escola de Administração de Empresas de São Paulo, Fundação Getulio Vargas (FGV EAESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-estudos-em-implementacao-de-politicas-educacionais--atencao:-“analise-da-formulacao-e-implementacao-do-curriculo-paulista/9726/) |
@@ -1895,10 +1916,11 @@
 | Bolsa de PD em Saúde Coletiva | Faculdade de Enfermagem, Universidade Estadual de Campinas (FEnf-Unicamp ) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../projeto-ubuntu:-os-4-rs-da-educacao-antirracista-para-equidade-em-saude/9598/) |
 | Bolsa de PD em Química, Instrumentação Analítica e Engenharia Mecânica/Eletrônic | Departamento de Química – Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, Universidade de São Paulo (FFCLRP-USP) | química |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../novas-ferramentas-analiticas-para-o-estudo-da-doenca-de-parkinson:-automacao-do-preparo-de-amostras-biologicas-dispositivos-3d-printed@mip-e-cromatografia-liquida-capilar-portatil/9600/) |
 
-## Verificar manualmente (44)
+## Verificar manualmente (45)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Pós-doutorado — Secretaria Nacional de Segurança Pública (PORTARIA SENASP/MJSP N | Secretaria Nacional de Segurança Pública |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-senasp/mjsp-n-668-de-12-de-agosto-de-2026-725568728) |
 | Pesquisador — Secretaria Executiva (PORTARIA DE PESSOAL SE/MS Nº 623) | Secretaria Executiva |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-se/ms-n-623-de-28-de-julho-de-2026-721897162) |
 | PortariaS de 27 de julho de 2026 | Fundação Oswaldo Cruz |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-27-de-julho-de-2026-721676896) |
 | Portarias de 16 de julho de 2026 | Fundação Oswaldo Cruz |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-16-de-julho-de-2026-719852976) |
