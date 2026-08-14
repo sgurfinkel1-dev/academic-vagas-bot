@@ -17,14 +17,14 @@ from .database.models import Vaga
 from .extractors import llm_classifier as clf
 from .sources import (dou, querido_diario, fapesp, universidades_publicas, universidades_privadas,
                       busca_aberta, gupy, vagas_com, anpof, inlabs,
-                      doe_sp, doe_mg, doe_pr, doe_rs, doe_sc)
+                      doe_sp, doe_mg, doe_pr, doe_rj, doe_rs, doe_sc)
 
 # Diários oficiais estaduais. Universidade estadual publica edital aqui, não no
 # DOU, e o Querido Diário só cobre diário municipal — até estas fontes existirem
 # nenhuma vaga de USP, Unicamp, UNESP, UEMG, Unimontes, UEL, UEM, UNIOESTE,
 # UDESC ou UERGS entrava no robô.
 DIARIOS_ESTADUAIS = [("doe_sp", doe_sp), ("doe_mg", doe_mg), ("doe_pr", doe_pr),
-                     ("doe_rs", doe_rs), ("doe_sc", doe_sc)]
+                     ("doe_rj", doe_rj), ("doe_rs", doe_rs), ("doe_sc", doe_sc)]
 
 # Âncoras de cargo que todo diário estadual entende como palavra solta.
 ANCORAS_DIARIO = ("professor", "docente", "pesquisador", "magistério", "pós-doutorado")

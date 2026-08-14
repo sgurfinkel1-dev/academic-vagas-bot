@@ -7,3 +7,4 @@ streamlit
 authlib
 pdfplumber
 scrapling[fetchers]
+pymupdf

@@ -36,6 +36,7 @@ fontes:
   doe_sp: true         # USP, Unicamp, UNESP, Centro Paula Souza
   doe_mg: true         # UEMG, Unimontes
   doe_pr: true         # UEL, UEM, UEPG, UNIOESTE, UNICENTRO, UENP, UNESPAR
+  doe_rj: true         # UERJ, UENF (diário em PDF; exige pymupdf)
   doe_rs: true         # UERGS (baixa frequência: abre em lote, a cada ~2 anos)
   doe_sc: true         # UDESC
   # Faltam RJ, ES e GO. Situação apurada em 13/08/2026, para quem retomar:
