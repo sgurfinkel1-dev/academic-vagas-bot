@@ -1,10 +1,18 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (786)
+## Públicas federais (794)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Docente (outros) — Universidade Federal do Recôncavo da Bahia (PORTARIA UFRB N°  | Universidade Federal do Recôncavo da Bahia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-ufrb-n-651-de-15-de-julho-de-2026-719611716) |
+| Docente (outros) — Universidade Federal do Recôncavo da Bahia (PORTARIA UFRB N°  | Universidade Federal do Recôncavo da Bahia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-ufrb-n-657-de-15-de-julho-de-2026-719832335) |
+| Docente (outros) — Universidade Federal do Recôncavo da Bahia (PORTARIA UFRB N°  | Universidade Federal do Recôncavo da Bahia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-ufrb-n-664-de-15-de-julho-de-2026-719600918) |
+| Docente (outros) — Universidade Federal do Paraná (Portaria UFPR nº 688) | Universidade Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-ufpr-n-688-de-28-de-julho-de-2026-724279535) |
+| Professor efetivo (concurso público) em biologia — Universidade Federal de Lavra | Universidade Federal de Lavras | biologia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-861-de-27-de-julho-de-2026-722165500) |
+| Professor efetivo (concurso público) em biologia — Universidade Federal de Lavra | Universidade Federal de Lavras | biologia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-891-de-4-de-agosto-de-2026-723791289) |
+| Professor efetivo (concurso público) em economia — Superintendência de Gestão de | Superintendência de Gestão de Pessoas | economia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-434-de-5-de-agosto-de-2026-723775770) |
+| PORTARIAS DE 7 DE AGOSTO DE 2026 | Universidade Federal de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-7-de-agosto-de-2026-724752102) |
 | Docente (outros) — Pró-Reitoria de Gestão de Pessoas (PORTARIA Nº 7.299 PROGEPE/ | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-7.299-progepe/ifpr-de-10-de-agosto-de-2026-724510606) |
 | Docente (outros) — Pró-Reitoria de Gestão de Pessoas (PORTARIA Nº 7.003/PROGEPE/ | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-7.003/progepe/ifpr-de-4-de-agosto-de-2026-723505008) |
 | Docente (outros) — Universidade Federal do Recôncavo da Bahia (PORTARIA UFRB N°  | Universidade Federal do Recôncavo da Bahia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-ufrb-n-665-de-15-de-julho-de-2026-719840840) |
@@ -792,10 +800,13 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (303)
+## Públicas estaduais (306)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Docente (outros) — Universidade de São Paulo — Escola de Engenharia de São Carlo | Universidade de São Paulo — Escola de Engenharia de São Carlos |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-dvacad-eesc-n-23-de-16-de-julho-de-2026-202607161342281661984696) |
+| Docente (outros) em biologia — Universidade de São Paulo — Faculdade de Filosofi | Universidade de São Paulo — Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto | biologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-dvacad-029-2026-concurso-de-livre-docencia-departamento-de-biologia-2026073113422203672019029) |
+| Docente (outros) em educação — Universidade de São Paulo — Faculdade de Filosofi | Universidade de São Paulo — Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto | educação |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-dvacad-033-2026-concurso-de-livre-docencia-departamento-de-educacao-informacao-e-comunicacao-2026073113422203672019302) |
 | Docente (outros) — Universidade Estadual de Campinas — Diretoria Geral de Recurs | Universidade Estadual de Campinas — Diretoria Geral de Recursos Humanos |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-de-prorrogacao-de-posse-de-15-de-julho-de-2026-20260715134322461982430) |
 | Professor efetivo (concurso público) — Universidade Estadual Paulista — Faculdad | Universidade Estadual Paulista — Faculdade de Ciências Agronômicas |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-685-2026-cscgp-fca-resultado-e-classificacao-final-definitiva-20260715134446261982087) |
 | Docente (outros) em letras/linguística — Universidade Estadual Paulista — Instit | Universidade Estadual Paulista — Instituto de Biociências, Letras e Ciências Exatas | letras/linguística |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-stpg-291-2026-processo-seletivo-ingresso-2027-programa-de-pos-graduacao-em-letras-unesp-sao-jose-do-rio-preto-20260716114641911991985531) |
@@ -1100,10 +1111,12 @@
 | pós-doutorado — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-06-09/b033b608510dd845e504e8d1445291f039defc8d.pdf) |
 | Gerenciamento de Pesquisadores | UNICAMP |  |  | sem prazo identificado | [link](https://www.dgrh.unicamp.br/link-sistema-de-gerenciamento-de-pesquisadores) |
 
-## Públicas municipais (21)
+## Públicas municipais (23)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| enfermagem — DO de Jundiaí | Jundiaí | enfermagem |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3525904/2026-08-14/f8cb27e2ec4eaa84f3062a08b3a605bcb6f289c0.pdf) |
+| matemática — DO de Arapongas | Arapongas | matemática |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/4101507/2026-08-14/045e358836625f8aac093d1c7ba177fd3601af4d.pdf) |
 | epidemiologia — DO de Betim | Betim | epidemiologia |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3106705/2026-05-29/61c4d1ced71eaf9e2e5c41f0264aa993262cf640.pdf) |
 | docente — DO de Porto Real do Colégio | Porto Real do Colégio | educação |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/2700000/2026-08-11/36e0bbbb835092ef5ef2e72925621204916c9c15.pdf) |
 | docente — DO de Curitiba | Curitiba |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/4106902/2026-08-03/31bf6ac49149520fdd4c3c6b594025c6b7db8c56.pdf) |
@@ -1126,10 +1139,15 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (236)
+## Institutos públicos (241)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| DESPACHO DE 6 DE AGOSTO DE 2026 | Gabinete da Ministra |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-6-de-agosto-de-2026-724069420) |
+| docente — DO de Alcobaça | Alcobaça |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/2900801/2026-08-14/1598944cc87e4963fcfaf4cb4eb830b88cc212e6.pdf) |
+| enfermagem — DO de Ourinhos | Ourinhos | enfermagem |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3534708/2026-08-14/73c178b728e19a8c5b64a9c5bfbd14c9558bc3ee.pdf) |
+| matemática — DO de Estrela | Estrela | matemática |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/4307807/2026-08-13/5e8012a84f394222c25e6bc3606a24a9ae44b46c.pdf) |
+| CONCURSO Nº 08.01, DE 16 DE JULHO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0801-de-16-de-julho-de-2026-202607161314142741986426) |
 | Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-1001-de-15-de-julho-de-2026-2026071513141461984339) |
 | Pesquisador — Secretaria da Saúde — Instituto Butantan (EDITAL Nº 28) | Secretaria da Saúde — Instituto Butantan |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-da-saude/edital-n-28-de-24-de-julho-de-2026-20260724133581162001591) |
 | Pesquisador em medicina — Secretaria da Saúde — Instituto Butantan (EDITAL Nº 29 | Secretaria da Saúde — Instituto Butantan | medicina |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-da-saude/edital-n-29-de-24-de-julho-de-2026-20260724133581162001604) |
