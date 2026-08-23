@@ -1,10 +1,16 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (1030)
+## Públicas federais (1036)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Docente (outros) — Instituto Federal de Educação, Ciência e Tecnologia do Acre ( | Instituto Federal de Educação, Ciência e Tecnologia do Acre |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-ifac-n-1.426-de-19-de-agosto-de-2026-726996193) |
+| PORTARIAS DE 10 DE AGOSTO DE 2026 | Universidade Federal de Santa Catarina |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-10-de-agosto-de-2026-724772528) |
+| Professor efetivo (concurso público) em medicina — Universidade Federal do Rio d | Universidade Federal do Rio de Janeiro | medicina |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-8.487-de-13-de-agosto-de-2026-725960594) |
+| Professor efetivo (concurso público) em química — Universidade Federal de Lavras | Universidade Federal de Lavras | química |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-927-de-13-de-agosto-de-2026-725536392) |
+| Professor efetivo (concurso público) em química — Universidade Federal de Lavras | Universidade Federal de Lavras | química |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-867-de-28-de-julho-de-2026-722156733) |
+| Docente (outros) em filosofia — Instituto Federal de Educação, Ciência e Tecnolo | Instituto Federal de Educação, Ciência e Tecnologia do Piauí | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-2.762-gab/rei/ifpi-de-17-de-agosto-de-2026-726410790) |
 | Docente (outros) em medicina — Diretoria de Desenvolvimento de Pessoas (PORTARIA | Diretoria de Desenvolvimento de Pessoas | medicina |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-ddp/progepe-n-305-de-12-de-agosto-de-2026-726677062) |
 | PORTARIAS DE 29 DE JULHO DE 2026 | Universidade Federal do Rio Grande do Sul | matemática |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-29-de-julho-de-2026-722476435) |
 | Despacho DE 19 de agosto de 2026 | Universidade Federal de Santa Catarina | educação |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-19-de-agosto-de-2026-726983564) |
@@ -1036,10 +1042,50 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (374)
+## Públicas estaduais (414)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Docente (outros) — Universidade Estadual Paulista — Instituto de Ciências e Enge | Universidade Estadual Paulista — Instituto de Ciências e Engenharia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-stpg-n-08-2026-processo-seletivo-unificado-ingresso-2027-1-pos-graduacao-unesp-20260723134441212741998882) |
+| Docente (outros) em biologia — Universidade Estadual Paulista — Instituto de Bio | Universidade Estadual Paulista — Instituto de Biociências | biologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-05-2026-gen-stpg-ibb-20260723134446562000960) |
+| Docente (outros) — Universidade Estadual Paulista — Instituto de Biociências (ED | Universidade Estadual Paulista — Instituto de Biociências |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-03-2026-biom-stpg-ibb-20260723134446562000993) |
+| Docente (outros) — Universidade Estadual Paulista — Campus de Ilha Solteira (EDI | Universidade Estadual Paulista — Campus de Ilha Solteira |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-stpg-n-23-2026-20260723134441162001131) |
+| Docente (outros) — Universidade Estadual Paulista — Faculdade de Ciências Humana | Universidade Estadual Paulista — Faculdade de Ciências Humanas e Sociais |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-dtac-n-07-2026-20260723134449161998896) |
+| Docente (outros) em letras/linguística — Universidade Estadual Paulista — Instit | Universidade Estadual Paulista — Instituto de Biociências, Letras e Ciências Exatas | letras/linguística |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-stpg-292-2026-processo-seletivo-unificado-para-ingresso-em-2027-no-programa-de-pos-graduacao-em-estudos-linguisticos-na-unesp-sao-jose-do-rio-preto-20260723114641911991999103) |
+| Docente (outros) — Universidade Estadual Paulista — Faculdade de Medicina Veteri | Universidade Estadual Paulista — Faculdade de Medicina Veterinária e Zootecnia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-08-2026-de-23-de-julho-de-2026-20260723134446461999842) |
+| Docente (outros) — Universidade Estadual Paulista — Campus de Tupã (EDITAL Nº 01 | Universidade Estadual Paulista — Campus de Tupã |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-017-2026-dta-fce-20260723134442361999845) |
+| PROCESSO SELETIVO UNIFICADO INGRESSO 2027 – PÓS-GRADUAÇÃO UNESP - Ciências Aplic | Universidade Estadual Paulista — Instituto de Ciência e Tecnologia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/processo-seletivo-unificado-ingresso-2027-pos-graduacao-unesp-ciencias-aplicadas-a-saude-bucal-20260723134441812742000241) |
+| Docente (outros) — Universidade Estadual Paulista — Campus de Ilha Solteira (EDI | Universidade Estadual Paulista — Campus de Ilha Solteira |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-stpg-n-26-2026-20260723134441162000408) |
+| Docente (outros) — Universidade Estadual Paulista — Campus de Jaboticabal (EDITA | Universidade Estadual Paulista — Campus de Jaboticabal |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-16-2026-stpg-fcav-de-23-de-julho-de-2026-abertura-de-inscricoes-20260723134441362000512) |
+| Docente (outros) — Universidade Estadual Paulista — Instituto de Biociências (ED | Universidade Estadual Paulista — Instituto de Biociências |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-04-2026-bga-stpg-ibb-20260723134446562000974) |
+| Docente (outros) — Universidade Estadual Paulista — Instituto de Geociências e C | Universidade Estadual Paulista — Instituto de Geociências e Ciências Exatas |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-stpg-igce-n-01-2026-202607231344417262001051) |
+| Docente (outros) em biologia — Universidade Estadual Paulista — Instituto de Bio | Universidade Estadual Paulista — Instituto de Biociências, Letras e Ciências Exatas | biologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-stpg-293-2026-processo-seletivo-unificado-para-ingresso-em-2027-no-programa-de-pos-graduacao-em-biociencias-na-unesp-sao-jose-do-rio-preto-20260723114641911991998935) |
+| Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-0101-de-23-de-julho-de-2026-2026072313141461999500) |
+| Docente (outros) — Universidade Estadual Paulista — Faculdade de Medicina Veteri | Universidade Estadual Paulista — Faculdade de Medicina Veterinária e Zootecnia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-10-2026-de-23-de-julho-de-2026-20260723134446461999953) |
+| Docente (outros) — Universidade Estadual Paulista — Campus de Guaratinguetá (EDI | Universidade Estadual Paulista — Campus de Guaratinguetá |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-277-de-23-de-julho-de-2026-20260723134441062000263) |
+| Docente (outros) — Universidade Estadual Paulista — Faculdade de Ciências Agrári | Universidade Estadual Paulista — Faculdade de Ciências Agrárias e Tecnológicas |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-dta-fcat-n-07-2026-processo-seletivo-unificado-ingresso-2027-pos-graduacao-unesp-2026072313444713672001173) |
+| Docente (outros) — Universidade Estadual Paulista — Campus de Jaboticabal (EDITA | Universidade Estadual Paulista — Campus de Jaboticabal |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-14-2026-stpg-fcav-de-23-de-julho-de-2026-abertura-de-inscricoes-20260723134441362001180) |
+| Docente (outros) — Universidade Estadual Paulista — Faculdade de Medicina Veteri | Universidade Estadual Paulista — Faculdade de Medicina Veterinária e Zootecnia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-07-2026-de-23-de-julho-de-2026-20260723134446461999712) |
+| Docente (outros) — Universidade Estadual Paulista — Instituto de Biociências (ED | Universidade Estadual Paulista — Instituto de Biociências |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-stpg-ib-ppge-n-02-2026-processo-seletivo-doutorado-ingresso-2027-202607231344417161999024) |
+| Docente (outros) — Universidade Estadual Paulista — Campus de Guaratinguetá (EDI | Universidade Estadual Paulista — Campus de Guaratinguetá |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-278-de-23-de-julho-de-2026-20260723134441062000231) |
+| Docente (outros) — Universidade Estadual Paulista — Faculdade de Arquitetura, Ar | Universidade Estadual Paulista — Faculdade de Arquitetura, Artes, Comunicação e Design |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-11-de-23-de-julho-de-2026-20260723134445162000110) |
+| Docente (outros) em engenharia — Universidade Estadual Paulista — Campus de Ilha | Universidade Estadual Paulista — Campus de Ilha Solteira | engenharia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-stpg-n-24-2026-20260723134441162000343) |
+| Docente (outros) — Universidade Estadual Paulista — Campus de Jaboticabal (EDITA | Universidade Estadual Paulista — Campus de Jaboticabal |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-15-2026-stpg-fcav-de-23-de-julho-de-2026-abertura-de-inscricoes-20260723134441362000623) |
+| Docente (outros) — Universidade Estadual Paulista — Campus de Jaboticabal (EDITA | Universidade Estadual Paulista — Campus de Jaboticabal |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-13-2026-stpg-fcav-de-23-de-julho-de-2026-abertura-de-inscricoes-20260723134441362000859) |
+| Docente (outros) — Universidade Estadual Paulista — Faculdade de Ciências e Letr | Universidade Estadual Paulista — Faculdade de Ciências e Letras de Assis |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-05-2026-dta-fcl-assis-20260723134444161998830) |
+| Bolsa — Universidade Estadual Paulista — Faculdade de Odontologia (EDITAL DTA nº | Universidade Estadual Paulista — Faculdade de Odontologia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-dta-n-10-2026-20260723134442161999656) |
+| Docente (outros) — Universidade Estadual Paulista — Faculdade de Medicina Veteri | Universidade Estadual Paulista — Faculdade de Medicina Veterinária e Zootecnia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-09-2026-de-23-de-julho-de-2026-20260723134446461999897) |
+| Docente (outros) — Universidade Estadual Paulista — Faculdade de Odontologia (ED | Universidade Estadual Paulista — Faculdade de Odontologia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-dta-n-12-2026-20260723134442161998892) |
+| Docente (outros) — Universidade Estadual Paulista — Instituto de Biociências (ED | Universidade Estadual Paulista — Instituto de Biociências |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-stpg-ib-ppge-n-01-2026-processo-seletivo-mestrado-ingresso-2027-202607231344417161998997) |
+| Docente (outros) — Universidade Estadual Paulista — Instituto de Biociências (ED | Universidade Estadual Paulista — Instituto de Biociências |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-stpg-n01-2026-processo-seletivo-unificado-ingresso-2027-pos-graduacao-unesp-202607231344417161999989) |
+| Docente (outros) — Universidade Estadual Paulista — Campus de Ilha Solteira (EDI | Universidade Estadual Paulista — Campus de Ilha Solteira |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-stpg-n-25-2026-20260723134441162000390) |
+| Docente (outros) — Universidade Estadual Paulista — Campus de Ilha Solteira (EDI | Universidade Estadual Paulista — Campus de Ilha Solteira |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-22-2026-stpg-20260723134441162001113) |
+| ABERTURA - CONCURSO Nº 20261, DE 31 DE JULHO DE 2026 | Universidade de São Paulo — Museu de Zoologia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/abertura-concurso-n-20261-de-31-de-julho-de-2026-2026080413421133672023818) |
+| Professor substituto em enfermagem — Universidade Estadual Paulista — Faculdade  | Universidade Estadual Paulista — Faculdade de Medicina | enfermagem |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-696-2026-cscgp-fm-resultado-e-classificacao-final-20260724134446362004084) |
+| COMUNICADO - CONCURSO Nº IP ATAC 03/2026, DE 4 DE AGOSTO DE 2026 | Universidade de São Paulo — Instituto de Psicologia | psicologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/comunicado-concurso-n-ip-atac-03-2026-de-4-de-agosto-de-2026-2026080413422471662025821) |
+| Professor efetivo (concurso público) em física — Universidade Estadual Paulista  | Universidade Estadual Paulista — Faculdade de Ciências | física |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-423-2026-de-24-de-julho-de-2026-resultado-da-2-fase-do-concurso-318-2026-do-departamento-de-fisica-e-meteorologia-20260724134445362002722) |
+| Docente (outros) em física — Universidade Estadual Paulista — Faculdade de Ciênc | Universidade Estadual Paulista — Faculdade de Ciências | física |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-425-2026-de-24-de-julho-de-2026-analise-de-recurso-do-concurso-352-2026-departamento-de-fisica-e-meteorologia-20260724134445362001955) |
+| Docente (outros) em administração — Universidade Estadual de Campinas — Secretar | Universidade Estadual de Campinas — Secretaria Geral | administração |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-36-p-04525-2026-de-23-de-julho-de-2026-20260723134322661998933) |
 | Docente (outros) — Universidade Estadual Paulista — Faculdade de Ciências Farmac | Universidade Estadual Paulista — Faculdade de Ciências Farmacêuticas |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-20260722134443261995941) |
 | Docente (outros) — Universidade Estadual Paulista — Campus de Presidente Prudent | Universidade Estadual Paulista — Campus de Presidente Prudente |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-stpg-n-05-2026-20260722134441661996241) |
 | Docente (outros) — Universidade Estadual Paulista — Faculdade de Odontologia (ED | Universidade Estadual Paulista — Faculdade de Odontologia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-dta-n-09-2026-20260722134442161997716) |
@@ -1415,10 +1461,11 @@
 | pós-doutorado — DO de Campinas | Campinas |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3509502/2026-06-09/b033b608510dd845e504e8d1445291f039defc8d.pdf) |
 | Gerenciamento de Pesquisadores | UNICAMP |  |  | sem prazo identificado | [link](https://www.dgrh.unicamp.br/link-sistema-de-gerenciamento-de-pesquisadores) |
 
-## Públicas municipais (27)
+## Públicas municipais (28)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| docente — DO de Taubaté | Taubaté |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3554102/2026-08-21/f404368527fe1b292721dd6184f1dbb02c39add1.pdf) |
 | docente — DO de Contagem | Contagem |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3118601/2026-08-20/4c65fad2c54643e184e53aa0bff30c177e89b693.pdf) |
 | pós-doutorado — DO de Vitória | Vitória |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3205309/2026-08-19/e2beca2ee82142c431ce0a3210925e2675e33168.pdf) |
 | docente — DO de Curitiba | Curitiba |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/4106902/2026-08-18/fa65b9362139c7dd768339e2f6fada8c0d01ef64.pdf) |
@@ -1447,10 +1494,12 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (276)
+## Institutos públicos (278)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| docente — DO de Maracaju | Maracaju |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/5005400/2026-08-21/54ca23cbf9af3e214ce1081464121e33b7cb7f07.pdf) |
+| medicina — DO de Petrolina | Petrolina | medicina |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/2611101/2026-08-21/3b0e29e64aed23afd3bf36d25834fdf24f7966d5.pdf) |
 | professor substituto — DO de Ourinhos | Ourinhos |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3534708/2026-08-20/cb9b62bd13384f80f0c9447abff5ba62ce0697c3.pdf) |
 | docente — DO de Curitiba | Curitiba |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/4106902/2026-08-20/9eaf8890a87714ca665f8b5b2ad3325eb653e0a7.pdf) |
 | edital professor — DO de Boa Vista | Boa Vista |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/1400100/2026-08-20/d840a39d1fd112c87d2863ff6c5d3ea8a68a8443.pdf) |
@@ -1728,10 +1777,11 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (431)
+## Privadas (432)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor de Produção - Londrina  | Confidencial |  | 30/11/2026 | aberta | [link](https://confidencialeducacional.gupy.io/job/eyJqb2JJZCI6MTIyMzA0MzksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Professor(a) Universitário - Direito Penal  | FMU | direito | 20/10/2026 | aberta | [link](https://fmu.gupy.io/job/eyJqb2JJZCI6MTIyMTcwODYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Professor(a) Universitário(a) - Terapia Ocupacional   | FMU |  | 20/10/2026 | aberta | [link](https://fmu.gupy.io/job/eyJqb2JJZCI6MTIyMTcwNTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR ASSISTENTE I – RELAÇÕES PUBLICAS E INSTITUCIONAIS – IBMEC BELO HORIZON | Estácio |  | 18/09/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTIyMTUwMDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
