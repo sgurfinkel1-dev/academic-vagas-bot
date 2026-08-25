@@ -1,10 +1,34 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (1064)
+## Públicas federais (1088)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| PORTARIAS DE 21 DE AGOSTO DE 2026 | Pró-Reitoria de Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-21-de-agosto-de-2026-727749569) |
+| Professor substituto — Fundação Universidade Federal do Acre (PORTARIA Nº 3.124) | Fundação Universidade Federal do Acre |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-3.124-de-24-de-agosto-de-2026-727739211) |
+| Professor substituto em administração — Universidade Federal Rural da Amazônia ( | Universidade Federal Rural da Amazônia | administração |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.215-de-24-de-agosto-de-2026-727671041) |
+| Docente (outros) — Universidade Federal Rural da Amazônia (PORTARIA Nº 1.189) | Universidade Federal Rural da Amazônia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.189-de-24-de-agosto-de-2026-727741825) |
+| Docente (outros) — Pró-Reitoria de Pessoal (PORTARIA Nº 8.910) | Pró-Reitoria de Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-8.910-de-24-de-agosto-de-2026-727671171) |
+| Docente (outros) — Pró-Reitoria de Pessoal (PORTARIA Nº 8.883) | Pró-Reitoria de Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-8.883-de-24-de-agosto-de-2026-727746086) |
+| Professor substituto — Pró-Reitoria de Gestão com Pessoas (EDITAL Nº 589) | Pró-Reitoria de Gestão com Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-589-de-17-de-agosto-de-2026-727369547) |
+| DESPACHO DE 24 de agosto de 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-24-de-agosto-de-2026-727726488) |
+| DESPACHO DE 24 de agosto de 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-24-de-agosto-de-2026-727722376) |
+| DESPACHO DE 24 de agosto de 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-24-de-agosto-de-2026-727671255) |
+| DESPACHO DE 24 de agosto de 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-24-de-agosto-de-2026-727741983) |
+| Professor substituto — Pró-Reitoria de Gestão de Pessoas (PORTARIA Nº 1.445) | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.445-de-24-de-agosto-de-2026-727741667) |
+| DESPACHO de 21 de agosto de 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-21-de-agosto-de-2026-727719616) |
+| Pós-doutorado — Fundação Universidade Federal do Rio Grande (Portaria) | Fundação Universidade Federal do Rio Grande |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-6-de-maio-de-2026-727766386) |
+| Pós-doutorado — Fundação Universidade Federal de Rondônia (PORTARIA nº 939 GR/UN | Fundação Universidade Federal de Rondônia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-939-gr/unir-de-20-de-agosto-de-2026-727683895) |
+| PORTARIAS DE 21 DE AGOSTO DE 2026 | Universidade Federal do Rio Grande do Norte | farmácia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-21-de-agosto-de-2026-727671334) |
+| PORTARIAS DE 19 DE AGOSTO DE 2026 | Universidade Federal de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-19-de-agosto-de-2026-727719828) |
+| PORTARIAS/SRH DE 21 DE AGOSTO DE 2026 | Universidade Federal de Campina Grande | odontologia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias/srh-de-21-de-agosto-de-2026-727722460) |
+| Professor efetivo (concurso público) em odontologia — Universidade Federal do Ce | Universidade Federal do Ceará | odontologia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-4.631/gabr/ufc-de-21-de-agosto-de-2026-727719909) |
+| Professor efetivo (concurso público) — Departamento de Desenvolvimento de Pessoa | Departamento de Desenvolvimento de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.199/2026/ddp-21-de-agosto-de-2026-727773440) |
+| DESPACHO DE 24 de agosto de 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-24-de-agosto-de-2026-727749643) |
+| DESPACHO DE 24 de agosto de 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-24-de-agosto-de-2026-727728626) |
+| DESPACHO DE 24 de agosto de 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-24-de-agosto-de-2026-727736528) |
+| Professor efetivo (concurso público) — Pró-Reitoria de Gestão de Pessoas (PORTAR | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-4.633/progep/ufc-de-21-de-agosto-de-2026-727742062) |
 | Docente (outros) — Pró-Reitoria de Gestão de Pessoas (PORTARIA Nº 4.019/PROGESP/ | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-4.019/progesp/cpii-de-21-de-agosto-de-2026-727185613) |
 | Professor substituto — Pró Reitoria de Gestão de Pessoas (Portaria PROGEPE/UFPR  | Pró Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-progepe/ufpr-n-1.884-de-19-de-agosto-de-2026-726679730) |
 | Professor substituto — Fundação Universidade Federal da Grande Dourados (PORTARI | Fundação Universidade Federal da Grande Dourados |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-745-de-13-de-agosto-de-2026-725438705) |
@@ -1070,10 +1094,18 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (438)
+## Públicas estaduais (446)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| RESULTADO de julgamento | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-727553860) |
+| Pós-doutorado — Universidade Estadual Paulista — Faculdade de Medicina (EDITAL N | Universidade Estadual Paulista — Faculdade de Medicina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-68-de-24-de-agosto-de-2026-fmb-sta-20260824134446362070938) |
+| Pós-doutorado — Universidade Estadual Paulista — Faculdade de Ciências e Letras  | Universidade Estadual Paulista — Faculdade de Ciências e Letras de Assis |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-359-de-24-de-agosto-de-2026-20260824134444162072808) |
+| Professor colaborador — Universidade Estadual de Ponta Grossa (UEPG) (Portaria(s | Universidade Estadual de Ponta Grossa (UEPG) |  |  | sem prazo identificado | [link](https://dioe.pr.gov.br/ver/17227/39/professor) |
+| Sociedade Professora lança livro sobre o arquiteto Léo de Judá e a arquitetura b | UEL | arquitetura/urbanismo |  | sem prazo identificado | [link](https://operobal.uel.br/sociedade/2026/08/24/professora-uel-lanca-livro-juda-arquitetura-brutalista-em-londrina/) |
+| Edital nº 356/2026-PRH - Teste Seletivo para Professor Colaborador - Departament | UEM | medicina |  | sem prazo identificado | [link](https://prh.uem.br/res/em-andamento-docentes/edital-356-2026-prh) |
+| 24/08/2026-18h07 Udesc Cefid tem palestra sobre saúde pélvica com professora da  | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/udesc_cefid_tem_palestra_sobre_saude_pelvica_com_professora_da_espanha_nesta_quarta) |
+| 24/08/2026-17h58 Entrevista com docente da Udesc destaca impactos sociais da mod | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/entrevista_com_docente_da_udesc_destaca_impactos_sociais_da_moda_e_importancia_da_acessibilidade) |
 | Professor substituto em letras/linguística — Universidade Estadual Paulista — Fa | Universidade Estadual Paulista — Faculdade de Ciências e Letras de Assis | letras/linguística |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-320-de-24-de-julho-de-2026-20260724134444162002236) |
 | COMUNICADO - CONCURSO | Universidade Estadual Paulista — Instituto de Geociências e Ciências Exatas |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/comunicado-concurso-20260724134441721662002307) |
 | COMUNICADO - CONCURSO | Universidade Estadual Paulista — Instituto de Geociências e Ciências Exatas |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/comunicado-concurso-20260724134441721662002316) |
@@ -1831,10 +1863,22 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (432)
+## Privadas (444)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| PROFESSOR AUXILIAR / AFYA FACULDADE DE CIÊNCIAS MÉDICAS MANACAPURU | Carreira Médica na Afya |  | 26/09/2026 | aberta | [link](https://afyamedicina.gupy.io/job/eyJqb2JJZCI6MTE4NTM2MDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR / AFYA FACULDADE DE CIÊNCIAS MÉDICAS MANACAPURU | Afya  |  | 10/10/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTIwNDg3MjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor(a) Auxiliar (Curso de Fisioterapia) / Afya Faculdade de Ciências Médic | Afya  |  | 01/09/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTIyNjcwMDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor de Inglês - Coleguium  | Coleguium |  | 23/10/2026 | aberta | [link](https://coleguium.gupy.io/job/eyJqb2JJZCI6MTIyNjg4NDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor Curso CST em Análise e Desenvolvimento de Sistema | Faculdade Católica Imaculada Conceição do Recife |  | 16/10/2026 | aberta | [link](https://ficr.gupy.io/job/eyJqb2JJZCI6MTIxNTE0NTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor(a) Presencial de Odontologia – Endodontia | UniFacens  | odontologia | 20/10/2026 | aberta | [link](https://facens.gupy.io/job/eyJqb2JJZCI6MTIyMjAyNjIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor de Matemática - TEMPORÀRIA/ Mooca | Rede Decisão | matemática | 30/09/2026 | aberta | [link](https://vemprarededecisao.gupy.io/job/eyJqb2JJZCI6MTIyNjMyOTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor de Matemática TEMPORÁRIA / Santana | Rede Decisão | matemática | 30/09/2026 | aberta | [link](https://vemprarededecisao.gupy.io/job/eyJqb2JJZCI6MTIyNjI4MTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I A - PSICOLOGIA - ESTÁCIO CAMPINAS | Estácio | psicologia | 20/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTIyMTQ5NzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I A - ENFERMAGEM - ESTÁCIO SANTOS | Estácio | enfermagem | 20/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTIyMTQ5NzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I A - ENFERMAGEM - ESTÁCIO SANTOS | Estácio | enfermagem | 20/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTIyMTQ5NjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - DIREITO - ESTÁCIO CAMPINAS | Estácio | direito | 05/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTE5NjkwMzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Professor de Produção - Londrina  | Confidencial |  | 30/11/2026 | aberta | [link](https://confidencialeducacional.gupy.io/job/eyJqb2JJZCI6MTIyMzA0MzksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Professor(a) Universitário - Direito Penal  | FMU | direito | 20/10/2026 | aberta | [link](https://fmu.gupy.io/job/eyJqb2JJZCI6MTIyMTcwODYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Professor(a) Universitário(a) - Terapia Ocupacional   | FMU |  | 20/10/2026 | aberta | [link](https://fmu.gupy.io/job/eyJqb2JJZCI6MTIyMTcwNTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
@@ -2268,10 +2312,17 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (233)
+## Bolsas / pós-doc / agências (240)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EXTRATO DE CONCESSÃO DE AUXÍLIO FINANCEIRO À PESQUISADORES | Diretoria de Programas e Bolsas no País |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-de-auxilio-financeiro-a-pesquisadores-727595966) |
+| Post-Doctoral Fellowship in Solidification of Metals and Alloys Instituition: Ce | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../solidificacao-processamento-e-caracterizacao-de-ligas-de-aluminio-com-sinergia-de-elementos-criticos/9778/) |
+| Post-Doctoral Fellowship in Materials Science Instituition: Laboratório Nacional | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-pesquisa-em-engenharia-molecular-para-materiais-avancados-(cemol)/9780/) |
+| Bolsa de TT-IV em Eletromecânica | Faculdade de Engenharia e Ciências de Guaratinguetá, Universidade Estadual Paulista (FEG-Unesp) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../analises-tecno-economico-da-gaseificacao-de-residuos-do-setor-sucroalcooleiro-integrada-a-processos-fisher-tropsch-para-obtencao-de-biocombustiveis-e-eletricidade/9781/) |
+| Bolsa de PD em Psiquiatria / Psicologia / Saúde Mental | Faculdade de Medicina, Universidade de São Paulo (FM-USP) | psicologia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-pesquisa-e-inovacao-em-saude-mental-(cism)/9772/) |
+| Bolsa de PD em Sensoriamento Remoto / Inteligência Artificial / Quantificação de | Escola Superior de Agricultura Luiz de Queiroz, Universidade de São Paulo (ESALQ-USP) | Inteligência Artificial |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-internacional-de-pesquisa-–-cip-“worlds-in-transitions”-(cnrs-usp)/9775/) |
+| Bolsa de Doutorado em Fundamentos de Mecânica Quântica | Instituto de Física Teórica, Universidade Estadual Paulista (IFT-Unesp) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../recursos-quanticos-e-aplicacoes-em-cenarios-estendidos-de-amigo-de-wigner/9779/) |
 | Bolsa de PD em Ciência de Dados para Segurança Alimentar e Nutricional | Instituto de Saúde e Sociedade, Universidade Federal de São Paulo (ISS-Unifesp) | computação |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../provisao-de-um-modelo-estrutural-intersetorial-em-rede-para-a-garantia-do-direito-a-alimentacao-adequada-e-saudavel-em-cozinhas-solidarias:-uma-porta-de-entrada-para-a-seguranca-alimentar-e-nutricional-em-territorios-vulnerabilizados/9773/) |
 | Bolsa de Mestrado em Bioinformática e Genômica | Instituto de Biologia, Universidade Estadual de Campinas (IB-Unicamp) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../<i>kluyveromyces-marxianus<-i>:-uma-plataforma-microbiana-para-producao-sustentavel-de-bioenergia-em-um-cenario-de-aquecimento-global/9777/) |
 | Bolsa de Mestrado em Ciência de Alimentos – Ressonância Magnética Nuclear de Bai | Faculdade de Engenharia de Alimentos, Universidade Estadual de Campinas (FEA-Unicamp) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../inteligencia-artificial-e-tecnicas-avancadas-para-o-fortalecimento-da-sociobioeconomia-da-cafeicultura-amazonica:-integracao-de-ressonancia-e-fluorescencia-para-o-estudo-dos-graos-e-cascas-de-cafes-caneforas-cultivados-em-areas-indigenas-e-agroflorestais/9769/) |
@@ -2506,10 +2557,12 @@
 | Bolsa de PD em Saúde Coletiva | Faculdade de Enfermagem, Universidade Estadual de Campinas (FEnf-Unicamp ) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../projeto-ubuntu:-os-4-rs-da-educacao-antirracista-para-equidade-em-saude/9598/) |
 | Bolsa de PD em Química, Instrumentação Analítica e Engenharia Mecânica/Eletrônic | Departamento de Química – Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, Universidade de São Paulo (FFCLRP-USP) | química |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../novas-ferramentas-analiticas-para-o-estudo-da-doenca-de-parkinson:-automacao-do-preparo-de-amostras-biologicas-dispositivos-3d-printed@mip-e-cromatografia-liquida-capilar-portatil/9600/) |
 
-## Verificar manualmente (52)
+## Verificar manualmente (54)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Docente (outros) — Secretaria de Regulação e Supervisão da Educação Superior (PO | Secretaria de Regulação e Supervisão da Educação Superior |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-seres/mec-n-412-de-24-de-agosto-de-2026-727770406) |
+| Docente (outros) — Secretaria de Regulação e Supervisão da Educação Superior (PO | Secretaria de Regulação e Supervisão da Educação Superior |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-seres/mec-n-418-de-24-de-agosto-de-2026-727709868) |
 | Pós-doutorado — Secretaria Executiva (PORTARIA DE PESSOAL SE/MS Nº 682) | Secretaria Executiva |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-se/ms-n-682-de-20-de-agosto-de-2026-726966675) |
 | PortariaS de 20 de agosto de 2026 | Fundação Oswaldo Cruz |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-20-de-agosto-de-2026-727016017) |
 | DESPACHO DE 19 DE AGOSTO DE 2026 | Fundação Universidade de Brasília |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-19-de-agosto-de-2026-726949804) |
