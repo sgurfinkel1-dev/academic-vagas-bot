@@ -1,10 +1,28 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (1088)
+## Públicas federais (1106)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| PORTARIAS DE 24 DE AGOSTO DE 2026 | Pró-Reitoria de Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-24-de-agosto-de-2026-727947048) |
+| Professor substituto em letras/linguística — Fundação Universidade Federal do To | Fundação Universidade Federal do Tocantins | letras/linguística |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-gab/uft-n-1.177-de-24-de-agosto-de-2026-727955910) |
+| Professor efetivo (concurso público) — Pró-Reitoria de Gestão e Desenvolvimento  | Pró-Reitoria de Gestão e Desenvolvimento de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-25-de-agosto-de-2026-727901268) |
+| DESPACHO DE 24 de agosto de 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-24-de-agosto-de-2026-727951276) |
+| Docente (outros) — Universidade Federal do Rio Grande do Sul (PORTARIA Nº 6.030) | Universidade Federal do Rio Grande do Sul |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-6.030-de-25-de-agosto-de-2026-727947201) |
+| Docente (outros) — Universidade Federal do Paraná (Portaria UFPR nº 765) | Universidade Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-ufpr-n-765-de-18-de-agosto-de-2026-727986748) |
+| DESPACHO DE 25 de agosto de 2026 | Universidade Federal de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-25-de-agosto-de-2026-727941217) |
+| PORTARIAS DE 24 DE AGOSTO DE 2026 | Universidade Federal de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-24-de-agosto-de-2026-727947285) |
+| PORTARIAS DE 21 DE AGOSTO DE 2026 | Universidade Federal de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-21-de-agosto-de-2026-727928327) |
+| PORTARIAS DE 25 DE AGOSTO DE 2026 | Universidade Federal dos Vales do Jequitinhonha e Mucuri |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-25-de-agosto-de-2026-727989455) |
+| Professor efetivo (concurso público) — Universidade Federal do Ceará (PORTARIA N | Universidade Federal do Ceará |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-4.811/gabr/ufc-de-25-de-agosto-de-2026-727928411) |
+| Docente (outros) — Fundação Universidade Federal de Pelotas (PORTARIA DE PESSOAL | Fundação Universidade Federal de Pelotas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-n-3.380/ufpel-de-25-de-agosto-de-2026-727989139) |
+| Docente (outros) — Instituto Federal de Educação, Ciência e Tecnologia do Sudest | Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-gabreitor/ifsudmg-n-921-de-24-de-agosto-de-2026-727924592) |
+| Professor efetivo (concurso público) em química — Universidade Federal do Rio Gr | Universidade Federal do Rio Grande do Sul | química |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-6.026-de-25-de-agosto-de-2026-728011545) |
+| Professor efetivo (concurso público) em química — Departamento de Administração  | Departamento de Administração e Gestão de Pessoas | química |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-gabrei-n-5.317-de-20-de-agosto-de-2026-727989505) |
+| Professor efetivo (concurso público) em química — Universidade Federal do Rio Gr | Universidade Federal do Rio Grande do Sul | química |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-6.003-de-24-de-agosto-de-2026-728007420) |
+| DESPACHO DE 21 DE AGOSTO DE 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-21-de-agosto-de-2026-727924197) |
+| PORTARIAS de 25 de agosto de 2026 | Superintendência de Gestão de Pessoas | educação |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-25-de-agosto-de-2026-727951169) |
 | PORTARIAS DE 21 DE AGOSTO DE 2026 | Pró-Reitoria de Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-21-de-agosto-de-2026-727749569) |
 | Professor substituto — Fundação Universidade Federal do Acre (PORTARIA Nº 3.124) | Fundação Universidade Federal do Acre |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-3.124-de-24-de-agosto-de-2026-727739211) |
 | Professor substituto em administração — Universidade Federal Rural da Amazônia ( | Universidade Federal Rural da Amazônia | administração |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.215-de-24-de-agosto-de-2026-727671041) |
@@ -1094,10 +1112,17 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (446)
+## Públicas estaduais (453)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| RESULTADO de julgamento | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-727794106) |
+| EDITAL Nº 443/2026, DE 25 DE AGOSTO DE 2026-EABERTURA DO CONCURSO 367/2026 PARA  | Universidade Estadual Paulista — Faculdade de Ciências | computação |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-443-2026-de-25-de-agosto-de-2026-eabertura-do-concurso-367-2026-para-professor-substituto-para-o-2-semestre-de-2026-para-o-departamento-de-computacao-da-faculdade-de-ciencias-de-bauru-20260825134445362073784) |
+| Pós-doutorado — Universidade Estadual Paulista — Divisão Técnica Administrativa  | Universidade Estadual Paulista — Divisão Técnica Administrativa |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-138-2026-de-25-de-agosto-de-2026-202608251344421162074361) |
+| CONCURSO PUBLICO DE PROV AS E TITULOS PARA PROVIMENTO DE CARGO DA CARREIRA DE PR | Universidade do Estado de Minas Gerais (UEMG) |  |  | sem prazo identificado | [link](https://www.jornalminasgerais.mg.gov.br/edicao-do-dia?dados=%7B%22dataPublicacaoSelecionada%22%3A%222026-08-26T00%3A00%3A00%22%2C%22idCadernoEdicaoSelecionado%22%3A330811%2C%22paginaSelecionada%22%3A60%2C%22textoPesquisa%22%3A%22professor%22%7D) |
+| 25/08/2026-18h13 Professor de Música da Udesc lança vídeo pelo canal internacion | UDESC | artes |  | sem prazo identificado | [link](https://www.udesc.br/noticia/professor_de_musica_da_udesc_lanca_video_pelo_canal_internacional_siccas_guitars) |
+| 25/08/2026-17h36 Professor de Artes Cênicas da Udesc apresenta resultados de pes | UDESC | artes |  | sem prazo identificado | [link](https://www.udesc.br/noticia/professor_de_artes_cenicas_da_udesc_apresenta_resultados_de_pesquisa_pos-doutoral_sobre_teatro_de_sombras) |
+| 25/08/2026-14h37 Udesc Joinville lança edital para representantes docentes e téc | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/udesc_joinville_lanca_edital_para_representantes_docentes_e_tecnicos_em_conselhos_e_colegiados) |
 | RESULTADO de julgamento | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-727553860) |
 | Pós-doutorado — Universidade Estadual Paulista — Faculdade de Medicina (EDITAL N | Universidade Estadual Paulista — Faculdade de Medicina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-68-de-24-de-agosto-de-2026-fmb-sta-20260824134446362070938) |
 | Pós-doutorado — Universidade Estadual Paulista — Faculdade de Ciências e Letras  | Universidade Estadual Paulista — Faculdade de Ciências e Letras de Assis |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-359-de-24-de-agosto-de-2026-20260824134444162072808) |
@@ -1863,10 +1888,13 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (444)
+## Privadas (447)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| PROFESSOR ASSISTENTE - PUBICIDADE E PROPAGANDA | Universidade Cruzeiro do Sul |  | 04/09/2026 | aberta | [link](https://cruzeirodosul.gupy.io/job/eyJqb2JJZCI6MTIyODQxMTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor(a) Inglês (EF1 e Global English) | Escola São Domingos & Sundays |  | 30/10/2026 | aberta | [link](https://esd.gupy.io/job/eyJqb2JJZCI6MTIyNjQ3MTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I  -  DIREITO - ESTÁCIO ARACAJU | Estácio | direito | 18/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTIxODEwNDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR AUXILIAR / AFYA FACULDADE DE CIÊNCIAS MÉDICAS MANACAPURU | Carreira Médica na Afya |  | 26/09/2026 | aberta | [link](https://afyamedicina.gupy.io/job/eyJqb2JJZCI6MTE4NTM2MDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR AUXILIAR / AFYA FACULDADE DE CIÊNCIAS MÉDICAS MANACAPURU | Afya  |  | 10/10/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTIwNDg3MjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Professor(a) Auxiliar (Curso de Fisioterapia) / Afya Faculdade de Ciências Médic | Afya  |  | 01/09/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTIyNjcwMDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
@@ -2312,10 +2340,12 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (240)
+## Bolsas / pós-doc / agências (242)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa de PD em Genômica de Abelhas | Instituto de Biologia, Universidade Estadual de Campinas (IB-Unicamp) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../assinaturas-genomicas-da-diversidade-e-da-plasticidade-no-desenvolvimento-fenotipico/9787/) |
+| Bolsa de PD em Sensoriamento Remoto | Pontifícia Universidade Católica de Campinas (PUC-Campinas) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../estrategias-de-resfriamento-urbano-para-o-aumento-da-habitabilidade-em-cidades:-estudo-de-caso-em-jundiaisp/9784/) |
 | EXTRATO DE CONCESSÃO DE AUXÍLIO FINANCEIRO À PESQUISADORES | Diretoria de Programas e Bolsas no País |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-de-auxilio-financeiro-a-pesquisadores-727595966) |
 | Post-Doctoral Fellowship in Solidification of Metals and Alloys Instituition: Ce | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../solidificacao-processamento-e-caracterizacao-de-ligas-de-aluminio-com-sinergia-de-elementos-criticos/9778/) |
 | Post-Doctoral Fellowship in Materials Science Instituition: Laboratório Nacional | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-pesquisa-em-engenharia-molecular-para-materiais-avancados-(cemol)/9780/) |
