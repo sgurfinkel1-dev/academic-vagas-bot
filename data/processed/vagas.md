@@ -1,10 +1,35 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (1182)
+## Públicas federais (1207)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor substituto — Fundação Universidade Federal do Acre (PORTARIA Nº 3.293) | Fundação Universidade Federal do Acre |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-3.293-de-28-de-agosto-de-2026-728959557) |
+| Docente (outros) — Pró-Reitoria de Pessoal (PORTARIA Nº 9.154) | Pró-Reitoria de Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-9.154-de-28-de-agosto-de-2026-729042380) |
+| Docente (outros) em engenharia — Centro Federal de Educação Tecnológica Celso Su | Centro Federal de Educação Tecnológica Celso Suckow da Fonseca | engenharia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.573/cefet-rj-de-25-de-agosto-de-2026-729049650) |
+| Professor efetivo (concurso público) — Fundação Universidade Federal de Sergipe  | Fundação Universidade Federal de Sergipe |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.015-de-28-de-agosto-de-2026-728995818) |
+| Professor substituto — Diretoria de Desenvolvimento de  Pessoal (EDITAL Nº 46) | Diretoria de Desenvolvimento de  Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-46-de-28-de-agosto-de-2026-728901673) |
+| Docente (outros) — Fundação Universidade Federal de Pelotas (PORTARIA DE PESSOAL | Fundação Universidade Federal de Pelotas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-n-3.602-ufpel-de-27-de-agosto-de-2026-728966696) |
+| Professor substituto — Universidade Federal da Integração Latino-Americana (EDIT | Universidade Federal da Integração Latino-Americana |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-226/2026/dics/dap/progepe-de-28-de-agosto-de-2026-728901801) |
+| Docente (outros) — Instituto Federal de Educação, Ciência e Tecnologia do Acre ( | Instituto Federal de Educação, Ciência e Tecnologia do Acre |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-ifac-n-1.488-de-28-de-agosto-de-2026-729059999) |
+| Docente (outros) — Universidade Federal do Paraná (Portaria UFPR nº 769) | Universidade Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-ufpr-n-769-de-18-de-agosto-de-2026-729079727) |
+| Docente (outros) — Universidade Federal do Paraná (Portaria UFPR nº 773) | Universidade Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-ufpr-n-773-de-18-de-agosto-de-2026-729036978) |
+| Docente (outros) — Universidade Federal do Paraná (Portaria UFPR nº 771) | Universidade Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-ufpr-n-771-de-18-de-agosto-de-2026-729075720) |
+| Docente (outros) — Universidade Federal de Juiz de Fora (PORTARIA DE PESSOAL PRO | Universidade Federal de Juiz de Fora |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-progepe/ufjf-n-1.119-de-27-de-agosto-de-2026-728990390) |
+| Docente (outros) — Universidade Federal de Juiz de Fora (PORTARIA DE PESSOAL PRO | Universidade Federal de Juiz de Fora |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-progepe/ufjf-n-1.116-de-27-de-agosto-de-2026-728982226) |
+| Professor substituto — Pró-Reitoria de Desenvolvimento de Pessoas (EDITAL) | Pró-Reitoria de Desenvolvimento de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-28-de-agosto-de-2026-729015898) |
+| Pesquisador — Fundação Universidade Federal de São Carlos (EXTRATO DE MEMORANDO  | Fundação Universidade Federal de São Carlos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-memorando-de-entendimento-n-102/2026-uasg-154049-728819861) |
+| PORTARIAS DE 25 DE AGOSTO DE 2026 | Universidade Federal de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-25-de-agosto-de-2026-728939738) |
+| DESPACHO Nº 56, DE 28 DE AGOSTO DE 2026 | Instituto Federal de Educação, Ciência e Tecnologia do Ceará |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-n-56-de-28-de-agosto-de-2026-729059841) |
+| Professor efetivo (concurso público) — Universidade Federal Rural do Rio de Jane | Universidade Federal Rural do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-gabrei-n-5.578-de-27-de-agosto-de-2026-729049018) |
+| Despacho DE 27 de julho de 2026 | Universidade Federal de Santa Catarina |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-27-de-julho-de-2026-729045623) |
+| Professor efetivo (concurso público) em odontologia — Universidade Federal do Ce | Universidade Federal do Ceará | odontologia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-5.002/gabr/ufc-de-28-de-agosto-de-2026-728967244) |
+| Professor efetivo (concurso público) — Universidade Federal de Minas Gerais (POR | Universidade Federal de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-7.984-de-26-de-agosto-de-2026-729039692) |
+| Professor efetivo (concurso público) — Universidade Federal de Alfenas (PORTARIA | Universidade Federal de Alfenas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-2.047-de-27-de-agosto-de-2026-728974327) |
+| Professor efetivo (concurso público) em química — Universidade Federal do Rio Gr | Universidade Federal do Rio Grande do Norte | química |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.542-de-28-de-agosto-de-2026-728955080) |
+| Professor efetivo (concurso público) — Universidade Federal do Espírito Santo (P | Universidade Federal do Espírito Santo |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-n-956-de-27-de-agosto-de-2026-729079987) |
+| Professor efetivo (concurso público) — Universidade Federal de Minas Gerais (EDI | Universidade Federal de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1992-de-27-de-agosto-de-2026-729017606) |
 | Professor substituto — Pró-Reitoria de Gestão de Pessoas e do Trabalho (EDITAL P | Pró-Reitoria de Gestão de Pessoas e do Trabalho |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-progep-n-42-de-21-de-agosto-de-2026-727710455) |
 | Docente (outros) — Instituto Federal de Educação, Ciência e Tecnologia do Sul de | Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-201/2026/gab-ret/ifsuldeminas-726214068) |
 | Pós-doutorado — Universidade Federal do Agreste de Pernambuco (PORTARIA Nº 412) | Universidade Federal do Agreste de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-412-de-24-de-agosto-de-2026-727752575) |
@@ -1188,10 +1213,32 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (524)
+## Públicas estaduais (546)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor efetivo (concurso público) em educação — Universidade de São Paulo — F | Universidade de São Paulo — Faculdade de Educação | educação |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-feusp-34-2026-banca-ref-ed-27-2025-2026073113422191662019492) |
+| Professor substituto em biologia — Universidade Estadual Paulista — Faculdade de | Universidade Estadual Paulista — Faculdade de Ciências e Letras de Assis | biologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-331-de-31-de-julho-de-2026-20260731134444162019712) |
+| COMUNICADO - CONCURSO | Universidade de São Paulo — Faculdade de Medicina de Ribeirão Preto | química |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/comunicado-concurso-2026080113422241662020387) |
+| Professor substituto em letras/linguística — Universidade Estadual Paulista — Fa | Universidade Estadual Paulista — Faculdade de Ciências e Letras de Assis | letras/linguística |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-336-de-31-de-julho-de-2026-20260731134444162019761) |
+| Professor substituto em letras/linguística — Universidade Estadual Paulista — Fa | Universidade Estadual Paulista — Faculdade de Ciências e Letras de Assis | letras/linguística |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-335-de-31-de-julho-de-2026-20260731134444162019755) |
+| Professor efetivo (concurso público) em história — Universidade de São Paulo — M | Universidade de São Paulo — Museu de Arte Contemporânea | história |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-n-svacadmac04-2026-de-31-de-julho-de-2026-20260731134211262020015) |
+| Docente (outros) — Secretaria da Saúde — Instituto Dante Pazzanese de Cardiologi | Secretaria da Saúde — Instituto Dante Pazzanese de Cardiologia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-da-saude/edital-processo-seletivo-do-programa-de-doutorado-usp-idpc-2-semestre-de-2026-de-31-de-julho-de-2026-2026073113351411762018292) |
+| Professor efetivo (concurso público) em engenharia — Universidade de São Paulo — | Universidade de São Paulo — Escola de Engenharia de Lorena | engenharia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-atac-eel-usp-53-2026-2026073113422762018668) |
+| Docente (outros) — Universidade Estadual de Campinas — Secretaria Geral (EDITAL  | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-38-p-20913-2021-de-31-de-julho-de-2026-20260731134322662019433) |
+| Professor efetivo (concurso público) em engenharia — Universidade de São Paulo — | Universidade de São Paulo — Escola de Engenharia de Lorena | engenharia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-atac-eel-usp-50-2026-2026073113422762018649) |
+| Docente (outros) — Universidade de São Paulo — Escola de Engenharia de São Carlo | Universidade de São Paulo — Escola de Engenharia de São Carlos |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-n-011-processo-seletivo-de-mestrado-ppg-sea-1-2027-de-31-de-julho-de-2026-2026073113422862018709) |
+| Professor efetivo (concurso público) em engenharia — Universidade de São Paulo — | Universidade de São Paulo — Escola de Engenharia de Lorena | engenharia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-atac-eel-usp-51-2026-2026073113422762018653) |
+| Docente (outros) — Universidade de São Paulo — Escola de Engenharia de São Carlo | Universidade de São Paulo — Escola de Engenharia de São Carlos |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-n-012-processo-seletivo-de-doutorado-ppg-sea-1-2027-de-31-de-julho-de-2026-2026073113422862018718) |
+| Docente (outros) — Universidade de São Paulo — Escola de Engenharia de São Carlo | Universidade de São Paulo — Escola de Engenharia de São Carlos |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-dvacad-eesc-n-24-de-31-de-julho-de-2026-202607311342283672019047) |
+| Professor efetivo (concurso público) — Universidade Estadual de Campinas — Secre | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-23-p-14604-2026-de-6-de-agosto-de-2026-20260806134322662030343) |
+| Pós-doutorado — Universidade Estadual de Campinas — Secretaria Geral (EDITAL Nº  | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-04-p-20255-2026-de-28-de-agosto-de-2026-20260828134322662087950) |
+| Pós-doutorado — Universidade Estadual Paulista — Faculdade de Medicina (Edital n | Universidade Estadual Paulista — Faculdade de Medicina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-743-2026-cscgp-fm-abertura-de-inscricoes-20260828134446362085541) |
+| Professor efetivo (concurso público) em educação — Universidade Estadual Paulist | Universidade Estadual Paulista — Faculdade de Ciências Agrárias e Veterinárias | educação |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-368-2026-stgp-divulgacao-das-notas-das-provas-de-titulos-didatica-e-de-analise-e-arguicao-202608141344413262049943) |
+| COMUNICADO - CONCURSO Nº IF 70/2026, DE 6 DE AGOSTO DE 2026 | Universidade de São Paulo — Instituto de Física | matemática |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/comunicado-concurso-n-if-70-2026-de-6-de-agosto-de-2026-2026080613422411662030821) |
+| Professor efetivo (concurso público) em economia — Universidade de São Paulo — F | Universidade de São Paulo — Faculdade de Economia, Administração, Contabilidade e Atuária | economia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-feausp-31-2026-20260803134221762020490) |
+| CONCURSO PÚBLICO PARA PREENCHIMENTO DE VAGAS DE DOCENTES NO CARGO DE PROFESSOR A | Universidade Estadual do Norte Fluminense (UENF) |  |  | sem prazo identificado | [link](https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjA4MzE=) |
+| 28/08/2026-17h59 Udesc Faed organiza encontro com professoras internacionais par | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/udesc_faed_organiza_encontro_com_professoras_internacionais_para_discutir_politicas_educacionais) |
 | Professor substituto em biologia — Universidade Estadual Paulista — Faculdade de | Universidade Estadual Paulista — Faculdade de Ciências e Letras de Assis | biologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-326-2026-de-30-de-julho-de-2026-20260730134444162015229) |
 | Docente (outros) — Universidade Estadual Paulista — Faculdade de Ciências (EDITA | Universidade Estadual Paulista — Faculdade de Ciências |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-42-de-30-de-julho-de-2026-20260730134445362016540) |
 | COMUNICADO - CONCURSO FFLCH/FLS Nº 042/2025, DE 30 DE JULHO DE 2026 | Universidade de São Paulo — Faculdade de Filosofia, Letras e Ciências Humanas | sociologia/antropologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/comunicado-concurso-fflch-fls-n-042-2025-de-30-de-julho-de-2026-2026073013422211662015022) |
@@ -1752,10 +1799,16 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (303)
+## Institutos públicos (309)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| DESPACHO DE 28 DE AGOSTO DE 2026 | Secretaria Executiva |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-28-de-agosto-de-2026-729046413) |
+| Bolsa — Instituto Nacional de Metrologia, Qualidade e Tecnologia (EDITAL Nº 17) | Instituto Nacional de Metrologia, Qualidade e Tecnologia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-17-de-24-de-agosto-de-2026-727952111) |
+| Pós-doutorado — Centro de Estudos Judiciários (EDITAL Nº 2/2026) | Centro de Estudos Judiciários |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-2/2026-729030708) |
+| Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-0501-de-31-de-julho-de-2026-2026073113141462018836) |
+| CONCURSO Nº 08.01, DE 31 DE JULHO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0801-de-31-de-julho-de-2026-202607311314142742019377) |
+| Pesquisador — Secretaria de Inovação, Ciência e Tecnologia — Fundação de Amparo  | Secretaria de Inovação, Ciência e Tecnologia — Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul |  |  | sem prazo identificado | [link](https://www.diariooficial.rs.gov.br/materia?id=1473701) |
 | Docente (outros) — Fundação Joaquim Nabuco (AVISO DE RETIFICAÇÃO) | Fundação Joaquim Nabuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-retificacao-728183182) |
 | Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-1001-de-29-de-julho-de-2026-2026072913141462011323) |
 | Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-0501-de-29-de-julho-de-2026-2026072913141462012666) |
@@ -2060,10 +2113,11 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (467)
+## Privadas (468)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor(a) Medicina - Urgência e Emergência | Unisinos | medicina | 30/09/2026 | aberta | [link](https://unisinos.gupy.io/job/eyJqb2JJZCI6MTIzNzg2MDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR AUXILIAR I  - ODONTOLOGIA  - ESTÁCIO CARAPICUÍBA | Estácio | odontologia | 19/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTIxOTY5MzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR AUXILIAR I  - ODONTOLOGIA  - ESTÁCIO CARAPICUÍBA | Estácio | odontologia | 19/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTIxOTY5NDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR AUXILIAR I  - ENFERMAGEM - ESTÁCIO CONTAGEM | Estácio | enfermagem | 27/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTIzMzI2NTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
@@ -2532,10 +2586,12 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (251)
+## Bolsas / pós-doc / agências (253)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa de Doutorado Direto em Imunologia / Biologia Celular / Fisiologia | Centro de Ciências Naturais e Humanas, Universidade Federal do ABC (CCNH-UFABC) | biologia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../decifrando-o-mecanismo-imunologico-da-exacerbacao-da-inflamacao-alergica-pulmonar-na-menopausa/9798/) |
+| Bolsa de Mestrado em Eletroquímica | Instituto de Química de São Carlos, Universidade de São Paulo (IQSC-USP) | química |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../desenvolvimento-de-materiais-eletrocatalisadores-avancados-para-reacoes-envolvendo-oxigenio-em-meio-acido:-do-arranjo-atomico-as-aplicacoes-em-eletrolise-pem/9799/) |
 | Bolsa de PD em Biotecnologia de Microalgas | Instituto do Mar, Universidade Federal de São Paulo (IMar-Unifesp) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../integrabio4tec:-captura-de-co2-por-microalgas-para-conversao-em-bioprodutos-e-promocao-da-sustentabilidade/9793/) |
 | Bolsa de Iniciação Científica em IA aplicada à Saúde e Bem-Estar | Instituto de Computação, Universidade Estadual de Campinas (IC-Unicamp) | computação |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../viva-bem:-inteligencia-artificial-para-saude-e-bem-estar/9796/) |
 | Bolsa de PD em Imunologia | Centro de Ciências Naturais e Humanas, Universidade Federal do ABC (CCNH-UFABC) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../decifrando-o-mecanismo-imunologico-da-exacerbacao-da-inflamacao-alergica-pulmonar-na-menopausa/9794/) |
