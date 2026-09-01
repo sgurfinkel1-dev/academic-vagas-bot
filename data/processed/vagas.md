@@ -1,10 +1,23 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (1207)
+## Públicas federais (1220)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor substituto — Fundação Universidade Federal do Acre (PORTARIA Nº 3.322) | Fundação Universidade Federal do Acre |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-3.322-de-31-de-agosto-de-2026-729337610) |
+| Professor substituto — Pró-Reitoria de Gestão de Pessoas (PORTARIA Nº 4.212/PROG | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-4.212/progesp/cpii-de-29-de-agosto-de-2026-729375866) |
+| Docente (outros) — Pró-Reitoria de Pessoal (PORTARIA Nº 9.212) | Pró-Reitoria de Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-9.212-de-31-de-agosto-de-2026-729388712) |
+| Docente (outros) em engenharia — Fundação Universidade Federal do Tocantins (Por | Fundação Universidade Federal do Tocantins | engenharia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-gab/uft-n-1.203-de-27-de-agosto-de-2026-729279487) |
+| DESPACHO de 27 de agosto de 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-27-de-agosto-de-2026-729263882) |
+| DESPACHO DE 27 DE AGOSTO DE 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-27-de-agosto-de-2026-729309069) |
+| Despacho DE 28 de agosto de 2026 | Universidade Federal de Santa Catarina | odontologia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-28-de-agosto-de-2026-729308753) |
+| PORTARIAS R/SRH DE 29 DE AGOSTO DE 2026 | Universidade Federal de Campina Grande |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-r/srh-de-29-de-agosto-de-2026-729367419) |
+| Professor efetivo (concurso público) em psicologia — Universidade Federal do Rio | Universidade Federal do Rio Grande do Sul | psicologia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-6.162-de-31-de-agosto-de-2026-729360785) |
+| PORTARIAS DE 31 DE AGOSTO DE 2026 | Divisão de Provimentos e Funções | física |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-31-de-agosto-de-2026-729374999) |
+| Professor efetivo (concurso público) em matemática — Universidade Federal do Rio | Universidade Federal do Rio Grande do Sul | matemática |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-6.182-de-31-de-agosto-de-2026-729345741) |
+| Professor efetivo (concurso público) em matemática — Universidade Federal do Rio | Universidade Federal do Rio Grande do Sul | matemática |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-6.181-de-31-de-agosto-de-2026-729352893) |
+| Professor efetivo (concurso público) — Fundação Universidade Federal do Tocantin | Fundação Universidade Federal do Tocantins |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-gab/uft-n-1.215-de-28-de-agosto-de-2026-729360313) |
 | Professor substituto — Fundação Universidade Federal do Acre (PORTARIA Nº 3.293) | Fundação Universidade Federal do Acre |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-3.293-de-28-de-agosto-de-2026-728959557) |
 | Docente (outros) — Pró-Reitoria de Pessoal (PORTARIA Nº 9.154) | Pró-Reitoria de Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-9.154-de-28-de-agosto-de-2026-729042380) |
 | Docente (outros) em engenharia — Centro Federal de Educação Tecnológica Celso Su | Centro Federal de Educação Tecnológica Celso Suckow da Fonseca | engenharia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.573/cefet-rj-de-25-de-agosto-de-2026-729049650) |
@@ -1213,10 +1226,14 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (546)
+## Públicas estaduais (550)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Pós-doutorado — Universidade de São Paulo — Faculdade de Medicina (EDITAL DVACAD | Universidade de São Paulo — Faculdade de Medicina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-dvacad-fm-168-2026-2026083113422223672091691) |
+| CONCURSO PUBLICO DE PROVAS E TITULOS PARA PROVIMENTO DE CARGO DA CARREIRA DE PRO | Universidade do Estado de Minas Gerais (UEMG) |  |  | sem prazo identificado | [link](https://www.jornalminasgerais.mg.gov.br/edicao-do-dia?dados=%7B%22dataPublicacaoSelecionada%22%3A%222026-09-01T00%3A00%3A00%22%2C%22idCadernoEdicaoSelecionado%22%3A330889%2C%22paginaSelecionada%22%3A41%2C%22textoPesquisa%22%3A%22professor%22%7D) |
+| CONCURSO PÚBLICO PARA PROFESSOR ADJUNTO, DO DEPARTAMENTO DE CIÊNCIAS MÉDICAS INT | Universidade do Estado do Rio de Janeiro (UERJ) |  |  | sem prazo identificado | [link](https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjA5MDE=) |
+| 31/08/2026-15h44 Udesc Faed lança exposição e debate sobre expedição de pesquisa | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/udesc_faed_lanca_exposicao_e_debate_sobre_expedicao_de_pesquisadores_brasileiros_a_china) |
 | Professor efetivo (concurso público) em educação — Universidade de São Paulo — F | Universidade de São Paulo — Faculdade de Educação | educação |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-feusp-34-2026-banca-ref-ed-27-2025-2026073113422191662019492) |
 | Professor substituto em biologia — Universidade Estadual Paulista — Faculdade de | Universidade Estadual Paulista — Faculdade de Ciências e Letras de Assis | biologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-331-de-31-de-julho-de-2026-20260731134444162019712) |
 | COMUNICADO - CONCURSO | Universidade de São Paulo — Faculdade de Medicina de Ribeirão Preto | química |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/comunicado-concurso-2026080113422241662020387) |
@@ -1799,10 +1816,13 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (309)
+## Institutos públicos (312)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Docente (outros) — Ministério da Gestão e da Inovação em Serviços Públicos (Edit | Ministério da Gestão e da Inovação em Serviços Públicos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-1/2026-729349970) |
+| Pós-doutorado — Embrapa Clima Temperado (EXTRATO DE AUTORIZAÇÃO DE SERVIÇO) | Embrapa Clima Temperado |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-autorizacao-de-servico-729199427) |
+| Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-0101-de-31-de-agosto-de-2026-2026083113141762090815) |
 | DESPACHO DE 28 DE AGOSTO DE 2026 | Secretaria Executiva |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-28-de-agosto-de-2026-729046413) |
 | Bolsa — Instituto Nacional de Metrologia, Qualidade e Tecnologia (EDITAL Nº 17) | Instituto Nacional de Metrologia, Qualidade e Tecnologia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-17-de-24-de-agosto-de-2026-727952111) |
 | Pós-doutorado — Centro de Estudos Judiciários (EDITAL Nº 2/2026) | Centro de Estudos Judiciários |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-2/2026-729030708) |
@@ -2113,10 +2133,14 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (468)
+## Privadas (472)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| PROFESSOR AUXILIAR I - AS TEORIAS COGNITIVO-COMPORTAMENTAIS - ESTÁCIO QUEIMADOS | Estácio |  | 27/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTIzMzI1ODksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - PSICOLOGIA DO DESENVOLVIMENTO HUMANO - ESTÁCIO QUEIMADOS | Estácio | psicologia | 27/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTIzMzI1NzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - DIREITO -  ESTÁCIO ALEXANDRINO | Estácio | direito | 28/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTIzNDg4MTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR ENSINO PROFISSIONALIZANTE CURSO TÉCNICO DE PROTESE DENTÁRIA NA ESTACIO | YDUQS |  | 16/09/2026 | aberta | [link](https://yduqs.gupy.io/job/eyJqb2JJZCI6MTE2ODYxODAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Professor(a) Medicina - Urgência e Emergência | Unisinos | medicina | 30/09/2026 | aberta | [link](https://unisinos.gupy.io/job/eyJqb2JJZCI6MTIzNzg2MDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR AUXILIAR I  - ODONTOLOGIA  - ESTÁCIO CARAPICUÍBA | Estácio | odontologia | 19/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTIxOTY5MzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR AUXILIAR I  - ODONTOLOGIA  - ESTÁCIO CARAPICUÍBA | Estácio | odontologia | 19/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTIxOTY5NDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
@@ -2586,10 +2610,14 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (253)
+## Bolsas / pós-doc / agências (257)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EXTRATO DE CONCESSÃO DE AUXÍLIO FINANCEIRO À PESQUISADORES | Diretoria de Relações Internacionais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-de-auxilio-financeiro-a-pesquisadores-729234043) |
+| EXTRATO DE CONCESSÃO DE AUXÍLIO FINANCEIRO À PESQUISADORES | Diretoria de Programas e Bolsas no País |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-de-auxilio-financeiro-a-pesquisadores-729224939) |
+| Bolsa de Doutorado em Eletroquímica | Instituto de Química de São Carlos, Universidade de São Paulo (IQSC-USP) | química |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../desenvolvimento-de-materiais-eletrocatalisadores-avancados-para-reacoes-envolvendo-oxigenio-em-meio-acido:-do-arranjo-atomico-as-aplicacoes-em-eletrolise-pem/9797/) |
+| Bolsa de Doutorado Direto em Neurociências / Modelos Humanos do Cérebro | Faculdade de Ciências Médicas, Universidade Estadual de Campinas (FCM-Unicamp) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../dissecando-os-mecanismos-da-rede-neuronal-e-celular-da-displasia-cortical-focal-utilizando-um-modelo-humano/9800/) |
 | Bolsa de Doutorado Direto em Imunologia / Biologia Celular / Fisiologia | Centro de Ciências Naturais e Humanas, Universidade Federal do ABC (CCNH-UFABC) | biologia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../decifrando-o-mecanismo-imunologico-da-exacerbacao-da-inflamacao-alergica-pulmonar-na-menopausa/9798/) |
 | Bolsa de Mestrado em Eletroquímica | Instituto de Química de São Carlos, Universidade de São Paulo (IQSC-USP) | química |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../desenvolvimento-de-materiais-eletrocatalisadores-avancados-para-reacoes-envolvendo-oxigenio-em-meio-acido:-do-arranjo-atomico-as-aplicacoes-em-eletrolise-pem/9799/) |
 | Bolsa de PD em Biotecnologia de Microalgas | Instituto do Mar, Universidade Federal de São Paulo (IMar-Unifesp) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../integrabio4tec:-captura-de-co2-por-microalgas-para-conversao-em-bioprodutos-e-promocao-da-sustentabilidade/9793/) |
