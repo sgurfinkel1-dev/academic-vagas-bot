@@ -371,16 +371,28 @@ class TestRegressaoStatus:
         assert _status_atual("", "aberta") == "aberta"
 
     def test_dashboard_usa_status_recalculado(self):
-        """O dashboard deve chamar _status_atual na list comprehension."""
+        """A coluna status tem que ser reescrita com _status_atual ao carregar.
+
+        Não prende o nome do DataFrame: a versão anterior exigia literalmente
+        `df["status"] = [_status_atual`, e quebrou quando a leitura virou uma
+        função cacheada onde a variável se chama `d` — refactor legítimo, sem
+        mudança de comportamento. O que precisa ser garantido é que alguma
+        coluna "status" recebe o resultado de _status_atual, não como se chama
+        a variável no meio do caminho.
+        """
+        import re
+
         import dashboard
         src = Path(dashboard.__file__).read_text(encoding="utf-8")
-        assert '_status_atual(p, s)' in src, (
+        assert "_status_atual(" in src, (
             "A chamada a _status_atual foi removida — o status passará a ser "
             "lido diretamente do banco, mostrando vagas 'abertas' mesmo com "
             "prazo vencido."
         )
-        assert 'df["status"] = [_status_atual' in src or "df['status'] = [_status_atual" in src, (
-            "A atribuição de status recalculado foi substituída por uso direto do banco."
+        atribuicao = re.search(r"""\[["']status["']\]\s*=\s*\[?\s*_status_atual""", src)
+        assert atribuicao, (
+            "Nenhuma atribuição de coluna 'status' a partir de _status_atual — "
+            "o status voltou a vir cru do banco e envelhece sem ninguém notar."
         )
 
 

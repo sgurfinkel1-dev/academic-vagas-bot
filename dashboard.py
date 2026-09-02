@@ -224,10 +224,24 @@ def _painel_config():
                     "dias_retroativos": dias}
             conteudo = yaml.safe_dump(nova, allow_unicode=True, sort_keys=False)
             AGENDA.write_text(conteudo, encoding="utf-8")
-            if repo and token:  # nuvem: persiste no repo p/ a busca agendada usar
-                nuvem.commitar_arquivo(repo, "agenda.yaml", conteudo, token,
-                                       "dashboard: atualiza agenda de busca")
-            st.success("Configuração salva.")
+            # O disco do Streamlit Cloud é efêmero: o write_text acima some no
+            # próximo restart, e o robô lê o agenda.yaml do REPOSITÓRIO. Sem o
+            # commit, a configuração escolhida aqui nunca chega à busca — foi o
+            # que aconteceu desde sempre (não há um único commit "dashboard:
+            # atualiza" no histórico), enquanto a tela dizia "Configuração
+            # salva". Agora o resultado do commit decide a mensagem.
+            if repo and token:
+                if nuvem.commitar_arquivo(repo, "agenda.yaml", conteudo, token,
+                                          "dashboard: atualiza agenda de busca"):
+                    st.success("Configuração salva. A próxima busca já usa estas áreas.")
+                else:
+                    st.error("Não consegui gravar a configuração no repositório — "
+                             "a busca vai continuar usando as áreas anteriores. "
+                             "Avise o responsável pelo app (token do GitHub).")
+            else:
+                st.warning("Configuração aplicada só nesta sessão. Sem os secrets "
+                           "`github_repo` e `github_token`, ela não chega ao robô "
+                           "e se perde quando o app reiniciar.")
         if repo and token:
             st.caption("A busca roda sozinha todo dia no horário agendado (GitHub Actions).")
             if st.button("☁️ Rodar busca completa agora", use_container_width=True):
@@ -327,10 +341,6 @@ if ao_vivo and b_diarios and f_texto.strip():
 if not DB.exists():
     st.stop()
 
-with sqlite3.connect(DB) as _con:
-    df = pd.read_sql("SELECT * FROM vagas", _con)
-
-
 def _status_atual(prazo: str, gravado: str) -> str:
     """O status vem gravado da coleta e envelhece no banco: vaga recolhida com
     prazo futuro continua marcada 'aberta' depois que o prazo passa. Recalcula
@@ -346,7 +356,37 @@ def _status_atual(prazo: str, gravado: str) -> str:
     return gravado or "sem prazo identificado"
 
 
-df["status"] = [_status_atual(p, s) for p, s in zip(df.prazo_inscricao, df.status)]
+def _sem_acento(s: str) -> str:
+    return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
+
+
+@st.cache_data(show_spinner="Carregando vagas…")
+def _carregar(_mtime: float, _hoje: date) -> pd.DataFrame:
+    """Lê o banco, recalcula o status e pré-normaliza os campos de busca.
+
+    O Streamlit reexecuta o script inteiro a cada interação — cada tecla no
+    campo de busca, cada troca de filtro. Sem cache, toda interação reabria o
+    SQLite, relia as ~2.900 linhas, rodava strptime em cada uma e normalizava
+    acento de três colunas concatenadas. Com 800 vagas passava; com 2.900 o
+    painel travava. Isto roda uma vez por versão do banco.
+
+    A chave do cache é (mtime do arquivo, data de hoje): muda quando o robô
+    publica um banco novo, e vira também na virada do dia, porque o status
+    depende de comparar o prazo com hoje.
+    """
+    with sqlite3.connect(DB) as con:
+        d = pd.read_sql("SELECT * FROM vagas", con)
+    d["status"] = [_status_atual(p, s) for p, s in zip(d.prazo_inscricao, d.status)]
+    # Campos de busca sem acento, calculados uma vez. A busca depois só fatia
+    # estas colunas pelo índice, em vez de reconstruí-las a cada tecla.
+    d["_subarea"] = d["subarea"].fillna("").map(_sem_acento)
+    d["_tema"] = d[["titulo", "area"]].fillna("").agg(" ".join, axis=1).map(_sem_acento)
+    d["_corpo"] = (d[["instituicao", "natureza", "trecho_comprovacao"]]
+                   .fillna("").agg(" ".join, axis=1).map(_sem_acento))
+    return d
+
+
+df = _carregar(DB.stat().st_mtime, date.today())
 
 if f_classe != "Todas":
     df = df[df.classificacao_instituicao == f_classe]
@@ -372,19 +412,15 @@ if PERIODOS[f_periodo] is not None:
     df = df[pub.isna() | (pub >= corte)]
 if f_titulacao != "Todas":
     df = df[df.titulacao_exigida == f_titulacao]
-def _sem_acento(s: str) -> str:
-    return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
-
-
 if f_texto:
     # cada grupo é um termo: "epistemologia" também acha "teoria do conhecimento"
     grupos = sinonimos.expandir(f_texto)
     palavras = [g[0] for g in grupos]  # rótulo do grupo, só para exibir
     # três níveis: a subárea declarada no edital ("Subárea: Filosofia Política") é o
     # sinal mais forte; título/área vêm depois; o corpo do edital só desempata.
-    subarea = df["subarea"].fillna("").map(_sem_acento)
-    tema = df[["titulo", "area"]].fillna("").agg(" ".join, axis=1).map(_sem_acento)
-    corpo = df[["instituicao", "natureza", "trecho_comprovacao"]].fillna("").agg(" ".join, axis=1).map(_sem_acento)
+    # As colunas já vêm sem acento do cache (_carregar): aqui é só fatiar pelo
+    # índice que sobrou dos filtros, em vez de renormalizar a cada tecla.
+    subarea, tema, corpo = df["_subarea"], df["_tema"], df["_corpo"]
 
     def _casa(serie):
         return pd.concat([serie.str.contains(

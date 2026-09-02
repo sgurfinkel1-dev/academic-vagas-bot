@@ -2133,10 +2133,13 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (472)
+## Privadas (475)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor(a) Universitário - Veterinária (Diagnóstico por imagem) | FMU |  | 30/11/2026 | aberta | [link](https://fmu.gupy.io/job/eyJqb2JJZCI6MTIzOTUxMzUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| ESPECIALISTA DE DE INTELIGÊNCIA E OPERAÇÕES DOCENTES | Colégio Antares |  | 31/10/2026 | aberta | [link](https://colegioantares.gupy.io/job/eyJqb2JJZCI6MTI0MDAxMzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR I - PSICOLOGIA - WYDEN TERESINA - HORTO FLORESTAL -  EXCLUSIV | Wyden |  | 28/10/2026 | aberta | [link](https://wyden.gupy.io/job/eyJqb2JJZCI6MTIzNDg4NDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR AUXILIAR I - AS TEORIAS COGNITIVO-COMPORTAMENTAIS - ESTÁCIO QUEIMADOS | Estácio |  | 27/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTIzMzI1ODksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR AUXILIAR I - PSICOLOGIA DO DESENVOLVIMENTO HUMANO - ESTÁCIO QUEIMADOS | Estácio | psicologia | 27/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTIzMzI1NzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR AUXILIAR I - DIREITO -  ESTÁCIO ALEXANDRINO | Estácio | direito | 28/10/2026 | aberta | [link](https://vempraestacio.gupy.io/job/eyJqb2JJZCI6MTIzNDg4MTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
