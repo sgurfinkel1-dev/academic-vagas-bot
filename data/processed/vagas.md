@@ -1,10 +1,14 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (1300)
+## Públicas federais (1304)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Docente (outros) — Pró-Reitoria de Pessoal (PORTARIA Nº 9.398) | Pró-Reitoria de Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-9.398-de-2-de-setembro-de-2026-730188566) |
+| DESPACHO de 18 de agosto de 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-18-de-agosto-de-2026-727297564) |
+| PORTARIAS DE 28 DE AGOSTO DE 2026 | Pró-Reitoria de Recursos Humanos | matemática |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-28-de-agosto-de-2026-729491086) |
+| RECOMPOSIÇÃO DA COMISSÃO JULGADORA DO CONCURSO DE PROFESSOR TITULAR - EDITAL FO  | Universidade de São Paulo — Faculdade de Odontologia | biologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/recomposicao-da-comissao-julgadora-do-concurso-de-professor-titular-edital-fo-67-2024-20260820134222662066318) |
 | DESPACHO DE 31 DE AGOSTO DE 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-31-de-agosto-de-2026-729367261) |
 | COMUNICADO - CONCURSO - EDITAL DVACAD/IFSC-27/2026, DE 5 DE AGOSTO DE 2026 | Universidade de São Paulo — Instituto de Física de São Carlos |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/comunicado-concurso-edital-dvacad-ifsc-27-2026-de-5-de-agosto-de-2026-2026080513422421662026882) |
 | PORTARIAS DE 2 DE SETEMBRO DE 2026 | Pró-Reitoria de Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-2-de-setembro-de-2026-730201356) |
@@ -1306,10 +1310,19 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (611)
+## Públicas estaduais (620)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor substituto em biologia — Universidade Estadual Paulista — Faculdade de | Universidade Estadual Paulista — Faculdade de Ciências e Letras de Assis | biologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-341-de-6-de-agosto-de-2026-20260806134444162032362) |
+| Professor substituto em agrárias — Universidade Estadual Paulista — Faculdade de | Universidade Estadual Paulista — Faculdade de Ciências Agrárias do Vale do Ribeira | agrárias |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-065-2026-fcavr-dtad-stgp-comissao-examinadora-20260806134442412742030996) |
+| Docente (outros) — Universidade Estadual Paulista — Faculdade de Ciências Humana | Universidade Estadual Paulista — Faculdade de Ciências Humanas e Sociais |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-205-2026-stgp-cf-analise-de-recurso-20260806134449162031866) |
+| Docente (outros) — Universidade Estadual Paulista — Faculdade de Ciências Humana | Universidade Estadual Paulista — Faculdade de Ciências Humanas e Sociais |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-206-2026-stgp-cf-analise-de-recurso-20260806134449162031894) |
+| COMUNICADO - CONCURSO | Universidade Estadual Paulista — Faculdade de Ciências Farmacêuticas |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/comunicado-concurso-2026080613444321662030108) |
+| Docente (outros) — Universidade Estadual de Campinas — Área de Recrutamento e Se | Universidade Estadual de Campinas — Área de Recrutamento e Seleção |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-de-resultado-das-analises-das-solicitacoes-edital-n-057-2026-202608061343224162031239) |
+| Professor efetivo (concurso público) — Universidade Estadual Paulista — Faculdad | Universidade Estadual Paulista — Faculdade de Ciências Agronômicas |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-04-de-6-de-agosto-de-2026-20260806134446262031693) |
+| Docente (outros) em economia — Universidade de São Paulo — Faculdade de Economia | Universidade de São Paulo — Faculdade de Economia, Administração, Contabilidade e Atuária | economia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-fea-32-2026-resultado-do-procedimento-de-heteroidentificacao-20260810134221762037725) |
+| Docente (outros) em economia — Universidade de São Paulo — Faculdade de Economia | Universidade de São Paulo — Faculdade de Economia, Administração, Contabilidade e Atuária | economia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-fea-30-2026-resultado-do-procedimento-de-heteroidentificacao-20260810134221762037417) |
 | Professor substituto em letras/linguística — Universidade Estadual Paulista — Fa | Universidade Estadual Paulista — Faculdade de Ciências e Letras de Assis | letras/linguística |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-339-de-5-de-agosto-de-2026-20260805134444162027322) |
 | Docente (outros) — Universidade Estadual Paulista — Instituto de Biociências (Ed | Universidade Estadual Paulista — Instituto de Biociências |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-716-2026-cscgp-ibb-analise-de-recurso-20260805134446562029514) |
 | Docente (outros) — Universidade de São Paulo — Faculdade de Ciências Farmacêutic | Universidade de São Paulo — Faculdade de Ciências Farmacêuticas de Ribeirão Preto |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-dvacad-fcfrp-n-18-de-5-de-agosto-de-2026-2026080513422143672028680) |
@@ -1957,10 +1970,13 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (328)
+## Institutos públicos (331)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Docente (outros) — Secretaria da Justiça e Cidadania — Instituto de Pesos e Medi | Secretaria da Justiça e Cidadania — Instituto de Pesos e Medidas do Estado de São Paulo |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-da-justica-e-cidadania/edital-de-autuacao-de-6-de-agosto-de-2026-2026080613301062030379) |
+| CONCURSO Nº 08.01, DE 6 DE AGOSTO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0801-de-6-de-agosto-de-2026-202608061314142742032645) |
+| Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-0501-de-6-de-agosto-de-2026-2026080613141462031808) |
 | Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-1001-de-5-de-agosto-de-2026-2026080513141462029199) |
 | CONCURSO Nº 08.02, DE 5 DE AGOSTO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0802-de-5-de-agosto-de-2026-202608051314142742029104) |
 | CONCURSO Nº 08.01, DE 4 DE AGOSTO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0801-de-4-de-agosto-de-2026-202608041314142742025701) |
