@@ -1,10 +1,39 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (1334)
+## Públicas federais (1363)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor efetivo (concurso público) — Fundação Universidade Federal do Pampa (P | Fundação Universidade Federal do Pampa |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.646-de-8-de-setembro-de-2026-730782767) |
+| Professor substituto em biologia — Universidade Federal Rural da Amazônia (PORTA | Universidade Federal Rural da Amazônia | biologia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.355-de-8-de-setembro-de-2026-730675651) |
+| Professor substituto — Universidade Federal Rural da Amazônia (PORTARIA Nº 1.341 | Universidade Federal Rural da Amazônia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.341-de-4-de-setembro-de-2026-730675730) |
+| Docente (outros) — Pró-Reitoria de Pessoal (PORTARIA Nº 9.639) | Pró-Reitoria de Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-9.639-de-4-de-setembro-de-2026-730707449) |
+| Professor efetivo (concurso público) — Universidade Federal do Paraná (EDITAL Nº | Universidade Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-272/2026-730739954) |
+| Pós-doutorado — Fundação Universidade Federal de Pelotas (PORTARIA DE PESSOAL Nº | Fundação Universidade Federal de Pelotas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-n-3.200/ufpel-de-10-de-agosto-de-2026-730757355) |
+| DESPACHO de 8 de setembro de 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-8-de-setembro-de-2026-730754675) |
+| Docente (outros) em psicologia — Fundação Universidade Federal de São João Del R | Fundação Universidade Federal de São João Del Rei | psicologia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-634-de-8-de-setembro-de-2026-730760831) |
+| DESPACHO de 8 de setembro de 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-8-de-setembro-de-2026-730757671) |
+| DESPACHO de 8 de setembro de 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-8-de-setembro-de-2026-730754596) |
+| DESPACHO de 8 de setembro de 2026 | Universidade Federal do Rio de Janeiro | matemática |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-8-de-setembro-de-2026-730750138) |
+| Professor efetivo (concurso público) — Universidade Federal do Paraná (EDITAL Nº | Universidade Federal do Paraná |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=09/09/2026&jornal=530&pagina=35) |
+| Professor visitante — Fundação Universidade Federal de Pelotas (EDITAL Nº 27/202 | Fundação Universidade Federal de Pelotas |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=09/09/2026&jornal=530&pagina=51) |
+| Docente (outros) — Filial Hospital Universitário Professor Polydoro Ernani de Sã | Filial Hospital Universitário Professor Polydoro Ernani de São Thiago |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=09/09/2026&jornal=530&pagina=46) |
+| Professor substituto — Campus Sobral (EDITAL) | Campus Sobral |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=09/09/2026&jornal=530&pagina=25) |
+| Professor substituto em química — Pró-Reitoria de Gestão de Pessoas (aviso de RE | Pró-Reitoria de Gestão de Pessoas | química |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=09/09/2026&jornal=530&pagina=36) |
+| Professor substituto — Universidade Federal da Fronteira Sul (EDITAL Nº 387) | Universidade Federal da Fronteira Sul |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=09/09/2026&jornal=530&pagina=34) |
+| Professor substituto — Campus Acaraú (EDITAL) | Campus Acaraú |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=09/09/2026&jornal=530&pagina=24) |
+| Docente (outros) — Reitoria (RETIFICAÇÃO) | Reitoria |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=08/09/2026&jornal=529&pagina=31) |
+| Professor substituto — Diretoria de Processos Seletivos (RETIFICAÇÃO) | Diretoria de Processos Seletivos |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=08/09/2026&jornal=530&pagina=45) |
+| Professor substituto em direito — Pró-Reitoria de Gestão de Pessoas (aviso de RE | Pró-Reitoria de Gestão de Pessoas | direito |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=08/09/2026&jornal=530&pagina=51) |
+| Professor efetivo (concurso público) em medicina — Reitoria (EDITAL Nº 193) | Reitoria | medicina | 14/09/2026 | aberta | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=08/09/2026&jornal=530&pagina=46) |
+| Professor substituto em economia — Pró-Reitoria de Recursos Humanos (EDITAL Nº 2 | Pró-Reitoria de Recursos Humanos | economia |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=08/09/2026&jornal=530&pagina=48) |
+| Professor efetivo (concurso público) — Universidade Federal Rural de Pernambuco  | Universidade Federal Rural de Pernambuco |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=08/09/2026&jornal=530&pagina=52) |
+| [DOU] DEF. ED 21_2026_004 | Universidade Federal Rural de Pernambuco |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=08/09/2026&jornal=530&pagina=57) |
+| [DOU] DEF. ED 21_2026_007 | Universidade Federal Rural de Pernambuco |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=08/09/2026&jornal=530&pagina=62) |
+| Professor substituto — Universidade Federal do Triângulo Mineiro (EDITAL Nº 31) | Universidade Federal do Triângulo Mineiro |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=08/09/2026&jornal=530&pagina=73) |
+| Professor efetivo (concurso público) em biologia — Reitoria (EDITAL Nº 194) | Reitoria | biologia |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=08/09/2026&jornal=530&pagina=47) |
+| Professor efetivo (concurso público) — Instituto Federal de Educação, Ciência e  | Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=08/09/2026&jornal=530&pagina=40) |
 | Professor substituto — Pró-Reitoria de Gestão de Pessoas (PORTARIA NORMATIVA Nº  | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-normativa-n-121-de-4-de-setembro-de-2026-730261402) |
 | Professor substituto — Diretoria de Processos Seletivos (RETIFICAÇÃO) | Diretoria de Processos Seletivos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/retificacao-730446632) |
 | Professor efetivo (concurso público) — Universidade Federal Rural de Pernambuco  | Universidade Federal Rural de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-21-de-4-de-setembro-de-2026-730542777) |
@@ -1340,10 +1369,13 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (632)
+## Públicas estaduais (635)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| CONCURSO PUBLICO DE PROV AS E TITULOS PARA PROVIMENTO DE CARGO DA CARREIRA DE PR | Universidade do Estado de Minas Gerais (UEMG) |  |  | sem prazo identificado | [link](https://www.jornalminasgerais.mg.gov.br/edicao-do-dia?dados=%7B%22dataPublicacaoSelecionada%22%3A%222026-09-09T00%3A00%3A00%22%2C%22idCadernoEdicaoSelecionado%22%3A330928%2C%22paginaSelecionada%22%3A63%2C%22textoPesquisa%22%3A%22professor%22%7D) |
+| 08/09/2026-21h32 Professores da Udesc Esag contam com ajuda para firmar novos co | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/professores_da_udesc_esag_contam_com_ajuda_para_firmar_novos_convenios_e_contratos) |
+| EDITAL Nº 003/2026 - PROEG/PARFOR EQUIDADE SELEÇÃO DE PROFESSORES PARA O PREENCH | UNEMAT |  |  | sem prazo identificado | [link](https://unemat.br/editais/8-9-2026-edital-n-003-2026-proeg-parfor-equidade-selecao-de-professores-para-o-preenchimento-de-cadastro-de-reserva-para-vagas-de-cursos-de-graduacao) |
 | Edital COI 01/2026 - Resultado da Seleção de bolsistas de Pós-Doutorado | Universidade de São Paulo — Centro Observatório das Instituições Brasileiras - COI |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-coi-01-2026-resultado-da-selecao-de-bolsistas-de-pos-doutorado-202609041342111362105428) |
 | Concurso Público para o cargo de Professor Adjunto, nomeado pela Portaria nº 954 | Universidade do Estado do Rio de Janeiro (UERJ) | administração |  | sem prazo identificado | [link](https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjA5MDg=) |
 | Professor substituto em engenharia — Universidade Estadual Paulista — Instituto  | Universidade Estadual Paulista — Instituto de Biociências, Letras e Ciências Exatas | engenharia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-300-2026-csjrp-resultado-da-analise-das-inscricoes-202608071344419162034032) |
@@ -2350,10 +2382,18 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (491)
+## Privadas (499)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor(a) de Inglês | Red Balloon |  | 13/11/2026 | aberta | [link](https://redballoon.gupy.io/job/eyJqb2JJZCI6MTI0NDQ1MDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR MEDICO AUXILIAR I - SAÚDE DA MULHER - IDOMED RIBEIRÂNIA | IDOMED |  | 04/11/2026 | aberta | [link](https://idomed.gupy.io/job/eyJqb2JJZCI6MTI0MjkxOTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR ADJUNTO I - ENGENHARIA DE SOFTWARE - IBMEC FORTALEZA | Ibmec | computação | 08/10/2026 | aberta | [link](https://ibmec.gupy.io/job/eyJqb2JJZCI6MTI0MzQ5NjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR ADJUNTO I - CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL - IBMEC FORTALE | Ibmec | computação | 08/10/2026 | aberta | [link](https://ibmec.gupy.io/job/eyJqb2JJZCI6MTI0MzQ4MDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| COORDENADOR CURSO - ADMINISTRAÇÃO E CIÊNCIAS ECONÔMICAS - IBMEC FORTALEZA | Ibmec | economia | 08/10/2026 | aberta | [link](https://ibmec.gupy.io/job/eyJqb2JJZCI6MTI0MzYzNzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| COORDENADOR CURSO - DIREITO E RELAÇÕES INTERNACIONAIS - IBMEC FORTALEZA | Ibmec | direito | 08/10/2026 | aberta | [link](https://ibmec.gupy.io/job/eyJqb2JJZCI6MTI0MzU5MDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| COORDENADOR DE CURSO - CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL E ENGENHARIA D | Ibmec | computação | 07/11/2026 | aberta | [link](https://ibmec.gupy.io/job/eyJqb2JJZCI6MTI0MzY4MDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Coordenador de Curso | UNIJORGE |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2834160/coordenador-de-curso) |
 | PROFESSOR ADJUNTO I - RELAÇÕES INTERNACIONAIS - IBMEC FORTALEZA | Ibmec | ciência política | 07/10/2026 | aberta | [link](https://ibmec.gupy.io/job/eyJqb2JJZCI6MTI0MzQ2MTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR ADJUNTO I - CIÊNCIAS ECONÔMICAS - IBMEC FORTALEZA | Ibmec | economia | 08/10/2026 | aberta | [link](https://ibmec.gupy.io/job/eyJqb2JJZCI6MTI0MzQzOTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR ADJUNTO I - ADMINISTRAÇÃO - IBMEC FORTALEZA | Ibmec | administração | 08/10/2026 | aberta | [link](https://ibmec.gupy.io/job/eyJqb2JJZCI6MTI0MzQyMTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
@@ -2846,10 +2886,18 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (267)
+## Bolsas / pós-doc / agências (275)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Pesquisador — Conselho Nacional de Desenvolvimento Científico e Tecnológico (EXT | Conselho Nacional de Desenvolvimento Científico e Tecnológico |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-memorando-de-entendimento-730639138) |
+| Bolsa de JC-II em Direito / Relações Internacionais | Escola de Direito de São Paulo, Fundação Getulio Vargas (FGV Direito SP) | Direito |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../politicas-nacionais-como-orientadoras-de-investimentos-externos:-uma-analise-das-regulacoes-para-as-relacoes-economicas-brasil-china/9821/) |
+| Bolsa de TT-V em Direito Internacional | Escola de Direito de São Paulo, Fundação Getulio Vargas (FGV Direito SP) | Direito |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../politicas-nacionais-como-orientadoras-de-investimentos-externos:-uma-analise-das-regulacoes-para-as-relacoes-economicas-brasil-china/9822/) |
+| Bolsa de Mestrado em Imunometabolismo e Exercício | Instituto de Ciências Biomédicas, Universidade de São Paulo (ICB-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-multiprofissional-de-estudos-paralimpico-e-paradesportivo-(cmepp):-saude-formacao-alto-desempenho-e-tecnologia/9820/) |
+| Post-Doctoral Fellowship in Geology / Geosciences / Geochemistry / Geophysics /  | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-ciencia-para-o-desenvolvimento-de-tecnologias-para-captura-e-armazenamento-de-co2-da-industria-sucroenergetica-(ccd-em-beccs)/9816/) |
+| Post-Doctoral Fellowship in Bioenergy and Low Carbon Technologies Instituition:  | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-ciencia-para-o-desenvolvimento-de-tecnologias-para-captura-e-armazenamento-de-co2-da-industria-sucroenergetica-(ccd-em-beccs)/9817/) |
+| Bolsa de PD em Geologia e Energia | Escola Politécnica, Universidade de São Paulo (Poli-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-ciencia-para-o-desenvolvimento-de-tecnologias-para-captura-e-armazenamento-de-co2-da-industria-sucroenergetica-(ccd-em-beccs)/9818/) |
+| Post-Doctoral Fellowship in Reservoir Geophysics Instituition: Escola Politécnic | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-ciencia-para-o-desenvolvimento-de-tecnologias-para-captura-e-armazenamento-de-co2-da-industria-sucroenergetica-(ccd-em-beccs)/9819/) |
 | Bolsa de JC-I em Transição Energética | Faculdade de Engenharia Elétrica e de Computação, Universidade Estadual de Campinas (FEEC-Unicamp) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../cpten-–-centro-paulista-de-estudos-da-transicao-energetica/9825/) |
 | Pesquisador — Diretoria de Programas e Bolsas no País (EXTRATO DE CONCESSÃO DE A | Diretoria de Programas e Bolsas no País |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-de-auxilio-financeiro-a-pesquisa-730019320) |
 | Post-Doctoral Fellowship in Astroparticle Physics Instituition: Instituto de Fís | ver oportunidade (FAPESP) | física |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../explorando-os-extremos-do-universo-e-da-fisica-fundamental-com-a-proxima-geracao-de-experimentos-de-raios-gama-e-raios-cosmicos-em-solo/9814/) |
