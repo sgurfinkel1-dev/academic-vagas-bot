@@ -1,10 +1,28 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (1471)
+## Públicas federais (1489)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| PORTARIAS DE 14 DE SETEMBRO DE 2026 | Universidade Federal de São Paulo |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-14-de-setembro-de-2026-731861171) |
+| PORTARIAS DE 10 DE SETEMBRO DE 2026 | Universidade Federal Rural do Semi-Árido |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-10-de-setembro-de-2026-731753373) |
+| PORTARIAS DE 10 DE SETEMBRO DE 2026 | Universidade Federal de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-10-de-setembro-de-2026-731872863) |
+| Docente (outros) — Universidade Federal do Paraná (Portaria UFPR nº 868) | Universidade Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-ufpr-n-868-de-14-de-setembro-de-2026-731753689) |
+| Despacho DE 11 de setembro de 2026 | Universidade Federal de Santa Catarina |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-11-de-setembro-de-2026-731837080) |
+| Docente (outros) em farmácia — Fundação Universidade Federal de Sergipe (PORTARI | Fundação Universidade Federal de Sergipe | farmácia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.107-de-11-de-setembro-de-2026-731840030) |
+| Professor efetivo (concurso público) em enfermagem — Universidade Federal de Min | Universidade Federal de Minas Gerais | enfermagem |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-8.554-de-4-de-setembro-de-2026-731867337) |
+| Professor efetivo (concurso público) em odontologia — Universidade Federal de Mi | Universidade Federal de Minas Gerais | odontologia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-8609-de-8-de-setembro-de-2026-731879061) |
+| PORTARIAS DE 11 DE SETEMBRO DE 2026 | Universidade Federal de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-11-de-setembro-de-2026-731867179) |
+| Docente (outros) — Universidade Federal de Minas Gerais (PORTARIA Nº 8.848) | Universidade Federal de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-8.848-de-11-de-setembro-de-2026-731859429) |
+| Professor efetivo (concurso público) em biologia — Pró-Reitoria de Gestão de Pes | Pró-Reitoria de Gestão de Pessoas | biologia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.919/progepe/univasf-de-14-de-setembro-de-2026-731753136) |
+| PORTARIAS DE PESSOAL CT/UFSM DE 14 DE SETEMBRO DE 2026 | Centro de Tecnologia | química |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-pessoal-ct/ufsm-de-14-de-setembro-de-2026-731836945) |
+| Professor efetivo (concurso público) em matemática — Pró-Reitoria de Recursos Hu | Pró-Reitoria de Recursos Humanos | matemática |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-8.587-de-4-de-setembro-de-2026-731872705) |
+| Professor efetivo (concurso público) em matemática — Pró-Reitoria de Recursos Hu | Pró-Reitoria de Recursos Humanos | matemática |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-8.593-de-4-de-setembro-de-2026-731753847) |
+| DESPACHO de 14 de setembro de 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-14-de-setembro-de-2026-731769990) |
+| Docente (outros) em filosofia — Pró-Reitoria de Gestão de Pessoas (PORTARIA Nº 4 | Pró-Reitoria de Gestão de Pessoas | filosofia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-4.738/progesp/cpii-de-14-de-setembro-de-2026-731772780) |
+| Professor efetivo (concurso público) — Pró-Reitoria de Gestão e Desenvolvimento  | Pró-Reitoria de Gestão e Desenvolvimento de Pessoas |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=15/09/2026&jornal=530&pagina=54) |
+| Professor substituto em física — Pró-Reitoria de Recursos Humanos (EDITAL nº 209 | Pró-Reitoria de Recursos Humanos | física |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=15/09/2026&jornal=530&pagina=43) |
 | PORTARIAS DE 11 DE SETEMBRO DE 2026 | Fundação Universidade Federal do Pampa |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-11-de-setembro-de-2026-731382258) |
 | PORTARIAS DE 10 DE SETEMBRO DE 2026 | Pró-Reitoria de Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-10-de-setembro-de-2026-731449319) |
 | Docente (outros) — Pró-Reitoria de Gestão de Pessoas (PORTARIA Nº 4.711/PROGESP/ | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-4.711/progesp/cpii-de-11-de-setembro-de-2026-731442760) |
@@ -1477,10 +1495,14 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (733)
+## Públicas estaduais (737)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| RESOLUÇÃO Nº 370-GR/UNICENTRO, DE 10 DE SETEMBRO DE 2026 | Universidade Estadual de Ponta Grossa (UEPG) |  |  | sem prazo identificado | [link](https://dioe.pr.gov.br/ver/17282/177/professor) |
+| 14/09/2026-15h27 Docente da Udesc Esag apresenta estudo sobre gestão de riscos e | UDESC | administração |  | sem prazo identificado | [link](https://www.udesc.br/noticia/docente_da_udesc_esag_apresenta_estudo_sobre_gestao_de_riscos_e_desastres_em_congresso_na_indonesia) |
+| 14/09/2026-07h15 Pesquisadora da Udesc Esag apresenta trabalho ao lado de lidera | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/pesquisadora_da_udesc_esag_apresenta_trabalho_ao_lado_de_liderancas_globais_em_paris) |
+| 11/09/2026-19h28 Palestras de ciência e esporte reúnem alunos, pesquisadores e t | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/palestras_de_ciencia_e_esporte_reunem_alunos__pesquisadores_e_treinadores_na_udesc_cefid) |
 | COMUNICADO - CONCURSO Nº IP/ATAC 09/2026, DE 14 DE AGOSTO DE 2026 | Universidade de São Paulo — Instituto de Psicologia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/comunicado-concurso-n-ip-atac-09-2026-de-14-de-agosto-de-2026-2026081413422471662050164) |
 | Professor efetivo (concurso público) em letras/linguística — Universidade Estadu | Universidade Estadual Paulista — Faculdade de Arquitetura, Artes, Comunicação e Design | letras/linguística |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-234-2026-stgp-faac-prorrogacao-de-prazo-de-14-de-agosto-de-2026-20260814134445162050007) |
 | Professor efetivo (concurso público) em artes — Universidade Estadual de Campina | Universidade Estadual de Campinas — Secretaria Geral | artes |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-17-p-13170-2026-de-14-de-agosto-de-2026-20260814134322662050377) |
@@ -2603,10 +2625,13 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (512)
+## Privadas (515)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+|  Professor Especialista - Psicologia | Universidade Católica de Brasília  | psicologia | 08/11/2026 | aberta | [link](https://ucb.gupy.io/job/eyJqb2JJZCI6MTI0NDQ4NDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor de Inglês (período integral) / Campinas | Rede Decisão |  | 30/11/2026 | aberta | [link](https://vemprarededecisao.gupy.io/job/eyJqb2JJZCI6MTI0ODQxMzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Bacharel em direito Controladoria - Sistemas - VAGA PRESENCIAL EM BELO HORIZONTE | Décio Freire Advogados | direito | 13/11/2026 | aberta | [link](https://deciofreireadv.gupy.io/job/eyJqb2JJZCI6MTI0ODM4ODgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Professor(a) Bilíngue / Pedagogos e Especialistas  | Escola do Futuro |  | 31/01/2027 | aberta | [link](https://escoladofuturo.gupy.io/job/eyJqb2JJZCI6MTI0Nzg5MjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR MÉDICO AUXILIAR I -  GINECOLOGIA E OBSTETRÍCIA - IDOMED CANINDÉ | IDOMED | medicina | 11/11/2026 | aberta | [link](https://idomed.gupy.io/job/eyJqb2JJZCI6MTI0NzM3NjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR MEDICO AUXILIAR I -  IMAGENOLOGIA - IDOMED CITTÁ | IDOMED |  | 31/10/2026 | aberta | [link](https://idomed.gupy.io/job/eyJqb2JJZCI6MTIzOTMzNzUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
@@ -3120,10 +3145,17 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (291)
+## Bolsas / pós-doc / agências (298)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EXTRATO DE CONCESSÃO DE AUXÍLIO FINANCEIRO A PESQUISADORES | Diretoria de Programas e Bolsas no País |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-de-auxilio-financeiro-a-pesquisadores-731690942) |
+| Bolsa de PD em Economia Circular e Gestão de Ecossistemas | Faculdade de Economia, Administração, Contabilidade e Atuária, Universidade de São Paulo (FEA-USP) | Economia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../cepid-bridge:-gestao-de-ecossistemas-para-transicoes-sustentaveis/9847/) |
+| Bolsa de PD em Inovação | Faculdade de Economia, Administração, Contabilidade e Atuária, Universidade de São Paulo (FEA-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../cepid-bridge:-gestao-de-ecossistemas-para-transicoes-sustentaveis/9848/) |
+| Bolsa de PD em Patologia Molecular | Instituto de Biologia, Universidade Estadual de Campinas (IB-Unicamp) | medicina |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../necropsia-minimamente-invasiva-guiada-por-ultrassom-(nmi-us)-como-ferramenta-de-saude-publica-no-estado-de-sao-paulo:-aprimorando-e-implantacao-de-novas-ferramentas-para-apoio-a-politica-publica-de-vigilancia-epidemiologica/9845/) |
+| Bolsa de PD em Bioinformática / Análise de Imagem | Institut Pasteur de São Paulo (IPSP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../identificacao-de-novas-terapias-dirigidas-ao-hospedeiro-no-combate-as-bacterias-intracelulares-atraves-da-triagem-de-compostos-naturais-por-microscopia-de-alto-rendimento/9844/) |
+| Bolsa de PD em Impacto Humano, Biodiversidade e Funcionamento Ecossistêmico | Instituto de Biologia, Universidade Estadual de Campinas (IB-Unicamp) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../mudancas-globais-na-biodiversidade-e-funcionamento-de-ecossistemas-aquaticos-continentais:-respostas-as-pressoes-antropicas-perdas-de-habitats-e-mudancas-climaticas/9846/) |
+| Bolsa de TT-IV em Análise Espacial / Gestão Ambiental | Instituto de Ciências Ambientais, Químicas e Farmacêuticas, Universidade Federal de São Paulo (ICAQF-Unifesp) | administração |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../influencia-da-matriz-na-conectividade-funcional-de-paisagens-de-cerrado/9843/) |
 | EXTRATO DE CONCESSÃO DE AUXÍLIO FINANCEIRO À PESQUISADORES | Diretoria de Programas e Bolsas no País |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-de-auxilio-financeiro-a-pesquisadores-731605753) |
 | EXTRATO DE CONCESSÃO DE AUXÍLIO FINANCEIRO À PESQUISADORES | Diretoria de Programas e Bolsas no País |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-de-auxilio-financeiro-a-pesquisadores-731482472) |
 | Bolsa de Mestrado em Neuroimunologia | Instituto de Ciências Biomédicas Universidade de São Paulo (ICB-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../o-nervo-vago-na-interface-corpo-encefalo:-implicacoes-para-o-estresse-a-emocao-e-a-inflamacao/9839/) |
@@ -3416,10 +3448,11 @@
 | Bolsa de PD em Saúde Coletiva | Faculdade de Enfermagem, Universidade Estadual de Campinas (FEnf-Unicamp ) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../projeto-ubuntu:-os-4-rs-da-educacao-antirracista-para-equidade-em-saude/9598/) |
 | Bolsa de PD em Química, Instrumentação Analítica e Engenharia Mecânica/Eletrônic | Departamento de Química – Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, Universidade de São Paulo (FFCLRP-USP) | química |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../novas-ferramentas-analiticas-para-o-estudo-da-doenca-de-parkinson:-automacao-do-preparo-de-amostras-biologicas-dispositivos-3d-printed@mip-e-cromatografia-liquida-capilar-portatil/9600/) |
 
-## Verificar manualmente (69)
+## Verificar manualmente (70)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| PortariaS de 14 de setembro de 2026 | Fundação Oswaldo Cruz |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-14-de-setembro-de-2026-731788686) |
 | PORTARIAS DE 10 DE SETEMBRO DE 2026 | Fundação Universidade do Amazonas | física |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-10-de-setembro-de-2026-731442128) |
 | Pesquisador — Fundação Oswaldo Cruz (Portaria Nº 930) | Fundação Oswaldo Cruz |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-930-de-4-de-setembro-de-2026-730301335) |
 | PORTARIAS DE 10 DE SETEMBRO DE 2026 | Fundação Oswaldo Cruz |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-10-de-setembro-de-2026-731302720) |
