@@ -1,10 +1,26 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (1780)
+## Públicas federais (1796)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor efetivo (concurso público) — Universidade Federal Rural do Semi-Árido  | Universidade Federal Rural do Semi-Árido |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-32/2026-735536014) |
+| Docente (outros) — REI (Portaria nº 2.087, 24 DE SETEMBRO) | REI |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-2.087-24-de-setembro-de-2026-735442799) |
+| DESPACHO DE 25 DE SETEMBRO DE 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-25-de-setembro-de-2026-735431294) |
+| Docente (outros) — Instituto Federal de Educação, Ciência e Tecnologia do Acre ( | Instituto Federal de Educação, Ciência e Tecnologia do Acre |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-ifac-n-1.715-de-29-de-setembro-de-2026-735451491) |
+| Pós-doutorado — REI (Portaria nº 1.160,IFBA) | REI |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.160-ifba-de-10-de-agosto-de-2026-735449200) |
+| Pós-doutorado — Instituto Federal de Educação, Ciência e Tecnologia de Pernambuc | Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-rei/ifpe-n-1.458-de-28-de-setembro-de-2026-735452964) |
+| Pós-doutorado — Pró-Reitoria de Recursos Humanos (PORTARIA Nº 4.281) | Pró-Reitoria de Recursos Humanos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-4.281-de-25-de-setembro-de-2026-735435585) |
+| PORTARIAS de 29 DE SETEMBRO DE 2026 | Pró-Reitoria de Desenvolvimento e Gestão de Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-29-de-setembro-de-2026-735436984) |
+| DESPACHO de 29 DE SETEMBRO DE 2026 | Universidade Federal da Bahia |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-29-de-setembro-de-2026-735448963) |
+| Docente (outros) em enfermagem — Universidade Federal de Juiz de Fora (PORTARIA  | Universidade Federal de Juiz de Fora | enfermagem |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-progepe/ufjf-n-1.288-de-28-de-setembro-de-2026-735448724) |
+| Docente (outros) — Coordenação de Gestão de Pessoas (PORTARIA Nº 1.282) | Coordenação de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.282-de-18-de-setembro-de-2026-735451175) |
+| Professor efetivo (concurso público) — Universidade Federal de Lavras (PORTARIA  | Universidade Federal de Lavras |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.039-de-28-de-setembro-de-2026-735437007) |
+| Professor efetivo (concurso público) — Fundação Universidade Federal de Ouro Pre | Fundação Universidade Federal de Ouro Preto |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-635-de-23-de-setembro-de-2026-735448011) |
+| Docente (outros) — Diretoria Acadêmica (EDITAL) | Diretoria Acadêmica |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=30/09/2026&jornal=530&pagina=50) |
+| Professor efetivo (concurso público) — Gabinete do Reitor (EDITAL) | Gabinete do Reitor |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=30/09/2026&jornal=530&pagina=47) |
+| 29/09/2026-17h46 Professor Francisco Carlos Teixeira, da UFRJ, faz palestra na U | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/professor_francisco_carlos_teixeira__da_ufrj__faz_palestra_na_udesc_faed_sobre_conflitos_globais) |
 | Docente (outros) — Pró-Reitoria de Pessoal (PORTARIA Nº 10.573) | Pró-Reitoria de Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-10.573-de-25-de-setembro-de-2026-735137858) |
 | Docente (outros) — Pró-Reitoria de Pessoal (PORTARIA Nº 10.535) | Pró-Reitoria de Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-10.535-de-25-de-setembro-de-2026-735129517) |
 | Docente (outros) em biologia — Pró-Reitoria de Gestão de Pessoas (EDITAL Nº 14) | Pró-Reitoria de Gestão de Pessoas | biologia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-14-de-28-de-setembro-de-2026-735246230) |
@@ -1786,10 +1802,12 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (919)
+## Públicas estaduais (921)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| 29/09/2026-15h39 Udesc abre ciclo de debates sobre internacionalização com paine | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/udesc_abre_ciclo_de_debates_sobre_internacionalizacao_com_painel_sobre_china) |
+| 29/09/2026-16h06 Udesc Cefid dará inscrições de simpósio de futebol e futsal par | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/udesc_cefid_dara_inscricoes_de_simposio_de_futebol_e_futsal_para_alunos_e_docentes) |
 | RESULTADO DE JULGAMENTO | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-735329698) |
 | RESULTADO DE JULGAMENTO | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-735329770) |
 | ABERTURA - CONCURSO Nº 38/2026, DE 28 DE SETEMBRO DE 2026 | Universidade Estadual Paulista — Faculdade de Medicina Veterinária |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/abertura-concurso-n-38-2026-de-28-de-setembro-de-2026-2026092813444223672159474) |
@@ -3137,10 +3155,19 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (583)
+## Privadas (592)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| PROFESSOR AUXILIAR / Afya Centro Universitário de Pato Branco | Afya  |  | 31/10/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTI1NTY1MDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR / Afya Centro Universitário de Pato Branco | Afya  |  | 31/10/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTI1NTY1MTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Analista de Inteligência de Operações Docentes / Núcleo  | Colégio pH |  | 30/11/2026 | aberta | [link](https://ph.gupy.io/job/eyJqb2JJZCI6MTI2NDQwNDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Docente de Nível Superior  Especialista - Tecnologia da Informação (CADASTRO RES | SENAI - GO |  | 06/10/2026 | aberta | [link](https://senaigo.gupy.io/job/eyJqb2JJZCI6MTA0MTA3NjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR AUXILIAR / FACULDADE DOM PEDRO II- PATAMARES | Afya  |  | 07/10/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTI2MzE3NTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR GRADUAÇÃO - PSICOLOGIA | Universidade Positivo | psicologia | 23/11/2026 | aberta | [link](https://up.gupy.io/job/eyJqb2JJZCI6MTI1ODQzMTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor(a) de Inglês - Red Balloon Alphaville | Red Balloon |  | 28/11/2026 | aberta | [link](https://redballoon.gupy.io/job/eyJqb2JJZCI6MTI2MzY3MTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| PROFESSOR(A) AUXILIAR ANOS INICIAIS - LÍNGUA INGLESA  | Grupo Positivo | letras/linguística | 19/10/2026 | aberta | [link](https://positivo.gupy.io/job/eyJqb2JJZCI6MTI1ODQ0NTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
+| Professor(a) de Ciências no Currículo Bilíngue (Ingles) - Anos Iniciais - Colégi | Rede de Educação Notre Dame  |  | 07/10/2026 | aberta | [link](https://redenotredameeducacao.gupy.io/job/eyJqb2JJZCI6MTI2MTk0ODQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR AUXILIAR / Afya Centro Universitário de Pato Branco | Afya  |  | 31/10/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTI1NTY3NDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR AUXILIAR / Afya Centro Universitário de Pato Branco | Afya  |  | 31/10/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTI0NTcyODAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR AUXILIAR / Afya Centro Universitário de Pato Branco | Afya  |  | 31/10/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTI0OTUzNjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
@@ -3725,10 +3752,14 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (344)
+## Bolsas / pós-doc / agências (348)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa de PD em Biologia Molecular e Celular | Escola Paulista de Medicina, Universidade Federal de São Paulo (EPM-Unifesp) | biologia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../estrategia-com-intervencoes-multiplas-para-eliminacao-dos-reservatorios-virais-do-hiv-1-entre-pacientes-em-tratamento-antirretroviral-almejando-a-remissao-sustentada-do-hiv-sem-antirretrovirais-/9899/) |
+| Bolsa de PD em Nanomagnetismo, Spintrônica e Texturas de Spin Topológicas | Instituto de Física Gleb Wataghin, Universidade Estadual de Campinas (IFGW-Unicamp) | Lógica |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-pesquisa-e-inovacao-de-materiais-inteligentes-e-quanticos-(crisquam)/9897/) |
+| Bolsa de PD em Gases Quânticos | Instituto de Física, Universidade de São Paulo (IF-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../dinamica-de-muitos-corpos-v/9896/) |
+| Bolsas de Mestrado em Geologia | Instituto de Geociências, Universidade de São Paulo (IGc-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../diamantes-brasileiros:-genese-mineralogia-e-geoquimica/9898/) |
 | EXTRATO DE CONCESSÃO DE AUXÍLIO FINANCEIRO À PESQUISADORES | Diretoria de Relações Internacionais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-de-auxilio-financeiro-a-pesquisadores-735312821) |
 | EXTRATO DE CONCESSÃO DE AUXÍLIO FINANCEIRO À PESQUISADORES | Diretoria de Programas e Bolsas no País |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-de-auxilio-financeiro-a-pesquisadores-735340296) |
 | Bolsa de TT-IV em Segurança Alimentar | Faculdade de Engenharia de Alimentos, Universidade Estadual de Campinas (FEA-Unicamp) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../acompanhamento-sistematizacao-e-analise-de-dados-da-implementacao-de-cozinhas-solidarias-no-municipio-de-campinas-sp./9892/) |
