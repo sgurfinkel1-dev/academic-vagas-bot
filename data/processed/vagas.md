@@ -1,10 +1,48 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (1909)
+## Públicas federais (1947)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Docente (outros) — Pró-Reitoria de Gestão de Pessoas (PORTARIA Nº 9.394/PROGEPE/ | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-9.394/progepe/ifpr-de-17-de-setembro-de-2026-733014495) |
+| Docente (outros) — Pró-Reitoria de Gestão de Pessoas (PORTARIA Nº 9.127/PROGEPE/ | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-9.127/progepe/ifpr-de-11-de-setembro-de-2026-731416233) |
+| Docente (outros) — Pró-Reitoria de Gestão de Pessoas (PORTARIA Nº 8.854/PROGEPE/ | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-8.854/progepe/ifpr-de-3-de-setembro-de-2026-730305618) |
+| Professor efetivo (concurso público) — Universidade Federal Rural de Pernambuco  | Universidade Federal Rural de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-26-de-5-de-outubro-de-2026-736692752) |
+| Professor efetivo (concurso público) — Fundação Universidade Federal de Sergipe  | Fundação Universidade Federal de Sergipe |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.233-de-5-de-outubro-de-2026-736788523) |
+| Professor efetivo (concurso público) — Universidade Federal Rural do Rio de Jane | Universidade Federal Rural do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-55-de-5-de-outubro-de-2026-736598014) |
+| Professor substituto em computação — Secretaria de Gestão de Pessoas (EDITAL Nº  | Secretaria de Gestão de Pessoas | computação |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-662-de-28-de-setembro-de-2026-736640716) |
+| Professor substituto em computação — Secretaria de Gestão de Pessoas (Edital nº  | Secretaria de Gestão de Pessoas | computação |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-661-de-5-de-outubro-de-2026-736662700) |
+| Docente (outros) — Universidade Federal Rural do Semi-Árido (PORTARIA Nº 1.216) | Universidade Federal Rural do Semi-Árido |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.216-de-2-de-outubro-de-2026-736778516) |
+| Docente (outros) — Fundação Universidade Federal do ABC (PORTARIA Nº 1.637) | Fundação Universidade Federal do ABC |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.637-de-5-de-outubro-de-2026-736786341) |
+| Docente (outros) — Instituto Federal de Educação, Ciência e Tecnologia do Rio Gr | Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-2.771-de-5-de-outubro-de-2026-736778990) |
+| Docente (outros) — Fundação Universidade Federal de Roraima (Portaria nº 517) | Fundação Universidade Federal de Roraima |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-517-de-2-de-outubro-de-2026-736727300) |
+| Professor efetivo (concurso público) — Universidade Federal Rural de Pernambuco  | Universidade Federal Rural de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-27-de-5-de-outubro-de-2026-736622344) |
+| Pesquisador — Instituto Federal de Educação, Ciência e Tecnologia do Sul de Mina | Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-4.941/gab-ret-ifsuldeminas-de-5-de-outubro-de-2026-736786894) |
+| Pós-doutorado — Pró-Reitoria de Recursos Humanos (PORTARIA Nº 4.337) | Pró-Reitoria de Recursos Humanos |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-4.337-de-28-de-setembro-de-2026-736775743) |
+| Pós-doutorado em matemática — Fundação Universidade Federal de Sergipe (PORTARIA | Fundação Universidade Federal de Sergipe | matemática |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.232-de-5-de-junho-de-2026-736778121) |
+| Pós-doutorado — Universidade Federal de Minas Gerais (EDITAL Nº 2257) | Universidade Federal de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-2257-de-2-de-outubro-de-2026-736749366) |
+| Professor substituto — Universidade Federal do Estado do Rio de Janeiro (EDITAL  | Universidade Federal do Estado do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-229-de-5-de-outubro-de-2026-736725104) |
+| Professor efetivo (concurso público) — Universidade Federal dos Vales do Jequiti | Universidade Federal dos Vales do Jequitinhonha e Mucuri |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-2.668-de-5-de-outubro-de-2026-736782073) |
+| DESPACHO DE 5 DE OUTUBRO DE 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-5-de-outubro-de-2026-736753186) |
+| Professor efetivo (concurso público) em biologia — Pró-Reitoria de Gestão de Pes | Pró-Reitoria de Gestão de Pessoal | biologia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-progep-n-596-de-30-de-setembro-de-2026-736776059) |
+| Professor efetivo (concurso público) — Universidade Federal de Minas Gerais (POR | Universidade Federal de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-10.075-de-1-de-outubro-de-2026-736755953) |
+| Docente (outros) em computação — Universidade Federal do Rio Grande do Norte (PO | Universidade Federal do Rio Grande do Norte | computação |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.793-de-5-de-outubto-de-2026-736778674) |
+| Professor substituto — Reitoria (EDITAL Nº 2262) | Reitoria |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=06/10/2026&jornal=530&pagina=57) |
+| Professor substituto — Pró-Reitoria de Recursos Humanos (EDITAL Nº 2255) | Pró-Reitoria de Recursos Humanos |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=06/10/2026&jornal=530&pagina=58) |
+| Professor substituto — Universidade Federal do Estado do Rio de Janeiro (EDITAL  | Universidade Federal do Estado do Rio de Janeiro |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=06/10/2026&jornal=530&pagina=73) |
+| Professor efetivo (concurso público) — Reitoria (EDITAL Nº 2257) | Reitoria |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=06/10/2026&jornal=530&pagina=43) |
+| Professor substituto — Pró-Reitoria de Gestão de Pessoas (EDITAL Nº 23) | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=06/10/2026&jornal=530&pagina=30) |
+| Professor efetivo (concurso público) — Reitoria (EDITAL Nº 55) | Reitoria |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=06/10/2026&jornal=530&pagina=61) |
+| Professor efetivo (concurso público) — Reitoria (EDITAL Nº 2249) | Reitoria |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=06/10/2026&jornal=530&pagina=50) |
+| Professor efetivo (concurso público) — Reitoria (EDITAL 2249 - PROF. MAG. SUPERI | Reitoria |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=06/10/2026&jornal=530&pagina=53) |
+| Professor substituto — Campus Caxias do Sul (EDITAL Nº 33) | Campus Caxias do Sul |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=06/10/2026&jornal=530&pagina=37) |
+| Professor substituto — Pró-Reitoria de Gestão de Pessoas (EDITAL Nº 89) | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=05/10/2026&jornal=530&pagina=69) |
+| Professor efetivo (concurso público) — Diretora de Administração de Pessoas (EDI | Diretora de Administração de Pessoas |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=05/10/2026&jornal=530&pagina=44) |
+| Professor substituto — Universidade Federal do Estado do Rio de Janeiro (EDITAL  | Universidade Federal do Estado do Rio de Janeiro |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=05/10/2026&jornal=530&pagina=71) |
+| Professor efetivo (concurso público) — Pró-Reitoria de Gestão de Pessoas (EDITAL | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=05/10/2026&jornal=530&pagina=72) |
+| Professor efetivo (concurso público) em medicina — Pró-Reitoria de Recursos Huma | Pró-Reitoria de Recursos Humanos | medicina |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=05/10/2026&jornal=530&pagina=67) |
+| Professor efetivo (concurso público) — Instituto Federal de Educação, Ciência e  | Instituto Federal de Educação, Ciência e Tecnologia de São Paulo |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=05/10/2026&jornal=530&pagina=34) |
 | Professor substituto — Fundação Universidade Federal do Acre (PORTARIA Nº 4.065) | Fundação Universidade Federal do Acre |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-4.065-de-2-de-outubro-de-2026-736350832) |
 | Docente (outros) — Instituto Federal de Educação, Ciência e Tecnologia de Pernam | Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/retificacao-736338211) |
 | Docente (outros) em letras/linguística — Pró-Reitoria de Gestão de Pessoas (PORT | Pró-Reitoria de Gestão de Pessoas | letras/linguística |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-2.015-de-28-de-setembro-de-2026-736364953) |
@@ -1915,10 +1953,16 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (1020)
+## Públicas estaduais (1026)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Pós-doutorado — Universidade Estadual Paulista — Faculdade de Ciências e Letras  | Universidade Estadual Paulista — Faculdade de Ciências e Letras de Assis |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-392-de-5-de-outubro-de-2026-20261005134444162181283) |
+| Edital CIAAM 01/2026 - Seleção de bolsistas de Pós-Doutorado | Universidade de São Paulo — Centro de Estudos em Inteligência Artificial e Aprendizado de Máquina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-ciaam-01-2026-selecao-de-bolsistas-de-pos-doutorado-20261005134211962182211) |
+| Pós-doutorado — Universidade Estadual Paulista — Faculdade de Ciências Agronômic | Universidade Estadual Paulista — Faculdade de Ciências Agronômicas |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-781-2026-cscgp-fca-abertura-de-inscricoes-20261005134446262181391) |
+| Edital nº 159-Dircoav/UNICENTRO, de 11 de setembro de 2026, referente à Abertura | Universidade Estadual do Oeste do Paraná (UNIOESTE) |  |  | sem prazo identificado | [link](https://dioe.pr.gov.br/ver/17345/37/professor) |
+| abertura de vagas para o 5º Processo Seletivo Simplificado/2026 para Agentes Uni | Universidade Estadual do Oeste do Paraná (UNIOESTE) |  |  | sem prazo identificado | [link](https://dioe.pr.gov.br/ver/17290/112/p%C3%B3s-doutorado) |
+| CONCURSO PÚBLICO PARA PROFESSOR ADJUNTO, DO DEPARTAMENTO DE EPIDEMIOLOGIA, ÁREA  | Universidade do Estado do Rio de Janeiro (UERJ) | matemática |  | sem prazo identificado | [link](https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjEwMDY=) |
 | Docente (outros) em administração — Universidade de São Paulo — Faculdade de Saú | Universidade de São Paulo — Faculdade de Saúde Pública | administração |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-interno-n-10-2026-programa-de-monitoria-para-apoio-as-atividades-de-gestao-e-organizacao-de-estagios-2-semestre-2026-20260904134222962106080) |
 | Professor efetivo (concurso público) — Universidade Estadual de Campinas — Secre | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-02-p-19478-2026-de-4-de-setembro-de-2026-20260904134322662103173) |
 | Professor substituto em letras/linguística — Universidade Estadual Paulista — Fa | Universidade Estadual Paulista — Faculdade de Ciências e Letras | letras/linguística |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-286-2026-stgp-fcl-car-20260904134443162105164) |
@@ -2975,10 +3019,11 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (411)
+## Institutos públicos (412)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Docente (outros) — Filial Hospital Universitário Júlio Muller (AVISO DE ALTERAÇÃ | Filial Hospital Universitário Júlio Muller |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=06/10/2026&jornal=530&pagina=66) |
 | Docente (outros) — Fundação Joaquim Nabuco (AVISO DE ANULAÇÃO) | Fundação Joaquim Nabuco |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-anulacao-736449836) |
 | Pós-doutorado — Defensoria Pública da União em Fortaleza-CE (Edital - DPU-CE/DGP | Defensoria Pública da União em Fortaleza-CE |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-dpu-ce/dgp-ce-n-1/2026-de-30-de-setembro-de-2026-736533689) |
 | CONCURSO Nº 08.01, DE 4 DE SETEMBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0801-de-4-de-setembro-de-2026-202609041314172742105679) |
@@ -3391,10 +3436,11 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (592)
+## Privadas (593)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Confiabilidade da pesquisa científica: o que acontece quando diferentes pesquisa | FGV EAESP |  |  | sem prazo identificado | [link](https://eaesp.fgv.br/blog/administracao-de-empresas/confiabilidade-da-pesquisa-cientifica-o-que-acontece-quando) |
 | PROFESSOR AUXILIAR / Afya Centro Universitário de Pato Branco | Afya  |  | 31/10/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTI1NTY1MDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | PROFESSOR AUXILIAR / Afya Centro Universitário de Pato Branco | Afya  |  | 31/10/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTI1NTY1MTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
 | Analista de Inteligência de Operações Docentes / Núcleo  | Colégio pH |  | 30/11/2026 | aberta | [link](https://ph.gupy.io/job/eyJqb2JJZCI6MTI2NDQwNDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
@@ -3988,10 +4034,11 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (353)
+## Bolsas / pós-doc / agências (354)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa de Mestrado em Geofísica | Instituto  Astronomia, Geofísica e Ciências Atmosféricas - IAG/USP |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../tectonic-and-bathymetric-framework-of-key-regions-in-the-south-atlantic-antarctic-gateway:-implications-for-deep-water-circulation/9911/) |
 | Bolsa de PD em Otimização Numérica e Dinâmica dos Fluidos Computacional | Instituto de Ciências Matemáticas e de Computação, Universidade de São Paulo (ICMC-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../programacao-nao-linear-e-problemas-inversos-em-imagem/9900/) |
 | Pesquisador — Secretaria Executiva (PORTARIA DE PESSOAL SE/MS Nº 5.378) | Secretaria Executiva |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-se/ms-n-5.378-de-29-de-setembro-de-2026-735659644) |
 | Pesquisador — Secretaria Executiva (PORTARIA DE PESSOAL SE/MS Nº 5.377) | Secretaria Executiva |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-se/ms-n-5.377-de-29-de-setembro-de-2026-735668528) |
@@ -4346,10 +4393,11 @@
 | Bolsa de PD em Saúde Coletiva | Faculdade de Enfermagem, Universidade Estadual de Campinas (FEnf-Unicamp ) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../projeto-ubuntu:-os-4-rs-da-educacao-antirracista-para-equidade-em-saude/9598/) |
 | Bolsa de PD em Química, Instrumentação Analítica e Engenharia Mecânica/Eletrônic | Departamento de Química – Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, Universidade de São Paulo (FFCLRP-USP) | química |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../novas-ferramentas-analiticas-para-o-estudo-da-doenca-de-parkinson:-automacao-do-preparo-de-amostras-biologicas-dispositivos-3d-printed@mip-e-cromatografia-liquida-capilar-portatil/9600/) |
 
-## Verificar manualmente (92)
+## Verificar manualmente (93)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| PortariaS 5 de outubro de 2026 | Coordenação-Geral de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-5-de-outubro-de-2026-736772816) |
 | DESPACHO DE 30 DE SETEMBRO DE 2026 | Fundação Universidade de Brasília |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-30-de-setembro-de-2026-736065518) |
 | PortariaS de 1º de outubro de 2026 | Fundação Oswaldo Cruz |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-1-de-outubro-de-2026-736064054) |
 | Pesquisador — Secretaria Executiva (PORTARIA DE PESSOAL SE/MS Nº 5.374) | Secretaria Executiva |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-se/ms-n-5.374-de-29-de-setembro-de-2026-735668449) |
