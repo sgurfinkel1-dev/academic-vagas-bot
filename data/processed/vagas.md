@@ -1,10 +1,30 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (1966)
+## Públicas federais (1986)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Docente (outros) — Pró-Reitoria de Gestão de Pessoas (PORTARIA Nº 10.226/PROGEPE | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-10.226/progepe/ifpr-de-7-de-outubro-de-2026-737229317) |
+| Professor efetivo (concurso público) — Universidade Federal de Minas Gerais (EDI | Universidade Federal de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-2.288-de-6-de-outubro-de-2026-737351631) |
+| Professor substituto em educação — Pró-Reitoria de Desenvolvimento, Inclusão, Di | Pró-Reitoria de Desenvolvimento, Inclusão, Diversidade e Assistência à Pessoa | educação |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-retificacao-737371990) |
+| Docente (outros) — Universidade Federal de Juiz de Fora (PORTARIA DE PESSOAL PRO | Universidade Federal de Juiz de Fora |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-progepe/ufjf-n-1.330-de-5-de-outubro-de-2026-737253985) |
+| Professor substituto — Instituto Federal de Educação, Ciência e Tecnologia do Su | Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-737403218) |
+| Docente (outros) — Universidade Federal do Norte do Tocantins (EXTRATO DE MEMORA | Universidade Federal do Norte do Tocantins |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-memorando-de-entendimento-737409961) |
+| Pós-doutorado — Instituto Federal de Educação, Ciência e Tecnologia do Piauí (PO | Instituto Federal de Educação, Ciência e Tecnologia do Piauí |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-3.918-gab/rei/ifpi-de-5-de-outubro-de-2026-737267619) |
+| Pós-doutorado — Instituto Federal de Educação, Ciência e Tecnologia do Paraná (P | Instituto Federal de Educação, Ciência e Tecnologia do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-10.210/ifpr-de-7-de-outubro-de-2026-737262486) |
+| Professor efetivo (concurso público) em medicina — Universidade Federal de Lavra | Universidade Federal de Lavras | medicina |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.092-de-5-de-outubro-de-2026-737276706) |
+| PORTARIAS DE 7 DE OUTUBRO DE 2026 | Universidade Federal de São Paulo | medicina |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-7-de-outubro-de-2026-737265484) |
+| Professor efetivo (concurso público) em enfermagem — Pró-Reitoria de Gestão de P | Pró-Reitoria de Gestão de Pessoas | enfermagem |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-7.450/progep/ufc-de-7-de-outubro-de-2026-737237584) |
+| DESPACHO DE 2 DE OUTUBRO DE 2026 | Universidade Federal de Santa Catarina | odontologia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-2-de-outubro-de-2026-737257698) |
+| Professor efetivo (concurso público) — Fundação Universidade Federal de Pelotas  | Fundação Universidade Federal de Pelotas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-n-4.812/ufpel-de-6-de-outubro-de-2026-737249376) |
+| Professor efetivo (concurso público) em economia — Universidade Federal do Rio G | Universidade Federal do Rio Grande do Sul | economia |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-7.392-de-7-de-outubro-de-2026-737243896) |
+| Professor efetivo (concurso público) — Reitoria (EDITAL Nº 2.288) | Reitoria |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=08/10/2026&jornal=530&pagina=42) |
+| Professor visitante em educação — Pró-Reitoria de Desenvolvimento, Inclusão, Div | Pró-Reitoria de Desenvolvimento, Inclusão, Diversidade e Assistência à Pessoa | educação |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=08/10/2026&jornal=530&pagina=30) |
+| Professor substituto — Universidade Federal da Fronteira Sul (EDITAL Nº 417) | Universidade Federal da Fronteira Sul |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=08/10/2026&jornal=530&pagina=41) |
+| Professor efetivo (concurso público) — Pró-Reitoria de Recursos Humanos (EDITAL  | Pró-Reitoria de Recursos Humanos |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=08/10/2026&jornal=530&pagina=55) |
+| 07/10/2026-17h42 Professor da UFMG ministra palestra na Udesc Faed sobre planeja | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/professor_da_ufmg_ministra_palestra_na_udesc_faed_sobre_planejamento_da_paisagem) |
+| Concurso Público Professor de Filosofia - UFMS | UFMS | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/concurso-publico-professor-de-filosofia--ufms) |
 | Docente (outros) — Pró Reitoria de Gestão de Pessoas (Portaria PROGEPE/UFPR nº 2 | Pró Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-progepe/ufpr-n-2.907-de-6-de-outubro-de-2026-736985870) |
 | Professor substituto — Pró-Reitoria de Gestão de Pessoas (PORTARIA Nº 5.171/PROG | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-5.171/progesp/cpii-de-6-de-outubro-de-2026-737015306) |
 | Professor efetivo (concurso público) — Fundação Universidade Federal de Mato Gro | Fundação Universidade Federal de Mato Grosso do Sul |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-progep/ufms-n-137-de-6-de-outubro-de-2026-737185297) |
@@ -1972,10 +1992,27 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (1031)
+## Públicas estaduais (1048)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| RESULTADO DE JULGAMENTO | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-737360853) |
+| EDITAL Nº 472/2026, DE 7 DE OUTUBRO DE 2026-ONCURSO PÚBLICO PARA PROFESSOR TITUL | Universidade Estadual Paulista — Faculdade de Ciências | química |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-472-2026-de-7-de-outubro-de-2026-oncurso-publico-para-professor-titular-do-departamento-de-quimica-da-faculdade-de-ciencias-de-bauru-20261007134445362187618) |
+| ABERTURA - CONCURSO Nº 224/2026, DE 7 DE OUTUBRO DE 2026 | Universidade Estadual Paulista — Faculdade de Filosofia e Ciências |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/abertura-concurso-n-224-2026-de-7-de-outubro-de-2026-20261007134441513672189055) |
+| Pós-doutorado — Universidade Estadual Paulista — Faculdade de Medicina (EDITAL N | Universidade Estadual Paulista — Faculdade de Medicina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-787-2026-cscgp-fm-abertura-de-inscricoes-20261007134446362189973) |
+| ABERTURA - CONCURSO | Universidade Estadual Paulista — Instituto de Geociências e Ciências Exatas |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/abertura-concurso-20261007134441723672188796) |
+| Pós-doutorado — Universidade Estadual Paulista — Faculdade de Medicina (EDITAL N | Universidade Estadual Paulista — Faculdade de Medicina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-786-2026-cscgp-fm-abertura-de-inscricoes-20261007134446362189863) |
+| Pós-doutorado — Universidade Estadual Paulista — Faculdade de Engenharia (EDITAL | Universidade Estadual Paulista — Faculdade de Engenharia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-309-de-7-de-outubro-de-2026-202610071344410162189517) |
+| Pós-doutorado — Universidade Estadual Paulista — Faculdade de Engenharia (EDITAL | Universidade Estadual Paulista — Faculdade de Engenharia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-308-de-7-de-outubro-de-2026-202610071344410162189540) |
+| Processo Seletivo Simplificado/2025, para docentes da Unioeste | Universidade Estadual do Oeste do Paraná (UNIOESTE) |  |  | sem prazo identificado | [link](https://dioe.pr.gov.br/ver/17353/26/professor) |
+| Processo Seletivo Simplificado/2026-AEE, para docentes da Unioeste | Universidade Estadual do Oeste do Paraná (UNIOESTE) |  |  | sem prazo identificado | [link](https://dioe.pr.gov.br/ver/17353/25/docente) |
+| abertura do Processo Seletivo, aprovada pelo Conselho de Administração conforme  | Universidade Estadual de Ponta Grossa (UEPG) | administração |  | sem prazo identificado | [link](https://dioe.pr.gov.br/ver/17323/20/docente) |
+| Processo Seletivo destinado a formação de cadastro de reserva de Professores Sub | Universidade do Estado do Rio de Janeiro (UERJ) |  |  | sem prazo identificado | [link](https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjEwMDg=) |
+| 08/10/2026-14h07 Udesc Esag abre edital para representante docente no Concentro  | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/udesc_esag_abre_edital_para_representante_docente_no_concentro_e_tecnico_em_programa_de_pos) |
+| 07/10/2026-19h15 Udesc Cefid terá aula inaugural da rede Bridges-Capes com profe | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/udesc_cefid_tera_aula_inaugural_da_rede_bridges-capes_com_professora_dos_eua) |
+| 07/10/2026-17h47 Em visita à Faed, professora espanhola valoriza formação contin | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/em_visita_a_faed__professora_espanhola_valoriza_formacao_continuada_na_udesc_como_diferencial) |
+| 07/10/2026-17h10 Professor da Udesc Joinville ministra curso no Congresso de Aut | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/professor_da_udesc_joinville_ministra_curso_no_congresso_de_automatica) |
+| 07/10/2026-15h40 Professor da UERJ ministra palestra sobre Geografias Negras na  | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/professor_da_uerj_ministra_palestra_sobre_geografias_negras_na_semana_integra_udesc_faed) |
 | RESULTADO De julgamento | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-737112094) |
 | RESULTADO De julgamento | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-737100017) |
 | Pós-doutorado — Universidade de São Paulo — Centro de Energia Nuclear na Agricul | Universidade de São Paulo — Centro de Energia Nuclear na Agricultura |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-n-25-2026-cena-dvacad-de-6-de-outubro-de-2026-20261006134211562185987) |
@@ -3043,10 +3080,13 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (414)
+## Institutos públicos (417)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| DESPACHO DE 5 DE OUTUBRO DE 2026 | Gabinete da Ministra |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-5-de-outubro-de-2026-737227836) |
+| Pesquisador — Fundação Biblioteca Nacional (EDITAL DE CHAMAMENTO PÚBLICO) | Fundação Biblioteca Nacional |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-chamamento-publico-737411225) |
+| Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-0101-de-7-de-outubro-de-2026-2026100713141762189150) |
 | Pesquisador — Gabinete da Ministra (PORTARIA MCTI Nº 631) | Gabinete da Ministra |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-mcti-n-631-de-5-de-outubro-de-2026-737000602) |
 | Pós-doutorado — Procuradoria-Geral Federal (EDITAL DE TRANSAÇÃO POR ADESÃO Nº 5/ | Procuradoria-Geral Federal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-transacao-por-adesao-n-5/2026/pgf/agu-737093965) |
 | Docente (outros) — Filial Hospital Universitário Júlio Muller (AVISO DE ALTERAÇÃ | Filial Hospital Universitário Júlio Muller |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=06/10/2026&jornal=530&pagina=66) |
@@ -4060,10 +4100,16 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (358)
+## Bolsas / pós-doc / agências (364)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EXTRATO DE CONCESSÃO DE AUXÍLIO FINANCEIRO À PESQUISADORES | Diretoria de Programas e Bolsas no País |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-de-auxilio-financeiro-a-pesquisadores-737416557) |
+| Bolsa de PD em Endocrinologia Genética | Faculdade de Medicina - Universidade de São Paulo (FMUSP/USP) | biologia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../estabelecendo-uma-assinatura-epigenetica-para-a-sindrome-de-noonan/9917/) |
+| Post-Doctoral Fellowship in Materials Engineering Instituition: Instituto de Fís | ver oportunidade (FAPESP) | física |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../engenharia-de-superficie-de-fotoanodos-de-bivo4-e-fe2tio5-para-divisao-fotoeletroquimica-da-Água/9914/) |
+| Bolsa de Doutorado em Imunometabolismo | Instituto de Ciências Biomédicas - Universidade de São Paulo |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-multiprofissional-de-estudos-paralimpico-e-paradesportivo-(cmepp):-saude-formacao-alto-desempenho-e-tecnologia/9913/) |
+| Bolsas de PD em Fisiologia | Instituto de Biociências e Instituto de Química, Universidade de São Paulo |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../mecanismos-dependentes-de-opsinas-em-fotorrecepcao-termorrecepcao-e-fotoenvelhecimento-na-pele/9905/) |
+| Bolsa de Doutorado Direto em Neuroimunologia | FORP/USP |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../interacao-entre-condicoes-sistemicas-e-cavidade-oral:-papel-modulador-do-citral-e-da-angiotensina-(1-7)/9912/) |
 | Bolsa de PD em Fisiologia Molecular Vegetal | Departamento de Botânica, Instituto de Biociências, Universidade de São Paulo | biologia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../rotas-de-transducao-de-sinal-luminoso-e-de-estresse:-como-otimizar-multiplas-respostas-para-melhorar-o-rendimento-e-a-qualidade-das-culturas/9908/) |
 | Bolsa de PD em Inteligência Artificial | Universidade de São Paulo (USP/EACH) | Inteligência Artificial |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-ia-e-gestao-publica-(cia-gp)/9910/) |
 | Bolsa de PD em Neuroimunologia | Instituto de Ciências Biomédicas, Universidade de São Paulo |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../regulacao-da-resposta-imune-inata-ao-nivel-da-comunicacao-entre-orgaos:-foco-na-heterogeneidade-dos-leucocitos/9903/) |
@@ -4423,10 +4469,12 @@
 | Bolsa de PD em Saúde Coletiva | Faculdade de Enfermagem, Universidade Estadual de Campinas (FEnf-Unicamp ) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../projeto-ubuntu:-os-4-rs-da-educacao-antirracista-para-equidade-em-saude/9598/) |
 | Bolsa de PD em Química, Instrumentação Analítica e Engenharia Mecânica/Eletrônic | Departamento de Química – Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, Universidade de São Paulo (FFCLRP-USP) | química |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../novas-ferramentas-analiticas-para-o-estudo-da-doenca-de-parkinson:-automacao-do-preparo-de-amostras-biologicas-dispositivos-3d-printed@mip-e-cromatografia-liquida-capilar-portatil/9600/) |
 
-## Verificar manualmente (93)
+## Verificar manualmente (95)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| ATOS DE 7 DE OUTUBRO DE 2026 | Decanato de Gestão de Pessoas | química |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/atos-de-7-de-outubro-de-2026-737243422) |
+| PROCESSO SELETIVO SIMPLIFICADO PARA CONTRATAÇÃO DE PROFESSOR VISITANTE/VISITANTE | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/processo-seletivo-simplificado-para-contratacao-de-professor-visitantevisitante-estrangeiro) |
 | PortariaS 5 de outubro de 2026 | Coordenação-Geral de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-5-de-outubro-de-2026-736772816) |
 | DESPACHO DE 30 DE SETEMBRO DE 2026 | Fundação Universidade de Brasília |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-30-de-setembro-de-2026-736065518) |
 | PortariaS de 1º de outubro de 2026 | Fundação Oswaldo Cruz |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-1-de-outubro-de-2026-736064054) |
