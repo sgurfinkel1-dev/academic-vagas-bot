@@ -1,10 +1,11 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (2014)
+## Públicas federais (2015)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Docente (outros) — Pró-Reitoria de Gestão de Pessoas (PORTARIA Nº 10.142/PROGEPE | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-10.142/progepe/ifpr-de-5-de-outubro-de-2026-736971517) |
 | Docente (outros) em educação — Pró Reitoria de Gestão de Pessoas (Portaria PROGE | Pró Reitoria de Gestão de Pessoas | educação |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-progepe/ufpr-n-3.024-de-8-de-outubro-de-2026-737521292) |
 | Docente (outros) — Universidade Federal de Goiás (Portaria Nº 7.284) | Universidade Federal de Goiás |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-7.284-de-8-de-outubro-de-2026-737488852) |
 | Professor substituto — Universidade Federal do Norte do Tocantins (EDITAL UFNT N | Universidade Federal do Norte do Tocantins |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-ufnt-n-40-de-8-de-outubro-de-2026-737703501) |
@@ -2020,10 +2021,29 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (1075)
+## Públicas estaduais (1094)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor substituto — Universidade Estadual Paulista — Faculdade de Engenharia  | Universidade Estadual Paulista — Faculdade de Engenharia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-297-de-9-de-setembro-de-2026-202609091344410162110487) |
+| Professor visitante — Universidade Estadual Paulista — Faculdade de Ciências (ED | Universidade Estadual Paulista — Faculdade de Ciências |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-01-2026-dta-fc-de-09-de-setembro-de-2026-20260909134445362110573) |
+| Professor substituto em ciência política — Universidade Estadual Paulista — Facu | Universidade Estadual Paulista — Faculdade de Ciências Humanas e Sociais | ciência política |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-219-2026-stgp-cf-20260909134449162113259) |
+| Professor efetivo (concurso público) — Universidade Estadual Paulista — Campus d | Universidade Estadual Paulista — Campus de Presidente Prudente |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-458-2026-de-9-de-setembro-de-2026-20260909134441662113693) |
+| Docente (outros) — Universidade de São Paulo — Faculdade de Economia, Administra | Universidade de São Paulo — Faculdade de Economia, Administração e Contabilidade de Ribeirão Preto |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-fea-rp-ppgao-051-2026-processo-seletivo-de-mestrado-20260909134221862110419) |
+| Docente (outros) — Universidade Estadual Paulista — Faculdade de Medicina (EDITA | Universidade Estadual Paulista — Faculdade de Medicina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-063-2026-fm-dta-de-9-de-setembro-de-2026-20260909134446362112957) |
+| Docente (outros) — Universidade Estadual Paulista — Faculdade de Medicina (EDITA | Universidade Estadual Paulista — Faculdade de Medicina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-059-2026-fm-dta-de-9-de-setembro-de-2026-20260909134446362112031) |
+| Docente (outros) — Universidade de São Paulo — Instituto de Biociências (EDITAL) | Universidade de São Paulo — Instituto de Biociências |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-20260909134223562112326) |
+| Docente (outros) — Universidade Estadual Paulista — Faculdade de Medicina (EDITA | Universidade Estadual Paulista — Faculdade de Medicina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-064-2026-fm-dta-de-9-de-setembro-de-2026-20260909134446362113263) |
+| Docente (outros) — Universidade Estadual Paulista — Faculdade de Medicina (EDITA | Universidade Estadual Paulista — Faculdade de Medicina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-edital-n-060-2026-fm-dta-de-9-de-setembro-de-2026-20260909134446362112176) |
+| Docente (outros) — Universidade Estadual Paulista — Faculdade de Medicina (EDITA | Universidade Estadual Paulista — Faculdade de Medicina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-61-2026-fm-dta-de-9-de-setembro-de-2026-20260909134446362112445) |
+| Docente (outros) — Universidade Estadual Paulista — Faculdade de Medicina (EDITA | Universidade Estadual Paulista — Faculdade de Medicina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-062-2026-fm-dta-de-9-de-setembro-de-2026-20260909134446362112630) |
+| Docente (outros) — Universidade Estadual Paulista — Faculdade de Medicina (EDITA | Universidade Estadual Paulista — Faculdade de Medicina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-065-2026-fm-dta-de-9-de-setembro-de-2026-20260909134446362113677) |
+| COMUNICADO - CONCURSO | Universidade Estadual Paulista — Instituto de Geociências e Ciências Exatas | educação |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/comunicado-concurso-20260911134441721662118371) |
+| COMUNICADO - CONCURSO | Universidade Estadual Paulista — Instituto de Geociências e Ciências Exatas | educação |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/comunicado-concurso-20260911134441721662118477) |
+| Docente (outros) em educação — Universidade Estadual Paulista — Faculdade de Ciê | Universidade Estadual Paulista — Faculdade de Ciências | educação |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-39-de-11-de-setembro-de-2026-20260911134445362119966) |
+| Professor efetivo (concurso público) — Universidade Estadual de Campinas — Secre | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-26-p-09004-2026-de-11-de-setembro-de-2026-20260911134322662121034) |
+| Edital nº 159-Dircoav/UNICENTRO, de 11 de setembro de 2026, referente à Abertura | Universidade Estadual do Oeste do Paraná (UNIOESTE) |  |  | sem prazo identificado | [link](https://dioe.pr.gov.br/ver/17345/37/docente) |
+| EDITAL Nº 005/2026-UNEMAT/FACIS – REDISTRIBUIÇÃO DE BOLSAS PARA TUTOR - DOCENTE  | UNEMAT |  |  | sem prazo identificado | [link](https://unemat.br/editais/9-10-2026-edital-n-005-2026-unemat-facis-redistribuicao-de-bolsas-para-tutor-docente-pet-saude-i-sd-saude-conectada) |
 | RESULTADO DE JULGAMENTO | Diretoria Científica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/resultado-de-julgamento-737721138) |
 | Professor substituto em letras/linguística — Universidade Estadual Paulista — Fa | Universidade Estadual Paulista — Faculdade de Ciências e Letras | letras/linguística |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-287-2026-stgp-fcl-car-analise-das-inscricoes-2026090813444311662108826) |
 | Professor substituto — Universidade Estadual Paulista — Faculdade de Ciências Fa | Universidade Estadual Paulista — Faculdade de Ciências Farmacêuticas |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-89-2026-20260908134443262109404) |
@@ -3135,10 +3155,11 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (417)
+## Institutos públicos (418)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-1501-de-9-de-setembro-de-2026-2026090913141762113719) |
 | DESPACHO DE 5 DE OUTUBRO DE 2026 | Gabinete da Ministra |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-5-de-outubro-de-2026-737227836) |
 | Pesquisador — Fundação Biblioteca Nacional (EDITAL DE CHAMAMENTO PÚBLICO) | Fundação Biblioteca Nacional |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-de-chamamento-publico-737411225) |
 | Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-0101-de-7-de-outubro-de-2026-2026100713141762189150) |
@@ -4155,10 +4176,11 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (368)
+## Bolsas / pós-doc / agências (369)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa de Iniciação Científica em Enfermagen | Escola de Enfermagem da Universidade de São Paulo (EEUSP) | enfermagem |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../desenvolvimento-de-ferramentas-audiovisuais-e-de-realidade-virtual-para-o-ensino-em-saÚde-/9918/) |
 | EXTRATO DE CONCESSÃO DE AUXÍLIO FINANCEIRO À PESQUISADORES | Diretoria de Formação de Professores da Educação Básica |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-de-auxilio-financeiro-a-pesquisadores-737624169) |
 | EXTRATO DE CONCESSÃO DE AUXÍLIO FINANCEIRO À PESQUISADORES | Diretoria de Programas e Bolsas no País |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-de-auxilio-financeiro-a-pesquisadores-737719080) |
 | Post-Doctoral Fellowship in Rural Development Instituition: UFLA – Universidade  | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-ciencia-para-o-desenvolvimento-em-agricultura-digital---ccd-ad-semear/9904/) |
