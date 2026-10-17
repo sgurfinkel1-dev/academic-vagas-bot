@@ -1,10 +1,14 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (2127)
+## Públicas federais (2131)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| PORTARIAS DE 5 DE OUTUBRO DE 2026 | Universidade Federal do Rio Grande do Sul | medicina |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portarias-de-5-de-outubro-de-2026-736788681) |
+| Docente (outros) em química — Instituto Federal de Educação, Ciência e Tecnologi | Instituto Federal de Educação, Ciência e Tecnologia do Acre | química |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-ifac-n-1.637-de-15-de-setembro-de-2026-732378601) |
+| DESPACHO DE 5 DE OUTUBRO DE 2026 | Universidade Federal do Rio de Janeiro |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-5-de-outubro-de-2026-737245478) |
+| COMUNICADO - CONCURSO FFLCH/FLG 004/2026 , DE 16 DE SETEMBRO DE 2026 | Universidade de São Paulo — Faculdade de Filosofia, Letras e Ciências Humanas |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/comunicado-concurso-fflch-flg-004-2026-de-16-de-setembro-de-2026-2026091613422211662130299) |
 | Docente (outros) — Pró-Reitoria de Pessoal (PORTARIA Nº 11.349) | Pró-Reitoria de Pessoal |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-11.349-de-15-de-outubro-de-2026-738628825) |
 | Docente (outros) — Universidade Federal do Paraná (Portaria UFPR nº 1.012) | Universidade Federal do Paraná |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-ufpr-n-1.012-de-9-de-outubro-de-2026-737805115) |
 | Editais de 15 de outubro de 2026 | Pró-Reitoria de Gestão de Pessoas | arquitetura/urbanismo |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/editais-de-15-de-outubro-de-2026-738722099) |
@@ -2133,10 +2137,23 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (1191)
+## Públicas estaduais (1204)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Docente (outros) — Universidade Estadual de Campinas — Secretaria Geral (EDITAL  | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-04-p-30417-2026-de-16-de-setembro-de-2026-20260916134322662130038) |
+| Professor substituto — Universidade Estadual Paulista — Faculdade de Ciências Hu | Universidade Estadual Paulista — Faculdade de Ciências Humanas e Sociais |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-224-2026-stgp-cf-20260916134449162130246) |
+| Professor substituto em letras/linguística — Universidade Estadual Paulista — Fa | Universidade Estadual Paulista — Faculdade de Ciências e Letras | letras/linguística |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-297-2026-stgp-fcl-car-lista-definitiva-dos-inscritos-2026091613444311662130990) |
+| Professor efetivo (concurso público) — Universidade Estadual Paulista — Faculdad | Universidade Estadual Paulista — Faculdade de Ciências |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-464-2026-de-16-de-setembro-de-2026-banca-examinadora-definitiva-20260916134445362130083) |
+| Docente (outros) — Universidade Estadual de Campinas — Secretaria Geral (EDITAL  | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-39-p-09793-2026-de-16-de-setembro-de-2026-20260916134322662130056) |
+| Docente (outros) — Universidade Estadual de Campinas — Diretoria Geral de Recurs | Universidade Estadual de Campinas — Diretoria Geral de Recursos Humanos |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-de-desistencia-de-22-de-setembro-de-2026-20260922134322462145657) |
+| Professor efetivo (concurso público) — Universidade Estadual de Campinas — Diret | Universidade Estadual de Campinas — Diretoria Geral de Recursos Humanos |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-de-convocacoes-de-23-de-setembro-de-2026-20260923134322462149311) |
+| Docente (outros) em física — Universidade Estadual de Campinas — Diretoria Geral | Universidade Estadual de Campinas — Diretoria Geral de Recursos Humanos | física |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-de-convocacoes-de-17-de-setembro-de-2026-20260917134322462134802) |
+| Professor efetivo (concurso público) em matemática — Universidade Estadual Pauli | Universidade Estadual Paulista — Campus de Ilha Solteira | matemática |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-247-2026-stgp-resultado-e-classificacao-final-2026091813444112742137592) |
+| Professor substituto em filosofia — Universidade Estadual Paulista — Faculdade d | Universidade Estadual Paulista — Faculdade de Ciências Humanas e Sociais | filosofia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-229-2026-stgp-cf-20260924134449162154044) |
+| EDITAL FEUSP 41/2026 - Livre Docente | Universidade de São Paulo — Faculdade de Educação | filosofia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-feusp-41-2026-livre-docente-2026092413422191662153483) |
+| 16/10/2026-14h30 Udesc Lages oferece 17 vagas para professores substitutos em di | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/udesc_lages_oferece_17_vagas_para_professores_substitutos_em_diferentes_areas_do_conhecimento) |
+| 16/10/2026-12h16 Prêmio da Udesc reconhece práticas de professores de artes da r | UDESC | artes |  | sem prazo identificado | [link](https://www.udesc.br/noticia/premio_da_udesc_reconhece_praticas_de_professores_de_artes_da_rede_publica) |
 | Professor efetivo (concurso público) em educação — Universidade Estadual de Camp | Universidade Estadual de Campinas — Secretaria Geral | educação |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-19-p-17231-2026-de-15-de-setembro-de-2026-20260915134322662125862) |
 | Professor substituto — Universidade Estadual Paulista — Campus de Rosana (EDITAL | Universidade Estadual Paulista — Campus de Rosana |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-32-2026-fec-stgp-lista-definitiva-dos-inscritos-2026091513444261662125828) |
 | Professor substituto em agrárias — Universidade Estadual Paulista — Faculdade de | Universidade Estadual Paulista — Faculdade de Ciências Agrárias do Vale do Ribeira | agrárias |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-070-2026-fcavr-dtad-stgp-resultado-e-classificacao-final-definitivo-20260915134442412742125735) |
@@ -4410,10 +4427,14 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (390)
+## Bolsas / pós-doc / agências (394)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa de TT-V em Bioprocessos | BCGene |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../uma-vacina-aprimorada-de-bcg-recombinante-contra-tuberculose-bovina./9944/) |
+| Bolsa de TT-V em Pesquisa Pré-Clínica de Vacinas | BCGene |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../uma-vacina-aprimorada-de-bcg-recombinante-contra-tuberculose-bovina./9945/) |
+| Bolsa de PD em Metabolismo Energético | Faculdade de Medicina de Ribeirão Preto - USP |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../neuroburn:-controle-da-termogenese-do-tecido-adiposo-marrom-e-balanco-energetico-por-neuropeptideos-sensoriais/9946/) |
+| Bolsa de TT-V em Bioinformatica | Laboratório de Coleções Zoológicas/Instituto Butantan |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../emu-infraestrutura-de-colecoes-biologicas:-aquisicao-de-plataforma-para-analise-e-disponibilizacao-de-dados-omicos-e-microtomograficos-dos-acervos-zoologicos-do-instituto-butantan/9943/) |
 | EXTRATO DE CONCESSÃO DE AUXÍLIO FINANCEIRO À PESQUISADORES | Diretoria de Programas e Bolsas no País |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/extrato-de-concessao-de-auxilio-financeiro-a-pesquisadores-738770016) |
 | Bolsa de TT-IV em Microbiologia | Laboratório Pathovet | biologia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../desenvolvimento-de-ferramentas-diagnosticas-preventivas-e-ambientais-para-o-controle-do-isknv-em-aquicultura./9942/) |
 | Bolsa de Doutorado em Fisiologia | Laboratório de Fisiologia da Escola de Enfermagem de Ribeirão Preto da Universidade de São Paulo |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../interacao-do-reflexo-anti-inflamatorio-e-o-metabolismo-energetico-na-sepse/9939/) |
