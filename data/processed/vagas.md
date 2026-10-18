@@ -2137,10 +2137,20 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (1204)
+## Públicas estaduais (1214)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Docente (outros) — Universidade de São Paulo — Faculdade de Medicina (EDITAL COR | Universidade de São Paulo — Faculdade de Medicina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-coreme-fm-n-02-2026-de-18-de-setembro-de-2026-20260917134222262134732) |
+| Professor efetivo (concurso público) — Universidade Estadual de Campinas — Secre | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-03-p-40679-2025-de-17-de-setembro-de-2026-20260917134322662133201) |
+| Professor efetivo (concurso público) em educação — Universidade Estadual Paulist | Universidade Estadual Paulista — Faculdade de Ciências Agrárias e Tecnológicas | educação |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-103-2026-dtad-fcat-divulgacao-das-notas-das-provas-de-titulos-didatica-e-de-analise-e-arguicao-concurso-n-02-2026-fcat-2026091713444711662136394) |
+| Professor efetivo (concurso público) — Universidade de São Paulo — Faculdade de  | Universidade de São Paulo — Faculdade de Medicina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-dvacad-fm-201-2026-2026091713422221662133423) |
+| Docente (outros) — Universidade Estadual de Campinas — Secretaria Geral (EDITAL  | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-38-p-32511-2026-de-17-de-setembro-de-2026-20260917134322662133937) |
+| Pesquisador — Universidade Estadual Paulista — Divisão de Administração (EDITAL  | Universidade Estadual Paulista — Divisão de Administração |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-136-2026-de-23-de-setembro-de-2026-20260923134431262148538) |
+| Professor substituto — Universidade Estadual Paulista — Faculdade de Medicina (E | Universidade Estadual Paulista — Faculdade de Medicina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-768-2026-cscgp-fm-lista-definitiva-de-inscritos-20260918134446362138267) |
+| Professor efetivo (concurso público) em medicina — Universidade Estadual Paulist | Universidade Estadual Paulista — Faculdade de Medicina | medicina |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-74-de-18-de-setembro-de-2026-20260918134446362138346) |
+| Professor efetivo (concurso público) — Universidade Estadual Paulista — Faculdad | Universidade Estadual Paulista — Faculdade de Medicina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-75-de-18-de-setembro-de-2026-20260918134446362139193) |
+| CONCURSO Nº 08.01, DE 2 DE OUTUBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0801-de-2-de-outubro-de-2026-202610021314172742178587) |
 | Docente (outros) — Universidade Estadual de Campinas — Secretaria Geral (EDITAL  | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-04-p-30417-2026-de-16-de-setembro-de-2026-20260916134322662130038) |
 | Professor substituto — Universidade Estadual Paulista — Faculdade de Ciências Hu | Universidade Estadual Paulista — Faculdade de Ciências Humanas e Sociais |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-224-2026-stgp-cf-20260916134449162130246) |
 | Professor substituto em letras/linguística — Universidade Estadual Paulista — Fa | Universidade Estadual Paulista — Faculdade de Ciências e Letras | letras/linguística |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-297-2026-stgp-fcl-car-lista-definitiva-dos-inscritos-2026091613444311662130990) |
@@ -3381,10 +3391,11 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (442)
+## Institutos públicos (443)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| CONCURSO Nº 08.01, DE 17 DE SETEMBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0801-de-17-de-setembro-de-2026-202609171314172742135871) |
 | Pesquisador — Fundação Biblioteca Nacional (AVISO DE CHAMAMENTO PÚBLICO) | Fundação Biblioteca Nacional |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/aviso-de-chamamento-publico-738745697) |
 | Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-n-0701-de-15-de-setembro-de-2026-2026091513141762128567) |
 | Docente (outros) — Secretaria de Ciência, Tecnologia e Inovação — Centro Estadua | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-1001-de-15-de-setembro-de-2026-2026091513141762127703) |
@@ -4826,10 +4837,11 @@
 | Bolsa de PD em Saúde Coletiva | Faculdade de Enfermagem, Universidade Estadual de Campinas (FEnf-Unicamp ) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../projeto-ubuntu:-os-4-rs-da-educacao-antirracista-para-equidade-em-saude/9598/) |
 | Bolsa de PD em Química, Instrumentação Analítica e Engenharia Mecânica/Eletrônic | Departamento de Química – Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, Universidade de São Paulo (FFCLRP-USP) | química |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../novas-ferramentas-analiticas-para-o-estudo-da-doenca-de-parkinson:-automacao-do-preparo-de-amostras-biologicas-dispositivos-3d-printed@mip-e-cromatografia-liquida-capilar-portatil/9600/) |
 
-## Verificar manualmente (104)
+## Verificar manualmente (105)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| CONCURSO Nº 03.01, DE 17 DE SETEMBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0301-de-17-de-setembro-de-2026-202609171314172742135933) |
 | DESPACHO DE 13 DE OUTUBRO DE 2026 | Fundação Universidade de Brasília |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/despacho-de-13-de-outubro-de-2026-738344259) |
 | Pesquisador — Coordenação-Geral de Gestão de Pessoas (PORTARIA Nº 1.084) | Coordenação-Geral de Gestão de Pessoas |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-1.084-de-15-de-outubro-de-2026-738638623) |
 | Professor efetivo (concurso público) em matemática — Fundação Universidade do Am | Fundação Universidade do Amazonas | matemática |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/portaria-n-2.731-de-14-de-outubro-de-2026-738583848) |
