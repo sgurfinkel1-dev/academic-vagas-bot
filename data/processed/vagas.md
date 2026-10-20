@@ -1,10 +1,11 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (2140)
+## Públicas federais (2141)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Concursos antigos – Professor Efetivo | UFV |  |  | sem prazo identificado | [link](https://soc.ufv.br/wp-content/uploads/Concursos-Efetivo.ods) |
 | Professor visitante — Reitoria (EDITAL Nº 133) | Reitoria |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/10/2026&jornal=530&pagina=45) |
 | Professor visitante — Campus Sabará (EDITAL Nº 6) | Campus Sabará |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/10/2026&jornal=530&pagina=37) |
 | Professor substituto em matemática — Universidade Federal do Norte do Tocantins  | Universidade Federal do Norte do Tocantins | matemática |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/10/2026&jornal=530&pagina=47) |
@@ -2146,10 +2147,15 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (1229)
+## Públicas estaduais (1234)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Pós-doutorado — Universidade Estadual Paulista — Faculdade de Ciências Agrárias  | Universidade Estadual Paulista — Faculdade de Ciências Agrárias e Veterinárias |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-de-abertura-das-inscricoes-202610191344413262213778) |
+| Pós-doutorado — Universidade Estadual Paulista — Faculdade de Medicina Veterinár | Universidade Estadual Paulista — Faculdade de Medicina Veterinária e Zootecnia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-793-2026-cscgp-fmvz-abertura-das-inscricoes-20261019134446462214214) |
+| 19/10/2026-17h42 Udesc Faed realiza eventos de formação docente em alfabetização | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/udesc_faed_realiza_eventos_de_formacao_docente_em_alfabetizacao_nesta_quinta__22) |
+| 19/10/2026-16h17 Prêmio nacional com nome de professor da Udesc Esag é criado po | UDESC | administração |  | sem prazo identificado | [link](https://www.udesc.br/noticia/premio_nacional_com_nome_de_professor_da_udesc_esag_e_criado_por_entidade_da_area_de_administracao) |
+| 16/10/2026-20h49 Udesc Cead lança audiovisual sobre primeira professora negra de | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/udesc_cead_lanca_audiovisual_sobre_primeira_professora_negra_de_laguna) |
 | Professor substituto — Universidade Estadual Paulista — Faculdade de Ciências e  | Universidade Estadual Paulista — Faculdade de Ciências e Letras de Assis |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-383-de-18-de-setembro-de-2026-20260918134444162138810) |
 | Professor efetivo (concurso público) — Universidade Estadual de Campinas — Secre | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-06-p-18605-2026-de-18-de-setembro-de-2026-20260918134322662139581) |
 | Professor substituto — Universidade Estadual Paulista — Faculdade de Engenharia  | Universidade Estadual Paulista — Faculdade de Engenharia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-252-2026-stgp-feb-resultado-da-analise-das-inscricoes-2026091813444521662137090) |
@@ -3415,10 +3421,11 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (449)
+## Institutos públicos (450)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| CONCURSO Nº 13.02, DE 19 DE OUTUBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-1302-de-19-de-outubro-de-2026-202610191314172742214750) |
 | Docente (outros) — Filial Hospital Universitário Prof. Alberto Antunes (AVISO DE | Filial Hospital Universitário Prof. Alberto Antunes |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/10/2026&jornal=530&pagina=53) |
 | CONCURSO Nº 09.01, DE 18 DE SETEMBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0901-de-18-de-setembro-de-2026-202609181314172742138641) |
 | CONCURSO Nº 03.01, DE 18 DE SETEMBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0301-de-18-de-setembro-de-2026-202609181314172742140101) |
@@ -4468,10 +4475,11 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (397)
+## Bolsas / pós-doc / agências (398)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsas de PD em Engenharia de Software / Sistemas Distribuídos / Inteligência Ar | Instituto de Ciências Exatas e Naturais. Universidade Federal do Pará (ICEN-UFPA) | Inteligência Artificial |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../ecosustain---ciencia-de-dados-e-computacao-para-o-meio-ambiente/9950/) |
 | Bolsa de TT-IV-A em Engenharia Biomédica / Neurociência Aplicada | Escola Paulista de Medicina, Universidade Federal de São Paulo (EPM-Unifesp) | engenharia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../avaliacao-quantitativa-neuromuscular-da-fadiga-e-sua-repercussao-no-desempenho-cirurgico-simulado-na-cirurgia-minimamente-invasiva/9952/) |
 | Bolsa de PD em Internet das Coisas | Centro de Matemática, Computação e Cognição, Universidade Federal do ABC (CMCC-UFABC) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../smart:-gerenciamento-sustentavel-da-agricultura-com-o-continuo-computacional-inteligente/9951/) |
 | Bolsa de TT-IV em Engenharia Química | Instituto de Pesquisas Tecnológicas do Estado de São Paulo (IPT) | química |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-ciencias-para-o-desenvolvimento-em-energias-renovaveis-e-combustiveis-do-futuro/9948/) |
