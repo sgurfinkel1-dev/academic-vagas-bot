@@ -1,10 +1,25 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (2141)
+## Públicas federais (2156)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor efetivo (concurso público) em engenharia — Universidade Federal da Bah | Universidade Federal da Bahia | engenharia |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=21/10/2026&jornal=530&pagina=110) |
+| Professor visitante — Seção de Gestão de Pessoas (EDITAL Nº 33) | Seção de Gestão de Pessoas |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=21/10/2026&jornal=530&pagina=102) |
+| Professor substituto — Universidade Federal de Pernambuco (edital) | Universidade Federal de Pernambuco |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=21/10/2026&jornal=530&pagina=114) |
+| Editais de 20 de outubro de 2026 | Pró-Reitoria de Gestão de Pessoas | psicologia |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=21/10/2026&jornal=530&pagina=130) |
+| Professor substituto — Instituto Federal de Educação, Ciência e Tecnologia de Sã | Instituto Federal de Educação, Ciência e Tecnologia de São Paulo |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=21/10/2026&jornal=530&pagina=104) |
+| Professor efetivo (concurso público) em medicina — Pró-Reitoria de Recursos Huma | Pró-Reitoria de Recursos Humanos | medicina |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=21/10/2026&jornal=530&pagina=128) |
+| Professor visitante — Campus Ouro Branco (EDITAL nº 1129/2026) | Campus Ouro Branco |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=21/10/2026&jornal=530&pagina=100) |
+| Professor substituto — Gabinete da Reitoria (EDITAL) | Gabinete da Reitoria |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=21/10/2026&jornal=530&pagina=113) |
+| Professor substituto — Diretoria do Campus de Guajará-Mirim (EDITAL Nº 2/2025/CG | Diretoria do Campus de Guajará-Mirim |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=21/10/2026&jornal=530&pagina=129) |
+| Professor efetivo (concurso público) — Universidade Federal de Jataí (EDITAL Nº  | Universidade Federal de Jataí |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=20/10/2026&jornal=530&pagina=40) |
+| Professor efetivo (concurso público) em direito — Universidade Federal do Paraná | Universidade Federal do Paraná | direito |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=20/10/2026&jornal=530&pagina=52) |
+| Docente (outros) — Filial Hospital Universitário Professor Edgard Santos (AVISO  | Filial Hospital Universitário Professor Edgard Santos |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=20/10/2026&jornal=530&pagina=59) |
+| Professor substituto — Instituto Federal de Educação, Ciência e Tecnologia do Ac | Instituto Federal de Educação, Ciência e Tecnologia do Acre |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=20/10/2026&jornal=530&pagina=29) |
+| Professor substituto — Campus Júlio de Castilhos (EDITAL Nº 140) | Campus Júlio de Castilhos |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=20/10/2026&jornal=530&pagina=32) |
+| Professor substituto — Pró-Reitoria de Gestão de Pessoas (EDITAL Nº 59) | Pró-Reitoria de Gestão de Pessoas |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=20/10/2026&jornal=530&pagina=38) |
 | Concursos antigos – Professor Efetivo | UFV |  |  | sem prazo identificado | [link](https://soc.ufv.br/wp-content/uploads/Concursos-Efetivo.ods) |
 | Professor visitante — Reitoria (EDITAL Nº 133) | Reitoria |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/10/2026&jornal=530&pagina=45) |
 | Professor visitante — Campus Sabará (EDITAL Nº 6) | Campus Sabará |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/10/2026&jornal=530&pagina=37) |
@@ -2147,10 +2162,16 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (1234)
+## Públicas estaduais (1240)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa — Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira ( | Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=21/10/2026&jornal=530&pagina=106) |
+| ABERTURA - CONCURSO Nº 47/2026 | Universidade Estadual Paulista — Faculdade de Medicina Veterinária |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/abertura-concurso-n-47-2026-2026102013444223672216832) |
+| Pós-doutorado — Universidade Estadual de Campinas — Secretaria Geral (EDITAL Nº  | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-29-p-32497-2026-de-20-de-outubro-de-2026-20261020134322762217412) |
+| EDITAL Nº 107/2026-DTAd/FCAT DE ABERTURA DEINSCRIÇÕES - CONSURSO Nº 04/2026-FCAT | Universidade Estadual Paulista — Faculdade de Ciências Agrárias e Tecnológicas |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-107-2026-dtad-fcat-de-abertura-deinscricoes-consurso-n-04-2026-fcat-professor-assistente-2026102013444713672219232) |
+| Processo Seletivo Simplificado para o cargo de Professor Colaborador na Universi | Universidade Estadual de Ponta Grossa (UEPG) | direito |  | sem prazo identificado | [link](https://dioe.pr.gov.br/ver/17372/29/docente) |
+| 20/10/2026-17h19 Professor da Udesc debate governo aberto em seminário na Espanh | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/professor_da_udesc_debate_governo_aberto_em_seminario_na_espanha) |
 | Pós-doutorado — Universidade Estadual Paulista — Faculdade de Ciências Agrárias  | Universidade Estadual Paulista — Faculdade de Ciências Agrárias e Veterinárias |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-de-abertura-das-inscricoes-202610191344413262213778) |
 | Pós-doutorado — Universidade Estadual Paulista — Faculdade de Medicina Veterinár | Universidade Estadual Paulista — Faculdade de Medicina Veterinária e Zootecnia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-793-2026-cscgp-fmvz-abertura-das-inscricoes-20261019134446462214214) |
 | 19/10/2026-17h42 Udesc Faed realiza eventos de formação docente em alfabetização | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/udesc_faed_realiza_eventos_de_formacao_docente_em_alfabetizacao_nesta_quinta__22) |
@@ -3421,10 +3442,13 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (450)
+## Institutos públicos (453)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor efetivo (concurso público) — Universidade da Integração Internacional  | Universidade da Integração Internacional da Lusofonia Afro-Brasileira |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=21/10/2026&jornal=530&pagina=119) |
+| Professor efetivo (concurso público) — Universidade da Integração Internacional  | Universidade da Integração Internacional da Lusofonia Afro-Brasileira |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=21/10/2026&jornal=530&pagina=120) |
+| Professor efetivo (concurso público) — Universidade Tecnológica Federal do Paran | Universidade Tecnológica Federal do Paraná |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=20/10/2026&jornal=530&pagina=56) |
 | CONCURSO Nº 13.02, DE 19 DE OUTUBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-1302-de-19-de-outubro-de-2026-202610191314172742214750) |
 | Docente (outros) — Filial Hospital Universitário Prof. Alberto Antunes (AVISO DE | Filial Hospital Universitário Prof. Alberto Antunes |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/10/2026&jornal=530&pagina=53) |
 | CONCURSO Nº 09.01, DE 18 DE SETEMBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0901-de-18-de-setembro-de-2026-202609181314172742138641) |
@@ -4475,10 +4499,11 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (398)
+## Bolsas / pós-doc / agências (399)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa de PD em Análise / Equações Diferenciais Parciais | Departamento de Matemática, Universidade Federal de São Carlos (DM-UFSCar) | matemática |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../atratores:-existencia-estrutura-e-continuidade/9954/) |
 | Bolsas de PD em Engenharia de Software / Sistemas Distribuídos / Inteligência Ar | Instituto de Ciências Exatas e Naturais. Universidade Federal do Pará (ICEN-UFPA) | Inteligência Artificial |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../ecosustain---ciencia-de-dados-e-computacao-para-o-meio-ambiente/9950/) |
 | Bolsa de TT-IV-A em Engenharia Biomédica / Neurociência Aplicada | Escola Paulista de Medicina, Universidade Federal de São Paulo (EPM-Unifesp) | engenharia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../avaliacao-quantitativa-neuromuscular-da-fadiga-e-sua-repercussao-no-desempenho-cirurgico-simulado-na-cirurgia-minimamente-invasiva/9952/) |
 | Bolsa de PD em Internet das Coisas | Centro de Matemática, Computação e Cognição, Universidade Federal do ABC (CMCC-UFABC) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../smart:-gerenciamento-sustentavel-da-agricultura-com-o-continuo-computacional-inteligente/9951/) |
