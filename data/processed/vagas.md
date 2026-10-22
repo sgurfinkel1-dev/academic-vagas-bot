@@ -2162,10 +2162,25 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (1240)
+## Públicas estaduais (1255)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| ABERTURA - CONCURSO Nº 335/2026 | Universidade Estadual Paulista — Instituto de Biociências, Letras e Ciências Exatas |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/abertura-concurso-n-335-2026-20260921134441913672142885) |
+| Professor substituto — Universidade Estadual Paulista — Faculdade de Ciências e  | Universidade Estadual Paulista — Faculdade de Ciências e Letras de Assis |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-387-de-21-de-setembro-de-2026-20260921134444162140644) |
+| Professor substituto em biologia — Universidade Estadual Paulista — Faculdade de | Universidade Estadual Paulista — Faculdade de Ciências e Letras de Assis | biologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-388-de-21-de-setembro-de-2026-20260921134444162140659) |
+| Professor substituto em agrárias — Universidade Estadual Paulista — Faculdade de | Universidade Estadual Paulista — Faculdade de Ciências Agrárias e Veterinárias | agrárias |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-384-2026-stgp-resultado-e-classificacao-final-202609211344413262140752) |
+| Professor efetivo (concurso público) — Universidade Estadual de Campinas — Secre | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-36-p-27940-2026-de-21-de-setembro-de-2026-20260921134322662140881) |
+| COMUNICADO - CONCURSO | Universidade de São Paulo — Escola de Artes, Ciências e Humanidades |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/comunicado-concurso-202609211342211662143025) |
+| ABERTURA - CONCURSO Nº 334/2026 | Universidade Estadual Paulista — Instituto de Biociências, Letras e Ciências Exatas |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/abertura-concurso-n-334-2026-20260921134441913672142700) |
+| Docente (outros) em biologia — Universidade de São Paulo — Instituto de Biociênc | Universidade de São Paulo — Instituto de Biociências | biologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-ib-dvacad-21-2026-20261001134223562174462) |
+| Professor efetivo (concurso público) em química — Universidade Estadual de Campi | Universidade Estadual de Campinas — Secretaria Geral | química |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-11-p-24356-2026-de-25-de-setembro-de-2026-20260925134322662156740) |
+| Docente (outros) — Universidade Estadual Paulista — Faculdade de Engenharia (EDI | Universidade Estadual Paulista — Faculdade de Engenharia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-261-2026-stgp-feb-abertura-de-inscricoes-2026100513444521662181389) |
+| Concurso Publico para provimento de cargos da carreira de Professor do quadro de | Universidade do Estado de Minas Gerais (UEMG) |  |  | sem prazo identificado | [link](https://www.jornalminasgerais.mg.gov.br/edicao-do-dia?dados=%7B%22dataPublicacaoSelecionada%22%3A%222026-10-22T00%3A00%3A00%22%2C%22idCadernoEdicaoSelecionado%22%3A331259%2C%22paginaSelecionada%22%3A30%2C%22textoPesquisa%22%3A%22professor%22%7D) |
+| CONCURSO PÚBLICO PARA PROFESSOR ASSISTENTE, DO DEPARTAMENTO DE CIÊNCIA MÉDICAS I | Universidade do Estado do Rio de Janeiro (UERJ) |  |  | sem prazo identificado | [link](https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjEwMjI=) |
+| 21/10/2026-15h13 Udesc Joinville abre 21 vagas para professores substitutos | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/udesc_joinville_abre_21_vagas_para_professores_substitutos) |
+| 21/10/2026-14h55 Udesc Cefid recebe visita de pesquisador para ações de fisioter | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/udesc_cefid_recebe_visita_de_pesquisador_para_acoes_de_fisioterapia_na_saude_materna) |
+| 21/10/2026-13h48 Professora da UNIRIO ministra oficina na Udesc Faed: “Nem toda  | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/professora_da_unirio_ministra_oficina_na_udesc_faed___nem_toda_palavra_e_aquilo_que_o_dicionario_diz) |
 | Bolsa — Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira ( | Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=21/10/2026&jornal=530&pagina=106) |
 | ABERTURA - CONCURSO Nº 47/2026 | Universidade Estadual Paulista — Faculdade de Medicina Veterinária |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/abertura-concurso-n-47-2026-2026102013444223672216832) |
 | Pós-doutorado — Universidade Estadual de Campinas — Secretaria Geral (EDITAL Nº  | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-29-p-32497-2026-de-20-de-outubro-de-2026-20261020134322762217412) |
@@ -3442,10 +3457,15 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (453)
+## Institutos públicos (458)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor efetivo (concurso público) — Secretaria de Ciência, Tecnologia e Inova | Secretaria de Ciência, Tecnologia e Inovação — Faculdade de Medicina de São José do Rio Preto |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-gdg-n-044-2026-divulgacao-do-deferimento-e-indeferimento-de-inscricoes-202609211314161662141801) |
+| Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-0501-de-21-de-setembro-de-2026-2026092113141762140747) |
+| Docente (outros) — Secretaria de Ciência, Tecnologia e Inovação — Centro Estadua | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-0101-de-8-de-outubro-de-2026-2026100813141762193979) |
+| Docente (outros) — Procuradoria-Geral do Estado — Departamento de Administração  | Procuradoria-Geral do Estado — Departamento de Administração |  |  | sem prazo identificado | [link](https://www.diariooficial.rs.gov.br/materia?id=1495738) |
+| Pós-doutorado Projeto “Talentos de Destaque em Matemática” Bolsa de Pós-Doutorad | IMPA | matemática |  | sem prazo identificado | [link](https://impa.br/vaga/projeto-talentos-de-destaque-em-matematica/) |
 | Professor efetivo (concurso público) — Universidade da Integração Internacional  | Universidade da Integração Internacional da Lusofonia Afro-Brasileira |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=21/10/2026&jornal=530&pagina=119) |
 | Professor efetivo (concurso público) — Universidade da Integração Internacional  | Universidade da Integração Internacional da Lusofonia Afro-Brasileira |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=21/10/2026&jornal=530&pagina=120) |
 | Professor efetivo (concurso público) — Universidade Tecnológica Federal do Paran | Universidade Tecnológica Federal do Paraná |  |  | sem prazo identificado | [link](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=20/10/2026&jornal=530&pagina=56) |
@@ -4499,10 +4519,15 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (399)
+## Bolsas / pós-doc / agências (404)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa de TT-III em Difusão Científica | Centro de Ciências Exatas e de Tecnologia, Universidade Federal de São Carlos (CCET-UFSCar) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../metodos-sinteticos-sustentaveis-empregando-catalise-solventes-verdes-reagentes-seguros-e-materiais-de-partida-renovaveis/9959/) |
+| Bolsa de PD em Gestão do Conhecimento | Faculdade de Economia, Administração e Contabilidade, Universidade de São Paulo (FEARP-USP) | administração |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-multidisciplinar-de-estrategia-pesquisa-e-inovacao-da-procuradoria-geral-do-estado-de-sao-paulo---cemepi-pge/9949/) |
+| Bolsa de Mestrado em Habitação Social / Gerontologia Ambiental / Políticas Públi | Pontifícia Universidade Católica de Campinas (PUC-Campinas) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../interacao-social-e-servicos-de-cuidado-como-requisitos-espaciais:-avaliacao-qualitativa-dos-programas-vida-longa-(brasil)-e-condominio-de-viviendas-tuteladas-(chile)/9956/) |
+| Bolsa de PD em Política Penal | Fórum Brasileiro de Segurança Pública |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../analise-da-metodologia-e-estimativa-de-custeio-do-plano-pena-justa-elaborado-em-resposta-decisao-do-stf-(adpf-347)-sobre-o-sistema-prisional-brasileiro/9960/) |
+| Bolsa de Mestrado em Dados de Descarbonização | Instituto de Pesquisas Tecnológicas do Estado de São Paulo (IPT) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-ciencia-para-o-desenvolvimento-–-ccd-cidades-carbono-neutro/9955/) |
 | Bolsa de PD em Análise / Equações Diferenciais Parciais | Departamento de Matemática, Universidade Federal de São Carlos (DM-UFSCar) | matemática |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../atratores:-existencia-estrutura-e-continuidade/9954/) |
 | Bolsas de PD em Engenharia de Software / Sistemas Distribuídos / Inteligência Ar | Instituto de Ciências Exatas e Naturais. Universidade Federal do Pará (ICEN-UFPA) | Inteligência Artificial |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../ecosustain---ciencia-de-dados-e-computacao-para-o-meio-ambiente/9950/) |
 | Bolsa de TT-IV-A em Engenharia Biomédica / Neurociência Aplicada | Escola Paulista de Medicina, Universidade Federal de São Paulo (EPM-Unifesp) | engenharia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../avaliacao-quantitativa-neuromuscular-da-fadiga-e-sua-repercussao-no-desempenho-cirurgico-simulado-na-cirurgia-minimamente-invasiva/9952/) |
