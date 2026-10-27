@@ -2166,10 +2166,20 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (1325)
+## Públicas estaduais (1335)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| ABERTURA - CONCURSO Nº 356/2026 | Universidade Estadual Paulista — Instituto de Biociências, Letras e Ciências Exatas |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/abertura-concurso-n-356-2026-20261026134441913672234074) |
+| Processo Seletivo Simplificado/2026-AEE, para docentes da Unioeste | Universidade Estadual do Oeste do Paraná (UNIOESTE) |  |  | sem prazo identificado | [link](https://dioe.pr.gov.br/ver/17353/25/medicina) |
+| Processo Seletivo Simplificado/2025, para docentes da Unioeste | Universidade Estadual do Oeste do Paraná (UNIOESTE) |  |  | sem prazo identificado | [link](https://dioe.pr.gov.br/ver/17353/26/enfermagem) |
+| 26/10/2026-18h37 Estudantes e professores já podem responder Avaliação Instituci | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/estudantes_e_professores_ja_podem_responder_avaliacao_institucional_da_udesc) |
+| 26/10/2026-17h45 Udesc Cefid fechará prazo para credenciar e recredenciar docent | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/udesc_cefid_fechara_prazo_para_credenciar_e_recredenciar_docentes_no_ppgft) |
+| 26/10/2026-15h48 Estudantes e professores da Udesc Joinville participam da Avali | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/estudantes_e_professores_da_udesc_joinville_participam_da_avaliacao_institucional_2026_2) |
+| 26/10/2026-15h01 Espetáculo de teatro de professor da Udesc realiza turnê na Chi | UDESC | artes |  | sem prazo identificado | [link](https://www.udesc.br/noticia/espetaculo_de_teatro_de_professor_da_udesc_realiza_turne_na_china) |
+| 26/10/2026-14h52 Professoras da Udesc são autoras de caderno da política naciona | UDESC | educação |  | sem prazo identificado | [link](https://www.udesc.br/noticia/professoras_da_udesc_sao_autoras_de_caderno_da_politica_nacional_de_educacao_inclusiva) |
+| 23/10/2026-11h30 Pesquisadoras da Udesc Cead participam de congresso internacion | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/pesquisadoras_da_udesc_cead_participam_de_congresso_internacional_na_bahia) |
+| Concurso público de Provas e Títulos para contratação de PROFESSOR SUBSTITUTO de | ver anúncio | filosofia |  | sem prazo identificado | [link](https://anpof.org.br/agenda/concursos-e-selecoes/concurso-publico-de-provas-e-titulos-para-contratacao-de-professor-substituto-de-filosofia-na-universidade-estadual-paulista-julio-de-mesquita-filho) |
 | Professor efetivo (concurso público) em artes — Universidade Estadual de Campina | Universidade Estadual de Campinas — Secretaria Geral | artes |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-17-p-18957-2026-de-25-de-setembro-de-2026-20260925134322662156355) |
 | Docente (outros) — Universidade Estadual Paulista — Instituto de Biociências (ED | Universidade Estadual Paulista — Instituto de Biociências |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-29-2026-de-25-de-setembro-de-2026-202609251344414162157675) |
 | Professor substituto — Universidade Estadual Paulista — Instituto de Ciência e T | Universidade Estadual Paulista — Instituto de Ciência e Tecnologia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-180-2026-ict-csjc-20260925134441811662155137) |
@@ -3531,10 +3541,11 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (479)
+## Institutos públicos (480)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-0501-de-26-de-outubro-de-2026-2026102613141762233884) |
 | Docente (outros) — Secretaria de Ciência, Tecnologia e Inovação — Faculdade de M | Secretaria de Ciência, Tecnologia e Inovação — Faculdade de Medicina de São José do Rio Preto |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-gdg-n-045-2026-retificacao-1-2026092513141662157132) |
 | CONCURSO Nº 13.01, DE 25 DE SETEMBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-1301-de-25-de-setembro-de-2026-202609251314172742157209) |
 | Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-0502-de-23-de-outubro-de-2026-2026102313141762230521) |
@@ -4614,10 +4625,13 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (409)
+## Bolsas / pós-doc / agências (412)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa de PD em Integração de Dados de Radar e de Sensoriamento Remoto | Faculdade de Ciências – UNESP, câmpus Bauru |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../cepex---centro-paulista-de-integracao-de-dados-para-monitoramento-de-eventos-extremos/9968/) |
+| Bolsa de PD em Desenvolvimento Rural | Escola Superior de Agricultura Luiz de Queiroz, Universidade de São Paulo (ESALQ-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../fomento-das-indicacoes-geograficas-para-desenvolvimento-sustentavel-no-campo:-indicacoes-geograficas-relacao-custo-beneficio-para-agroalimentos-e-difusao-da-pratica-como-forma-de-agregar-valor-aos-sistemas-agricolas-brasileiros/9969/) |
+| Bolsa de PD em Modelagem Matemática de Fenômenos Humanos | Instituto de Matemática, Estatística e Ciência da Computação, Universidade de São Paulo (IME-USP) | matemática |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-ciencia-para-o-desenvolvimento:-inteligencia-artificial-para-matematica-e-aprendizagem-inovadora-(ccd-iamai)/9966/) |
 | Bolsa de TT-III em Neurociências | Instituto de Psiquiatria, Hospital das Clínicas (IPq / HC-FMUSP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../alert-p-(active-language-screening-for-early-recognition-and-treatment-in-psychosis)-–-um-programa-baseado-em-inteligencia-artificial-para-deteccao-precoce-de-psicoses-e-doencas-mentais-graves/9965/) |
 | Bolsa de PD em Restauração de Imagens de Radar Meteorológico | Faculdade de Ciências – UNESP, câmpus Bauru |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../cepex-–-centro-paulista-de-integracao-de-dados-para-monitoramento-de-eventos-extremos/9967/) |
 | Bolsa de PD em Biologia Molecular | Escola Paulista de Medicina, Universidade Federal de São Paulo (EPM-Unifesp) | biologia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../vias-divergentes-e-convergentes-relacionadas-a-sinalizacao-de-mtor-no-cancer:-do-controle-do-metabolismo-celular-a-oportunidades-terapeuticas/9962/) |
