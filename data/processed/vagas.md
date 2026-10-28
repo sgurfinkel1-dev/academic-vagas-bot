@@ -2166,10 +2166,14 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (1335)
+## Públicas estaduais (1339)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Pós-doutorado — Universidade Estadual Paulista — Faculdade de Engenharia (EDITAL | Universidade Estadual Paulista — Faculdade de Engenharia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-323-de-27-de-outubro-de-2026-202610271344410162238687) |
+| Pós-doutorado — Universidade Estadual Paulista — Faculdade de Medicina (EDITAL N | Universidade Estadual Paulista — Faculdade de Medicina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-93-de-27-de-outubro-de-2026-20261027134446362237679) |
+| 28/10/2026-13h31 Professores pesquisadores da Udesc podem solicitar auxílios do  | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/professores_pesquisadores_da_udesc_podem_solicitar_auxilios_do_proeven_ate_terca) |
+| 26/10/2026-19h38 Docentes e técnicos da Udesc Cefid podem se inscrever para disp | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/docentes_e_tecnicos_da_udesc_cefid_podem_se_inscrever_para_disputar_jisudesc_2026) |
 | ABERTURA - CONCURSO Nº 356/2026 | Universidade Estadual Paulista — Instituto de Biociências, Letras e Ciências Exatas |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/abertura-concurso-n-356-2026-20261026134441913672234074) |
 | Processo Seletivo Simplificado/2026-AEE, para docentes da Unioeste | Universidade Estadual do Oeste do Paraná (UNIOESTE) |  |  | sem prazo identificado | [link](https://dioe.pr.gov.br/ver/17353/25/medicina) |
 | Processo Seletivo Simplificado/2025, para docentes da Unioeste | Universidade Estadual do Oeste do Paraná (UNIOESTE) |  |  | sem prazo identificado | [link](https://dioe.pr.gov.br/ver/17353/26/enfermagem) |
@@ -3541,10 +3545,12 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (480)
+## Institutos públicos (482)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| CONCURSO Nº 13.01, DE 27 DE OUTUBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-1301-de-27-de-outubro-de-2026-202610271314172742238150) |
+| CONCURSO Nº 13.02, DE 27 DE OUTUBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-1302-de-27-de-outubro-de-2026-202610271314172742238176) |
 | Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-0501-de-26-de-outubro-de-2026-2026102613141762233884) |
 | Docente (outros) — Secretaria de Ciência, Tecnologia e Inovação — Faculdade de M | Secretaria de Ciência, Tecnologia e Inovação — Faculdade de Medicina de São José do Rio Preto |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-gdg-n-045-2026-retificacao-1-2026092513141662157132) |
 | CONCURSO Nº 13.01, DE 25 DE SETEMBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-1301-de-25-de-setembro-de-2026-202609251314172742157209) |
@@ -4625,10 +4631,15 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (412)
+## Bolsas / pós-doc / agências (417)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa de PD em Psicologia Experimental | Instituto de Artes, Universidade Estadual Paulista (IA-Unesp) | psicologia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../saude-mental-de-adolescentes-e-jovens-estudantes-de-musica:-um-estudo-misto-no-guri-e-escola-de-musica-do-estado-de-sao-paulo-emesp---tom-jobim/9982/) |
+| Bolsa de PD em Resiliência Urbana a Inundações, Ciência de Dados e IA | Faculdade de Engenharia Elétrica e de Computação, Universidade Estadual de Campinas (FEEC-Unicamp) | computação |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-ciencia-para-o-desenvolvimento-(ccd)-–-cidades-resilientes-a-inundacoes/9974/) |
+| Bolsa de PD em Inteligência Artificial | Faculdade de Engenharia Mecânica, Universidade Estadual de Campinas (FEM-Unicamp) | Inteligência Artificial |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-inovacao-em-producao-de-energia-(epic)/9972/) |
+| Post-Doctoral Fellowship in Languages and Technology Instituition: Faculdade de  | ver oportunidade (FAPESP) | arquitetura/urbanismo |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../acervos-digitais-e-pesquisa:-arte-arquitetura-design-e-tecnologia/9977/) |
+| Post-Doctoral Fellowship in Geochemistry / Remote Sensing Instituition: Institut | ver oportunidade (FAPESP) | física |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../formacao-de-novas-particulas-e-sua-interacao-com-nuvens-e-precipitacao-na-amazonia/9976/) |
 | Bolsa de PD em Integração de Dados de Radar e de Sensoriamento Remoto | Faculdade de Ciências – UNESP, câmpus Bauru |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../cepex---centro-paulista-de-integracao-de-dados-para-monitoramento-de-eventos-extremos/9968/) |
 | Bolsa de PD em Desenvolvimento Rural | Escola Superior de Agricultura Luiz de Queiroz, Universidade de São Paulo (ESALQ-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../fomento-das-indicacoes-geograficas-para-desenvolvimento-sustentavel-no-campo:-indicacoes-geograficas-relacao-custo-beneficio-para-agroalimentos-e-difusao-da-pratica-como-forma-de-agregar-valor-aos-sistemas-agricolas-brasileiros/9969/) |
 | Bolsa de PD em Modelagem Matemática de Fenômenos Humanos | Instituto de Matemática, Estatística e Ciência da Computação, Universidade de São Paulo (IME-USP) | matemática |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../centro-de-ciencia-para-o-desenvolvimento:-inteligencia-artificial-para-matematica-e-aprendizagem-inovadora-(ccd-iamai)/9966/) |
