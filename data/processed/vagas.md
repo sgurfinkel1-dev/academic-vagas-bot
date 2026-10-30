@@ -2166,10 +2166,35 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (1357)
+## Públicas estaduais (1382)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Docente (outros) — Universidade Estadual Paulista — Faculdade de Engenharia (EDI | Universidade Estadual Paulista — Faculdade de Engenharia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-257-2026-stgp-feb-abertura-de-inscricoes-2026092913444521662163770) |
+| Docente (outros) em medicina — Universidade de São Paulo — Escola Superior de Ag | Universidade de São Paulo — Escola Superior de Agricultura Luiz de Queiroz | medicina |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-003-2026-analise-da-inscricao-e-indicacao-da-composicao-de-comissao-julgadora-2026092913422101662162862) |
+| Professor efetivo (concurso público) — Universidade Estadual de Campinas — Secre | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-03-p-22152-2026-de-29-de-setembro-de-2026-20260929134322662162888) |
+| Professor efetivo (concurso público) — Universidade Estadual de Campinas — Secre | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-03-p-22154-2026-de-29-de-setembro-de-2026-20260929134322662163369) |
+| Edital 004/2026 - Análise da inscrição de concurso para Professor Doutor | Universidade de São Paulo — Escola Superior de Agricultura Luiz de Queiroz | biologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-004-2026-analise-da-inscricao-de-concurso-para-professor-doutor-2026092913422101662162890) |
+| Professor efetivo (concurso público) — Universidade Estadual Paulista — Faculdad | Universidade Estadual Paulista — Faculdade de Ciências Farmacêuticas |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-95-2026-20260929134443262163894) |
+| COMUNICADO - CONCURSO Nº 25/2026 | Universidade Estadual Paulista — Faculdade de Medicina Veterinária |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/comunicado-concurso-n-25-2026-2026092913444221662163814) |
+| Professor efetivo (concurso público) em biologia — Universidade Estadual de Camp | Universidade Estadual de Campinas — Secretaria Geral | biologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-02-p-09871-2026-de-29-de-setembro-de-2026-20260929134322662163787) |
+| Professor efetivo (concurso público) — Universidade Estadual Paulista — Faculdad | Universidade Estadual Paulista — Faculdade de Ciências Farmacêuticas |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-94-2026-20260929134443262163624) |
+| Edital 002/2026 - Análise da inscrição de concurso para Professor Doutor | Universidade de São Paulo — Escola Superior de Agricultura Luiz de Queiroz |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-002-2026-analise-da-inscricao-de-concurso-para-professor-doutor-2026092913422101662162971) |
+| Docente (outros) em química — Universidade de São Paulo — Instituto de Química ( | Universidade de São Paulo — Instituto de Química | química |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-de-selecao-bioquimica-mestrado-doutorado-e-doutorado-direto-1-semestre-2027-20260929134224862163157) |
+| Professor efetivo (concurso público) — Universidade Estadual de Campinas — Secre | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-02-p-44568-2025-de-29-de-setembro-de-2026-20260929134322662163957) |
+| Professor substituto — Universidade Estadual Paulista — Faculdade de Ciências Hu | Universidade Estadual Paulista — Faculdade de Ciências Humanas e Sociais |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-231-2026-stgp-cf-20260929134449162163998) |
+| Professor efetivo (concurso público) — Universidade de São Paulo — Escola de Eng | Universidade de São Paulo — Escola de Engenharia de Lorena |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-atac-eel-usp-60-2026-2026092913422762164012) |
+| Docente (outros) — Universidade Estadual Paulista — Faculdade de Ciências Farmac | Universidade Estadual Paulista — Faculdade de Ciências Farmacêuticas |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-de-processo-seletivo-n-05-2026-cf-20260929134443262163982) |
+| Docente (outros) em letras/linguística — Universidade Estadual de Campinas — Sec | Universidade Estadual de Campinas — Secretaria Geral | letras/linguística |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-21-p-34491-2025-de-29-de-setembro-de-2026-20260929134322662163776) |
+| Docente (outros) em artes — Universidade Estadual Paulista — Instituto de Artes  | Universidade Estadual Paulista — Instituto de Artes | artes |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-150-2026-instituto-de-artes-202609291344420162165230) |
+| Docente (outros) em artes — Universidade Estadual Paulista — Instituto de Artes  | Universidade Estadual Paulista — Instituto de Artes | artes |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-151-2026-instituto-de-artes-202609291344420162165181) |
+| Bolsa — Universidade Estadual Paulista — Fundação Para o Desenvolvimento Médico- | Universidade Estadual Paulista — Fundação Para o Desenvolvimento Médico-hospitalar |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-196-2026-de-7-de-outubro-de-2026-202610071344662187463) |
+| COMUNICADO - CONCURSO | Universidade de São Paulo — Faculdade de Medicina de Ribeirão Preto |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/comunicado-concurso-2026101413422241662205355) |
+| Professor efetivo (concurso público) — Universidade de São Paulo — Instituto de  | Universidade de São Paulo — Instituto de Física |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-n-if-94-2026-de-24-de-setembro-de-2026-20260930134224162168574) |
+| Professor efetivo (concurso público) — Universidade de São Paulo — Instituto de  | Universidade de São Paulo — Instituto de Física |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-n-if-93-2026-de-24-de-setembro-de-2026-20260930134224162168562) |
+| Docente (outros) em matemática — Universidade Estadual Paulista — Campus de Ilha | Universidade Estadual Paulista — Campus de Ilha Solteira | matemática |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-252-2026-stgp-resultado-e-classificacao-prova-escrita-definitivo-2026100213444112742177537) |
+| Processo Seletivo Simplificado para Contratação Temporária de Docentes para o Ca | Universidade Estadual do Paraná (UNESPAR) |  |  | sem prazo identificado | [link](https://dioe.pr.gov.br/ver/17412/96/p%C3%B3s-doutorado) |
+| 28/10/2026-20h05 Pesquisadoras da Udesc Cead apresentam trabalhos em evento inte | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/pesquisadoras_da_udesc_cead_apresentam_trabalhos_em_evento_internacional) |
 | Professor substituto — Universidade Estadual Paulista — Faculdade de Filosofia e | Universidade Estadual Paulista — Faculdade de Filosofia e Ciências |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-219-de-28-de-setembro-de-2026-20260928134441512742159410) |
 | ABERTURA - CONCURSO Nº 158, DE 28 DE SETEMBRO DE 2026 | Universidade Estadual Paulista — Instituto de Química |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/abertura-concurso-n-158-de-28-de-setembro-de-2026-2026092813444343672159465) |
 | Docente (outros) — Universidade de São Paulo — Faculdade de Zootecnia e Engenhar | Universidade de São Paulo — Faculdade de Zootecnia e Engenharia de Alimentos |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-dvacad-fzea-22-2026-de-25-de-setembro-de-2026-20260928134223062159352) |
@@ -3563,10 +3588,14 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (486)
+## Institutos públicos (490)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| CONCURSO Nº 09.01, DE 29 DE SETEMBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0901-de-29-de-setembro-de-2026-202609291314172742164257) |
+| Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-n-0701-de-29-de-setembro-de-2026-2026092913141762164518) |
+| Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-1002-de-14-de-outubro-de-2026-2026101413141762204065) |
+| Docente (outros) — Procuradoria-Geral do Estado — Departamento de Administração  | Procuradoria-Geral do Estado — Departamento de Administração |  |  | sem prazo identificado | [link](https://www.diariooficial.rs.gov.br/materia?id=1500395) |
 | CONCURSO Nº 13.01, DE 28 DE SETEMBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-1301-de-28-de-setembro-de-2026-202609281314172742160489) |
 | Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-1501-de-28-de-setembro-de-2026-2026092813141762160919) |
 | CONCURSO Nº 08.01, DE 28 DE SETEMBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0801-de-28-de-setembro-de-2026-202609281314172742161009) |
@@ -4054,10 +4083,11 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (594)
+## Privadas (595)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| FGV EAESP abre seleção para bolsa de pós-doutorado em Liderança Empresarial e Mu | FGV EAESP |  |  | sem prazo identificado | [link](https://eaesp.fgv.br/noticias/fgv-eaesp-abre-selecao-para-bolsa-de-pos-doutorado-em-lideranca-empresarial-e-mudancas) |
 | Coordenador de Curso | Universidade Veiga de Almeida |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2839082/coordenador-de-curso) |
 | Confiabilidade da pesquisa científica: o que acontece quando diferentes pesquisa | FGV EAESP |  |  | sem prazo identificado | [link](https://eaesp.fgv.br/blog/administracao-de-empresas/confiabilidade-da-pesquisa-cientifica-o-que-acontece-quando) |
 | PROFESSOR AUXILIAR / Afya Centro Universitário de Pato Branco | Afya  |  | 31/10/2026 | aberta | [link](https://afya.gupy.io/job/eyJqb2JJZCI6MTI1NTY1MDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal) |
@@ -4653,10 +4683,12 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (471)
+## Bolsas / pós-doc / agências (473)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa de TT-IV em Citogenômica Animal | Departamento de Genética e Evolução, Universidade Federal de São Carlos (DGE-UFSCar) | biologia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../conectando-genomas-aos-cromossomos-preenchendo-a-lacuna-entre-dados-genomicos-e-citogeneticos/9985/) |
+| Bolsa de PD em Saúde Ambiental / Planejamento Urbano | Instituto de Energia e Ambiente, Universidade de São Paulo (IEE-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../nexos-urbanos-de-clima-e-saude-ampliando-a-resiliencia-e-a-equidade-na-saude-atraves-da-ciencia-cidada-da-modelacao-de-sistemas-dinamicos-e-da-inovacao-em-politicas/9970/) |
 | Post-Doctoral Fellowship in Energy Economics Instituition: Instituto de Energia  | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../economia-da-implantacao-de-beccs-no-setor-sucroenergetico-mercados-de-carbono-viabilidade-governanca-e-modelos-de-negocio/9925/) |
 | Bolsa de PD em Fisiologia da Conservação | Instituto de Biociências, Universidade de São Paulo (IB-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../impacto-das-mudancas-antropogenicas-na-fauna-contribuicoes-da-fisiologia-da-conservacao/9782/) |
 | Bolsa de TT-IV em Segurança Alimentar | Faculdade de Engenharia de Alimentos, Universidade Estadual de Campinas (FEA-Unicamp) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../acompanhamento-sistematizacao-e-analise-de-dados-da-implementacao-de-cozinhas-solidarias-no-municipio-de-campinas-sp/9892/) |
