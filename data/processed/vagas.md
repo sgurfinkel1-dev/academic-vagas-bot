@@ -2168,10 +2168,14 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (1425)
+## Públicas estaduais (1429)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| ABERTURA - CONCURSO Nº 229/2026, DE 29 DE OUTUBRO DE 2026 | Universidade Estadual Paulista — Faculdade de Filosofia e Ciências |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/abertura-concurso-n-229-2026-de-29-de-outubro-de-2026-20261029134441513672246043) |
+| ABERTURA - CONCURSO Nº 359/2026 | Universidade Estadual Paulista — Instituto de Biociências, Letras e Ciências Exatas | letras/linguística |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/abertura-concurso-n-359-2026-20261029134441913672246396) |
+| Processo Seletivo destinado à formação de cadastro de reserva de Professores Sub | Universidade do Estado do Rio de Janeiro (UERJ) | educação |  | sem prazo identificado | [link](https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjExMDM=) |
+| Sociedade Professora do CCS debate diversidade e equidade na saúde em evento do  | UEL |  |  | sem prazo identificado | [link](https://operobal.uel.br/sociedade/2026/11/03/professora-ccs-debate-diversidade-e-equidade-saude-evento-conselho-regional-de-nutricao/) |
 | Docente (outros) — Universidade de São Paulo — Faculdade de Medicina de Ribeirão | Universidade de São Paulo — Faculdade de Medicina de Ribeirão Preto |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-20261002134222462178341) |
 | Concurso de Professor Doutor no Departamento de Administração, Área: Produção e  | Universidade de São Paulo — Faculdade de Economia, Administração, Contabilidade e Atuária | administração |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/concurso-de-professor-doutor-no-departamento-de-administracao-area-producao-e-operacoes-edital-30-2026-20261002134221762177415) |
 | Professor efetivo (concurso público) — Universidade Estadual Paulista — Faculdad | Universidade Estadual Paulista — Faculdade de Ciências e Letras de Assis |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-391-de-2-de-outubro-de-2026-20261002134444162178178) |
@@ -3633,10 +3637,11 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (497)
+## Institutos públicos (498)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-0102-de-29-de-outubro-de-2026-2026102913141762248483) |
 | CONCURSO Nº 03.01, DE 2 DE OUTUBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0301-de-2-de-outubro-de-2026-202610021314172742178973) |
 | Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-n-0701-de-1-de-outubro-de-2026-2026100113141762173725) |
 | CONCURSO Nº 13.02, DE 1 DE OUTUBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-1302-de-1-de-outubro-de-2026-202610011314172742172722) |
@@ -4735,10 +4740,14 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (473)
+## Bolsas / pós-doc / agências (477)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa de Doutorado em Metabolismo e Sinalização Hormonal | Instituto de Ciências Biomédicas, Universidade de São Paulo (ICB-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../papel-do-estradiol-na-modulacao-metabolica-na-menopausa/9990/) |
+| Post-Doctoral Fellowship in Biochemistry Instituition: Centro de Ciências e Tecn | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../bioluminescencia-biodiversidade-origem-metabolica-estrutura-funcao-e-engenharia-de-luciferases-empregos-em-biossensores-bioensaios-e-bioindicacao-ambiental/9992/) |
+| Bolsa de PD em Oncologia / Obesidade / Sinalização Celular | Faculdade de Ciências Aplicadas, Universidade Estadual de Campinas (FCA-Unicamp) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../prejuizo-na-expressao-funcao-do-receptor-colinergico-nicotinico-alfa7-mecanismos-e-implicacoes-para-doencas-associadas-a-processos-inflamatorios/9986/) |
+| Bolsa de TT-IV-A em Sensoriamento Remoto e Aprendizado de Máquina | Manaíba.tech |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../plataforma-digital-de-monitoramento-e-inteligencia-agroflorestal/9988/) |
 | Bolsa de TT-IV em Citogenômica Animal | Departamento de Genética e Evolução, Universidade Federal de São Carlos (DGE-UFSCar) | biologia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../conectando-genomas-aos-cromossomos-preenchendo-a-lacuna-entre-dados-genomicos-e-citogeneticos/9985/) |
 | Bolsa de PD em Saúde Ambiental / Planejamento Urbano | Instituto de Energia e Ambiente, Universidade de São Paulo (IEE-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../nexos-urbanos-de-clima-e-saude-ampliando-a-resiliencia-e-a-equidade-na-saude-atraves-da-ciencia-cidada-da-modelacao-de-sistemas-dinamicos-e-da-inovacao-em-politicas/9970/) |
 | Post-Doctoral Fellowship in Energy Economics Instituition: Instituto de Energia  | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../economia-da-implantacao-de-beccs-no-setor-sucroenergetico-mercados-de-carbono-viabilidade-governanca-e-modelos-de-negocio/9925/) |
