@@ -1,10 +1,11 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (2162)
+## Públicas federais (2163)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| 03/11/2026-19h01 Palestra sobre lazer e bancas de doutorado da Udesc Cefid conta | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/palestra_sobre_lazer_e_bancas_de_doutorado_da_udesc_cefid_contam_com_docente_da_ufsj) |
 | Docente (outros) — Universidade Estadual de Campinas — Secretaria Geral (EDITAL  | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-09-p-16275-2020-de-16-de-outubro-de-2026-20261016134322762209678) |
 | Docente (outros) em enfermagem — Universidade de São Paulo — Escola de Enfermage | Universidade de São Paulo — Escola de Enfermagem | enfermagem |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-ee-n-059-2026-de-14-de-outubro-de-2026-2026101913422562214219) |
 | COMUNICADO - CONCURSO Nº IF 92/2026, DE 29 DE SETEMBRO DE 2026 | Universidade de São Paulo — Instituto de Física |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/comunicado-concurso-n-if-92-2026-de-29-de-setembro-de-2026-2026092913422411662164670) |
@@ -2168,10 +2169,15 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (1429)
+## Públicas estaduais (1434)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| EDITAL RCGI Nº 1/2026 – SELEÇÃO DE BOLSISTAS DE PÓS-DOUTORADO | Universidade de São Paulo — Centro de Estudos de Gases de Efeito Estufa |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-rcgi-n-1-2026-selecao-de-bolsistas-de-pos-doutorado-202611031342111062250889) |
+| Pós-doutorado — Universidade Estadual Paulista — Faculdade de Odontologia (EDITA | Universidade Estadual Paulista — Faculdade de Odontologia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-de-3-de-novembro-de-2026-20261103134443362252407) |
+| CONCURSO PÚBLICO PARA PROFESSOR ADJUNTO, DO DEPARTAMENTO DE FÍSICA TEÓRICA, ÁREA | Universidade do Estado do Rio de Janeiro (UERJ) | física |  | sem prazo identificado | [link](https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjExMDQ=) |
+| 03/11/2026-12h58 Professoras de Moda da Udesc coordenam atividades em congresso  | UDESC | engenharia |  | sem prazo identificado | [link](https://www.udesc.br/noticia/professoras_de_moda_da_udesc_coordenam_atividades_em_congresso_de_engenharia_de_producao) |
+| EDITAL Nº 009/2026 - PPGEDU - ELEIÇÃO PARA REPRESENTANTES DOCENTE, DISCENTE E TÉ | UNEMAT |  |  | sem prazo identificado | [link](https://unemat.br/editais/3-11-2026-edital-n-009-2026-ppgedu-eleicao-para-representantes-docente-discente-e-tecnico-para-o-conselho-do-programa) |
 | ABERTURA - CONCURSO Nº 229/2026, DE 29 DE OUTUBRO DE 2026 | Universidade Estadual Paulista — Faculdade de Filosofia e Ciências |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/abertura-concurso-n-229-2026-de-29-de-outubro-de-2026-20261029134441513672246043) |
 | ABERTURA - CONCURSO Nº 359/2026 | Universidade Estadual Paulista — Instituto de Biociências, Letras e Ciências Exatas | letras/linguística |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/abertura-concurso-n-359-2026-20261029134441913672246396) |
 | Processo Seletivo destinado à formação de cadastro de reserva de Professores Sub | Universidade do Estado do Rio de Janeiro (UERJ) | educação |  | sem prazo identificado | [link](https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjExMDM=) |
@@ -4740,10 +4746,13 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (477)
+## Bolsas / pós-doc / agências (480)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa de PD em Teorias de Yang-Mills / Integrabilidade / Simetrias Globais | Instituto de Física de São Carlos, Universidade de São Paulo (IFSC-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../teorias-de-gauge-e-integrabilidade/9989/) |
+| Post-Doctoral Fellowshp in Business Leadership and Climate Change Governance Ins | ver oportunidade (FAPESP) | administração |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../governanca-de-mudancas-ambientais-globais-fgvearth/9991/) |
+| Bolsa de PD em Pesquisa Operacional | Centro de Ciências Exatas e de Tecnologia, Universidade Federal de São Carlos (CCET-UFSCar) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../problemas-de-corte-empacotamento-dimensionamento-de-lotes-programacao-da-producao-roteamento-e-localizacao-e-suas-integracoes-em-contextos-industriais-e-logisticos/9993/) |
 | Bolsa de Doutorado em Metabolismo e Sinalização Hormonal | Instituto de Ciências Biomédicas, Universidade de São Paulo (ICB-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../papel-do-estradiol-na-modulacao-metabolica-na-menopausa/9990/) |
 | Post-Doctoral Fellowship in Biochemistry Instituition: Centro de Ciências e Tecn | ver oportunidade (FAPESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../bioluminescencia-biodiversidade-origem-metabolica-estrutura-funcao-e-engenharia-de-luciferases-empregos-em-biossensores-bioensaios-e-bioindicacao-ambiental/9992/) |
 | Bolsa de PD em Oncologia / Obesidade / Sinalização Celular | Faculdade de Ciências Aplicadas, Universidade Estadual de Campinas (FCA-Unicamp) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../prejuizo-na-expressao-funcao-do-receptor-colinergico-nicotinico-alfa7-mecanismos-e-implicacoes-para-doencas-associadas-a-processos-inflamatorios/9986/) |
