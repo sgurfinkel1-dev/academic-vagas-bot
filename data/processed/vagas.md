@@ -2172,10 +2172,13 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (1561)
+## Públicas estaduais (1564)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| abertura de Processo Seletivo Simplificado, objetivando a contratação de 6 (seis | Universidade Estadual de Ponta Grossa (UEPG) |  |  | sem prazo identificado | [link](https://dioe.pr.gov.br/ver/17438/37/professor) |
+| Concurso Público para o cargo de Professor Assistente, nomeado pela Portaria SGP | Universidade do Estado do Rio de Janeiro (UERJ) |  |  | sem prazo identificado | [link](https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjExMTA=) |
+| EDITAL Nº 006/2026 - PET SAÚDE I&SD - SAÚDE CONECTADA - SELETIVO PARA BOLSISTA D | UNEMAT | medicina |  | sem prazo identificado | [link](https://unemat.br/editais/9-11-2026-edital-n-006-2026-pet-saude-i-sd-saude-conectada-seletivo-para-bolsista-docente-medicina-e-enfermagem) |
 | Professor colaborador — Universidade Estadual Paulista — Faculdade de Engenharia | Universidade Estadual Paulista — Faculdade de Engenharia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-90-2026-sjbv-fe-stgp-deferimento-indeferimento-de-inscricoes-20261009134442712742195748) |
 | Docente (outros) — Universidade de São Paulo — Instituto de Estudos Brasileiros  | Universidade de São Paulo — Instituto de Estudos Brasileiros |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-ieb-n-09-de-9-de-outubro-de-2026-20261009134224062197748) |
 | COMUNICADO - CONCURSO | Universidade Estadual Paulista — Faculdade de Engenharia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/comunicado-concurso-20261009134441111662195913) |
@@ -3773,10 +3776,13 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (528)
+## Institutos públicos (531)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| CONCURSO Nº 03.02, DE 9 DE NOVEMBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0302-de-9-de-novembro-de-2026-202611091314172742268393) |
+| CONCURSO Nº 03.01, DE 9 DE NOVEMBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0301-de-9-de-novembro-de-2026-202611091314172742268383) |
+| Docente (outros) — Procuradoria-Geral do Estado — Departamento de Administração  | Procuradoria-Geral do Estado — Departamento de Administração |  |  | sem prazo identificado | [link](https://www.diariooficial.rs.gov.br/materia?id=1503375) |
 | CONCURSO Nº 03.01, DE 9 DE OUTUBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0301-de-9-de-outubro-de-2026-202610091314172742197680) |
 | CONCURSO, DE 9 DE OUTUBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-de-9-de-outubro-de-2026-202610091314172742196893) |
 | Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-0101-de-9-de-outubro-de-2026-2026100913141762196497) |
@@ -4907,10 +4913,14 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (501)
+## Bolsas / pós-doc / agências (505)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa de TT-V em Nutrição Clínica, Imunologia, Bioquímica e Metabolismo | Faculdade de Ciências Aplicadas, Universidade Estadual de Campinas (FCA-Unicamp) | química |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../impacto-metabolico-da-gordura-interesterificada-estudo-translacional-em-modelos-experimentais-e-humanos/10021/) |
+| Bolsas de PD em Risco Climático e Finanças Empíricas | Escola de Administração de Empresas de São Paulo, Fundação Getulio Vargas (FGV EAESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../modelagem-e-previsao-econometrica-em-modelos-de-alta-dimensao/10019/) |
+| Bolsa de PD em Arquiteturas para Interoperabilidade e Integração de Dados | Instituto de Ciências Matemáticas e de Computação, Universidade de São Paulo (ICMC-USP) | arquitetura/urbanismo |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../integrasanca-conectando-dados-transformando-sao-carlos/9854/) |
+| Bolsa de Iniciação Científica em Matemática Aplicada / Ciência dos Materiais | Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais (CNPEM) | matemática |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../sistemas-fuzzy-fundamentos-metodos-e-aplicacoes-sob-incerteza/10018/) |
 | Bolsa de PD em Biofísica | Faculdade de Medicina, Universidade de São Paulo (FM-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../renal-heat-map---researching-environmental-nephrotoxicity-attributed-to-long-term-heat-mechanisms-associations-and-prevention/10010/) |
 | Bolsa de PD em Inovação e Empreendedorismo | Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas, Universidade Federal do ABC (CECS-UFABC) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../programa-de-reconversao-industrial-pri-abc-formulacao-implementacao-e-avaliacao-de-politicas-industriais-e-de-ct-i-para-o-grande-abc/10016/) |
 | Bolsa de TT-IV em Caracterização e Análise Química | Centro de Energia Nuclear na Agricultura, Universidade de São Paulo (CENA-USP) | química |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../bioenergy-and-beyond-bio-bey-estabelecendo-a-ressonancia-magnetica-nuclear-por-varredura-rapida-de-campo-ffc-nmr-para-a-transicao-energetica-do-brasil/10011/) |
