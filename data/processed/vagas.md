@@ -3776,10 +3776,11 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (531)
+## Institutos públicos (532)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| CONCURSO Nº 03.02, DE 10 DE NOVEMBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0302-de-10-de-novembro-de-2026-202611101314172742271975) |
 | CONCURSO Nº 03.02, DE 9 DE NOVEMBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0302-de-9-de-novembro-de-2026-202611091314172742268393) |
 | CONCURSO Nº 03.01, DE 9 DE NOVEMBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0301-de-9-de-novembro-de-2026-202611091314172742268383) |
 | Docente (outros) — Procuradoria-Geral do Estado — Departamento de Administração  | Procuradoria-Geral do Estado — Departamento de Administração |  |  | sem prazo identificado | [link](https://www.diariooficial.rs.gov.br/materia?id=1503375) |
@@ -4913,10 +4914,18 @@
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/ecaf547ff241653f43a22362d540f1219dfa47af.pdf) |
 | docente — DO de Itapeva | Itapeva |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3522406/2026-06-30/85523622ddd96103af46e00f453640485d575ec8.pdf) |
 
-## Bolsas / pós-doc / agências (505)
+## Bolsas / pós-doc / agências (513)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Bolsa de TT-II em Oncologia / Pesquisa Clínica | Instituto do Câncer do Estado de São Paulo (ICESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../aspectos-diagnosticos-e-prognosticos-da-funcao-renal-em-pacientes-com-cancer/10026/) |
+| Bolsa de TT-V em Medicina Veterinária/Regenerativa, Biomateriais | 3D Biotechnology Solutions – Engenharia de Tecidos | Medicina |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../kit-comercial-de-membrana-eletrofiada-associada-ao-lisado-plaquetario-como-estrategia-de-engenharia-tecidual-para-aplicacao-em-medicina-regenerativa-veterinaria/10032/) |
+| Bolsa de Mestrado em Desenvolvimento de Processos | Escola Superior de Agricultura Luiz de Queiroz, Universidade de São Paulo (ESALQ-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../estrategias-inovadoras-de-biorrefinaria-para-plantas-alimenticias-nao-convencionais/10030/) |
+| Bolsa de Doutorado em Desenvolvimento de Processos | Escola Superior de Agricultura Luiz de Queiroz, Universidade de São Paulo (ESALQ-USP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../estrategias-inovadoras-de-biorrefinaria-para-plantas-alimenticias-nao-convencionais/10031/) |
+| Post-Doctoral Fellowship in Astroparticle Physics Instituition: Instituto de Fís | ver oportunidade (FAPESP) | física |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../astrofisica-de-particulas-nos-extremos-apex--investigando-as-menores-e-as-maiores-escalas-da-natureza-com-mensageiros-cosmicos/10028/) |
+| Bolsa de PD em Ecologia de Savanas | Instituto de Biociências (IB) – UNESP, Campus de Rio Claro | biologia |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../fogo-como-ferramenta-de-manejo-e-restauracao-no-cerrado-no-antropoceno/10020/) |
+| Bolsa de PD em Distribuições Matriciais | Departamento de Estatística, Universidade Federal de São Carlos (DEs-UFSCar) | matemática |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../regressao-de-mistura-de-escalas-de-normais-matriz-variadas-para-dados-espaco-temporais/10024/) |
+| Bolsa de Mestrado em Espectroscopia Raman | Instituto de Geociências e Ciências Exatas – UNESP, Câmpus de Rio Claro |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../biofotonica-analise-dos-efeitos-de-agrotoxicos-em-sistemas-biologicos-via-microespectroscopia-raman/10029/) |
 | Bolsa de TT-V em Nutrição Clínica, Imunologia, Bioquímica e Metabolismo | Faculdade de Ciências Aplicadas, Universidade Estadual de Campinas (FCA-Unicamp) | química |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../impacto-metabolico-da-gordura-interesterificada-estudo-translacional-em-modelos-experimentais-e-humanos/10021/) |
 | Bolsas de PD em Risco Climático e Finanças Empíricas | Escola de Administração de Empresas de São Paulo, Fundação Getulio Vargas (FGV EAESP) |  |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../modelagem-e-previsao-econometrica-em-modelos-de-alta-dimensao/10019/) |
 | Bolsa de PD em Arquiteturas para Interoperabilidade e Integração de Dados | Instituto de Ciências Matemáticas e de Computação, Universidade de São Paulo (ICMC-USP) | arquitetura/urbanismo |  | sem prazo identificado | [link](https://fapesp.br/oportunidades/Control/../integrasanca-conectando-dados-transformando-sao-carlos/9854/) |
