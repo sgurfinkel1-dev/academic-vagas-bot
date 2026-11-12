@@ -2172,10 +2172,14 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (1564)
+## Públicas estaduais (1568)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Pós-doutorado — Universidade Estadual Paulista — Instituto de Biociências (EDITA | Universidade Estadual Paulista — Instituto de Biociências |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-818-2026-cscgp-ibb-abertura-de-inscricoes-20261111134446562275492) |
+| Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-0101-de-11-de-novembro-de-2026-2026111113141762274530) |
+| Processo Seletivo destinado à formação de cadastro de reserva de Professores Sub | Universidade do Estado do Rio de Janeiro (UERJ) |  |  | sem prazo identificado | [link](https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjExMTI=) |
+| 11/11/2026-19h04 Udesc Faed realiza encontro sobre infância e formação docente e | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/udesc_faed_realiza_encontro_sobre_infancia_e_formacao_docente_em_portugal) |
 | abertura de Processo Seletivo Simplificado, objetivando a contratação de 6 (seis | Universidade Estadual de Ponta Grossa (UEPG) |  |  | sem prazo identificado | [link](https://dioe.pr.gov.br/ver/17438/37/professor) |
 | Concurso Público para o cargo de Professor Assistente, nomeado pela Portaria SGP | Universidade do Estado do Rio de Janeiro (UERJ) |  |  | sem prazo identificado | [link](https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjExMTA=) |
 | EDITAL Nº 006/2026 - PET SAÚDE I&SD - SAÚDE CONECTADA - SELETIVO PARA BOLSISTA D | UNEMAT | medicina |  | sem prazo identificado | [link](https://unemat.br/editais/9-11-2026-edital-n-006-2026-pet-saude-i-sd-saude-conectada-seletivo-para-bolsista-docente-medicina-e-enfermagem) |
@@ -4313,10 +4317,11 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (596)
+## Privadas (597)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor Amon Narciso de Barros é nomeado co-Editor-Chefe da Management Learnin | FGV EAESP |  |  | sem prazo identificado | [link](https://eaesp.fgv.br/noticias/professor-amon-narciso-de-barros-e-nomeado-co-editor-chefe-da-management-learning-journal) |
 | Chamada Nacional e Internacional para Bolsas de Pós-Doutorado - FGVquantfin | FGV EAESP |  |  | sem prazo identificado | [link](https://eaesp.fgv.br/noticias/chamada-nacional-e-internacional-para-bolsas-de-pos-doutorado-fgvquantfin) |
 | FGV EAESP abre seleção para bolsa de pós-doutorado em Liderança Empresarial e Mu | FGV EAESP |  |  | sem prazo identificado | [link](https://eaesp.fgv.br/noticias/fgv-eaesp-abre-selecao-para-bolsa-de-pos-doutorado-em-lideranca-empresarial-e-mudancas) |
 | Coordenador de Curso | Universidade Veiga de Almeida |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2839082/coordenador-de-curso) |
