@@ -2173,10 +2173,14 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (1682)
+## Públicas estaduais (1686)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Pós-doutorado — Universidade Estadual de Campinas — Secretaria Geral (EDITAL Nº  | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-02-p-36653-2026-de-16-de-novembro-de-2026-20261116134322762284585) |
+| Pós-doutorado — Universidade Estadual de Campinas — Secretaria Geral (EDITAL Nº  | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-11-p-39257-2026-de-16-de-novembro-de-2026-20261116134322762284628) |
+| Concurso Público, símbolo CC-09, código 992, durante o período de 14/09/2026 a 0 | Universidade do Estado do Rio de Janeiro (UERJ) |  |  | sem prazo identificado | [link](https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjExMTc=) |
+| 16/11/2026-15h02 Simpósio internacional de educação aborda livro feito por profe | UDESC | educação |  | sem prazo identificado | [link](https://www.udesc.br/noticia/simposio_internacional_de_educacao_aborda_livro_feito_por_professor_da_udesc) |
 | Professor efetivo (concurso público) em educação — Universidade Estadual de Camp | Universidade Estadual de Campinas — Secretaria Geral | educação |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-19-p-14356-2026-de-16-de-outubro-de-2026-20261016134322762209621) |
 | Professor efetivo (concurso público) — Universidade Estadual de Campinas — Secre | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-17-p-13172-2026-de-16-de-outubro-de-2026-20261016134322762209731) |
 | Professor efetivo (concurso público) — Universidade Estadual Paulista — Faculdad | Universidade Estadual Paulista — Faculdade de Ciências e Letras de Assis |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-399-de-16-de-outubro-de-2026-20261016134444162209988) |
@@ -4450,10 +4454,11 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (598)
+## Privadas (599)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor (a) de Artes - Banco de Talentos - RJ | SESC RJ | artes |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2843513/professor-a-de-artes-banco-de-talentos-rj) |
 | Professor da FGV EAESP coordena painel sobre IA e governança empresarial em Lisb | FGV EAESP |  |  | sem prazo identificado | [link](https://eaesp.fgv.br/noticias/professor-da-fgv-eaesp-coordena-painel-sobre-ia-e-governanca-empresarial-em-lisboa) |
 | Professor Amon Narciso de Barros é nomeado co-Editor-Chefe da Management Learnin | FGV EAESP |  |  | sem prazo identificado | [link](https://eaesp.fgv.br/noticias/professor-amon-narciso-de-barros-e-nomeado-co-editor-chefe-da-management-learning-journal) |
 | Chamada Nacional e Internacional para Bolsas de Pós-Doutorado - FGVquantfin | FGV EAESP |  |  | sem prazo identificado | [link](https://eaesp.fgv.br/noticias/chamada-nacional-e-internacional-para-bolsas-de-pos-doutorado-fgvquantfin) |
