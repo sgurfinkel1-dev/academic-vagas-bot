@@ -2173,10 +2173,11 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (1686)
+## Públicas estaduais (1687)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| CONCURSO PÚBLICO PARA PROFESSOR, DO DEPARTAMENTO DE NUTRIÇÃO BÁSICA E EXPERIMENT | Universidade do Estado do Rio de Janeiro (UERJ) |  |  | sem prazo identificado | [link](https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjExMTg=) |
 | Pós-doutorado — Universidade Estadual de Campinas — Secretaria Geral (EDITAL Nº  | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-02-p-36653-2026-de-16-de-novembro-de-2026-20261116134322762284585) |
 | Pós-doutorado — Universidade Estadual de Campinas — Secretaria Geral (EDITAL Nº  | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-11-p-39257-2026-de-16-de-novembro-de-2026-20261116134322762284628) |
 | Concurso Público, símbolo CC-09, código 992, durante o período de 14/09/2026 a 0 | Universidade do Estado do Rio de Janeiro (UERJ) |  |  | sem prazo identificado | [link](https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjExMTc=) |
@@ -3899,10 +3900,11 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (550)
+## Institutos públicos (551)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| CONCURSO PÚBLICO N° 01/2025 EDITAL N° 108 /2026 - CUMPRIMENTO DE DECISÃO LIMINAR | Secretaria da Educação — Seção de Procedimentos Estatutários | educação |  | sem prazo identificado | [link](https://www.diariooficial.rs.gov.br/materia?id=1504754) |
 | Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-0501-de-16-de-outubro-de-2026-2026101613141762211366) |
 | CONCURSO Nº 08.01, DE 16 DE OUTUBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0801-de-16-de-outubro-de-2026-202610161314172742211904) |
 | Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-n-0701-de-16-de-outubro-de-2026-2026101613141762212225) |
@@ -4454,10 +4456,13 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (599)
+## Privadas (602)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor de Graduação - Desenvolvimento Back-End | Senac RJ |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2843689/professor-de-graduacao-desenvolvimento-back-end) |
+| Professor de Graduação - Desenvolvimento Front-End | Senac RJ |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2843687/professor-de-graduacao-desenvolvimento-front-end) |
+| Professor de Graduação – Gestão, Governança e Segurança de TI | Senac RJ | administração |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2843691/professor-de-graduacao-gestao-governanca-e-seguranca-de-ti) |
 | Professor (a) de Artes - Banco de Talentos - RJ | SESC RJ | artes |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2843513/professor-a-de-artes-banco-de-talentos-rj) |
 | Professor da FGV EAESP coordena painel sobre IA e governança empresarial em Lisb | FGV EAESP |  |  | sem prazo identificado | [link](https://eaesp.fgv.br/noticias/professor-da-fgv-eaesp-coordena-painel-sobre-ia-e-governanca-empresarial-em-lisboa) |
 | Professor Amon Narciso de Barros é nomeado co-Editor-Chefe da Management Learnin | FGV EAESP |  |  | sem prazo identificado | [link](https://eaesp.fgv.br/noticias/professor-amon-narciso-de-barros-e-nomeado-co-editor-chefe-da-management-learning-journal) |
