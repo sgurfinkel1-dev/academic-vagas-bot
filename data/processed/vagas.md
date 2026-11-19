@@ -1,10 +1,13 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (2167)
+## Públicas federais (2170)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Docente (outros) — Universidade de São Paulo — Instituto de Geociências (EDITAL  | Universidade de São Paulo — Instituto de Geociências |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-igc-usp-atac-n-20-2026-de-19-de-outubro-de-2026-20261019134224362215058) |
+| COMUNICADO - CONCURSO  - EDITAL FMVZ Nº 34/2026 | Universidade de São Paulo — Faculdade de Medicina Veterinária e Zootecnia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/comunicado-concurso-edital-fmvz-n-34-2026-2026102713422251662238565) |
+| Processo Seletivo para Professor Substituto – Edital nº 160/2026/DDP | UFSC |  |  | sem prazo identificado | [link](https://concursos.ufsc.br/2026/11/16/processo-seletivo-para-professor-substituto-edital-no-1602026ddp/) |
 | Planilha Concursos Públicos – Professor Efetivo | UFV |  |  | sem prazo identificado | [link](https://soc.ufv.br/wp-content/uploads/Concursos-Professor-Efetivo-1.ods) |
 | Docente (outros) em sociologia/antropologia — Universidade de São Paulo — Faculd | Universidade de São Paulo — Faculdade de Saúde Pública | sociologia/antropologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-fsp-dvacad-34-2026-aprovacao-de-inscricao-e-indicacao-de-comissao-julgadora-20261022134222962227189) |
 | COMUNICADO – CONCURSO - EDITAL EERP/DVACAD Nº 046/2026 | Universidade de São Paulo — Escola de Enfermagem de Ribeirão Preto | psicologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/comunicado-concurso-edital-eerp-dvacad-n-046-2026-202610201342261662219617) |
@@ -2173,10 +2176,28 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (1687)
+## Públicas estaduais (1705)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| COMUNICADO - CONCURSO | Universidade Estadual Paulista — Instituto de Geociências e Ciências Exatas |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/comunicado-concurso-20261019134441721662213556) |
+| Docente (outros) — Universidade de São Paulo — Faculdade de Medicina (EDITAL  PA | Universidade de São Paulo — Faculdade de Medicina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-pae-32-2026-de-20-de-outubro-de-2026-20261019134222262215704) |
+| COMUNICADO Nº 202-2026 - ref. CONCURSO Nº 111-2026 | Universidade de São Paulo — Escola Politécnica | engenharia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/comunicado-n-202-2026-ref-concurso-n-111-2026-202610191342291662213720) |
+| Docente (outros) — Universidade de São Paulo — Escola de Engenharia de São Carlo | Universidade de São Paulo — Escola de Engenharia de São Carlos |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/retificacao-do-edital-n-013-eesc-stt-de-8-de-setembro-de-2026-2026101913422862214306) |
+| Professor efetivo (concurso público) em letras/linguística — Universidade Estadu | Universidade Estadual Paulista — Faculdade de Ciências e Letras de Assis | letras/linguística |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-401-de-19-de-outubro-de-2026-20261019134444162215123) |
+| Docente (outros) — Universidade de São Paulo — Faculdade de Medicina de Ribeirão | Universidade de São Paulo — Faculdade de Medicina de Ribeirão Preto |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-n-11-20261019134222462215049) |
+| Docente (outros) em química — Universidade de São Paulo — Instituto de Química ( | Universidade de São Paulo — Instituto de Química | química |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-do-processo-seletivo-de-ingresso-no-programa-mestrado-profissional-tecnologia-em-quimica-e-bioquimica-1-semestre-de-2027-20261019134224862213366) |
+| Docente (outros) — Universidade Estadual Paulista — Campus de Ilha Solteira (EDI | Universidade Estadual Paulista — Campus de Ilha Solteira |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-258-2026-stgp-abertura-de-inscricoes-2026101913444112742215434) |
+| Pesquisador — Universidade Estadual de Campinas — Secretaria Geral (EDITAL Nº 01 | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-01-p-49502-2025-de-26-de-outubro-de-2026-20261026134322762234806) |
+| Pesquisador — Universidade Estadual de Campinas — Secretaria Geral (EDITAL Nº 01 | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-01-p-24824-2025-de-27-de-outubro-de-2026-20261027134322762236713) |
+| Pesquisador — Universidade Estadual de Campinas — Secretaria Geral (EDITAL Nº 22 | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-22-p-22057-2024-de-27-de-outubro-de-2026-20261027134322762236614) |
+| COMUNICADO - CONCURSO - EDITAL FMVZ Nº 33/2026 | Universidade de São Paulo — Faculdade de Medicina Veterinária e Zootecnia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/comunicado-concurso-edital-fmvz-n-33-2026-2026102713422251662238651) |
+| Edital FSP DVACAD 35/2026 - ABERTURA DE INSCRIÇÕES AO CONCURSO PÚBLICO DE TÍTULO | Universidade de São Paulo — Faculdade de Saúde Pública |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-fsp-dvacad-35-2026-abertura-de-inscricoes-ao-concurso-publico-de-titulos-e-provas-visando-o-provimento-de-01-um-cargo-de-professor-titular-no-departamento-de-saude-ambiental-2026111813422293672295770) |
+| Docente (outros) — Universidade de São Paulo — Faculdade de Medicina (EDITAL DVA | Universidade de São Paulo — Faculdade de Medicina |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-dvacad-fm-218-2026-2026102813422222442242032) |
+| Docente (outros) em matemática — Universidade Estadual Paulista — Campus de Ilha | Universidade Estadual Paulista — Campus de Ilha Solteira | matemática |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-12-2026-dta-20261029134441162248146) |
+| CONCURSO PÚBLICO PARA PROFESSOR, DO DEPARTAMENTO DE CIÊNCIAS MÉDICAS INTEGRADASD | Universidade do Estado do Rio de Janeiro (UERJ) |  |  | sem prazo identificado | [link](https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjExMTk=) |
+| 19/11/2026-14h09 Fórum Catarinense de Gestão de Recursos Hídricos reúne pesquisa | UDESC | administração |  | sem prazo identificado | [link](https://www.udesc.br/noticia/forum_catarinense_de_gestao_de_recursos_hidricos_reune_pesquisadores_na_udesc_alto_vale) |
+| 18/11/2026-17h59 Professora do PPGInfo, da Udesc Faed, visa convênio com Univers | UDESC |  |  | sem prazo identificado | [link](https://www.udesc.br/noticia/professora_do_ppginfo__da_udesc_faed__visa_convenio_com_universidade_do_peru_apos_missao_academica) |
 | CONCURSO PÚBLICO PARA PROFESSOR, DO DEPARTAMENTO DE NUTRIÇÃO BÁSICA E EXPERIMENT | Universidade do Estado do Rio de Janeiro (UERJ) |  |  | sem prazo identificado | [link](https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjExMTg=) |
 | Pós-doutorado — Universidade Estadual de Campinas — Secretaria Geral (EDITAL Nº  | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-02-p-36653-2026-de-16-de-novembro-de-2026-20261116134322762284585) |
 | Pós-doutorado — Universidade Estadual de Campinas — Secretaria Geral (EDITAL Nº  | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-11-p-39257-2026-de-16-de-novembro-de-2026-20261116134322762284628) |
@@ -3900,10 +3921,14 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (551)
+## Institutos públicos (555)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-0501-de-19-de-outubro-de-2026-2026101913141762214986) |
+| CONCURSO Nº 13.01, DE 19 DE OUTUBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-1301-de-19-de-outubro-de-2026-202610191314172742214724) |
+| Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-n-0701-de-19-de-outubro-de-2026-2026101913141762215463) |
+| Docente (outros) — Secretaria de Ciência, Tecnologia e Inovação — Centro Estadua | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-0501-de-5-de-novembro-de-2026-2026110513141762259263) |
 | CONCURSO PÚBLICO N° 01/2025 EDITAL N° 108 /2026 - CUMPRIMENTO DE DECISÃO LIMINAR | Secretaria da Educação — Seção de Procedimentos Estatutários | educação |  | sem prazo identificado | [link](https://www.diariooficial.rs.gov.br/materia?id=1504754) |
 | Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-0501-de-16-de-outubro-de-2026-2026101613141762211366) |
 | CONCURSO Nº 08.01, DE 16 DE OUTUBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-0801-de-16-de-outubro-de-2026-202610161314172742211904) |
@@ -4456,10 +4481,11 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (602)
+## Privadas (603)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Pesquisadora e pesquisadores do FGVcemif apresentam trabalhos no ICIS 2026 em Li | FGV EAESP |  |  | sem prazo identificado | [link](https://eaesp.fgv.br/noticias/pesquisadora-e-pesquisadores-do-fgvcemif-apresentam-trabalhos-no-icis-2026-em-lisboa) |
 | Professor de Graduação - Desenvolvimento Back-End | Senac RJ |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2843689/professor-de-graduacao-desenvolvimento-back-end) |
 | Professor de Graduação - Desenvolvimento Front-End | Senac RJ |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2843687/professor-de-graduacao-desenvolvimento-front-end) |
 | Professor de Graduação – Gestão, Governança e Segurança de TI | Senac RJ | administração |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2843691/professor-de-graduacao-gestao-governanca-e-seguranca-de-ti) |
