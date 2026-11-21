@@ -1,10 +1,11 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (2170)
+## Públicas federais (2171)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| COMUNICADO - CONCURSO Nº IF 105/2026, DE 29 DE OUTUBRO DE 2026 | Universidade de São Paulo — Instituto de Física |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/comunicado-concurso-n-if-105-2026-de-29-de-outubro-de-2026-2026102913422411662247149) |
 | Docente (outros) — Universidade de São Paulo — Instituto de Geociências (EDITAL  | Universidade de São Paulo — Instituto de Geociências |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-igc-usp-atac-n-20-2026-de-19-de-outubro-de-2026-20261019134224362215058) |
 | COMUNICADO - CONCURSO  - EDITAL FMVZ Nº 34/2026 | Universidade de São Paulo — Faculdade de Medicina Veterinária e Zootecnia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/comunicado-concurso-edital-fmvz-n-34-2026-2026102713422251662238565) |
 | Processo Seletivo para Professor Substituto – Edital nº 160/2026/DDP | UFSC |  |  | sem prazo identificado | [link](https://concursos.ufsc.br/2026/11/16/processo-seletivo-para-professor-substituto-edital-no-1602026ddp/) |
@@ -2176,10 +2177,25 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (1725)
+## Públicas estaduais (1740)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor efetivo (concurso público) em química — Universidade Estadual de Campi | Universidade Estadual de Campinas — Secretaria Geral | química |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-18-p-06578-2026-de-21-de-outubro-de-2026-20261021134322762220666) |
+| Professor substituto em educação — Universidade Estadual Paulista — Faculdade de | Universidade Estadual Paulista — Faculdade de Ciências Humanas e Sociais | educação |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-247-2026-stgp-resultado-e-classificacao-final-20261021134449162223233) |
+| Professor substituto — Universidade Estadual Paulista — Faculdade de Ciências e  | Universidade Estadual Paulista — Faculdade de Ciências e Letras |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-305-2026-stgp-fcl-car-2026102113444311662222792) |
+| Docente (outros) — Universidade Estadual Paulista — Faculdade de Ciências e Letr | Universidade Estadual Paulista — Faculdade de Ciências e Letras |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-015-2026-dta-fcl-car-20261021134443162223188) |
+| Professor efetivo (concurso público) — Universidade Estadual de Campinas — Secre | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-04-p-00364-2026-de-21-de-outubro-de-2026-20261021134322762220768) |
+| Docente (outros) — Universidade Estadual Paulista — Fundação Para o Desenvolvime | Universidade Estadual Paulista — Fundação Para o Desenvolvimento Médico-hospitalar |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-de-21-de-outubro-de-2026-202610211344662222728) |
+| Docente (outros) em enfermagem — Universidade Estadual de Campinas — Secretaria  | Universidade Estadual de Campinas — Secretaria Geral | enfermagem |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-38-p-30559-2026-de-21-de-outubro-de-2026-20261021134322762220717) |
+| Pesquisador — Universidade Estadual de Campinas — Secretaria Geral (EDITAL Nº 01 | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-01-p-46624-2025-de-29-de-outubro-de-2026-20261029134322762245376) |
+| Pesquisador — Universidade Estadual Paulista — Divisão Técnica Administrativa (E | Universidade Estadual Paulista — Divisão Técnica Administrativa |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-147-2026-stgp-dtad-analise-das-inscricoes-202611031344421162251489) |
+| Docente (outros) em medicina — Universidade Estadual de Campinas — Secretaria Ge | Universidade Estadual de Campinas — Secretaria Geral | medicina |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-02-p-26575-2026-de-22-de-outubro-de-2026-20261022134322762226983) |
+| EDITAL Nº 504/2026, DE 3 DE NOVEMBRO DE 2026 - CONCURSO PARA PROFESSOR SUBSTITUT | Universidade Estadual Paulista — Faculdade de Ciências | psicologia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-504-2026-de-3-de-novembro-de-2026-concurso-para-professor-substituto-para-ano-letivo-de-2027-para-o-departamento-de-psicologia-da-faculdade-de-ciencias-de-bauru-20261103134445362249376) |
+| Docente (outros) em engenharia — Universidade Estadual de Campinas — Secretaria  | Universidade Estadual de Campinas — Secretaria Geral | engenharia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-18-p-34965-2026-de-28-de-outubro-de-2026-20261028134322762241039) |
+| EDITAL Nº 491/2026, DE 28 DE OUTUBRO DE 2026 - CONCURSO PARA PROFESSOR SUBSTITUT | Universidade Estadual Paulista — Faculdade de Ciências | química |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-491-2026-de-28-de-outubro-de-2026-concurso-para-professor-substituto-para-o-1-semestre-de-2027-para-o-departamento-de-quimica-da-faculdade-de-ciencias-de-bauru-20261028134445362241860) |
+| EDITAL Nº 492/2026, DE 28 DE OUTUBRO DE 2026 - CONCURSO PARA PROFESSOR SUBSTITUT | Universidade Estadual Paulista — Faculdade de Ciências | química |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-492-2026-de-28-de-outubro-de-2026-concurso-para-professor-substituto-para-o-1-semestre-de-2027-para-o-departamento-de-quimica-da-faculdade-de-ciencias-de-bauru-20261028134445362241885) |
+| Professor substituto — Universidade Estadual Paulista — Faculdade de Ciências (E | Universidade Estadual Paulista — Faculdade de Ciências |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-502-2026-de-27-de-outubro-de-2026-20261027134445362236501) |
 | Professor substituto — Universidade Estadual Paulista — Faculdade de Engenharia  | Universidade Estadual Paulista — Faculdade de Engenharia |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-91-2026-sjbv-fe-stgp-resultado-e-classificacao-preliminar-20261020134442712742218635) |
 | Professor substituto em educação — Universidade Estadual Paulista — Faculdade de | Universidade Estadual Paulista — Faculdade de Ciências Humanas e Sociais | educação |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-245-2026-stgp-resultado-e-classificacao-final-20261020134449162219194) |
 | Professor efetivo (concurso público) em letras/linguística — Universidade Estadu | Universidade Estadual de Campinas — Secretaria Geral | letras/linguística |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-21-p-16505-2026-de-20-de-outubro-de-2026-20261020134322762217286) |
@@ -3941,10 +3957,12 @@
 | docente — DO de Águas de São Pedro | Águas de São Pedro |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3500600/2026-06-26/beecb8ea9b527c2c597ae4b487bd68b830652a16.pdf) |
 | pós-doutorado — DO de Vinhedo | Vinhedo |  |  | sem prazo identificado | [link](https://data.queridodiario.ok.org.br/3556701/2026-06-24/ebda647755e334245c8692767cb619767ab4983b.pdf) |
 
-## Institutos públicos (556)
+## Institutos públicos (558)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-1501-de-21-de-outubro-de-2026-2026102113141762223121) |
+| Docente (outros) — Secretaria de Ciência, Tecnologia e Inovação — Centro Estadua | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-0501-de-9-de-novembro-de-2026-2026110913141762266926) |
 | CONCURSO Nº 13.01, DE 20 DE OUTUBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-1301-de-20-de-outubro-de-2026-202610201314172742218188) |
 | Professor substituto — Secretaria de Ciência, Tecnologia e Inovação — Centro Est | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/edital-diversos-n-0501-de-19-de-outubro-de-2026-2026101913141762214986) |
 | CONCURSO Nº 13.01, DE 19 DE OUTUBRO DE 2026 | Secretaria de Ciência, Tecnologia e Inovação — Centro Estadual de Educação Tecnológica Paula Souza |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/secretaria-de-ciencia-tecnologia-e-inovacao/concurso-n-1301-de-19-de-outubro-de-2026-202610191314172742214724) |
