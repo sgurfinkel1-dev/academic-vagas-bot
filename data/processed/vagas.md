@@ -1,10 +1,14 @@
 # Vagas acadêmicas encontradas
 
 
-## Públicas federais (2172)
+## Públicas federais (2176)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor Assistente | UFMG |  |  | sem prazo identificado | [link](https://www.ufmg.br/concursos/Concursos/Professor-Assistente/index.html) |
+| Professor Substituto/Visitante | UFMG |  |  | sem prazo identificado | [link](https://www.ufmg.br/concursos/Concursos/Professor-Substituto-Visitante/index.html) |
+| Professor Temporário | UFMG |  |  | sem prazo identificado | [link](https://www.ufmg.br/concursos/Concursos/Professor-Temporario/index.html) |
+| Professor Ensino Básico, Técnico e Tecnológico | UFMG |  |  | sem prazo identificado | [link](https://www.ufmg.br/concursos/Concursos/Professor-Ensino-Basico-Tecnico-e-Tecnologico/index.html) |
 | Planilha Concursos Públicos – Professor Efetivo | UFV |  |  | sem prazo identificado | [link](https://soc.ufv.br/wp-content/uploads/Concursos-Professor-Efetivo-2.ods) |
 | COMUNICADO - CONCURSO Nº IF 105/2026, DE 29 DE OUTUBRO DE 2026 | Universidade de São Paulo — Instituto de Física |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/comunicado-concurso-n-if-105-2026-de-29-de-outubro-de-2026-2026102913422411662247149) |
 | Docente (outros) — Universidade de São Paulo — Instituto de Geociências (EDITAL  | Universidade de São Paulo — Instituto de Geociências |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/edital-igc-usp-atac-n-20-2026-de-19-de-outubro-de-2026-20261019134224362215058) |
@@ -2178,10 +2182,14 @@
 | Remoção de Servidores Docentes | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1485) |
 | Retribuição por Titulação Docente | UFRGS |  |  | sem prazo identificado | [link](https://www.ufrgs.br/progesp/?page_id=1035) |
 
-## Públicas estaduais (1809)
+## Públicas estaduais (1813)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Pós-doutorado — Universidade Estadual Paulista — Instituto de Biociências (EDITA | Universidade Estadual Paulista — Instituto de Biociências |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-paulista/edital-n-839-2026-cscgp-ibb-abertura-de-inscricoes-20261124134446562305756) |
+| Pós-doutorado — Universidade Estadual de Campinas — Secretaria Geral (EDITAL Nº  | Universidade Estadual de Campinas — Secretaria Geral |  |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-estadual-de-campinas/edital-n-10-p-39824-2026-de-24-de-novembro-de-2026-20261124134322762304964) |
+| CONCURSO PÚBLICO PARA PROFESSOR ASSISTENTE, DO DEPARTAMENTO DE CIÊNCIAS MÉDICAS  | Universidade do Estado do Rio de Janeiro (UERJ) |  |  | sem prazo identificado | [link](https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjExMjU=) |
+| Ensino Curso de Letras Português comemora 70 anos com homenagem a professor e no | UEL | letras/linguística |  | sem prazo identificado | [link](https://operobal.uel.br/ensino/2026/11/25/curso-letras-portugues-comemora-70-anos-homenagem-professor-nova-logomarca/) |
 | INSCRITOS NO EDITAL DE SELEÇÃO DE BOLSISTAS DE PÓS-DOUTORADO - EDITAL RCGI Nº 1/ | Universidade de São Paulo — Centro de Estudos de Gases de Efeito Estufa | engenharia |  | sem prazo identificado | [link](https://doe.sp.gov.br/executivo/universidade-de-sao-paulo/inscritos-no-edital-de-selecao-de-bolsistas-de-pos-doutorado-edital-rcgi-n-1-2026-202611231342111062303148) |
 | CONCURSO PÚBLICO PARA PROFESSOR ASSISTENTE, DO DEPARTAMENTO DE PEDIATRIA ÁREA DE | Universidade do Estado do Rio de Janeiro (UERJ) |  |  | sem prazo identificado | [link](https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjExMjQ=) |
 | Oportunidade de pós-doutorado / Projeto REACH-Nexus (FSP-USP e FGV EAESP) | FGV EAESP |  |  | sem prazo identificado | [link](https://eaesp.fgv.br/noticias/oportunidade-de-pos-doutorado-projeto-reach-nexus-fsp-usp-e-fgv-eaesp) |
@@ -4593,10 +4601,11 @@
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 12/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-12/2026-712962900) |
 | Pós-doutorado — Instituto Nacional da Propriedade Industrial (EDITAL Nº 11/2026) | Instituto Nacional da Propriedade Industrial |  |  | sem prazo identificado | [link](https://www.in.gov.br/web/dou/-/edital-n-11/2026-712893562) |
 
-## Privadas (604)
+## Privadas (605)
 
 | Vaga | Instituição | Área | Prazo | Status | Link |
 |---|---|---|---|---|---|
+| Professor da FGV EAESP é o pesquisador nº 1 do Brasil no ranking Rising Stars of | FGV EAESP |  |  | sem prazo identificado | [link](https://eaesp.fgv.br/noticias/professor-da-fgv-eaesp-e-o-pesquisador-no-1-do-brasil-no-ranking-rising-stars-science-2026) |
 | Professor Rudi Rocha recebe o Prêmio Haralambos Simeonidis 2026 | FGV EAESP |  |  | sem prazo identificado | [link](https://eaesp.fgv.br/blog/noticias-internas/professor-rudi-rocha-recebe-o-premio-haralambos-simeonidis-2026) |
 | Pesquisadora e pesquisadores do FGVcemif apresentam trabalhos no ICIS 2026 em Li | FGV EAESP |  |  | sem prazo identificado | [link](https://eaesp.fgv.br/noticias/pesquisadora-e-pesquisadores-do-fgvcemif-apresentam-trabalhos-no-icis-2026-em-lisboa) |
 | Professor de Graduação - Desenvolvimento Back-End | Senac RJ |  |  | sem prazo identificado | [link](https://www.vagas.com.br/vagas/v2843689/professor-de-graduacao-desenvolvimento-back-end) |
